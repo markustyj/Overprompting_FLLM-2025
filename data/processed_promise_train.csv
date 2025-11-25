@@ -1,0 +1,368 @@
+text,class,b_class
+'Product shall allow entering storing and modifying product menus used by POS terminals.',Functional,Functional
+'A primary database will be used to store cached data for active users.',Operational,Non-functional
+'The system shall retain the available recycled parts and suppliers returned from the search.',Functional,Functional
+'The product shall be available for use 24 hours per day 365 days per year',Availability,Non-functional
+'The streaming server will have anti-virus software to prevent infection of malicious viruses.',Security,Non-functional
+'The system will provide a 24 hour 800 toll free number for support to its customers.',Availability,Non-functional
+'Izogn Administrator must be able to update the category listings on the website within 2 minutes.',Performance,Non-functional
+'The product shall be used in office environments.',Operational,Non-functional
+'The product shall provide Dynamic Change Support and Transparent resource addition.The product shall support Transparent Resource addition and Dynamic Change support to provide scalability and avoid service interruptions of more than 1 day.',Performance,Non-functional
+'The product shall protect the identity of the players. The product shall provide players no access to information that might reveal the identity of another player.',Performance,Non-functional
+'The website shall make its user aware of its information practices before collection data from them via a Privacy Policy accessible on all pages of the website.',Security,Non-functional
+'The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.',Performance,Non-functional
+'The system shall allow a Program Administrator or Nursing staff member to remove a student from a clinical lab section.',Functional,Functional
+'Product formulas shall allow use of semi-products which have own formulas.',Functional,Functional
+'A non-clinical class shall specify the course name lecture room requirements and instructor needs.',Functional,Functional
+'The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.',Functional,Functional
+'The system shall allow a real estate agent to query MLS information',Functional,Functional
+'The product shall record updated meeting agendas.',Functional,Functional
+'The product shall be supported using the corporate support center.',Operational,Non-functional
+'The system shall color code events according to their variance from current time.',Functional,Functional
+'The product shall ensure that only company employees or external users with company-approved user IDs may have product access. 100% of all logons shall be by either company employees or external users with company-approved user IDs.',Security,Non-functional
+'The audit report shall include the percentage of available recycled parts used in the estimate ',Functional,Functional
+'The product shall be able to display calendar dates and times according to the user’s locale. 90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.',Usability,Non-functional
+'The Commissioner will be the only authorized user per league to adjust league settings.',Security,Non-functional
+'A list of all disputes cases that meet the entered search criteria must be provided to the user. The list of cases must differentiate the type and/or status of the case by color -coding the line item in the list. For example all open cases will be yellow and all closed cases will be gray.',Functional,Functional
+'Vendor will submit a credit validation record to be applied to the enterprise billing system.',Functional,Functional
+The product shall be internet browser independent.The product must run using Internet Explorer and Netscape Navigator.',Maintainability,Non-functional
+'The product shall allow the user to select a chosen language from one of the target market countries.',Usability,Non-functional
+'Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students’ personal information.',Security,Non-functional
+'The Disputes System will provide the user the ability to create or initiate a ticket retrieval request. As part of ticket retrieval creation process the system must prompt the user to enter all the required information to create the ticket retrieval request. The ticket retrieval request is a document that is sent to merchant inquiring the validity of a transaction.',Functional,Functional
+'Movies can only be streamed if the customer has purchased a movie and is within the 2-day time period to stream the movie.',Functional,Functional
+'The product will allow priviledged users to view meeting schedules in multiple reporting views.',Functional,Functional
+'The product shall store new conference rooms.',Functional,Functional
+'The product shall ensure that it can only be accessed by authorized users. The product will be able to distinguish between authorized and unauthorized users in all access attempts',Security,Non-functional
+'The product shall allow the user to view previously downloaded search results CMA reports and appointments.',Fault Tolerance,Non-functional
+'Every registered user will have access to the product’s support site via the Internet. 70% of registered users shall find a solution to their problem within 5 minutes of using the support site.',Usability,Non-functional
+'The website shall be capable of supporting 100 000 customers.',Scalability,Non-functional
+'All credit card information will be secured on the server and only accessible by authorized Izogn administrators. Information will be encrypted in the database.',Security,Non-functional
+'The bottom 3/4 of the table will hold events that occur according to its relevance to current time.',Functional,Functional
+'The product shall be able to support multiple remote users',Scalability,Non-functional
+'Users shall be able to view at least 25 NFL player statistics and points on each page.',Usability,Non-functional
+'The product shall prevent a player from viewing the offensive or defensive grids of the other player.',Functional,Functional
+'The product shall be available during normal business hours. As long as the user has access to the client PC the system will be available 99% of the time during the first six months of operation.',Availability,Non-functional
+'The product shall record all the equipment that has been reserved.',Functional,Functional
+'Daily usage statistics should be logged and accessible by the administrator.',Functional,Functional
+'New System version releases shall be released at the beginning of each NFL season.',Maintainability,Non-functional
+'Only registered customers can purchase streaming movies.',Functional,Functional
+'The product shall have the ability to send meeting reminders to employees.',Functional,Functional
+'Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.',Security,Non-functional
+'The system shall provide charts for the Activity or Event actual versus assumed time.',Functional,Functional
+'shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.',Functional,Functional
+'The ratings shall be from a scale of 1-10',Functional,Functional
+'The product shall be capable of handling the existing 1000 users. This number is expected to grow 5 times within the next year.',Scalability,Non-functional
+'The product shall free of computer viruses.',Security,Non-functional
+'The search results shall be returned no later 30 seconds after the user has entered the search criteria',Performance,Non-functional
+'The Disputes application shall interface with the Statement Database. The Statement Database provides the transaction details to the Disputes System. All transaction details must be obtained from the Statement Database',Operational,Non-functional
+'The adjuster shall enter the preferred repair facility on the estimate assignment.',Functional,Functional
+'Each page shall contain a navigation menu which shows the index into which the current page is contained.',Look and Feel,Non-functional
+'The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.',Functional,Functional
+'For each shot the product shall notify the players whether the shot was a hit or miss.',Functional,Functional
+'PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.',Functional,Functional
+'For any systematic (non-user initiated) action that occurs on a case such as the disputes aging process a case activity will be generated. Upon the next logon the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case.',Functional,Functional
+'For each shot the product shall mark the shot as a hit or miss on the offensive grid of the offensive player.',Functional,Functional
+'The product shall record different meeting types.',Functional,Functional
+'Users shall be able to reach the ‘add’ ‘drop’ and ‘trade player’ pages with one click from the team owner’s page.',Usability,Non-functional
+'If the shot was marked as a miss the product shall change the status of the offensive player to defensive',Functional,Functional
+'The product shall allow the user to save the property search results.',Functional,Functional
+'The product shall record the transportation status of equipment reserved.',Functional,Functional
+'If a user account is revoked it can only be re-instantiated by the System Administrator.',Security,Non-functional
+'The product shall display conference rooms according to search parameters.',Functional,Functional
+'The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.',Security,Non-functional
+'The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data. The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.',Fault Tolerance,Non-functional
+'The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system. A detailed history of the actions taken on the case including the date and the user that performed the action must be maintained for auditing purposes.',Functional,Functional
+'100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course.',Usability,Non-functional
+'The product shall notify building personnel of equipment transport requests.',Functional,Functional
+'The System shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.',Security,Non-functional
+'Once a game is initiated the product shall display a defensive grid to each player',Functional,Functional
+'Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.',Performance,Non-functional
+'Program Administrators and Nursing Staff Members shall be able to add a single student to a cohort',Functional,Functional
+'The same hardware supporting the current website will be used to support the new system.',Operational,Non-functional
+'The system shall use symbols and words that are naturally understandable by the user community.',Usability,Non-functional
+'viewing a movie details the website will display the movies description actor and director entered in by the administrator.',Functional,Functional
+'A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page.',Usability,Non-functional
+'The report of needed classes shall include (but not be limited to) classes to be offered number of sections needed number of labs needed and room types needed.',Functional,Functional
+'The server will support a maximum of 1 000 simultaneous users.',Scalability,Non-functional
+'The website shall protect itself from intentional abuse and notify the administrator at all occurrences.',Security,Non-functional
+'The product shall allow a user to remove himself or herself from the list of players at any time.',Functional,Functional
+'Users shall feel satisfied using the product. 85% of all users will be satisfied with the product.',Usability,Non-functional
+'The product shall provide players no access to information that might reveal the identity of another player',Security,Non-functional
+'The System shall generate Inventory Quantity Adjustment document automatically when daily Product Sales data is available.',Functional,Functional
+'The IQA subsystem shall take into account current inventory status and adjust inventory of substitutionary ingredients accordingly.',Functional,Functional
+'A customer can only stream a movie if they purchased it and are within the 2 day viewing period.',Security,Non-functional
+'The system shall have a MDI form that allows for the viewing of the graph and the data table.',Functional,Functional
+'When streaming a movie the buffering time should take no longer than 10 seconds (plus any latency on the user’s connection.)',Performance,Non-functional
+'The product shall produce search results in an acceptable time',Performance,Non-functional
+'The system will notify affected parties when changes occur affecting clinicals including but not limited to clinical section capacity changes and clinical section cancellations.',Functional,Functional
+'The audit report shall include the total number of recycled parts used in the estimate.',Functional,Functional
+'The product is expected to integrate with multiple database management systems. The product will operate with Oracle SQL Server DB2 MySQL HSQL and MS Access.',Operational,Non-functional
+'The product shall provide Multi-threading and Load Balancing.The product shall provide multi-threading technology as well as load balancing to overcome data load spikes and traffic.',Performance,Non-functional
+'The user shall be able to download appointments and contact information for clients',Functional,Functional
+'Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.',Functional,Functional
+'Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds.',Performance,Non-functional
+'Only authorized personnel can access sales information.',Security,Non-functional
+'Customer shall be able to check the status of their prepaid card by entering in the PIN number in under 5 seconds.',Performance,Non-functional
+'The user shall enter new ratings based on the audit report',Functional,Functional
+'The product shall prevent the player from overlapping ships on their grid.',Functional,Functional
+'The product must be designed using Design Patterns and coding best practices. 90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.',Maintainability,Non-functional
+'The list of dispute cases that are displayed after a search is performed must be color coded for easy identification of dispute cases based upon the dispute case status.',Usability,Non-functional
+'The preferred repair facility ratings shall be saved by the system.',Functional,Functional
+'When a game is ended the product shall allow each player to identify himself or herself as an available player in the list of players.',Functional,Functional
+The product shall ensure that only supervisors can view schedule of all callers.The product must ensure that supervisors are allowed to access advertise empty time slots.',Security,Non-functional
+'The product shall generate a CMA report in an acceptable time.',Performance,Non-functional
+'System shall automatically update the main page of the website every Friday and show the 4 latest movies that have been added to the website.',Functional,Functional
+'The product shall ensure that the database’s data corresponds to the data entered by the user. Each conference room reservation in the system will contain the same information as was entered by the user.',Security,Non-functional
+'The product must support Mozilla Firefox 1.0 and above.',Operational,Non-functional
+'The product shall display the grids within a circle as a view from a periscope.',Look and Feel,Non-functional
+'System shall let customers register on the website as a “pay as you go” user in under 5 minutes.',Performance,Non-functional
+'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Lab Section including the clinical site name the department/section for the lab the class instructor day and time of lab and contact information.',Functional,Functional
+'All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available)',Usability,Non-functional
+The interface shall be appealing to callers and supervisors. In the interface and usability survey 80% of beta testers must report that the interface is appealing.',Look and Feel,Non-functional
+'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Nursing Student including student ID student name phone number e-mail status (full time or part time) and program of study.',Functional,Functional
+'The website should use Flash to provide animation on the home page.',Operational,Non-functional
+'The System shall allow generation of Inventory Quantity Adjustment documents on demand.',Functional,Functional
+'The product shall allow an organizer to invite other employees to meetings.',Functional,Functional
+'We must be able to interface with the following browsers: IE 5.X 6.0 Netscape 6.x 7.x 8.x and Firefox 1.0.',Operational,Non-functional
+'Program Administrators and Nursing Staff Members shall be able to add a new clinical lab section for an existing clinical class into the System.',Functional,Functional
+'For each shot the product shall mark the shot as a hit or miss on the defensive grid of the defensive player.',Functional,Functional
+'Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.',Security,Non-functional
+'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts including cohort identifier program of study preferred sequence of classes and quarters that a cohort will be taking specific classes.',Functional,Functional
+'The preferred repair facility shall be returned to the user.',Functional,Functional
+'The leads washing functionality will verify the users authentication and rights to make parameter updates.',Functional,Functional
+'The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.',Security,Non-functional
+'System shall let the administrator add/remove categories on the website in under 5 minutes.',Performance,Non-functional
+'The product shall be able to delete room equipment.',Functional,Functional
+'An employee will be able to successfully use the product within a few minutes. After informally navigating the product for less than 15 minutes users shall be able to successfully setup meetings and reserve conference rooms.',Usability,Non-functional
+'The product shall be available for distribution via the Internet as a binary or ZIP file.',Operational,Non-functional
+'The application shall have a downtime of at most 10 minutes per year.',Availability,Non-functional
+'Clinical site information shall include (but not be limited to) the name of the site contact person and contact information.',Functional,Functional
+'The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information; the dispute case number the type of retrieval requested (copy original or portfolio) and the date that the merchant response is due.',Functional,Functional
+'The product shall comply with corporate User Interface Guidelines',Look and Feel,Non-functional
+'The product will update existing room equipment.',Functional,Functional
+'The available recycled parts information and their suppliers shall be returned to the user.',Functional,Functional
+'The product shall remove players who have been inactive for 24 hours from the list of players.',Functional,Functional
+'If the shot was marked as a miss the product shall change the status of the defensive player to offensive',Functional,Functional
+The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year.',Availability,Non-functional
+'Data integrity scripts will be run on a weekly basis to verify the integrity of the database.',Security,Non-functional
+The product shall ensure that only supervisors can enter a caller’s schedule.The product must ensure that supervisors are allowed to access advertise empty time slots.',Security,Non-functional
+'The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.',Maintainability,Non-functional
+'Program Administrators and Nursing Staff Members shall be able to add a student who has registered for a clinical class to a clinical lab section for that class.',Functional,Functional
+'Website shall allow customers to view reviews of selected movies by other customers.',Functional,Functional
+'The system shall reveal private information only in compliance with the organization’s information policy.',Security,Non-functional
+'Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.',Operational,Non-functional
+'The System shall allow for a minimum of 6 users to work at the same time.',Performance,Non-functional
+'The product is expected to run on Windows CE and Palm operating systems.',Portability,Non-functional
+'For estimators the product shall be able to be operated in a repair facility during dirty and noisy conditions.',Operational,Non-functional
+'A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.',Functional,Functional
+'The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.',Availability,Non-functional
+'Website must be fully operational with MSN TV2.',Operational,Non-functional
+'The product shall make inactive players unavailable for selection from the list of players.',Functional,Functional
+'The product shall be robust with fault tolerance.The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.',Fault Tolerance,Non-functional
+'Movies shall be encoded for 56k and 256k streams.',Operational,Non-functional
+'The product shall end a game when a hit by the offensive player results in sinking the last of the defensive player’s ships which had not been previously marked as sunk.',Functional,Functional
+'The product shall be able to be installed in the specified environment within 1 working day.',Operational,Non-functional
+'Any interface between a user and the automated system shall have a maximum response time of 5 seconds unless noted by an exception below.',Performance,Non-functional
+'The application shall ask the user to confirm dropping a player or trading a player before performing the action.',Usability,Non-functional
+'The product shall be available for distribution as a packaged CD.',Operational,Non-functional
+'The product must work with most database management systems (DBMS) on the market whether the DBMS is colocated with the product on the same machine or is located on a different machine on the computer network.',Operational,Non-functional
+'The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.',Maintainability,Non-functional
+': The product shall continue to operate during upgrade change or new resource addition.The product shall be able to continue to operate with no interruption in service due to new resource additions.',Maintainability,Non-functional
+'A class shall be either a non-clinical class or a clinical class.',Functional,Functional
+'The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant.',Functional,Functional
+'The website will allow customers to search for movies by title actor or director.',Functional,Functional
+'For each turn the product shall allow the offensive player to define a shot.',Functional,Functional
+'If a lead is scored to the high range the system will supply the lead data and score to the enterprise system.',Functional,Functional
+'System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs.',Performance,Non-functional
+'The product shall record meeting entries.',Functional,Functional
+'100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course.',Usability,Non-functional
+'The product shall allow the player to position ships diagonally on their grid',Functional,Functional
+'The vehicle location shall include street address city state and zipcode',Functional,Functional
+'Only managers are able to perform search queries for reservations by user. 100% of all search queries for reservations by user shall be from logons of only management logons.',Security,Non-functional
+'Website shall allow customers to add their own movie review for a selected movie.',Functional,Functional
+'The Disputes application shall ensure that only authorized users are allowed to logon to the application.',Security,Non-functional
+'The product shall assign the organizers contact information to each meeting they create.',Functional,Functional
+'The system shall contain contact information (e-mail and phone number) for all people relevant to the system including (but not limited to) staff members students lecture instructors clinical lab instructors and clinical site administrators.',Functional,Functional
+'Izogn Administrator must be able to add new products to the website within 2 minutes.',Performance,Non-functional
+'The product must support Internet Explorer 5.5 and above.',Operational,Non-functional
+'When the hit results in sinking a ship the product shall mark the ship as sunk on the offensive grid of the offensive player.',Functional,Functional
+'The audit report shall be available to other adjusters at later points in time.',Functional,Functional
+'The vehicle data shall include vehicle year make and model',Functional,Functional
+'Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.',Functional,Functional
+'Classes for a given cohort shall not conflict with regards to the time and day that they are offered.',Functional,Functional
+'The product shall be intuitive and self-explanatory. Nine out ten users shall be able to successfully complete a game with no training.',Usability,Non-functional
+'The website design should be modern clean and concise.',Look and Feel,Non-functional
+'The product shall use symbols and words that are naturally understandable by users familiar with websites',Usability,Non-functional
+'Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.',Security,Non-functional
+'The Brio portion of the WCS system must be able to export files in spreadsheet form (Microsoft Excel and Lotus 1-2-3 formats). Brio will provide buttons in the user interface that produce/export reports in .xls or .123 file formats.',Operational,Non-functional
+'The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead.',Functional,Functional
+'The System shall not require additional third party licenses resulting in royalty fees.',Operational,Non-functional
+'The system shall allow a Program Administrator/Nursing Staff Member to move a student from one clinical lab section to another clinical lab section corresponding to the same clinical class.',Functional,Functional
+'98% of the user workstations shall meet the minimum software requirements prior to implementation: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1. Microsoft Internet Explorer Web Controls',Operational,Non-functional
+'Pre-paid cards shall be distributed via email or via a printed paper card.',Functional,Functional
+'The product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.',Fault Tolerance,Non-functional
+'The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.',Security,Non-functional
+'Out of 1000 accesses to the system the system is available 999 times.',Availability,Non-functional
+'For each class within a sequence for a cohort Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.',Functional,Functional
+'When the hit results in sinking a ship the product shall notify the players that the ship was sunk.',Functional,Functional
+'98% of the user workstations shall meet the minimum hardware requirements prior to implementation. Minimum Hard Disk Space: 400MB.',Operational,Non-functional
+'The system shall be able to display a printable summary for individual clinical labs which will include (but not be limited to) class name class number lab section listing of students enrolled instructor day(s) time and location.',Functional,Functional
+'Website shall allow the Izogn administrator to approve a review posted by a customer.',Functional,Functional
+'The product shall maintain the status of each player for a turn either offensive or defensive.',Functional,Functional
+'The product shall operate in offline mode whenever internet connection is unavailable.',Fault Tolerance,Non-functional
+'Only the System Administrator shall be able to reset a revoked user logon account',Security,Non-functional
+'The realtor shall be able to retrieve a map showing property locations for a specified area',Functional,Functional
+'The response shall be fast enough to avoid interrupting the user’s flow of thought. 90% of tasks shall complete within 5 seconds. 98% of tasks shall complete within 8 seconds.',Performance,Non-functional
+'The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.',Operational,Non-functional
+'The estimator shall search for available recycled parts using a list of preferred parts suppliers.',Functional,Functional
+'The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time.',Functional,Functional
+'Each time a conference room is reserved the conference room schedule shall be updated to reflect the time and date of the reservation.',Functional,Functional
+'The Disputes applications shall interface with the Merchant Information Database. The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database.',Operational,Non-functional
+'The display shall have two regions: left 2/3 of the display is graphical right 1/3 of the display is a data table',Functional,Functional
+'The product shall use symbols and words that are naturally understandable by the realtor community.',Usability,Non-functional
+'The look and feel of the system shall conform to the user interface standards of the smart device.',Look and Feel,Non-functional
+'The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.',Security,Non-functional
+'The system will notify affected parties when changes occur affecting specific students including but not limited to changing a student’s status from full time to part time and moving a student to a different clinical section.',Functional,Functional
+'The system shall locate the preferred repair facility with the highest ratings for the input criteria',Functional,Functional
+'The product shall simulate the look of ships at sea.',Look and Feel,Non-functional
+'All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation',Maintainability,Non-functional
+'The maintenance of the product will fall within the established corporate maintenance windows.',Operational,Non-functional
+'The product shall be robust.The product shall have fault avoidance based on standards adoption.',Fault Tolerance,Non-functional
+'Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.',Security,Non-functional
+'The product shall be installed by an untrained realtor without recourse to separately-printed instructions.',Usability,Non-functional
+'The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.',Functional,Functional
+'When the hit results in sinking a ship the product shall indicate the type of ship sunk on the defensive grid of the defensive player.',Functional,Functional
+'The System shall allow entering storing and modifying product formulas.',Functional,Functional
+'When a game is ended the product shall notify the players that the game is ended.',Functional,Functional
+'The Disputes System must allow the users to select disputable transactions (based on the age of the transaction) from a user interface and initiate a dispute (ticket retrieval request or chargeback notification) on the selected transaction.',Functional,Functional
+'Washing parameters will be updated during scheduled maintenance hours.',Maintainability,Non-functional
+The system must be available for use between 7:00AM and 11:59PM all days of the year.',Availability,Non-functional
+'The product shall synchronize with the office system every hour.',Performance,Non-functional
+'The system shall use IBM and CCR branding standards. The interface must have one IBM logo and one CCR logo.',Look and Feel,Non-functional
+The system shall be responsive. At the DePaul TeleServices Center when a supervisor uses the system to view a callers schedule the system response time must be no more than 2 seconds 90% of the time and no more than 5 seconds the rest of the time.',Performance,Non-functional
+'The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.',Usability,Non-functional
+'The website shall achieve 99.5% up time.',Availability,Non-functional
+'The product shall conform to the Americans with Disabilities Act.',Usability,Non-functional
+'PME Subsystem shall allow keeping submenus within menus and products within submenus in a managed and persisted order.',Functional,Functional
+'The streaming server will support a maximum of 700 movies; new servers can be added to support more movies.',Scalability,Non-functional
+'The audit report shall include the number of available recycled parts from the original search results.',Functional,Functional
+'The average number of recycled parts records per day shall be 50 000.',Scalability,Non-functional
+'If projected the data must be understandable. On a 10x10 projection screen 90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100',Usability,Non-functional
+'The audit report shall include the total score of the audit which sums the indivual line items.',Functional,Functional
+'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.',Usability,Non-functional
+'The product shall provide GUI based Monitoring Services.System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.',Look and Feel,Non-functional
+'The website shall not be offensive to religious or ethnic groups.',Look and Feel,Non-functional
+'The system shall use the organization’s standard virus protection software to help monitor threats to itself.',Security,Non-functional
+'Only collision estimators shall search for recycled parts. Users without the collision estimator role shall not have access to the search for recycled parts.',Security,Non-functional
+'Website must be able to support free trial periods with various parameters set by the Izogn Manager.',Functional,Functional
+'The product shall be platform independent.The product shall enable access to any type of development environment and platform.',Operational,Non-functional
+'The WCS system shall not allow automatic logins by any user. Cookies containing WCS login information about a user will not be stored on a user’s computer.',Security,Non-functional
+'The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.',Performance,Non-functional
+'PME Subsystem shall allow for a product to exist in more than one submenu',Functional,Functional
+'All updates to data files or database must be initiated from the Disputes System.',Security,Non-functional
+'The system shall protect private information in accordance with the organization’s information policy.',Security,Non-functional
+'The product must be able to interface with various email servers. The product shall be able to send email.',Operational,Non-functional
+'The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.',Availability,Non-functional
+'The system shall update or create new property listings in the MLS',Functional,Functional
+'Movies shall be encoded and streamed via Windows Media Player 9.0.',Operational,Non-functional
+'Once a game is initiated the product shall allow each player to position their 5 ships on their respective defensive grids.',Functional,Functional
+'100% of saved user preferences shall be restored when system comes back online.',Fault Tolerance,Non-functional
+'The system shall be used by realtors with no training.',Usability,Non-functional
+'The product shall run on the existing hardware for all environments.',Operational,Non-functional
+'The system shall be able to display a printable summary for individual nursing students which will include (but not be limited to) student name student ID admission date classes credits GPA and the cohort that the student is enrolled in.',Functional,Functional
+'The system shall provide a history report of changes made to the Activity or Event data',Functional,Functional
+On a 112k connection or faster the system response time for all operations must be no more than 3 seconds 90% of the time.',Performance,Non-functional
+'The system shall prevent malicious attacks including denial of service.',Security,Non-functional
+'The product shall be available to players who understand English Spanish and French. The product shall allow the user to select the language upon accessing the product.',Usability,Non-functional
+'Users should only have to navigate through a maximum of 4 pages to create an account with the website.',Usability,Non-functional
+'The product shall be expected to operate for at least 5 years for each customer installation.',Scalability,Non-functional
+'Only administrators can activate a pre-paid card.',Security,Non-functional
+'The website shall be available for use 24 hours per day 365 days per year.',Availability,Non-functional
+'The product shall allow a player to initiate a game by selecting another available player from the list of players.',Functional,Functional
+'The system will notify affected parties for routine communication purposes including but not limited to informing students of upcoming offered classes (timeline) and what their schedule will be/shall be.',Functional,Functional
+'Realtor shall be able to generate a CMA report based on property criteria',Functional,Functional
+'The leads washing functionality will return the lead data supplied to the vendor along with the reason of rejection.',Functional,Functional
+'Program Administrators/Nursing Staff Members shall be able to cancel a clinical lab section only if there are no students registered for that clinical lab section.',Functional,Functional
+'The application shall run on a web application server.',Operational,Non-functional
+'If the shot was marked as a hit the product shall allow the offensive player to define a shot.',Functional,Functional
+'The realtor shall be notified of new client appointments after automatic synchronization with office system',Functional,Functional
+'The table side of the display shall be split into 2 regions: sequential and temporal.',Functional,Functional
+'The Disputes application shall be available 24x7x365 with the exception of the following scheduled maintenance windows. Monday – Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST',Operational,Non-functional
+'The product shall synchronize contacts and appointments in an acceptable time.',Performance,Non-functional
+'The product shall maintain a list of players.',Functional,Functional
+'Users should be able to access their streaming movies in under 2 clicks after logging into the website.',Usability,Non-functional
+'The Disputes System shall accurately provide a list of possible reason codes for a given transaction. The list of possible reason codes must be derived based on the type of transaction and the industry that the merchant belongs to according to the business rules defined for the Disputes System.',Functional,Functional
+'The product shall be able to handle up to 1500 simultaneous users. The system shall perform with 1500 users as a time.',Scalability,Non-functional
+'90% of untrained realtors shall be able to install the product on their device without printed instructions',Usability,Non-functional
+'The product shall be able to send meeting notifications via different kinds of end-user specified methods.',Functional,Functional
+'The product will be available for licensing as a one-server two-five servers or five-or-more servers license.',Operational,Non-functional
+'The recycled parts search results provided to the estimator shall be retrieved by the system.',Functional,Functional
+'The vendor will verify the invalid lead.',Functional,Functional
+'For leads that process longer than 25 seconds the system will record the event and duration',Performance,Non-functional
+'The intranet pages should display appropriately in all resolutions from 800x600 and higher. The display of all the pages will be correct in 95% of the resolutions prior to implementation. The remaining 5% will be corrected within a week of notification of the incorrect display.',Look and Feel,Non-functional
+'The product will require collaboration with a database management system (DBMS). The DBMS may be located on the same machine as the product or on a separate machine residing on the same computer network.',Operational,Non-functional
+'The product shall adhere to the corporate Architecture guidelines',Operational,Non-functional
+'The Disputes application shall interface with the Cardmember Posting and Billing System. This will allow the Disputes application to request adjustments to cardmember and merchant’s accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.',Operational,Non-functional
+'All aspects of the website shall be accessed by a web browser over the Internet.',Operational,Non-functional
+'The leads washing functionality shall receive a period list of available reps from the enterprise system.',Functional,Functional
+'Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.',Functional,Functional
+'While streaming a movie buffering should only occur if there is latency in the user’s connection.',Performance,Non-functional
+'The application shall match the color of the schema set forth by Department of Homeland Security',Look and Feel,Non-functional
+'The system must use a point and click interface. 100% of all selection and navigation functionality must be able to be activated/selected by either a mouse or a keyboard',Usability,Non-functional
+'system shall be able to handle all of the user requests/usage during business hours.',Scalability,Non-functional
+'The product shall be easy to use by Adjusters and Collision Estimators. 95% of Adjusters and Collision Estimators shall find the product easy to use.',Usability,Non-functional
+'The product shall be easy for a realtor to learn.',Usability,Non-functional
+'For each turn the product shall identify one player as offensive status and one player as defensive status.',Functional,Functional
+'All credit card information will be encrypted in the database.',Security,Non-functional
+'No lead evaluation will complete in a time period longer than 25 seconds for 97% of all leads processed.',Performance,Non-functional
+'System shall let customers register on the website as a “unlimited movie subscriber” user in under 10 minutes.',Performance,Non-functional
+'Only authorized users shall have access to clinical site information.',Security,Non-functional
+'The product shall have an intuitive user interface.',Functional,Functional
+'The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes.',Security,Non-functional
+'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.',Security,Non-functional
+'The estimator shall search for available recycled parts using damaged vehicle parts information.',Functional,Functional
+'The data displayed in both the nodes within the graph and the rows in the table are MSEL Summary data',Functional,Functional
+'The product will notify employees of meeting invitations.',Functional,Functional
+'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.',Performance,Non-functional
+'The product shall have a conservative and professional appearance.',Look and Feel,Non-functional
+'The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user’s access level. The report will be reviewed for auditing purposes.',Security,Non-functional
+'Only authorized user shall access the RFS system. ONLY users that exist in the UAS system with the RFS system assigned to their role(s) shall access the RFS system and use it.',Security,Non-functional
+'The product shall be available 24 hours per day seven days per week.',Availability,Non-functional
+'A secondary database will be used to store historical statistics and data.',Operational,Non-functional
+'The product shall allow the player to position ships vertically on their grid.',Functional,Functional
+'The system shall search for available recycled parts for the supplied vehicle parts and suppliers.',Functional,Functional
+'The system shall be displayable on any work computer a CCR user may have. The system interface shall be formatted to display at 800 by 600 pixel resolution.',Look and Feel,Non-functional
+'The product shall have security.The product shall provide authentication and authorization.',Security,Non-functional
+'The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number. In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.',Functional,Functional
+'Prior to submitting the lead to the enterprise system the leads washing functionality will assign the lead to an admissions rep.',Functional,Functional
+'At the start of each turn the product shall notify each player of his or her status.',Functional,Functional
+'The user shall be able to get driving directions to a selected property',Functional,Functional
+'The leads washing functionality will store any potential lead duplicates returned by the enterprise system.',Functional,Functional
+'The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.',Maintainability,Non-functional
+'The system shall generate an audit report based on the available recycled parts and the collision estimate.',Functional,Functional
+'The system shall offer a display of all the Events in the exercise.',Functional,Functional
+'The product must be developed with the J2SE/J2EE programming language libraries',Operational,Non-functional
+'Defect reports will be available to technical units on a 24x7 basis.',Availability,Non-functional
+'The Disputes application shall interface with the Letters application. This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application.',Operational,Non-functional
+'The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions.',Usability,Non-functional
+'The Disputes System shall provide the users the ability to view the history of all activities that have occurred on the dispute case.',Functional,Functional
+'The website will use standard Internet conventions when interacting with the user.',Usability,Non-functional
+'Velkat staff will be available for phone support between 7am-7pm M-F to provide technical support to the Izogn administrators.',Availability,Non-functional
+'The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.',Performance,Non-functional
+'The System shall utilize currently owned computer equipment.',Operational,Non-functional
+'The product shall prevent the input of malicious data. The product and/or adjacent hardware/software systems’ data shall remain 100% uncorrupted each time malicious data is input into the product.',Security,Non-functional
+'A staff member shall have the ability to manage the progress of a part time student which includes modifying their sequence of classes and timeline of classes.',Functional,Functional
+'The system shall be built such that it is as secure as possible from malicious interference.',Security,Non-functional
+'System shall let Izogn Manager access sales and usage statistics in under 2 minutes.',Performance,Non-functional
+'The system shall interface with CampusConnect’s central server',Operational,Non-functional
+'The washing process must use a non binding neutral data format such as xml when receiving and processing lead data.',Operational,Non-functional
+'The product shall send a meeting confirmation to the meeting organizer.',Functional,Functional
+'The product shall adhere to the corporate online availability schedule. The application is brought down only within 98% of the scheduled outages per the availability schedule.',Availability,Non-functional
+'If the leads score falls within the high average score then it will be process by the ARA functionality.',Functional,Functional
+'Program Administrators and Nursing Staff Members shall be able to add a new clinical site into the system.',Functional,Functional
+'The system shall allow modification of the display.',Functional,Functional
+'The number of mistakes noted by the students shall be decreased by 50% in the first year.',Usability,Non-functional
+'For each class within a sequence for a cohort Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.',Functional,Functional
+'The product must make use of web/application server technology. Open source examples include Apache web server Tomcat and the JBoss application server.',Operational,Non-functional
+'Website shall request and authorize credit card payment before allowing a user to stream a movie.',Functional,Functional
+'Program Administrators and Nursing Staff Members shall be able to add a listing of students to a cohort.',Functional,Functional

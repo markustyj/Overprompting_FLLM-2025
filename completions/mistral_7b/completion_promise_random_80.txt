@@ -1,0 +1,367 @@
+ Functional
+
+
+ Functional
+
+
+ Operational
+
+
+ Functional
+
+
+ Operational
+
+
+ Look and Feel
+
+
+ Usability
+
+
+ Scalability
+
+
+ Operational
+
+
+ Performance (since the requirement involves a payment transaction)
+
+
+ Look and Feel
+
+
+ Performance
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Performance
+
+
+ Security
+
+
+ Functional
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Performance
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Usability
+
+
+ Performance
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Operational
+
+
+ Performance (since it allows for controlling the rate at which data is updated, potentially improving system responsiveness)
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional, Performance (KPIs)
+
+
+ Maintainability
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Look and Feel
+
+
+ Usability (since it concerns the accessibility of the system for different types of users)
+
+
+ Functional
+
+
+ Operational
+
+
+ Security
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Operational
+
+
+ Performance
+
+
+ Security
+
+
+ Performance, Maintainability
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability (specifically, the system should be culturally sensitive and accessible to a diverse user base)
+
+
+ Functional
+
+
+ Usability, Maintainability
+
+
+ Scalability
+
+
+ Security
+
+
+ Functional
+
+
+ Localization: The product shall be localized into foreign languages other than the target market countries’ languages in future releases, with a maximum of 5 days to configure the product for each emerging target market’s language.
+
+
+ Functional
+
+
+ Functional
+
+
+ Scalability
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Legal
+
+
+ Performance
+
+
+ Usability
+
+
+ Scalability
+
+
+ Functional
+
+
+ Performance
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Functional
+
+
+ Scalability, Operational
+
+
+ Functional
+
+
+ Performance
+
+
+ Functional
+
+
+ Backup and Restore: Maintainability
+
+
+ Functional
+
+
+ Maintainability
+
+
+ Functional
+
+
+ Performance
+
+
+ Security
+
+
+ Usability
+
+
+ Functional
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Usability

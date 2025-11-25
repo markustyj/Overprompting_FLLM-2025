@@ -1,0 +1,992 @@
+The given requirement can be classified into the following categories:
+
+- Functional: The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.
+- Usability: The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.
+- Maintainability: The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.
+- Availability: The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.
+- Performance: The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.
+
+However, the most suitable category for this requirement would be Functional, as it describes a specific functionality that the system should be able to perform.
+
+
+The given requirement 'When a ship is sunk the product shall simulate the sound of a sinking ship.' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+The given requirement 'The system shall interface with the faculty central server' can be classified into the following categories:
+
+- Operational
+- Security
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+The given requirement 'A database management system such as Oracle DB2 MySql or HSQL will need to be integrated with the product.' can be classified into the following categories:
+
+- Operational: The requirement is related to the integration of a database management system with the product, which is a functional aspect of the system.
+- Portability: Although not explicitly mentioned, the requirement of integrating a database management system implies that the product should be able to work with different database management systems, which is a portability aspect.
+- Scalability: The requirement of integrating a database management system implies that the product should be able to handle a large number of users and data, which is a scalability aspect.
+- Maintainability: The requirement of integrating a database management system implies that the product should be able to handle changes and updates to the database management system, which is a maintainability aspect.
+- Security: Although not explicitly mentioned, the requirement of integrating a database management system implies that the product should be able to secure the data and transactions, which is a security aspect.
+
+
+The given requirement 'The product shall use a standard navigation menu familiar to most web users.' can be classified into the following categories:
+
+- Look and Feel
+- Usability
+
+
+The given requirement 'The product shall allow a user to identify himself or herself as a player' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement can be classified into the following categories:
+
+- Scalability
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Operational: The product must be able to interface with various database management systems.
+- Performance: The product shall communicate successfully with the database management system on 100% of all transactions.
+- Portability: The product must be able to interface with various database management systems.
+- Scalability: The product shall communicate successfully with the database management system on 100% of all transactions.
+
+
+The given requirement 'System will allow customers to pay for a streaming movie with a pre-paid card' can be classified into the following categories:
+
+- Functional
+- Operational
+- Security
+
+
+The given requirement can be classified into the following categories:
+
+- Look and Feel
+- Maintainability
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Availability
+
+
+The given requirement can be classified into the following categories:
+
+- Look and Feel
+- Usability
+
+
+The given requirement 'The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications' can be classified into the following categories:
+
+- Functional: The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications.
+- Operational: The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications.
+- Maintainability: The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications.
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Look and Feel
+- Security 
+
+However, the most suitable category for this requirement would be 'Usability' as it deals with the user's experience and acceptance of the product's language.
+
+
+The given requirement can be classified into the following categories:
+
+- Look and Feel
+- Usability
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes' can be classified into the following categories:
+
+- Functional
+- Maintainability
+
+
+The given requirement 'The product shall update existing conference rooms' can be classified into the following categories:
+
+- Functional
+- Operational
+- Maintainability
+
+
+The given requirement 'The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.' can be classified into the following categories:
+
+- Usability
+- Performance
+
+
+The given requirement 'The user shall easily locate instructions while using the product. User help can be found within 90% of the system.' can be classified into the following categories:
+
+- Usability
+- Maintainability
+
+
+The given requirement 'The product should be able to be used by 90% of novice users on the Internet' can be classified into the category: Usability.
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Performance
+
+
+The given requirement 'All customer information will be stored on a secure database accessible only to authorized personnel.' can be classified into the following categories:
+
+- Security
+- Availability
+- Maintainability
+
+
+The given requirement 'Students added to a cohort shall be eligible for the cohort’s Program of Study' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement can be classified into the following categories:
+
+- Security
+- Look and Feel
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members’ planning purposes.
+- Usability: The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members’ planning purposes.
+- Maintainability: The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members’ planning purposes.
+- Operational: The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members’ planning purposes.
+
+However, the most suitable category for this requirement would be Functional, as it describes a specific functionality that the system should provide.
+
+
+The given requirement 'The adjuster shall be able to override the preferred repair facility on the estimate assignment' can be classified into the following categories:
+
+- Security: The requirement involves access control and override of a user's preference, indicating a security aspect.
+- Operational: The requirement involves the functionality of the system, specifically the ability to override a preference, indicating an operational aspect.
+- Fault Tolerance: The requirement implies that the system should be able to handle override requests and maintain its functionality, indicating a fault tolerance aspect.
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Performance
+
+
+The given requirement 'The system shall refresh the display every 60 seconds.' can be classified into the category: Performance.
+
+
+The given requirement 'All movies shall be streamed on demand at any time of the day' can be classified into the following categories:
+
+- Performance
+- Availability
+
+
+The given requirement 'The system shall display Events or Activities' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement 'The product shall have a consistent color scheme and fonts.' can be classified into the following categories:
+
+- Look and Feel
+- Usability
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Performance
+
+
+The given requirement can be classified into the category: Performance.
+
+
+The given requirement 'The system shall display the Events in a graph by time' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+The given requirement 'When a game is ended the product shall allow each player to remove himself or herself from the list of players.' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement 'When the offensive player takes a shot the product shall simulate the sound of a ship at sea.' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The requirement describes a specific functionality of the system, which is the notification of the game ending.
+- Usability: The requirement also implies that the notification should be clear and understandable to the users, which is related to usability.
+- Performance: Although not directly related, the requirement implies that the system should be able to process and respond to game ending events in a timely manner, which is related to performance.
+
+However, the most concise and direct classification would be:
+
+- Functional
+
+
+The given requirement 'The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.' can be classified into the following categories:
+
+- Usability
+- Operational
+- Availability
+
+
+The given requirement 'The system shall offer the ability to pause and resume the refresh of data.' can be classified into the following categories:
+
+- Performance
+- Fault Tolerance
+
+
+The given requirement 'The owner shall have free access to all of the streaming movies.' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement 'The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.' can be classified into the following categories:
+
+- Functional
+- Usability
+- Performance
+
+
+The given requirement 'The product shall retain the customer’s buying preferences and information.' can be classified into the following categories:
+
+- Functional
+- Security
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Performance
+- Maintainability
+
+
+The given requirement can be classified into the following categories:
+
+- Operational: The product must be highly configurable for use with various database management systems for the end users.
+- Usability: 80% of end users are able to integrate new database management systems with the product without changing the product’s software code.
+- Maintainability: The product must be highly configurable for use with various database management systems for the end users.
+
+
+Based on the given requirement, I would classify it under the following categories:
+
+- Functional: The requirement describes the functionality of the system, specifically the ability to create or initiate a chargeback request and the resulting printed notification.
+- Security: Although not explicitly stated, the requirement implies that the system must ensure that the merchant's account is charged back if no proof is provided, which involves security measures to prevent unauthorized transactions.
+- Usability: The requirement mentions that the system must prompt the user to enter the required information, which implies that the system should be user-friendly and easy to use.
+
+However, if I had to choose one category that best fits the requirement, I would say it is Functional, as it primarily describes the system's functionality and behavior.
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Maintainability
+
+
+The given requirement 'The System shall generate Inventory Quantity Adjustment document based on product daily sales data and product formulas.' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+The given requirement 'The product shall continue to assign turns until the game is ended.' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+The given requirement 'The product shall respond fast to keep up-to-date data in the display' can be classified under the category of **Performance**.
+
+
+The given requirement 'All screens created as part of the Disputes application must comply with corporate standards for interface creation' can be classified into the following categories:
+
+- Look and Feel
+- Usability
+
+
+The given requirement 'Once a game is initiated the product shall display an offensive grid to each player' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Maintainability
+
+
+The given requirement 'The product shall display room equipment according to search parameters' can be classified into the following categories:
+
+- Functional
+- Operational
+- Look and Feel
+
+
+The given requirement 'The user shall search for the preferred repair facility using vehicle vehicle location and radius in miles' can be classified into the following categories:
+
+- Functional
+- Operational
+- Security 
+
+However, the most suitable category for this requirement would be 'Functional' as it describes a specific action that the system should perform.
+
+
+The given requirement 'When a shot is marked as a miss the product shall simulate the sound of a shot missing its target' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+The given requirement 'The adjuster shall review the collision estimate' can be classified into the following categories:
+
+- Security: The requirement involves access control and authorization, as only an adjuster is allowed to review the collision estimate.
+- Fault Tolerance: The requirement implies that the system should be able to handle the review process without any issues or errors.
+- Maintainability: The requirement suggests that the system should be designed to accommodate the review process, which may involve updating or modifying the system to include the review functionality.
+- Operational: The requirement involves the workflow and processes within the system, specifically the review process by the adjuster.
+- Usability: The requirement implies that the system should be designed to facilitate the review process, making it easy for the adjuster to access and review the collision estimate.
+
+However, the most concise and direct classification would be:
+
+- Security
+
+
+The given requirement 'The user shall select to view the preferred repair facility ratings.' can be classified into the following categories:
+
+- Functional
+- Security
+
+
+The given requirement can be classified into the following categories:
+
+- Look and Feel
+- Usability
+
+
+The given requirement 'The Disputes System must be accessible by both internal and external users' can be classified into the following categories:
+
+- Availability: The requirement implies that the system must be accessible at all times, which is a key aspect of availability.
+- Security: Although not explicitly stated, the requirement implies that the system must be secure enough to allow external users to access it, which involves security considerations.
+- Usability: The requirement implies that the system must be user-friendly and accessible to both internal and external users, which involves usability considerations.
+- Operational: The requirement implies that the system must be operational and functioning correctly to allow users to access it, which involves operational considerations.
+- Portability: Although not explicitly stated, the requirement implies that the system must be portable and accessible from different locations, which involves portability considerations.
+
+However, the most concise and direct classification would be:
+
+- Availability
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The requirement describes a specific functionality that the system should have.
+- Usability: The requirement implies that the system should be easy to use and understand for Program Administrators and Nursing Staff Members.
+
+However, considering the primary focus of the requirement, I would categorize it as:
+
+- Functional
+
+
+The given requirement 'We must be able to interface with any HTML browser.' can be classified into the following categories:
+
+- Operational
+- Operational
+- Operational
+
+
+The given requirement 'One insurance company shall not be able to view another insurance company's claim data.' can be classified into the following categories:
+
+- Security
+- Availability
+
+
+The given requirement 'The product shall comply with corporate color scheme' can be classified into the following categories:
+
+- Look and Feel
+- Usability
+
+
+The given requirement 'The search radius shall be between 1 and 30 miles' can be classified into the following categories:
+
+- Functional
+- Operational
+- Fault Tolerance
+
+
+The given requirement 'The system shall be able to display a printable summary of the system log.' can be classified into the following categories:
+
+- Maintainability
+- Security
+
+
+The given requirement 'Promotional updates to the website should take a day to update' can be classified under the category of 'Availability'. This is because it deals with the system's ability to be available and accessible to users, in this case, the website's ability to update promotional content within a certain timeframe.
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Fault Tolerance
+
+
+The given requirement 'The website shall prevent its data from being corrupted when incorrect data is entered in.' can be classified into the following categories:
+
+- Security
+- Maintainability
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Usability
+- Maintainability
+
+
+The given requirement 'For each shot the product shall examine the defensive grid of the defensive player to determine whether the shot was a hit or miss.' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Usability
+
+
+The given requirement 'An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.' can be classified under the category of 'Usability'.
+
+
+The given requirement 'The current repair facility ratings shall be displayed to the user' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement 'The website should appeal to all Africans not only Nigerians.' can be classified under the category of 'Look and Feel'.
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: Website shall allow customers to purchase pre-paid cards of $5 $10 or $20 value either by credit card or mail-in payment option.
+- Operational: The product must be able to interface with various email servers. The product shall be able to send email.
+- Usability: An employee will be able to successfully use the product within a few minutes. After informally navigating the product for less than 15 minutes users shall be able to successfully setup meetings and reserve conference rooms.
+- Availability: The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.
+- Security: 'If a user account is revoked it can only be re-instantiated by the System Administrator.'
+- Performance: 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.'
+- Operational: 'Movies shall be encoded and streamed via Windows Media Player 9.0.'
+- Look and Feel: 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.'
+- Maintainability: 'All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The product shall protect the identity of the players. The product shall provide players no access to information that might reveal the identity of another player.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Operational: 'The WCS system shall interface with CampusConnect’s central server'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Availability: 'The WCS system shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.'
+- Performance: 'The WCS system shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.'
+- Security: 'The WCS system shall granularly control access rights to all major subsystems. It should be possible to assign access rights to all subsystems independently.'
+- Availability: 'The WCS system shall be available 
+
+
+Based on the given requirement, I would classify it under the category of **Maintainability**. This is because the requirement focuses on the ease of integrating new building maps with the product, which implies that the product's design and architecture should be flexible and adaptable to accommodate changes and updates, making it easier for users to maintain and update the product over time.
+
+
+The given requirement 'The Disputes application shall support 350 concurrent users without any degradation of performance in the application' falls under the category of **Scalability**.
+
+
+The given requirement can be classified into the following categories:
+
+- Security
+- Maintainability
+
+
+The given requirement 'The product shall be able to store new room equipment.' can be classified into the following categories:
+
+- Functional
+- Operational
+- Maintainability
+
+
+The given requirement can be classified into the following categories:
+
+- Scalability
+- Usability
+- Maintainability
+
+
+The given requirement 'The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.' can be classified into the following categories:
+
+- Scalability
+- Maintainability
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Usability
+- Availability
+
+
+The given requirement 'The streaming server will support 50 simultaneous streaming connections.' can be classified into the following categories:
+
+- Performance
+- Scalability
+
+
+The given requirement 'The system will display a blank set of ratings if there are not ratings yet defined.' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement 'The recycled parts audit report shall be returned to the user within 10 seconds. The audit report shall be returned within 10 seconds.' can be classified into the category: Performance.
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Usability
+
+
+The given requirement 'Any disputes cases that have been closed for over 6 months must be purged from the online disputes database' can be classified into the following categories:
+
+- Security: The requirement ensures that sensitive information (dispute cases) is properly managed and deleted after a certain period.
+- Maintainability: The requirement ensures that the system is regularly updated and maintained to remove outdated or unnecessary data.
+- Availability: The requirement ensures that the system is regularly cleaned up to prevent data from becoming outdated or cluttered, which can impact the system's performance and availability.
+- Fault Tolerance: The requirement ensures that the system is designed to handle and remove outdated or unnecessary data, which can help prevent errors or inconsistencies in the system.
+
+
+The given requirement 'The system shall notify customers of changes to its information policy.' can be classified into the following categories:
+
+- Availability: The system shall be available for use 24 hours per day 365 days per year.
+- Security: The system shall maintain consistent security. Any changes in user passwords and/or permissions should take effect in all parts of the System.
+- Usability: The system will notify affected parties when changes occur affecting specific students including but not limited to changing a student’s status from full time to part time and moving a student to a different clinical section.
+- Performance: When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.
+- Look and Feel: The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.
+- Functional: The system shall notify customers of changes to its information policy.
+
+However, the most suitable category for this requirement would be 'Usability' as it involves notifying customers of changes to the system's information policy, which is a user-centric requirement.
+
+
+The given requirement can be classified into the following categories:
+
+- Maintainability
+- Performance
+
+
+The given requirement 'An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.' can be classified into the category of 'Usability'.
+
+
+The given requirement 'The product shall be able support 1000 simultaneous users' can be classified into the following categories:
+
+- Scalability
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The system shall be able to display a printable summary for individual clinical sites which will include information on labs being held at that site for the given quarter.
+- Usability: The system shall display a printable summary for individual clinical sites which will include information on labs being held at that site for the given quarter (Clinical site general information on labs held at that location dates and times of all labs held there).
+
+
+The given requirement 'System shall let existing customers log into the website with their email address and password in under 5 seconds.' can be classified into the following categories:
+
+- Usability
+- Performance
+
+
+The given requirement 'The audit report shall be displayed to the user' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement '100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.' can be classified into the following categories:
+
+- Usability
+- Security
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The requirement describes a specific functionality that the system should have.
+- Usability: The requirement mentions that the system should be easy to use by the Program Administrators/Nursing Staff Members, implying that the system should be user-friendly and intuitive.
+- Maintainability: Although not explicitly mentioned, the requirement implies that the system should be able to handle changes and updates to the clinical site information, which is a maintenance-related aspect.
+
+However, the most concise and direct classification would be:
+
+- Functional
+
+
+The given requirement 'The Disputes System must provide the ability to view existing dispute cases.' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement 'The leads washing functionality will compile both contact and academic scoring information for a total score' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+The given requirement 'The system shall be available for use between the hours of 8am and 6pm' can be classified into the following categories:
+
+- Availability
+- Operational
+
+
+The given requirement can be classified into the following categories:
+
+- Security
+- Maintainability
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+Based on the given requirement, I would classify it under the following categories:
+
+- Maintainability
+- Operational
+- Availability
+
+These categories are relevant because the requirement involves:
+
+- Maintainability: The requirement mentions that the RFS system should be able to easily interface with the BDW environment, which implies that the system needs to be adaptable and flexible to accommodate changes in the BDW environment.
+- Operational: The requirement specifies that the RFS system should be able to load data from the BDW environment within a certain timeframe, which is a critical operational requirement.
+- Availability: The requirement mentions that the data should be loaded into the RFS system one day prior to the start of the budgeting process, which implies that the system needs to be available and functional at that time.
+
+
+The given requirement 'Product formula ingredients shall allow defining substitutionary ingredients.' can be classified into the following categories:
+
+- Functional
+- Maintainability
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Usability
+
+
+The given requirement 'The leads washing functionality will have an interface in which lead data parameters can be maintained' can be classified into the following categories:
+
+- Functional
+- Operational
+- Maintainability
+
+
+The given requirement 'The System shall be able to automatically backup business data and restore them on demand.' can be classified into the following categories:
+
+- Maintainability
+- Fault Tolerance
+- Security
+
+
+The given requirement 'The leads washing functionality will insert all leads captured by the web service' can be classified into the following categories:
+
+- Operational: This requirement is related to the functionality of the system and its interaction with external services.
+- Performance: Although not directly related to performance, the requirement implies that the system should be able to handle the insertion of leads in a timely manner.
+- Maintainability: The requirement implies that the system should be able to handle changes in the leads washing functionality, which is a maintenance aspect.
+- Security: Although not directly related, the requirement implies that the system should be able to handle sensitive data (leads) and insert it into the system securely.
+- Fault Tolerance: Although not directly related, the requirement implies that the system should be able to handle errors or failures in the leads washing functionality and insert leads in a timely manner.
+
+However, the most suitable category for this requirement would be Operational, as it is primarily related to the functionality of the system and its interaction with external services.
+
+
+The given requirement 'All additions of new users and modifications to user’s access shall be recorded on the User Report' can be classified into the following categories:
+
+- Maintainability
+- Security
+
+
+The given requirement 'All streaming movie sales will be logged in the database and accessible by the administrator' can be classified into the following categories:
+
+- Functional
+- Operational
+- Security
+
+
+The given requirement 'The system shall cater to 10 simultaneous users from 9am to 5pm' can be classified into the following categories:
+
+- Scalability
+- Availability
+
+
+The given requirement 'Every user of the system shall be authenticated and authorized' can be classified into the following categories:
+
+- Security
+- Usability
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Maintainability
+
+
+The given requirement 'All letter requests must be formatted according to guidelines specified by the Print Letter Utility system.' can be classified into the following categories:
+
+- Maintainability
+- Operational
+- Security
+
+
+The given requirement can be classified into the category: Performance.
+
+
+The given requirement 'Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.' can be classified into the category: Maintainability.
+
+
+The given requirement 'Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details' can be classified into the following categories:
+
+- Security
+- Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The requirement describes a specific functionality that the system should have.
+- Usability: The requirement mentions that the system should be easy to use by the Program Administrators/Nursing Staff Members, implying that the system should be user-friendly and intuitive.
+- Maintainability: Although not explicitly mentioned, the requirement implies that the system should be able to handle changes and updates to the Program of Study information, which is a maintenance aspect of the system.
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The requirement describes a specific action that the system should be able to perform.
+- Usability: The requirement implies that the system should be easy to use and understand for the Program Administrators and Nursing Staff Members.
+- Maintainability: The requirement implies that the system should be able to handle new data (cohort information) and that the system should be able to store and manage this data.
+
+However, the most concise and direct classification would be:
+
+- Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Availability: The system shall be available for use 24 hours per day 365 days per year.
+- Security: The product shall protect the identity of the players. The product shall provide players no access to information that might reveal the identity of another player.
+- Usability: Users should be able to access their streaming movies in under 2 clicks after logging into the website.
+- Performance: When a game is ended the product shall notify the players that the game is ended.
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Operational 
+
+This requirement is related to the performance of the system, as it specifies the frequency of polling for messages. It also falls under operational, as it describes the functionality of the system in terms of its interaction with other systems.
+
+
+The given requirement 'Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem' can be classified into the following categories:
+
+- Functional
+- Maintainability
+
+
+The given requirement '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.' can be classified into the following categories:
+
+- Usability
+- Performance

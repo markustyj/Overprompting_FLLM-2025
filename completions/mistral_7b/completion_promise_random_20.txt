@@ -1,0 +1,367 @@
+ Usability
+
+
+ Functional
+
+
+ Operational
+
+
+ Usability
+
+
+ Operational
+
+
+ Usability
+
+
+ Usability
+
+
+ Scalability
+
+
+ Operational
+
+
+ Functional
+
+
+ Usability, Legal (compliance with intranet standards)
+
+
+ Performance
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Performance
+
+
+ Security
+
+
+ Functional
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Performance
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Usability, Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Usability
+
+
+ Look and Feel
+
+
+ Usability
+
+
+ Operational
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ The given requirement falls under the category of Functional, as it specifies a feature (Portals and ad-hoc reporting with KPIs) that the software should provide.
+
+
+ Configurability (or Customizability)
+
+
+ Functional, Security, Operational
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Operational
+
+
+ Functional
+
+
+ Operational
+
+
+ Security
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ The given requirement falls under the category of Fault Tolerance.
+
+
+ Fault Tolerance
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability (or possibly Look and Feel)
+
+
+ Functional
+
+
+ Usability, Scalability
+
+
+ Scalability
+
+
+ Security
+
+
+ Functional
+
+
+ The given requirement falls under the category of: Localization (a subcategory of Look and Feel)
+
+
+ Scalability
+
+
+ Notification: Operational
+
+
+ Scalability
+
+
+ Usability
+
+
+ Performance
+
+
+ Performance
+
+
+ The given requirement falls under the category of: Maintainability
+
+
+ The given requirement falls under the category of: Legal
+
+
+ Performance
+
+
+ Usability
+
+
+ Scalability
+
+
+ Usability
+
+
+ Performance
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Functional
+
+
+ Scalability, Operational
+
+
+ Functional
+
+
+ Performance
+
+
+ Functional
+
+
+ Backup and Restore: Maintainability
+
+
+ Functional
+
+
+ Maintainability
+
+
+ Security
+
+
+ Operational
+
+
+ Security
+
+
+ Usability
+
+
+ Functional
+
+
+ Performance
+
+
+ Operational
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Security, Operational
+
+
+ Performance
+
+
+ Functional
+
+
+ Usability

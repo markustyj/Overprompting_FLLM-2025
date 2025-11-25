@@ -1,0 +1,370 @@
+ Functional
+
+
+ Functional
+
+
+ Operational
+
+
+ Usability
+
+
+ Portability
+
+
+ Usability
+
+
+ Usability
+
+
+ Performance (initially 10 000 transactions per hour, increasing to 20 000 by Release 2)
+
+
+ Portability
+
+
+ Usability
+
+
+ Look and Feel, Usability
+
+
+ Performance (during business hours)
+Operational (during off business hours)
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Performance
+
+
+ Security
+
+
+ Functional
+
+
+ Usability (The product shall ensure that only supervisors can advertise empty time slots)
+Functional (The product must ensure that supervisors are allowed to access advertise empty time slots)
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Performance
+
+
+ On-demand streaming of movies falls under the Usability category. This is because it enhances the user experience by providing flexibility in accessing the content.
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Usability, Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Operational
+
+
+ Pausing and resuming data refresh falls under the category of Operational.
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Portability, Usability
+
+
+ Maintainability, Portability
+
+
+ Functional, Usability, Security
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Operational
+
+
+ Functional
+
+
+ Portability
+
+
+ Security
+
+
+ Look and Feel
+
+
+ Performance
+
+
+ Usability
+
+
+ Performance
+
+
+ Performance
+
+
+ The given requirement falls under the category of: Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability, Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Functional
+
+
+ Usability (for translation into foreign languages)
+Scalability (for taking no more than 5 days to configure the product for each emerging target market's language)
+
+
+ Scalability
+
+
+ Usability
+
+
+ Performance
+
+
+ Usability
+
+
+ Performance
+
+
+ Performance
+
+
+ Usability (implied: the system should automatically purge old data to maintain a clean and manageable user interface)
+
+
+ Usability
+
+
+ Performance
+
+
+ Usability
+
+
+ Scalability
+
+
+ Usability
+
+
+ Performance
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Functional
+
+
+ Scalability, Performance
+
+
+ Functional
+
+
+ Performance
+
+
+ Functional
+
+
+ Backup and Restore: Maintainability
+
+
+ Functional
+
+
+ Usability (or Operational, depending on the specific context)
+
+
+ The given requirement falls under the category of: Functional
+
+
+ Operational
+
+
+ Security
+
+
+ Usability
+
+
+ Functional
+
+
+ Performance
+
+
+ Operational
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability (System shall let administrator de-activate a customer account in under 1 minute) and Security (Customer will no longer be able to access the website)
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Usability

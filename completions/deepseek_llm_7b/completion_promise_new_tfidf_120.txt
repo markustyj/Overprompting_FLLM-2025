@@ -1,0 +1,436 @@
+This requirement pertains to the System Functional Suitability. The system should be able to display a printable summary for individual clinical sites, which includes information about the number of labs being held at that particular site in a given quarter. This information will include details such as the dates and times of all the labs held there, along with general information on the clinical site itself.
+
+
+The classification for the given requirement "The product shall be available 24 hours per day seven days per week." would be Reliability and Maintainability. This is because it emphasizes on the continuous availability of the software system, ensuring that it never goes offline or has any downtime, which directly relates to reliability and maintaining a consistent level of service over an extended period of time, thus making it a maintainability requirement as well.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+This requirement falls under Functional Suitability and Usability. It can be classified as:
+
+* Functional Suitability: The product should provide an intuitive search function for finding available conference rooms.
+* Usability: The search function should be user-friendly and easy to use, allowing users to quickly and efficiently find available conference rooms.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+This requirement can be classified as a Functional Suitability and Compatibility.
+
+Functional Suitability - The requirement states that the product's look and feel needs to comply with the intranet page standards of ENET Securities, which falls under functional requirements. It also mentions that 95% of the product's look & feel will be approved by the Architecture group prior to implementation, indicating a level of acceptance criteria for functionality within this requirement.
+
+Compatibility - The requirement specifies that the remaining 5% of the product's look & feel needs to be corrected and approved within one month of product release, which suggests compatibility with ENET Securities' standards or systems (e.g., browser requirements). This is classified as a compatibility requirement because it deals with how well the software will integrate with other systems or environments.
+
+
+This requirement is classified as a Performance Efficiency requirement. The goal here is to ensure that the system can handle large volumes of leads without slowing down or taking too long to process them, ensuring a good user experience.
+
+
+This requirement can be classified as a functional requirement under the umbrella of usability. It focuses on the aesthetic appeal of the interface from the caller's and supervisor's perspective, with the goal of ensuring a positive user experience.
+
+
+Functional Suitability
+
+
+This requirement can be classified as a Functional Requirement under the category of Display and Formatting. The specific sub-category would be "Date and Time Display".
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Usability
+
+
+This requirement falls under Functional Suitability and Performance Efficiency categories.
+
+
+Security
+
+
+This requirement falls under the Functional Suitability category.
+
+
+Functional Suitability
+
+
+This requirement pertains to a reporting mechanism that provides information regarding the necessary classes for an educational institution or program. The report should encompass several key aspects, such as the classes to be offered, the number of sections required, and the need for laboratory spaces, as well as any specific room type requirements. This classification falls under Functional Suitability as it focuses on the functionality and details needed in a reporting system for class scheduling and allocation purposes.
+
+
+Functional Suitability
+
+
+The given requirement can be classified as "Usability". It refers to how easily a product can be used by its intended audience. In this case, the product's ease of use is measured by the ability for 90% of users to successfully reserve a conference room within 5 minutes of using the product.
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+The functional suitability category for 'The system shall display Events or Activities' would be "Functional Suitability". This is because it deals with the ability of the system to show information related to events or activities, which falls under its core functionality.
+
+
+Functional Suitability
+
+
+This requirement falls under Usability. The goal is to design the product in a way that uses language and concepts that are easily understood by users who have experience using websites.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+This requirement pertains to the category of "Usability". It focuses on how easily callers and supervisors can navigate and complete tasks in the system, with a maximum of 2 minutes being given for completing each task. This ensures that users, regardless of their roles, can efficiently use the system.
+
+
+This requirement falls under the Functional Suitability category.
+
+
+Functional Suitability
+
+
+This requirement can be classified as a Compatibility criterion. It pertains to the system's ability to run on specific types of computer hardware and software configurations utilized by Program Administrators and Nursing Staff Members.
+
+
+Functional Suitability
+
+
+This requirement is about the performance of a system or a process, specifically the time it takes to complete the total lead cycle. It states that 90% of leads should be completed in 5 minutes during business hours and 99% of leads should be completed in 3 minutes during off-business hours.
+
+So, I would classify this requirement as: Performance Requirement - Timing (Time it takes to complete the process)
+
+
+This requirement pertains to Security (FitCtrs13).
+
+
+This requirement can be classified as follows:
+
+* Functional Suitability
+* Usability
+* Performance Efficiency
+
+
+Functional Suitability
+
+
+This requirement can be classified as a Functional Suitability (Functional) and Maintainability (Maintainability). 
+
+Functional Suitability: The requirement states that maintenance releases will be offered to customers once a year, which is a functionality of the system. It also mentions that the installation process should take no longer than 5 minutes for 80% of the customer base, indicating a performance requirement.
+
+Maintainability: The frequency and duration of the maintenance releases are considered in terms of maintainability, as it relates to how easily the system can be updated or patched by its users or administrators.
+
+
+This requirement pertains to the functionality of the Disputes System, specifically regarding the confirmation of chargeback requests. The system needs to provide a confirmation to users upon the creation of a chargeback request, which should contain specific information such as the dispute case number, the type of chargeback requested (pending or immediate), and the date that the merchant response is due. This information will be important for both the user and the Disputes System to track and manage the chargeback process effectively.
+
+
+Functional Suitability
+
+
+This requirement falls under Functional Suitability and Performance Efficiency categories.
+
+Functional Suitability: The system generating an Inventory Quantity Adjustment document automatically when daily Product Sales data is available demonstrates the functionality of the system to handle and process sales data, which in this case, directly affects inventory management. Therefore, it's a functional suitability requirement as it describes how the system should behave or operate based on input data.
+
+Performance Efficiency: The requirement that the system generates an Inventory Quantity Adjustment document automatically when daily Product Sales data is available also relates to performance efficiency because it implies that the system can process and generate reports in a timely manner, i.e., with "no more than 30min" for specific adjustments. This indicates how well the system can handle tasks or queries efficiently without delaying user experience.
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+This requirement falls under the Functional Suitability category. The system should display a colored-coded list of dispute cases after a search has been performed, making it easier to identify their status.
+
+
+Functional Suitability
+
+
+This requirement can be classified as a Functional Suitability.
+
+
+This requirement falls under the 'Functional Suitability' category.
+
+
+This requirement falls under the Functional Suitability category.
+
+
+Functional Suitability
+
+
+This requirement falls under the 'Functional Suitability' category.
+
+
+Functional Suitability
+
+
+Usability
+
+
+This requirement pertains to the security aspect of the system, specifically regarding access control. It states that the disputes system should restrict user access to dispute cases based on the user's cardholder base. In other words, a user should only be able to view or interact with dispute cases belonging to the credit card accounts they manage. This is classified as a 'Security' requirement.
+
+
+This requirement pertains to Functional Suitability and Performance Efficiency. 
+
+Functional Suitability: The system should be able to generate reports that show the necessary courses required for a particular cohort's program within a specified quarter, allowing Program Administrators or Nursing Staff members to plan effectively. This report will display information about the available classes and their respective programs for different cohorts, providing crucial insights into course availability during specific quarters.
+
+Performance Efficiency: The system should be able to produce this report in a timely manner (e.g., within 6 seconds for 95% of requests) to ensure that Program Administrators or Nursing Staff Members can access the information needed without experiencing significant delays, thus maintaining efficiency throughout the planning process.
+
+
+Functional Suitability
+
+
+Security
+
+
+Usability
+
+
+This requirement falls under Functional Suitability and Security categories. 
+- Functional Suitability: The system should be able to accurately locate the preferred repair facility with the highest ratings based on user input criteria, ensuring a satisfactory user experience (Usability). Additionally, this functionality could lead to increased efficiency by saving time and resources for users who would otherwise have to search multiple facilities manually (Performance Efficiency).
+- Security: Ensuring that only authorized users can access and use this feature of the system helps maintain data privacy and integrity. It also reduces the risk of unauthorized repair facility selection or manipulation of rating systems, which could potentially affect customer satisfaction and business operations.
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+This requirement falls under 'Security'. The website needs to protect itself from intentional abuse and notify an administrator of any such occurrences.
+
+
+Usability, Performance Efficiency, Security, Maintainability
+
+
+This requirement falls under the category of 'Functional Suitability'. It specifies that upon each shot, the product should inform both players whether their shot was a hit or a miss.
+
+
+This requirement is asking for a minimum response time of 2 seconds for 90% of the interactions with the product interface, and a maximum response time of 10 seconds for 10% of the interactions. This falls under Performance Efficiency (Functional Suitability) and Usability categories.
+
+
+This requirement falls under the category of 'Functional Suitability'. The software requirement is to retain a customer's buying preferences and information, which involves storing and accessing this data for future use by the user.
+
+
+This requirement falls under the Functional Suitability category.
+
+
+Usability
+
+
+Usability
+
+
+Functional Suitability
+
+The given requirement pertains to the functionality of the software product, specifically its ability to be translated into foreign languages other than the target market countries' languages and configured for emerging target markets within a short timeframe. This classification falls under Functional Suitability as it discusses how the software will function in terms of language support and localization for different markets.
+
+
+The given requirement falls under Reliability and Maintainability categories.
+
+Reliability:
+- The Disputes application must be available 24x7x365, with the exception of scheduled maintenance windows. This means that the system should have a high availability (HA) and must be designed to minimize downtime during maintenance periods. It also indicates that the system should be fault tolerant so that it can continue to operate even if one or more components fail.
+
+Maintainability:
+- The exception for scheduled maintenance windows provides information about how frequently the system will undergo maintenance, which is an aspect of maintainability. A well-designed and maintained system should have planned maintenance periods that are predictable and do not significantly impact normal operations. In this case, the maintenance period is specified as Monday – Saturday 3:00am to 4:00am EST and Sunday 1:00amd to 5:00am EST, giving users advance notice of when they can expect minimal disruption to the system's availability.
+
+
+This requirement can be classified as a security requirement (Security). The requirement talks about user access being limited based on their role(s) and permissions, which falls under the category of access control in security. This helps ensure that only authorized users are able to access specific functionalities within the RFS system, thus maintaining data confidentiality, integrity, and availability.
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+This requirement can be classified into several categories:
+
+* Compatibility: The system should be compatible with the business office environment typical of the Nursing Department at DePaul University. This includes compatibility with the hardware and software used in the department (e.g., computers, operating systems, networks).
+* Usability: The system should be user-friendly and easy to use within a business office environment typical of the Nursing Department at DePaul University. This includes considerations for how well the system is designed for nursing staff members who may not have extensive technology experience.
+* Performance Efficiency: The system should perform efficiently within a business office environment typical of the Nursing Department at DePaul University. This includes considerations for how quickly the system can process data and complete tasks in a real-world setting.
+* Maintainability: The system should be easy to maintain and update within a business office environment typical of the Nursing Department at DePaul University. This includes considerations for how easily updates, patches, and repairs can be made by department staff members.
+
+
+This requirement pertains to the category of Functional Suitability.
+
+
+This requirement falls under the 'Functional Suitability' category as it pertains to the capacity of the streaming server to handle a specific number of movies.
+
+
+Functional Suitability
+
+
+The classification for the given requirement would be 'Performance Efficiency' with a subcategory 'Saving Time'. This is because the requirement focuses on how quickly the system should save the preferred repair facility ratings, specifying a maximum time of 5 seconds.
+
+
+The given requirement can be classified as:
+
+* Performance Efficiency
+* Specificity and Measurability of Response Time
+
+
+Compatibility
+
+
+This requirement falls under the 'Security' category. The classification is based on the primary focus of this requirement, which revolves around protecting sensitive and confidential information within the organization according to established guidelines and policies.
+
+
+This requirement pertains to 'Functional Suitability'. It states that every registered user will have access to a support site through the internet, and 70% of them will be able to find a solution to their problem within 5 minutes of using the support site.
+
+
+This requirement can be classified as a Performance Efficiency criterion (Functional Requirement). It aims to measure the user satisfaction with the pre-paid card feature by determining the percentage of users who feel comfortable using and purchasing it after a month of using the system.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+This requirement is asking for a system that allows customers to cancel their account process, which should take no longer than 2 minutes. The system would mark the account as inactive and the user would not be able to log in anymore. This falls under performance efficiency as it's about how quickly the system can handle this specific task.
+
+
+Functional Suitability
+
+
+This requirement is classified as Functional Suitability and Performance Efficiency. It focuses on the usability of the Disputes application by setting a maximum waiting time for users to navigate between screens, which should not exceed 5 seconds.
+
+
+This requirement can be classified into the following categories:
+
+* Functional Suitability
+* Usability
+* Performance Efficiency
+* Security
+
+It falls under Functional Suitability as it describes the ability to modify certain aspects of a clinical lab section, such as the site name, instructor, and contact information. It also relates to Usability as it allows Program Administrators/Nursing Staff Members to easily update this information. Additionally, it pertains to Performance Efficiency as it affects how quickly and smoothly the system processes changes to the clinical lab section. Lastly, it has security implications since updating contact information requires authorization and authentication.
+
+
+This requirement pertains to the Search functionality within the Disputes System. The system must provide an advanced search option that allows users to filter their results based on specific criteria, which include:
+
+1. Dispute Case Number: Users can perform a search by entering the unique case number related to a disputed transaction. This criterion helps users locate particular disputes quickly and efficiently.
+2. Merchant Account Number: Users may also opt for searches based on the merchant account associated with the disputed transaction. This enables users to find disputes linked to specific merchants easily.
+3. Cardmember Account Number: Besides, users can search using the cardmember's account number related to a disputed transaction. This helps in identifying and locating disputes connected to specific cardmembers.
+4. Issuer Number: Users can also perform searches by entering the issuer’s unique identification number associated with the disputed transaction. This enables them to find disputes linked to particular issuers.
+5. Date Range: The search functionality must allow users to filter their results based on a specific date range relevant to the dispute. This criterion aids in locating open, closed, or all disputes within the specified timeframe.
+6. Dispute Type (Ticket Retrieval Request vs. Chargeback Notification): Users can also choose to perform searches based on the type of dispute they are looking for – either ticket retrieval requests or chargeback notifications. This enables them to locate specific types of disputes more efficiently.
+
+Considering all these factors, the search functionality within the Disputes System must provide an advanced and comprehensive way for users to locate specific disputes by entering relevant criteria.
+
+
+This requirement falls under the Functional Suitability category.
+
+
+Reliability
+
+
+Daily usage statistics should be logged and accessible by the administrator falls under the category of Performance Efficiency.
+
+
+Functional Suitability
+
+
+This requirement falls under the classification of "Functional Suitability" (FS). It outlines a specific functionality that the RFS system needs to possess in order to interface with the BDW environment and efficiently load data. The requirement specifies that seven data files will be received from BDW, loaded into the RFS system within a certain timeframe, and serves as an input for testing purposes throughout the year.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+This requirement falls under Functional Suitability and Security categories. It pertains to the functionality of verifying user authentication and rights for making parameter updates, ensuring that only authorized users can access and modify the system features.
+
+
+Security
+
+
+This requirement can be classified as a 'Functional Suitability'. It pertains to the behavior of the system when the leads score falls within the high average score, triggering the ARA (Account Receivables Automation) functionality.
+
+
+The given requirement can be classified as:
+
+* Security
+* Maintainability
+
+
+Functional Suitability
+
+
+This requirement is related to the capacity of the system to handle a certain amount of data or workload. In this case, it refers to the capability of the system to process all the information about nursing students and their respective classes for the next 10 years. The term "processing" in this context likely means managing and storing data related to nursing students and their classes, as well as performing any necessary calculations or queries based on that data. This requirement falls under Performance Efficiency category.
+
+
+Security
+
+
+This requirement can be classified as Usability. The emphasis on users being able to use the system after a short amount of time and remembering 90% of the system usage and navigation indicates that the software is easy to learn and intuitive for the user.
+
+
+Functional Suitability
+--------------
+
+
+The given requirement states that the system response time for all operations on a 112k connection or faster must be no more than 3 seconds, 90% of the time. This can be classified as a performance efficiency requirement. The key aspects to consider when implementing this requirement are the system's hardware resources (e.g., processor speed and memory), network bandwidth, and software optimization techniques such as caching and compression. It is essential to ensure that these factors do not exceed the specified response time threshold of 3 seconds for at least 90% of operations.
+
+
+The given requirement can be classified into the "Maintenance" category.
+
+Justification:
+This requirement is related to when application updates will happen, which falls under maintenance activities. The specified time frame and day indicate that this update would not disrupt regular operations, as it's happening during a specific off-peak hours and during a season period where there are fewer games played by NFL teams.
+
+
+This requirement falls under the category of 'Security'. It concerns the protection of sensitive student data and requires that only authorized users be granted access to this information.
+
+
+This requirement falls under the functional suitability category.
+
+
+Functional Suitability
+
+
+This requirement can be classified as a Functional Suitability.
+
+
+Dynamic Change Support and Transparent Resource addition is a Functional Suitability category as it refers to the ability of the product to handle changes dynamically and transparently, providing scalability and avoiding service interruptions for more than a day.
+
+
+The classification for the given requirement "Formula substitutionary ingredients shall be kept in persisted order" would be:
+
+* Functional Suitability
+
+
+This requirement can be classified as a Functional Suitibility (Functional) requirement. It focuses on the usability of the system by ensuring that its symbols and words are easily understood by the user community, which in this case, refers to the general public using the software/product.

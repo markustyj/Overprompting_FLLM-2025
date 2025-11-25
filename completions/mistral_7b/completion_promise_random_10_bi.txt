@@ -1,0 +1,378 @@
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional (Simplicity of the interface is a subjective quality, and the percentage of beta testers reporting satisfaction is a measure of usability, which is a non-functional requirement.)
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Usability)
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional and Non-functional
+
+The first part, 'The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies', is a functional requirement as it describes a specific behavior or action that the product must perform.
+
+The second part, 'Customers should be able to purchase and watch a pre-determined movie in under 3 minutes', is a non-functional requirement as it specifies a performance constraint that the product must meet.
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional (for 'The product shall provide Portals' and 'The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs')
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional (easy to learn) and Non-functional (two days onsite training)
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional (Error Tracking Services) and Non-functional (99% of the time)
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional, Non-functional (x2), Temporal (Non-functional subcategory)
+
+Explanation:
+
+* 'The RFS system should be able to easily interface with the BDW environment in order to load the data.': Functional (since it describes a specific action the system should perform)
+* '7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year.': Functional (describes the number and timing of data files to be loaded)
+* 'The data will be as of October month-end.': Temporal (non-functional subcategory, specifies the date of the data)
+* 'Test files (7) shall be loaded up to 5 times throughout the year from the BDW.': Functional (describes the number and frequency of test files to be loaded)
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional (Usability)
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional (Response Time)
+
+
+ Functional
+
+
+ Functional

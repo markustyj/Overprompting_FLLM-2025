@@ -1,0 +1,409 @@
+Functional Suitability
+
+
+Reliability
+
+
+Compatibility
+
+
+This requirement falls under the Functional Suitability category.
+
+
+Compatibility
+
+
+Functional Suitability
+
+
+This requirement falls under Functional Suitability and Usability categories.
+
+Functional Suitability: Once a game has been initiated, the product should make the players assigned to the game unavailable for selection from the list of players. This means that these players cannot be selected as active participants in the game until the game is finished or ended. It ensures that the game remains fair and authentic by preventing players from being selected more than once.
+
+Usability: The product should make it intuitive for users to understand this functionality, so new users can start playing a game with no training. This means that once a game has been initiated, users should be able to easily recognize that the assigned players are unavailable for selection.
+
+
+This requirement falls under the 'Reliability' category as it concerns the expected lifespan of the software during its intended use by customers.
+
+
+Functional Suitability
+
+
+This requirement falls under Functional Suitability and Performance Efficiency categories.
+
+Functional Suitability: The website allowing customers to purchase pre-paid cards of different values, including both online via credit card and offline through mail-in payment option, indicates that the website needs to have a functional purchasing system in place for these products. This functionality must be able to handle various transactions, process payments securely, and deliver pre-paid cards accordingly.
+
+Performance Efficiency: The availability of multiple pre-paid card value options might lead to performance efficiency considerations such as ensuring that the online purchase system can handle high volumes of transactions without slowing down or crashing under heavy load. Additionally, providing mail-in payment option may require efficient handling and timely delivery of physical prepaid cards to customers.
+
+
+Security
+
+
+This requirement is classified as a Performance Efficiency requirement. It focuses on the system's ability to process a large percentage of leads within a specific timeframe, ensuring a good user experience by avoiding long waiting times.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+This requirement can be classified as Functional Suitability and Usability. It focuses on the ability of staff members to perform tasks efficiently, which is crucial for maintaining productivity and meeting deadlines.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+This requirement can be classified as a 'Performance Efficiency' requirement. The classification keyword would be "Performance Efficiency" or "Response Time".
+
+
+This requirement can be classified as Functional Suitability and Usability. 
+
+Functional Suitability: This classification refers to the functionality or features that the system must possess in order to meet the user's needs. In this case, it means that the system should allow users to create an account within a maximum of four pages, indicating the simplicity and ease of use for new users.
+
+Usability: Usability pertains to how easy or difficult it is for users to understand, learn, and interact with the system. This requirement indicates that the system's design should be user-friendly, with a straightforward navigation process allowing users to create an account efficiently without getting confused or frustrated during the process.
+
+
+Functional Suitability
+
+
+Security
+
+
+This requirement falls under Functional Suitability and Maintainability categories.
+
+
+Functional Suitability
+
+
+This requirement falls under the Functional Suitability category.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+This requirement falls under the category of Functional Suitability.
+
+
+Functional Suitability
+
+
+This requirement falls under the Functional Suitability category.
+
+
+Functional Suitability
+
+
+This requirement falls under Compatibility. The system needs to be compatible with the computers used by Program Administrators and Nursing Staff Members in order for them to use it effectively.
+
+
+Performance Efficiency
+
+
+This requirement can be classified as a Performance Efficiency requirement. The classification target words are: 'Performance Efficiency'.
+
+
+This requirement falls under the category of 'Security'. The Disputes System needs to have different levels of access based on the disputes case initiation and follow-up actions, which implies controlling who can initiate a dispute case or perform follow-up actions. Therefore, it involves granting or denying access to specific functionalities in the system based on user roles or permissions, ensuring that only authorized users can access and manipulate certain data or actions related to disputes cases.
+
+
+This requirement can be classified into Functional Suitability and Usability.
+
+Functional Suitability: The classification for this requirement falls under "the product must enable customers with novice skills on the internet to purchase and watch streaming movies". It emphasizes that customers should have a simple, user-friendly experience when buying and watching pre-determined movies within a specific time frame of 3 minutes or less.
+
+Usability: This category refers to how easily users can learn, use, and interact with the product. In this case, it's about ensuring that customers with novice skills on the internet find it easy to purchase and watch streaming movies from the platform. The goal is for them to complete these tasks within a short period of time.
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+Functional Suitability
+
+
+This requirement falls under Functional Suitability and Usability. The user help should be easily accessible within the system, allowing users to find instructions quickly and easily, which is why it's classified under both categories.
+
+
+Functional Suitability
+
+
+This requirement falls under the Functional Suitability category.
+
+
+Performance Efficiency
+
+
+This requirement falls under Functional Suitability and Performance Efficiency categories.
+
+
+This requirement falls under the category of 'Functional Suitability'.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+This requirement falls under the Functional Suitability category.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+This requirement can be classified as a Functional Suitability. It focuses on the layout and organization of pages within a software application, specifically regarding the placement of action items and navigation buttons.
+
+
+This requirement falls under the category of Security (Functional Suitability). The main focus here is on ensuring that only disputes related to a particular cardholder base can be accessed by users, thus maintaining data privacy and security.
+
+
+This requirement falls under the 'Functional Suitability' category.
+
+
+This requirement falls under the category of Security. The objective is to ensure that only authorized users can access clinical site information, thereby protecting sensitive data related to clinical sites.
+
+
+Compatibility
+
+
+Compatibility
+
+
+Compatibility, Maintainability
+
+
+This requirement falls under the "Functional Suitability" category. It pertains to the provision of contact information for various individuals relevant to the system, which is a functional aspect that needs to be incorporated into the design of the software.
+
+
+This requirement falls under the 'Performance Efficiency' category. The classification reason is that it focuses on how quickly an Izogn Administrator can perform a specific task related to updating category listings on the website, which requires minimal response time.
+
+
+Functional Suitability
+
+
+This requirement falls under the category of Security. The website needs to have measures in place to protect itself from intentional abuse and notify administrators when such incidents occur.
+
+
+Functional Suitability
+
+
+This requirement falls under the category of Functional Suitability.
+
+
+Performance Efficiency
+
+
+Compatibility
+
+
+Compatibility
+
+
+Compatibility
+
+
+This requirement falls under the 'Functional Suitability' category as it pertains to displaying the latest movie additions on the website's main page.
+
+
+Functional Suitability
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+The user access limitation requirement falls under Functional Suitability as it pertains to the functions or capabilities that the Role-Based Access Control (RBAC) system will have in regulating user access to specific features within the RFS system. This classification ensures that the focus remains on how the new system will operate at a functional level, rather than being classified under a different category such as Security.
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+This requirement can be classified as Compatibility. It focuses on how the software will perform and function in a specific environment, which is the business office setting of the Nursing Department at DePaul University.
+
+
+This requirement falls under Functional Suitability and Maintainability categories.
+
+
+Compatibility
+
+
+Compatibility
+
+
+Functional Suitability
+
+
+This requirement can be classified as a Performance Efficiency requirement. The classification tag would be "Performance Efficiency".
+
+
+Compatibility
+
+
+Compatibility
+
+
+This requirement falls under Functional Suitability and Usability categories. 
+
+Functional Suitability: The product's support site allows registered users access to information, resources, or tools that help them solve issues they encounter with the software. Therefore, this classification is relevant to understand how well the support site serves its purpose in resolving user problems within a specified timeframe.
+
+Usability: This category assesses how easy and intuitive the product is for new users to start using it without training, as well as how quickly experienced users can find solutions on their own when encountering issues with the software. In this case, the requirement specifies that 70% of registered users should be able to solve their problems within 5 minutes after visiting the support site, which indicates its relevance in this category.
+
+
+Compatibility
+
+
+Performance Efficiency
+
+
+This requirement falls under the categories of Functional Suitability and Maintainability.
+
+Functional Suitability: The system should be able to display a printable summary for individual clinical labs, which includes information such as class name, class number, lab section listing of students enrolled, instructor, day(s) and time, and location. This functionality allows users to easily view and manage the schedule and details of each specific clinical lab session.
+
+Maintainability: The system should provide a printable summary for individual clinical labs, which includes important information such as class name, class number, lab section listing of students enrolled, instructor, day(s) and time, and location. This ensures that any necessary updates or changes to the clinical lab schedules can be easily printed and distributed to relevant parties.
+
+
+Security
+
+
+Functional Suitability
+
+
+This requirement can be classified as:
+
+* Performance Efficiency
+* Usability
+
+
+This requirement falls under Functional Suitability and Security categories.
+
+Functional Suitability: Program Administrators and Nursing Staff Members are able to modify information related to a clinical lab section, such as the clinical site name, department/section for the lab, class instructor, day and time of lab, and contact information. This indicates that the system should have functionality to allow authorized users to update these details, ensuring the accuracy and completeness of the data.
+
+Security: Only specific personnel (Program Administrators/Nursing Staff Members) are granted access to modify clinical lab section information, implying that there is a need for security measures to restrict unauthorized access or modifications to this sensitive data.
+
+
+The given requirement pertains to the Search functionality within the Disputes System. This falls under the category of Functional Suitability as it describes a specific search feature that the system must have. The search method should include the ability to filter results based on various criteria, such as dispute case number, merchant account number, cardmember account number, and issuer number. Additionally, the user should be able to limit the search results by date range, dispute type (ticket retrieval request or chargeback notification), case status (open, closed, or all), and dispute reason code. Therefore, this requirement can be classified as Functional Suitability.
+
+
+This requirement falls under the Functional Suitability category.
+
+
+Performance Efficiency
+
+
+Compatibility, Maintainability, Performance Efficiency
+
+
+This requirement falls under the 'Functional Suitability' category as it pertains to the ability of specific users (Program Administrators and Nursing Staff Members) to add a new feature (a cohort) to the system.
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+Functional Suitability
+
+
+This requirement falls under the category of Security (Security). The leads washing functionality needs to ensure that only authorized users with the right to update parameters are able to access this feature.
+
+
+This requirement can be classified as a Functional Suitability. It focuses on the system's ability to ensure secure access and manage user permissions consistently across its various components or modules.
+
+
+This requirement can be classified into two categories: Functional Suitability and Compatibility.
+
+Functional Suitability: This requirement pertains to the system's ability to determine a lead's score and proceed with the appropriate processing based on whether the score falls within high or low average scores. Therefore, it belongs in the Functional Suitability category as it describes how the system functions or performs its intended tasks.
+
+Compatibility: Since this requirement involves using the ARA (Automated Remarketing Assistant) functionality, which is likely integrated into a larger system or software suite, it also falls under the Compatibility category. This categorization signifies that the system in question should be compatible with other systems and tools used in the remarketing process.
+
+
+This requirement pertains to the 'Security' category. The ability for a user account to be revoked and only reinstated by the System Administrator highlights the need for strict control over user access and emphasizes the importance of proper authorization and authentication processes within the system.
+
+
+This requirement falls under the 'Security' category as it pertains to protecting customer data and maintaining a record of customer information even after an account is cancelled.
+
+
+This requirement falls under the 'Usability' category as it concerns the system's ability to handle a large number of users (nursing students) and their classes over an extended period (next 10 years). Additionally, it may also touch upon 'Maintainability' since it requires the system to process all data without any failures or issues.
+
+
+This requirement falls under the category of Security. The focus of this requirement is on ensuring that the product protects against unauthorized access or tampering with its data, and it prevents incorrect data from being introduced into the system.
+
+
+This requirement can be classified as a usability criterion. It focuses on how easy it is for users to learn and navigate the system after using it once. The given percentage (90%) indicates the level of retention of the user's knowledge and understanding of the system, which is an important factor in determining the usability of a system.
+
+
+This requirement falls under the category of 'Security'. The purpose of purging closed disputes cases that have been open for more than six months is to ensure data accuracy and prevent unauthorized access to old dispute records.
+
+
+Performance Efficiency
+
+
+Compatibility
+
+
+This requirement falls under the 'Security' category.
+
+
+This requirement falls under the 'Security' category. The sentence describes a specific access control that is needed for Program Administrators and Nursing Staff Members, allowing them to modify certain information about a Clinical Site.
+
+
+This requirement falls under the 'Functional Suitability' category as it pertains to adding new classes in the nursing department within the system.
+
+
+This requirement falls under the 'Functional Suitability' category.
+
+
+This requirement falls under Functional Suitability and Performance Efficiency categories.
+
+Functional Suitability: The product's ability to dynamically change its resources and transparently add new ones is a key functionality that allows it to handle increasing demand and avoid service disruptions. Therefore, this feature can be classified as a functional suitability category.
+
+Performance Efficiency: The dynamic resource changes and transparent resource addition help ensure the system remains efficient and scalable, thus making it part of performance efficiency category.
+
+
+Compatibility
+
+
+Functional Suitability

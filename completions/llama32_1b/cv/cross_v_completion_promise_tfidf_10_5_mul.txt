@@ -1,0 +1,280 @@
+Here are the classifications:
+
+1. 'The product shall be available during normal business hours.' - Availability
+2. 'As long as the user has access to the client PC the system will be available 99% of the time during the first six months of operation.' - Availability
+
+
+Here are the classifications:
+
+1. 'The product shall ensure that it can only be accessed by authorized users. The product will be able to distinguish between authorized and unauthorized users in all access attempts': 
+   - Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Availability
+
+
+Functional
+
+
+The given requirement: 'The product shall be able to support multiple remote users' can be classified into the following categories:
+
+- Scalability
+- Usability
+
+
+Scalability
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.' can be classified under the category: Performance
+
+
+Here are the classifications:
+
+1. 'The Disputes application shall interface with the Statement Database. The Statement Database provides the transaction details to the Disputes System. All transaction details must be obtained from the Statement Database'
+   - Operational
+
+
+Here are the classifications:
+
+1. 'The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.': 
+   - Security
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The Disputes System will provide the user the ability to create or initiate a ticket retrieval request. As part of ticket retrieval creation process the system must prompt the user to enter all the required information to create the ticket retrieval request. The ticket retrieval request is a document that is sent to merchant inquiring the validity of a transaction.'
+   - Functional
+2. 'The Disputes System must allow the user to create three unique types of ticket retrieval requests. The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio. A portfolio consists of documentation that would provide proof of a purchase such as the documentation that is received from a car rental agency that is more than a sales receipt.'
+   - Functional
+3. 'The Disputes System must allow the users to select disputable transactions (based on the age of the transaction) from a user interface and initiate a dispute (ticket retrieval request or chargeback notification) on the selected transaction.'
+   - Functional
+4. 'The Disputes System shall allow the user to create or initiate a chargeback request. The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.'
+   - Functional
+5. 'The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number. In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.'
+   - Functional
+6. 'The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information; the dispute case number the type of retrieval requested (copy original or portfolio) and the date that the merchant response is due.'
+   - Functional
+7. 'The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant.'
+   - Functional
+8. 'The Disputes application shall interface with the Letters application. This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application.'
+   - Operational
+9. 'The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network.'
+   - Performance
+10. 'The Disputes application shall interface with the Cardmember Posting and Billing System. This will allow the Disputes application to request adjustments to cardmember and merchant’s accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.'
+   - Operational
+
+
+Usability
+
+
+Here are the classifications:
+
+1. 'For any systematic (non-user initiated) action that occurs on a case such as the disputes aging process a case activity will be generated. Upon the next logon the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case.'
+
+   - Functional
+   - Usability
+
+
+Here are the classifications:
+
+1. 'The product shall be supported using the corporate support center.' 
+   - Operational
+
+
+Here are the classifications:
+
+1. 'Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.': Security
+2. 'Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.': Security
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product shall free of computer viruses.' 
+   - Security
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The system shall retain the available recycled parts and suppliers returned from the search.'
+   - Maintainability
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Operational
+
+
+Here are the classifications for the given requirements:
+
+1. 'Every registered user will have access to the product’s support site via the Internet.': Usability
+2. '70% of registered users shall find a solution to their problem within 5 minutes of using the support site.': Usability
+
+
+Here is the classification of the given requirement:
+
+Security
+
+
+Here are the classifications:
+
+1. 'The product shall be able to display calendar dates and times according to the user’s locale.' - Usability
+2. '90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.' - Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The product shall allow priviledged users to view meeting schedules in multiple reporting views.'
+   - Functional
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications for the given requirement:
+
+- Security
+- Performance
+
+
+Scalability
+
+
+The given requirement 'Izogn Administrator must be able to update the category listings on the website within 2 minutes.' can be classified under the category: **Performance**.
+
+
+Here are the classifications:
+
+1. 'The system will provide a 24 hour 800 toll free number for support to its customers.': 
+   - Availability
+
+
+Here are the classifications:
+
+1. 'The website shall make its user aware of its information practices before collection data from them via a Privacy Policy accessible on all pages of the website.': 
+   - Legal
+
+
+Security
+
+
+Here are the classifications:
+
+1.'shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.': 
+   - Availability
+   - Security
+
+
+Security
+
+
+Functional
+
+
+Here is the classification:
+
+Availability
+
+
+Here are the classifications:
+
+1. 'Vendor will submit a credit validation record to be applied to the enterprise billing system.'
+   - Operational
+
+
+Security
+
+
+Here are the classifications:
+
+1. 'The product shall prevent a player from viewing the offensive or defensive grids of the other player.' 
+   - Security
+
+
+Functional
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product shall be internet browser independent.' - Portability
+2. 'The product must run using Internet Explorer and Netscape Navigator.' - Operational
+
+
+Here are the classifications:
+
+1. 'The product shall provide Dynamic Change Support and Transparent resource addition.The product shall support Transparent Resource addition and Dynamic Change support to provide scalability and avoid service interruptions of more than 1 day.'
+   - Scalability
+
+
+Security
+
+
+Here are the classifications:
+
+1. 'Each page shall contain a navigation menu which shows the index into which the current page is contained.': 
+   - Functional
+
+
+Functional
+
+
+Performance
+
+
+Here are the classifications:
+
+- Functional
+- Maintainability
+- Availability
+- Scalability

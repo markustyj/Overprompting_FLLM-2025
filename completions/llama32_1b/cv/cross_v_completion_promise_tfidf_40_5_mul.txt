@@ -1,0 +1,210 @@
+Availability
+
+
+Security
+
+
+The given requirement: 'The bottom 3/4 of the table will hold events that occur according to its relevance to current time.'
+
+Category: Functional
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+The given requirement 'The product shall be available for use 24 hours per day 365 days per year' can be classified into the following categories:
+
+- Availability
+- Operational
+
+
+Functional
+
+
+The given requirement 'The product shall be able to support multiple remote users' can be classified under the category: **Scalability**
+
+
+Scalability
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds' can be classified under the category: **Performance**.
+
+
+Operational
+
+
+The given requirement 'The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.' can be classified under the category of **Security**.
+
+
+Functional
+
+
+Based on the given requirement, I would classify it under the following categories:
+
+- Functional: The requirement describes the functionality of the system, specifically the ability to create or initiate a ticket retrieval request.
+- Usability: The requirement also mentions the user experience, specifically the prompt to enter required information, which is related to usability.
+- Security: Although not explicitly mentioned, the requirement implies that the system will handle sensitive information (transaction validity) and prompt users to enter required information, which is related to security.
+
+However, if I had to choose one category that best fits the requirement, I would say it's Functional.
+
+
+Usability
+
+
+Here are the classifications for the given requirement:
+
+- Functional
+- Availability
+- Security
+
+
+Operational
+
+
+Security
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Operational
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Availability
+
+
+Security
+
+
+Here is the classification of the given requirement:
+
+**Usability**
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Security
+
+
+Scalability
+
+
+Functional
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+The given requirement'shall be able to stream purchased movie via Windows Media Player for up to 2 days after purchase date' can be classified under the category of **Availability**.
+
+
+Security
+
+
+Security
+
+
+The given requirement 'Daily usage statistics should be logged and accessible by the administrator' can be classified under the category: **Operational**.
+
+
+Operational
+
+
+Security
+
+
+Security
+
+
+Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Operational
+- Portability
+
+
+The given requirement can be classified into the following categories:
+
+- Scalability
+- Availability
+
+
+Security
+
+
+Usability
+
+
+Usability
+
+
+The given requirement 'A primary database will be used to store cached data for active users.' can be classified into the following categories:
+
+- Performance
+- Operational
+
+
+Scalability

@@ -1,0 +1,389 @@
+This requirement falls under the Functional Suitability classification as it describes a specific function or feature that the system should have - the ability to display a printable summary for individual clinical sites. The summary will include information on labs being held at that site, such as general information on the location, dates and times of all labs held there.
+
+
+Availability
+
+
+This requirement falls under the category of 'Compatibility'. The system needs to be able to interface with the student master server, which indicates that the software will need to connect and communicate with another system or database (in this case, the "student master server") in order to access or exchange information related to students.
+
+
+This requirement pertains to the functionality of the product by indicating that it will produce a simulated sound effect when an offensive player takes a shot. It falls under the category of 'Audio and Visual Effects'. It can be classified as a 'User Interface' requirement, specifically related to 'Sounds and Animations'.
+
+
+This requirement falls under Compatibility. The customer wants the product's look and feel to integrate with their organization's branding and identity, including incorporating their logo.
+
+
+This requirement can be classified as a 'Functional Requirement' under the category of 'Conference Room Management'. It outlines that the product should have an intuitive search functionality to help users easily find and reserve available conference rooms.
+
+
+This requirement pertains to the functionality of a multiplayer gaming platform or tool. The system should ensure that once a game is initiated, the players assigned to that particular game are marked as "busy" or "inactive" in the available player pool, preventing them from being selected for other games. This prevents double booking or conflicting assignment of players to different games simultaneously.
+
+Keywords: multiplayer gaming platform, availability status, player selection
+
+
+This requirement can be classified as a functional requirement under the "Usability" and "Reliability" categories. It pertains to the system's ability to function for an extended period of time, specifically five years, after its installation for each customer.
+
+
+This requirement falls under the 'Integration' category as it involves the ability of the product to interact and exchange information with other systems such as email servers. It also relates to the 'Performance Efficiency' aspect as it pertains to the capability of the product to send emails, which is a vital function for many applications.
+
+
+This requirement falls under the category of 'Functional Suitability'. It describes a feature of the website that allows customers to purchase pre-paid cards with varying values ($5, $10, and $20) using both credit card and a mail-in payment option.
+
+
+This requirement can be classified as a Fit/Gap Analysis criterion. It states that the product must comply with the intranet page standards and requirements of ENET Securities, specifically in terms of look and feel. Additionally, 95% of the product's look and feel will need to be approved by the Architecture group before implementation, while the remaining 5% will be corrected and approved within one month of product release.
+
+
+This requirement is related to the performance of the system, specifically the processing time for lead evaluations. It states that 97% of all lead evaluations should be completed within 25 seconds or less. (Classify as P1 - Critical)
+
+
+This requirement can be classified as a functional suitability requirement under the user interface category. It focuses on the aesthetic aspect of the interface, specifically its appeal to callers and supervisors, with the goal of ensuring a positive user experience.
+
+
+This requirement can be classified as a 'Functional Requirement' as it outlines a specific functionality of the system that needs to be implemented - displaying data from two external applications (Sync Matrix 1.0 and Exercise Management Tool 1.0).
+
+
+This requirement can be classified as a "Display" feature, specifically related to formatting of dates and times according to the user's locale. The goal is to have 90% of survey respondents from each target market country finding the formatting of dates and times correct in the product.
+
+
+This requirement can be classified as a functional requirement. It describes a behavior or functionality that the system must have in order to fulfill its purpose. In this case, the system purpose is likely related to managing disputes in a certain context (e.g., a customer service dispute resolution system).
+
+
+This requirement can be classified as a 'Functional Requirement'. It outlines a specific action that needs to be performed by Program Administrators and Nursing Staff Members within the system, which is adding clinical classes or sections to a sequence of classes.
+
+
+This requirement can be classified as a 'Functional Requirement' as it describes a specific functionality that the product (most likely an event management system or a similar software) needs to have - the ability to delete conference rooms.
+
+
+This requirement can be classified as a Performance Efficiency (PE) and Usability (U) concern. It falls under PE because it deals with the speed at which the product provides feedback to users, specifically, whether 80% of surveyed users report accurate confirmation of their actions within a specified timeframe. This is also categorized under U since it involves ensuring that the product provides appropriate feedback to users in an easily understandable and efficient manner.
+
+
+This requirement falls under the performance criterion "Performance Efficiency".
+
+
+This requirement can be classified as a Performance Efficiency requirement as it focuses on the user experience and how quickly users can complete a specific task within the system.
+
+
+This requirement is related to the display and readability of event/activity data on a 10x10 projection screen. It focuses on the user experience by ensuring that at least 90% of viewers can read the displayed data from a comfortable viewing distance of 30 feet. (Classify as Usability and Display/Graphics Requirement)
+
+
+This requirement relates to the security aspect of the system as it involves sensitive customer data (credit card information). Classifying this requirement would be 'Security'.
+
+
+This requirement can be classified as a 'Functional' requirement as it pertains to the functionality of the system, specifically regarding the ability of Program Administrators and Nursing Staff Members to specify the preferred sequence of classes for a given cohort.
+
+
+Classification: Security
+
+This requirement falls under the category of security as it specifies that only supervisors (i.e., authorized users with specific roles) should have access to modify or change a caller's schedule within the product. This ensures that unauthorized individuals cannot manipulate or interfere with the availability calendar, thus maintaining data integrity and protecting the system from potential misuse.
+
+
+This requirement is related to generating a report that lists the necessary course classes, including information such as the number of sections, number of labs, and the required room types. The classification for this requirement would be "Functional" under the "Requirements Classification" category.
+
+
+This requirement falls under the Functional Suitability category. The product should have a feature that allows the user to search for and select the preferred repair facility for a particular collision repair, taking into account factors such as location, availability, and quality of service.
+
+
+This requirement can be classified as a Performance Efficiency criteria as it focuses on the ease of using the product for a specific task (reserving a conference room). It states that 90% of users should be able to complete this task within 5 minutes of using the product.
+
+
+This requirement is related to Functional Suitability and Performance Efficiency. It states that the system should refresh the display every 60 seconds, indicating that it has a timer functionality.
+
+
+This requirement pertains to the performance aspect of a website or streaming service, specifically addressing the issue of continued operation in case of a temporary failure (such as a server going down). In the context of software development requirements, this would be classified under "Performance Efficiency" or "Reliability".
+
+
+Classifying the given requirement: 'The system shall display Events or Activities.' - This is a Functional Requirement as it pertains to the behavior of the system (displaying events or activities).
+
+
+This requirement falls under the category of 'Usability'. The consistency of the color scheme and fonts in the product will ensure that users find the interface easy to use and navigate, which is an important factor for a product to be considered user-friendly.
+
+
+This requirement falls under the 'Usability' category.
+
+
+Performance Efficiency
+
+
+This requirement refers to the graphical representation of events on a timeline, typically showing data points or markers for different occurrences over time. This could be used to visualize workflows, project progress, or any chronological data that needs to be represented visually. In simpler terms, it means creating a chart, graph, or timeline that shows events happening in sequence over time.
+
+
+This requirement can be classified as a usability feature as it focuses on the ease of use for both callers and supervisors in completing tasks within the system.
+
+
+This requirement pertains to the functionality of the product by classifying it under the "Sound and Visual Effects" category. It specifies that when a shot in the game is marked as a miss, the product should simulate the sound of a shot missing its target.
+
+
+This requirement can be classified as a "List Management" functionality within the "User Interface" category. It pertains to organizing and displaying information about the players during a game, allowing them to easily identify themselves as available participants.
+
+
+This requirement can be classified as a "Performance Efficiency" criterion since it focuses on the system's ability to function within the specified parameters of the computers used by Program Administrators and Nursing Staff Members.
+
+
+This requirement falls under the Performance Efficiency criterion. The classification is as follows:
+
+* Functional Suitability: The system must be able to pause and resume refreshing data, allowing for efficient handling of large datasets or limited resources.
+
+
+This requirement can be classified as a performance requirement related to lead processing time. It specifies that the total lead cycle time (the time it takes for a lead to be processed from beginning to end) must be completed within a certain timeframe, i.e., 5 minutes for 90% of the lead volume between business hours and 3 minutes for the remaining 10%. Additionally, during off-business hours, it should complete 99% of the lead processing time.
+
+
+This requirement falls under the category of 'Security'. It pertains to the level of access granted to users in relation to initiating and following up on disputes cases within the Disputes System.
+
+
+This requirement can be classified as a performance efficiency because it focuses on the ease of use for customers with novice skills on the internet to purchase and watch streaming movies within a specific timeframe (under 3 minutes).
+
+
+This requirement is related to the "Performance Efficiency" category. The product should have an asynchronous messaging system that allows for parallel processing and reduces communication overhead, enabling efficient handling of tasks or messages among users or systems.
+
+
+This requirement is classified as a Performance Efficiency criterion. It states that maintenance releases for the product should take no more than 5 minutes to install for at least 80% of the customer base.
+
+
+This requirement falls under the Functional Suitability category. It states that the Disputes System should provide a confirmation to users upon creation of a chargeback request, containing specific information about the dispute case number, type of chargeback requested (pending or immediate), and the date when the merchant response is due.
+
+
+Class: Performance Efficiency
+
+This requirement falls under the performance efficiency category as it discusses the ease with which users can find instructions while using the product. The emphasis is on finding user help within a certain percentage of the system, which indicates that the product should have an organized and easily accessible help feature.
+
+
+This requirement can be classified as a Functional Requirement under the 'Reporting and Data Management' category. The specific functionality it describes is an "Inventory Quantity Adjustment Document Generation" feature, which automates the process of generating a report or document detailing product sales and resulting inventory quantity adjustments.
+
+
+This requirement falls under the category of Game End Condition in a strategy or naval-themed board game. It specifies that the game ends when an offensive player sinks the last ship on the defense side, which has not already been marked as "sunk."
+
+
+This requirement falls under Performance Efficiency. It states that the product should have a quick response time to ensure up-to-date data is displayed on its interface.
+
+
+This requirement falls under the category of 'Display and Reporting'. It specifies that the displayed list of dispute cases after a search should be color-coded to easily identify the status of each dispute case.
+
+
+This requirement falls under the category of Performance Efficiency. The classification is based on the fact that this requirement focuses on the speed and response time of the game, specifically related to a player not being able to view the offensive or defensive grids of the other player.
+
+
+This requirement is related to the functionality of specifying class requirements for a program of study by Program Administrators and Nursing Staff Members. It falls under the category of 'Course Management'.
+
+
+This requirement falls under the category of 'Functional Suitability'. It describes a specific behavior of the product - displaying conference rooms based on search parameters.
+
+
+This requirement pertains to the classification of vehicle data within the system. It states that the vehicle data should include information about the vehicle's year, make, and model. This information is important for various purposes such as tracking, maintenance, and repair of vehicles. The following are the classifications for this given requirement:
+
+* Functional Requirement (FR) - This classification refers to a requirement that outlines what the system must do or provide in order to meet its objectives. In this case, the functional requirement is to include vehicle year, make, and model data within the vehicle data.
+* Data Element - A Data Element (DE) is a specific piece of information or data that the system needs to store, process, or display. For example, 'year', 'make', and 'model' would be considered as data elements for this requirement.
+
+
+This requirement pertains to the functionality of a sports-related game or simulation where shots are made by players and scored by simulating the sound of a shot hitting its target. The classification for this requirement would be under 'Sound Simulation' in the context of Game Development or Simulation Software.
+
+
+This requirement can be classified as a "Process" since it describes a specific step within the process of requesting and auditing recycled parts for a collision estimate.
+
+
+This requirement pertains to the display of information to the user, specifically about the current repair facility ratings. It falls under the Functional Suitability category as it deals with what the system should provide or allow the users to do.
+
+
+This requirement can be classified as a design or presentation guideline. It suggests that the interface of the product should have a specific layout for pages, with action items (such as buttons) placed in a particular location, making it easy for users to find and use them.
+
+
+This requirement pertains to the "Access Control" category as it specifies the need for the system to restrict access to specific disputes based on the user's cardholder base.
+
+
+This requirement falls under the Functional Suitability category. The system needs to generate a report that displays a list of needed classes for a particular cohort and program for Program Administrators/Nursing Staff Members' planning purposes in order to fulfill this requirement.
+
+
+This requirement falls under the category of 'Access Control'. It states that only authorized users (probably referring to healthcare professionals or administrators) should be able to access and view clinical site information. This is a security-related functionality, ensuring sensitive data related to patient care is not accessed by unauthorized individuals.
+
+
+Security
+
+
+This requirement can be classified as a "Performance" or "Functional" requirement. It falls under the category of "User Interface/Experience (UI/UX)" as it relates to how users perceive the product's appearance and its level of professionalism.
+
+
+This requirement pertains to a system function that aims to identify and recommend the most suitable repair facility based on specific input criteria. The system needs to possess the capability to evaluate multiple factors such as proximity, cost, quality of service, and customer reviews to determine the best fit for the user's requirements. This functionality can be classified under "Matchmaking" or "Recommendation Engine" category in terms of system capabilities.
+
+
+This requirement falls under the Functional Suitability category as it describes a specific feature that the system should have - contact information (email and phone number) for various individuals relevant to the system.
+
+
+This requirement falls under the "Performance Efficiency" category. The user wants an admin to be able to update category listings on the website within 2 minutes. (Classification: Performance Efficiency)
+
+
+This requirement falls under the category of 'Performance Efficiency'. It describes the frequency at which the product will check for new messages, with a maximum interval of 1 second.
+
+
+This requirement pertains to the security aspect of the website, specifically mentioning protection against intentional abuse and notification of administrators during such incidents. It can be classified under 'Security'.
+
+
+This requirement can be classified as a "Functional" requirement since it describes a specific functionality of the product - providing portals for system administrators to analyze transactions with ad-hoc reporting and key performance indicators (KPIs).
+
+
+This requirement pertains to a sports game application. The classification for this requirement would be under 'Functional Requirements - Game Play Features'. It relates to how the game should function for shots taken by players, specifically informing them whether the shot was a hit or a miss.
+
+
+This requirement is classified as a Performance Efficiency requirement. It focuses on the responsiveness of the product interface, specifically targeting the maximum acceptable response time for user interactions.
+
+
+This requirement falls under the 'Usability' category because it deals with how easily a user can access their personal preferences and information within the product. (Classify as UC1)
+
+
+This requirement pertains to the functionality of a system that displays a blank set of ratings when there are no existing ratings in the system. In simpler terms:
+
+* The system should show an empty rating form or section when it does not have any available ratings yet.
+
+
+This requirement is related to the functional aspect of the website, specifically in terms of user interface (UI) design and animations. It can be classified as a "Features" or "Functional Requirements."
+
+
+This requirement falls under the category of 'Functional Suitability'. The system needs to be able to display the latest movies added to the website on its main page, and this functionality should be automated to update weekly.
+
+
+Usability
+
+
+The given requirement pertains to the availability of the Disputes application. It states that the application should be available 24x7x365, with scheduled maintenance windows on Monday-Saturday from 3:00 am to 4:00 am EST and on Sunday from 1:00 am to 5:00 am EST. This indicates that the Disputes application must have a high level of availability, but there will be limited downtime during the specified maintenance windows. The requirement falls under Performance Efficiency as it focuses on ensuring minimal disruption in service for users.
+
+
+This requirement can be classified as a SecurityRequirement. It talks about the concept of Role-Based Access Control (RBAC) where user access to certain functionalities in the system is determined by their assigned roles and the permissions associated with those roles.
+
+
+This requirement is a functional specification for a feature within the software that updates the information about existing room equipment in the system. It states that the product should have a feature that updates the equipment currently present in the rooms when certain actions are performed, such as reserving or releasing a conference room.
+
+
+This requirement indicates that the product should be able to connect and interact with different types of database management systems, including Oracle, SQL Server, DB2, MySQL, and MS Access. (Compatibility)
+
+
+This requirement can be classified as a "Performance Requirement" as it describes the environment in which the system needs to operate efficiently and effectively. It specifies that the system should be suitable for use in a typical nursing department office setting at DePaul University, indicating the expected operational capabilities of the system.
+
+
+This requirement falls under the category of 'Notification Systems' as it pertains to informing affected parties about changes in cohorts within a program of study or schedule.
+
+
+Performance Efficiency
+
+
+This requirement falls under the category of "Functional Requirement" as it describes a specific action that the system should perform for the users. More specifically, it talks about entering new ratings based on an audit report, which indicates that the system needs to have functionality to handle audit reports and generate ratings accordingly.
+
+
+Performance Efficiency
+
+
+This requirement can be classified as a Performance Efficiency requirement as it focuses on the speed at which the system performs a specific task - finding the preferred repair facility in this case, within a given time frame of 8 seconds. (RQ)
+
+
+This requirement is about compatibility with a specific version of Internet Explorer (IE) - in this case, IE 5.5 and above. (Classify as Compatibility)
+
+
+This requirement falls under the Functional Suitability category. The system should ensure that it reveals only the necessary private information as per the organization's information policy.
+
+
+This requirement can be classified as a Functional Requirement under the category of User Support. It focuses on the provision of support to users through an online platform, specifically mentioning that 70% of users should be able to solve their issues within 5 minutes.
+
+
+Classification: Performance Efficiency
+
+
+This requirement indicates that the product should be able to handle a maximum of 1000 simultaneous users. This means that the product must have sufficient resources and capacity to manage user interactions, responses, and tasks simultaneously without experiencing any significant slowdown or crashing.
+
+
+This requirement falls under the Functional Suitability category, as it describes a specific feature that the system must possess in order to meet its purpose. The system needs to display a printable summary for individual clinical labs, which should include information such as class name, class number, lab section, listing of students enrolled, instructor, day(s) and time(s) location.
+
+
+This requirement can be classified as a Functional Requirement under the "User Account Management" category. It pertains to the functionality of the system allowing customers to cancel their accounts, with a specified performance constraint that the cancellation process should take no longer than 2 minutes.
+
+
+This requirement can be classified as a 'Output' because it describes a product component that will be made available to users as a result of using the system. Specifically, it refers to an output - the audit report - that will be accessible by other adjusters at a later point in time.
+
+
+This requirement is related to Performance Efficiency and can be classified as follows:
+
+* Functional Requirement: Navigation within the Disputes application
+* Non-Functional Requirement: Performance Efficiency
+
+
+This requirement pertains to the modification of information related to a Clinical Lab Section in a program administered by Program Administrators or Nursing Staff Members. The modifications include updating the clinical site name, department/section for the lab, class instructor's day and time, and contact information.
+
+
+This requirement falls under the category of Search functionality in the Disputes System. It describes the various search criteria that users can apply to find specific disputes within the system, such as dispute case number, merchant account number, cardmember account number, and issuer number. Additionally, it specifies that users can limit their search results by a date range, dispute type (ticket retrieval request or chargeback notification), case status (open or closed), and various reason codes.
+
+
+This requirement refers to a feature within the product that assigns scores to leads based on specific criteria provided by corporations and schools. The scoring system is used to evaluate and prioritize potential candidates for employment or enrollment in educational programs.
+
+
+This requirement can be classified as a "Performance Requirement" under the category of "Availability". It emphasizes that the system should be operational and accessible for at least 95% of the total measured time.
+
+
+This requirement falls under the category of 'Performance Efficiency'. It focuses on tracking daily usage statistics for a system, allowing administrators to monitor and analyze the system's performance over time.
+
+
+This requirement can be classified as a "Data Management" functionality, specifically related to managing user data (e.g., Program Administrators, Nursing Staff Members) within the system. It involves adding a new cohort of students with specific details such as their start month and year.
+
+
+This requirement is classified under "Compatibility" as it talks about the ability of the RFS system to interface with another environment (BDW).
+
+
+This requirement refers to the automatic entry of substitute ingredients in a product manufacturing process by the Product Formula Engineering (PFE) subsystem. The PFE subsystem is responsible for managing and updating product formulas, including substituting specific ingredients when required. 
+
+Key aspects:
+1. Automatic entry: This means that as soon as a substitution is needed, the system will automatically update the formula with the new substitute ingredient information.
+2. Product manufacturing process: It's about how the PFE subsystem interacts within the product manufacturing context, ensuring efficient and accurate recipe substitutions in real-time or batch updates. 
+
+This requirement falls under the 'Performance Efficiency' category as it highlights the system's ability to automate a key aspect of ingredient management for manufacturers.
+
+
+This requirement falls under the category of 'Security'. It focuses on protecting the privacy and confidentiality of the players by not revealing their identities to each other through the game interface.
+
+
+This requirement pertains to the "leads washing" functionality in terms of user authentication and access rights management. It is about ensuring that before any lead-related parameters are updated, appropriate authentication and access rights checks are performed. In other words, it's a security measure for managing data modification within the system.
+
+
+This requirement pertains to the system's ability to ensure consistent security by managing user passwords and permissions across all parts of the system. It implies that any updates or modifications made to user passwords and permissions should be reflected uniformly throughout the entire system, ensuring a secure environment for users.
+
+
+This requirement is related to the 'Lead Management' feature of the system. It deals with the classification of lead scores and determining whether or not they should be processed through the ARA (Approved Recycled Autoparts) functionality. The goal is to identify high-scoring leads that warrant further action.
+
+
+This requirement states that if a user account needs to be reinstated (re-instantiated), it can only be done by the System Administrator. This falls under Security category as it relates to user access and permissions.
+
+
+This requirement pertains to the functionality of a system that manages customer information. The system needs to store and maintain all registered customer information even after a customer cancels their account. This is a functional requirement for data management within the system. Classifying this requirement would be under 'Data Management' or 'User Account Maintenance'.
+
+
+This requirement is related to the functionality of handling and processing data related to nursing students and their classes. It focuses on the capacity of the system to handle an extensive amount of data over a long period (next 10 years). The classification would be under 'Functional Suitability' or 'Data Management'.
+
+
+This requirement falls under the category of 'Data Integrity'. It concerns ensuring that the product prevents incorrect data from being introduced into its system, which can be classified as either 'Functional' or 'Performance Efficiency' depending on the context.
+
+
+This requirement can be classified as a usability or learning curve related constraint. It suggests that the system should have an intuitive design and the users should be able to grasp its basic functionality after just a few uses, with most of the features remembered afterward. This is particularly important for user-friendly systems, such as consumer software applications or web portals.
+
+
+This requirement falls under the 'Data Management' category. It discusses a process of purging data from an online disputes database after a specified period (six months in this case) to manage and maintain the database efficiently.
+
+
+This requirement is related to the Performance Efficiency domain. The system should have a response time of less than or equal to 3 seconds for at least 90% of the time, under an 112k connection or faster.
+
+
+The given requirement states that application updates will happen between 3 AM and 6 AM CST on Wednesdays during the middle of the NFL season. This can be classified as a "Maintenance" or "Update" requirement, as it pertains to when the application will undergo updates to ensure its functionality remains intact. The specific timing of the update window (between 3AM and 6 AM CST) suggests that minimal disruption to users is desired, which aligns with the best practice for scheduling maintenance windows during off-peak usage hours. Additionally, specifying the timeframe during the middle of the NFL season likely means there will be fewer updates or disruptions during games or other high-traffic times on those specific dates.
+
+
+This requirement falls under the category of 'Security'. It pertains to the access control of sensitive data related to students' personal information within a system.
+
+
+This requirement refers to the ability for Program Administrators (e.g., faculty or staff in charge of overseeing a program) and Nursing Staff Members (e.g., nursing supervisors) to modify information related to a specific clinical site, such as its name, contact person, and address. This functionality falls under the category of 'Information Management' and is concerned with updating and maintaining accurate data related to clinical sites within a system or database used for managing programs or student placements.
+
+
+This requirement falls under the Functional Suitability category as it pertains to the ability of Program Administrators and Nursing Staff Members to add new classes within the nursing department in the system.
+
+
+Performance Efficiency
+
+
+This requirement is about the ability of the product to dynamically adjust its resources (e.g., CPU, memory, storage) in response to changes in workload, and seamlessly add new resources as needed without causing service disruptions for more than a day. This indicates that the system should be scalable and able to handle varying levels of demand while maintaining high availability. It is related to Performance Efficiency, Scalability, and Reliability.
+
+
+This requirement pertains to the functionality of a recipe management system or any software that manages ingredient lists and preparation instructions for cooking or other culinary arts. The classification would fall under 'Functional Suitability'. This means that the product should maintain the persistent ordering of substitute ingredients, meaning that it will remember and store them in the same order they were listed when the user submits a recipe with substitution options.
+
+
+This requirement falls under the category of 'Usability'. The system needs to use symbols and words that are easily understandable by the target user community to ensure that users can interact with the system effortlessly.

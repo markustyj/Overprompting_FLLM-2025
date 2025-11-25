@@ -1,0 +1,367 @@
+ Functional
+
+
+ Look and Feel
+
+
+ Operational
+
+
+ Functional
+
+
+ Operational
+
+
+ Look and Feel
+
+
+ Usability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance (since the system needs to process the payment transaction efficiently)
+
+
+ Look and Feel
+
+
+ Performance
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Performance
+
+
+ Security
+
+
+ Functional
+
+
+ Security
+
+
+ Functional
+
+
+ Security (since the adjuster has the ability to override a system preference, which could potentially lead to unauthorized access or manipulation)
+
+
+ Usability
+
+
+ Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Usability
+
+
+ Performance
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Operational
+
+
+ Performance (since it allows for better control over the system's resource usage and response time)
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Portability (since it mentions 'Portals') and Performance (since it mentions 'ad-hoc reporting' and 'Key Performance Indicators')
+
+
+ Operational
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Usability
+
+
+ Look and Feel
+
+
+ Accessibility (Operational)
+
+
+ Functional
+
+
+ Operational
+
+
+ Security
+
+
+ Look and Feel
+
+
+ Scalability (since it defines the range of the search radius)
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional (Purchase functionality)
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Security
+
+
+ Functional
+
+
+ Usability, Maintainability
+
+
+ Functional
+
+
+ Functional
+
+
+ Scalability
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Legal
+
+
+ Performance
+
+
+ Usability
+
+
+ Scalability
+
+
+ Functional
+
+
+ Performance
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Functional
+
+
+ Maintainability
+
+
+ Functional
+
+
+ Performance
+
+
+ Functional
+
+
+ Backup and Restore: Maintainability
+
+
+ Functional
+
+
+ Maintainability
+
+
+ Performance, Operational, Security
+
+
+ Performance
+
+
+ Security
+
+
+ Usability
+
+
+ Functional
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance, Security
+
+
+ Performance
+
+
+ Functional
+
+
+ Usability

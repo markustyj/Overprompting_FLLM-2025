@@ -1,0 +1,367 @@
+ Functional
+
+
+ Functional
+
+
+ Operational
+
+
+ Functional
+
+
+ Operational
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Scalability
+
+
+ Performance
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Performance (during business hours), Scalability (for 90% of lead volume) and Availability (during off business hours)
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Security
+
+
+ Functional
+
+
+ Security
+
+
+ Performance
+
+
+ Functional
+
+
+ Usability
+
+
+ Performance
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Usability, Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Operational
+
+
+ Operational
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability (or Fault Tolerance, depending on how the preference retention is handled in case of failure)
+
+
+ Portability, Maintainability (ad-hoc reporting)
+
+
+ Maintainability
+
+
+ Functional
+
+
+ Usability (for the first part), Operational (for the second part)
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Usability
+
+
+ Functional
+
+
+ Operational
+
+
+ Security
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Error Tracking Services falls under the category of Usability, as it helps System Administrators and DBAs to resolve errors, which is a usability aspect. The 99% requirement is a Performance metric, as it specifies the expected success rate of resolving errors.
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Usability, Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Functional
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Functional
+
+
+ Scalability
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (or Maintainability, depending on the specific system's design)
+
+
+ Security
+
+
+ Maintainability
+
+
+ Usability
+
+
+ Scalability
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Functional
+
+
+ Performance, Maintainability
+
+
+ Functional
+
+
+ Performance
+
+
+ Functional
+
+
+ Backup and Restore: Fault Tolerance
+
+
+ Functional
+
+
+ Security
+
+
+ Functional
+
+
+ Scalability (during specified hours)
+
+
+ Security
+
+
+ Usability
+
+
+ Formatting: Look and Feel
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Operational

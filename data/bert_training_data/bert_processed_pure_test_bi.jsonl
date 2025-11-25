@@ -1,0 +1,609 @@
+{"text": "System shall utilize SSL (Secured Socket Layer) certificate for protection.", "label": 0}
+{"text": "The system shall allow creating a new game with a name and optional description.", "label": 1}
+{"text": "User shall/will be able to interact with the system using standard input/output devices including keyboard, monitor, printer, and scanner.", "label": 0}
+{"text": "The APAF system shall acquire from ESOC the telemetry data of the ASPERA-3 Experiment and Mars Express Orbit/Attitude.", "label": 1}
+{"text": "The system shall enable users to write comments on posts.", "label": 1}
+{"text": "The adjuster shall be able to override the preferred repair facility on the estimate assignment.", "label": 1}
+{"text": "In case of a Revision task, the user shall be able to select the exam the revision is for.", "label": 1}
+{"text": "The server shall be capable of supporting an arbitrary number of active orders, meaning no orders shall be lost under any circumstances.", "label": 0}
+{"text": "The system shall track user data preview statistics.", "label": 0}
+{"text": "The user shall be able to filter their view by Academic Year/Term or Current.", "label": 1}
+{"text": "System shall maintain uptime as per defined expectations and handle errors effectively.", "label": 0}
+{"text": "The system shall warn the user that the particular field is mandatory and allow the user to continue completing.", "label": 1}
+{"text": "The system shall display information about people, products, brands, and broadcaster logos identified in videos.", "label": 1}
+{"text": "The system shall provide all examination category pages.", "label": 1}
+{"text": "Receipt and statement dispensers shall have specified maximum dimensions.", "label": 1}
+{"text": "System shall be able to display a walking tour page when the user clicks a Walking Tour link.", "label": 1}
+{"text": "System shall allow input of numbers, operands, special symbols, and letters.", "label": 0}
+{"text": "The user shall be able to see their overall score and a plot conclusion to their answers to key story questions.", "label": 1}
+{"text": "An OK indicator, appearing green, shall signify the absence of any diagnostic conditions.", "label": 1}
+{"text": "The system shall be responsive, ensuring that it promptly follows every command given by the users.", "label": 0}
+{"text": "The system shall allow staff members to capture hearing decisions for enforcement.", "label": 1}
+{"text": "The system shall display car information in a user-friendly format.", "label": 1}
+{"text": "The system shall validate user information before processing the transaction.", "label": 1}
+{"text": "The system shall support multiple languages for user interface elements, potentially including multilingual ebooks.", "label": 0}
+{"text": "The system shall be able to display a printable summary for individual clinical labs which will include (but not be limited to) class name class number lab section listing of students enrolled instructor day(s) time and location.", "label": 1}
+{"text": "System shall check the database to determine if the items are in stock.", "label": 1}
+{"text": "The BE shall periodically or upon request check PIDs and assure that all started tasks are alive and running.", "label": 0}
+{"text": "User shall be able to create and edit Event records.", "label": 1}
+{"text": "The system shall be maintainable through modular code structure, allowing for easy future modifications by separating functionalities into subscenes within the main Flash game.", "label": 0}
+{"text": "The application's code structure should be designed for easy extension, facilitating the addition of new features.", "label": 0}
+{"text": "FABS user shall not receive DABS banner messages and vice versa.", "label": 1}
+{"text": "The system should perform its intended function without failure for a specified period.", "label": 0}
+{"text": "When a user selects the option to join an existing game, the MultiMahjongClient will retrieve a list of any games that still require players from the MultiMahjongServer.", "label": 1}
+{"text": "User shall be able to post jobs with detailed descriptions including job title, company name, location, salary, job type, work type, and required skills.", "label": 1}
+{"text": "Only a moderator shall be able to group ideas and specify a name for the group.", "label": 1}
+{"text": "Users shall be able to send text messages, pictures, videos, audio recordings, video calls, and play multiplayer games.", "label": 1}
+{"text": "System shall facilitate the process of adding, removing, and managing items in the shopping cart during transactions.", "label": 1}
+{"text": "The system shall include \"grammar\" checks to ensure proper placement of slurs and ties.", "label": 1}
+{"text": "System shall maintain data securely in a fireproof cabinet 25 km away from the hospital.", "label": 0}
+{"text": "User shall be able to use the application in multiple languages, including English and French.", "label": 0}
+{"text": "System shall offer keyboard-based navigation for rearranging hierarchy elements in the frontend.", "label": 0}
+{"text": "System shall accommodate a large volume of items and users without encountering faults.", "label": 0}
+{"text": "A Data Publishing User shall be able to import data in various formats (Excel, JSON, Google Spreadsheet, Fiscal Data Package).", "label": 1}
+{"text": "The user shall be able to choose the type of task (Assignment, Reminder, Revision) from a drop-down menu.", "label": 1}
+{"text": "The system shall cater to 10 simultaneous users from 9am to 5pm.", "label": 0}
+{"text": "The platform shall have a blog highlighting open fiscal projects.", "label": 0}
+{"text": "User shall benefit from a modularized and well-documented system for ease of maintenance and future enhancements.", "label": 0}
+{"text": "System shall ensure that enabling or disabling explore for a dataset does not result in silent loss of data or data available for explore.", "label": 0}
+{"text": "The system shall allow curators to establish relationships between collections.", "label": 1}
+{"text": "The Life Insurance System shall provide registration forms for customers, agents, and employees.", "label": 1}
+{"text": "User shall ensure ease of porting the software to other host machines and/or operating systems.", "label": 0}
+{"text": "User shall be able to change the calendar to a different month.", "label": 1}
+{"text": "Encryption shall be employed by the system for all privacy-sensitive data stored on the server.", "label": 0}
+{"text": "System shall facilitate information exchange between citizens and police.", "label": 1}
+{"text": "The product shall allow the user to view previously downloaded search results CMA reports and appointments.", "label": 0}
+{"text": "The software interface shall be designed to provide a more intuitive and natural drawing experience for users with a touch-screen enabled tablet/monitor.", "label": 0}
+{"text": "Regular maintenance and monitoring procedures shall be established to identify and address potential reliability issues proactively.", "label": 0}
+{"text": "The system shall allow users to change their information at any time.", "label": 1}
+{"text": "System shall enable depositors to specify disposal policies for datasets to ensure legal and contractual compliance.", "label": 1}
+{"text": "System shall be able to send newsletters regarding promotions.", "label": 1}
+{"text": "The system will notify affected parties when changes occur affecting specific students including but not limited to changing a student\u2019s status from full time to part time and moving a student to a different clinical section.", "label": 1}
+{"text": "The BE shall send output data to the e2e System.", "label": 1}
+{"text": "The user can manipulate and view course details, including department-wise and description.", "label": 1}
+{"text": "A waiter shall be able to log into a tablet using their assigned username and  password.", "label": 1}
+{"text": "Healthcare providers shall have the ability to create and send electronic prescriptions to pharmacies.", "label": 1}
+{"text": "Bidders shall score points based on their predictions, with point values varying depending on the point difference between the two teams playing.", "label": 1}
+{"text": "The system shall be able to interpret desired heating/cooling unit and its requested ON/OFF status.", "label": 1}
+{"text": "The system shall allow users to view equipment information.", "label": 1}
+{"text": "User can register working locations of healthcare workers for use in health survey forms.", "label": 1}
+{"text": "System shall segment view and download statistics by country and sector to demonstrate broader impact.", "label": 0}
+{"text": "User shall be able to maintain daily logs (employee function).", "label": 1}
+{"text": "The System must provide adequate response times for commonly performed functions under both standard and peak conditions", "label": 0}
+{"text": "Customer Shall be able to login or skip from registration to enter the menu dashboard.", "label": 1}
+{"text": "Web interface shall use clear and consistent terminology for ease of use by users with basic internet and office experience.", "label": 0}
+{"text": "System shall provide an interface for sellers to add product description and price through their account.", "label": 1}
+{"text": "A Moderator shall be able to specify a warning for total time remaining.", "label": 1}
+{"text": "The system shall be able to activate the appropriate heating or cooling unit based on a predefined temperature differential between the current temperature and setting.", "label": 1}
+{"text": "The system shall allow any authorized university group member to add assets to the inventory.", "label": 1}
+{"text": "The system shall specify the content, format, and criteria for generating reports and other data outputs.", "label": 1}
+{"text": "The system shall track checksums for content files.", "label": 1}
+{"text": "Interfaces must be customizable and user-configurable, saving configurations in user profiles.", "label": 0}
+{"text": "The system shall allow users to create, schedule, track, and manage tasks related to sales activities.", "label": 1}
+{"text": "A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.", "label": 1}
+{"text": "The product should enhance the productivity of Collision Estimators, with 80% agreeing their productivity has increased within one month.", "label": 0}
+{"text": "System's back-end servers shall only be accessible to authenticated administrators for security.", "label": 0}
+{"text": "WhatsApp shall distinguish between Wi-Fi and mobile data networks for media download operations.", "label": 1}
+{"text": "The MultiMahjongClient will save the user preferences in a file and read them in when the program begins.", "label": 1}
+{"text": "User shall be provided with a comprehensive help and support system to address any issues or queries related to Gmail usage.", "label": 1}
+{"text": "System shall enable persistent web links between articles and underlying datasets for robust research referencing.", "label": 0}
+{"text": "Software shall be provided that allows an authorized user full access to all messaging, monitor, and control traffic throughout the CMCS.", "label": 0}
+{"text": "User shall be able to process data, reloading if necessary, and accurately handle attributes for recommendations.", "label": 1}
+{"text": "User shall expect the Big Basket server to be operational 24*7 without any interruptions.", "label": 0}
+{"text": "User shall be notified when they initiate shipment of an item.", "label": 1}
+{"text": "For non-programmers, the system shall allow customization of the application's visual style (colors and icons) for easy maintenance.", "label": 0}
+{"text": "Developer shall provide FABS groups that function under the FREC paradigm.", "label": 1}
+{"text": "Restaurant owner account creation prioritizes security by enforcing unique usernames, requiring them to choose a different option if their desired name is unavailable.", "label": 0}
+{"text": "Recent jobs shall be displayed on the homepage.", "label": 1}
+{"text": "If all required fields are properly filled, the user shall be redirected to the main page.", "label": 1}
+{"text": "Defaults for data entry must be persistent and include user-definable, previous, and context-derived values.", "label": 0}
+{"text": "Faculties shall be able to upload and download assignments, college notices, student notices, journals, and videos.", "label": 1}
+{"text": "User shall be able to create a new account by entering personal details.", "label": 1}
+{"text": "The system shall be available as an application on both Android and iOS platforms.", "label": 0}
+{"text": "System shall require users to have Java plug-ins enabled and CSS functioning properly.", "label": 0}
+{"text": "User shall/will be able to integrate with Netbeans IDE 7.2.1 for Java development and MySQL Query Browser for database management.", "label": 0}
+{"text": "The system shall offer functionalities for enhancing scanned documents (e.g., adjusting brightness, contrast).", "label": 1}
+{"text": "The user shall be able to get driving directions to a selected property.", "label": 1}
+{"text": "System shall be easy to operate and manage.", "label": 0}
+{"text": "Adobe Illustrator shall achieve smooth operation and optimal performance.", "label": 0}
+{"text": "User shall be able to attach subject-specific metadata to datasets for improved discoverability.", "label": 1}
+{"text": "The product shall respond fast to keep up-to-date data in the display.", "label": 0}
+{"text": "System shall verify user credentials with the bank databases and accept or reject authorization.", "label": 1}
+{"text": "The LMS shall store all information about librarians and patrons, including their access keys and priority.", "label": 1}
+{"text": "A supervisor shall be able to abort/purge a table's account/meals from the  active system with no expectation of payment.", "label": 1}
+{"text": "The system shall allow staff members to assign hearing dates for applications.", "label": 1}
+{"text": "System shall ensure efficient email communication for trainers via the website.", "label": 0}
+{"text": "User shall present their ID card for validation.", "label": 1}
+{"text": "User shall be able to cut items by selecting them and clicking the \"Cut\" button.", "label": 1}
+{"text": "Candidates shall enter required details and submit to view marks information.", "label": 1}
+{"text": "User shall specify metadata for an experiment protocol before creating a file.", "label": 1}
+{"text": "User shall view the header information box showing the updated date and time.", "label": 0}
+{"text": "The system shall verify the entered login credentials (email/password) and grant access if valid.", "label": 1}
+{"text": "The user shall be able to view past tasks by tapping the three-dotted menu widget on the top right corner of the screen.", "label": 1}
+{"text": "User shall be able to input correct last watched title string with validation for its presence.", "label": 0}
+{"text": "The system shall enable users to search for information online.", "label": 1}
+{"text": "User shall be able to make a booking (client function).", "label": 1}
+{"text": "User shall be able to register by providing username, surname, password, and email.", "label": 1}
+{"text": "User shall be able to see a displayed set of topics when performing a search as described in requirement UCAR602.", "label": 1}
+{"text": "The product shall be web-based and must operate from a web server.", "label": 0}
+{"text": "User shall be able to make payments securely through integrated payment gateways like PayPal, InterSwitch, etc.", "label": 0}
+{"text": "Professionals, including agents who work as residential and commercial real estate brokers, provide property details to the admin, who then adds the property to the website.", "label": 1}
+{"text": "System shall ensure supportability through well-documented code and modules.", "label": 0}
+{"text": "The system shall be able to retransmit, reconstruct, or reprocess data to ensure its reliability in case of loss or inaccessibility.", "label": 0}
+{"text": "System shall allow user to track shipments by entering order information.", "label": 1}
+{"text": "System shall be able to modify the appearance of the separate launchers.", "label": 1}
+{"text": "System shall ensure protection against various types of failures, damage, or harm, including physical, social, financial, and psychological.", "label": 0}
+{"text": "System conducts health surveys to identify disease outbreaks, storing data offline if connectivity fails.", "label": 1}
+{"text": "The system shall allow applicants to resubmit revised plans.", "label": 1}
+{"text": "System shall be able to print a receipt, update system parameters, and dispense money upon a successful transaction.", "label": 1}
+{"text": "The system shall allow archivists to automatically assign unique identifiers and embed metadata in files.", "label": 1}
+{"text": "System shall be able to check if the withdrawal amount is within transaction limits and display the amount to be dispensed.", "label": 1}
+{"text": "The system shall protect presentations from unauthorized access and modification.", "label": 0}
+{"text": "User shall be able to view and edit their profile information.", "label": 0}
+{"text": "Map results should be clear and user-friendly, allowing selection of any pin with a single click.", "label": 0}
+{"text": "The software will support simultaneous user acces only if there are multiple terminals.", "label": 1}
+{"text": "Executive shall have full access to company-related data for performance evaluation.", "label": 0}
+{"text": "The system shall provide a way for parents to connect with staff in case of emergencies.", "label": 1}
+{"text": "Users who create a new game will be able to choose to play different variations of Mahjong rules other than those described in Section 4.3.1.", "label": 1}
+{"text": "After checkout, the system shall send the list of ordered products to the grocery store owner.", "label": 1}
+{"text": "User shall be able to play Mahjong with no prior knowledge of the rules.", "label": 0}
+{"text": "The connection between the Web API and the programs will use HTTPS, for security.", "label": 0}
+{"text": "User shall manage user accounts and permissions.", "label": 1}
+{"text": "A Data Publishing User shall be able to provide additional GeoJSON sources.", "label": 1}
+{"text": "System shall be able to change the text elements used in the user interfaces of the sub-apps and main application, excluding external resources.", "label": 1}
+{"text": "There shall be a UNIX-based APAF system production computer with an archival system. ", "label": 0}
+{"text": "System shall manage and adjust operations based on given parameters.", "label": 1}
+{"text": "Users shall be able to add a class to a list of classes in which they are enrolled.", "label": 1}
+{"text": "All access to cases and related activities must be stored in the audit trail for legal admissibility and data recovery.", "label": 0}
+{"text": "System shall enforce access controls and permissions for sharing and managing data.", "label": 0}
+{"text": "System shall display the submitted application form with all entered data.", "label": 1}
+{"text": "User shall access the system 24/7, with planned maintenance during off-peak hours.", "label": 0}
+{"text": "User shall be able to create a profile and set credentials for authentication.", "label": 1}
+{"text": "The user shall be able to cancel booked tickets if they need to change their travel dates.", "label": 1}
+{"text": "The BE shall be able to apply user selected frequency domain processes.", "label": 1}
+{"text": "The search response time for the system must consistently be within two seconds, with an ideal goal of one second, based on measurments from 1000 searches during testing.", "label": 0}
+{"text": "System shall show the first lines of news articles based on the titles on the title screen.", "label": 1}
+{"text": "The system shall encrypt all sensitive information via https.", "label": 0}
+{"text": "Intermediate files of cleaned-up ASPERA-3 and MEX OA telemetry shall be generated in the event that cleaned-up telemetry is not provided by ESOC.", "label": 1}
+{"text": "User shall be able to select a topic from the search result list.", "label": 1}
+{"text": "Any administrative level or authorized inventory group member can view and approve pending requests, with users notified by email upon request treatment and updates made to the waiting for execution list.", "label": 1}
+{"text": "Resumes will be imported directly from an existing database.", "label": 1}
+{"text": "User shall have the ability to search for specific emails using keywords or filters.", "label": 1}
+{"text": "The search feature will display either search results or a no matches found message depending on the query's success.", "label": 1}
+{"text": "User shall be prompted to verify their email upon registration for added security.", "label": 0}
+{"text": "The system shall provide separate interfaces for students, faculty, and administrators.", "label": 1}
+{"text": "Users shall be limited to three attempts to enter their password.", "label": 0}
+{"text": "The user interface shall have standard menus buttons for navigation.", "label": 0}
+{"text": "System shall validate the entered credentials in the database.", "label": 1}
+{"text": "The product shall allow the user to save the property search results.", "label": 1}
+{"text": "User shall experience response times of 1 second or less when accessing patient information.", "label": 0}
+{"text": "User shall be able to delete properties they have added to the system.", "label": 1}
+{"text": "The system shall allow camp administrators to view medical forms for allergy preparedness.", "label": 1}
+{"text": "Customers shall browse categories and products easily.", "label": 1}
+{"text": "System shall support the deletion of blogs by validating user actions and updating the database accordingly.", "label": 1}
+{"text": "System shall require users to comply with applicable laws and regulations governing data privacy, security, and intellectual property rights, including legal notices related to licensing, copyrights, trademarks, and usage restrictions in production environments.", "label": 0}
+{"text": "System shall employ error prevention through sanity checks and limited free-text input.", "label": 0}
+{"text": "The system shall allow importing stories from a spreadsheet.", "label": 1}
+{"text": "User shall perform on-device translation locally without internet reliance, delivering responsive and reliable translation experiences.", "label": 1}
+{"text": "Only admin shall know the number of bidders bidding on teams and their details.", "label": 1}
+{"text": "The user shall be able to set the name of an assignment.", "label": 1}
+{"text": "The upsconline.nic.in site shall be available 24/7 for access.", "label": 0}
+{"text": "User shall receive a more helpful file-level error message when uploading a file with the wrong extension.", "label": 1}
+{"text": "System shall log the serial number of a valid cash card.", "label": 1}
+{"text": "System shall not function without an internet connection.", "label": 1}
+{"text": "System shall provide functionality for users to assign Location information to Containers.", "label": 1}
+{"text": "User shall be able to find session information, to explore available sessions.", "label": 1}
+{"text": "System shall scale to accommodate growth.", "label": 0}
+{"text": "System shall handle up to 20,000 transactions per minute during peak workload conditions.", "label": 0}
+{"text": "User shall be able to interact with the platform to create a LeetCode account, providing their email, username, and password.", "label": 0}
+{"text": "All Users will be able to view the next product by swiping left to right.", "label": 0}
+{"text": "The system will limit access to authorized users.", "label": 1}
+{"text": "The system shall be able to handle 1000 customers logged in concurrently at the same time.", "label": 0}
+{"text": "System shall send a temporary password to the user's email for password reset (client function).", "label": 1}
+{"text": "The Article Manager will run on the editor's PC and will utilize an Access database.", "label": 0}
+{"text": "System shall generate alarm data for invalid temperature values or temperature limit exceedance.", "label": 1}
+{"text": "Newsletters shall be sent to clients' email addresses.", "label": 1}
+{"text": "System shall facilitate quick access to desired content, enabling users to find what they are looking for effortlessly.", "label": 0}
+{"text": "User shall provide a valid email for Google Games to execute the application on their device.", "label": 1}
+{"text": "The system shall allow users to send and receive messages.", "label": 1}
+{"text": "The system shall notify the user of any schedule changes.", "label": 1}
+{"text": "The system shall allow archivists to search by material type and image using image upload.", "label": 1}
+{"text": "The system shall allow users to create new presentations or open existing ones.", "label": 1}
+{"text": "The system shall provide marks information in PDF format.", "label": 1}
+{"text": "System shall maintain data integrity by preventing data loss through proper database management.", "label": 0}
+{"text": "Reliability shall be ensured to prevent data loss in case of server failure during ongoing operations.", "label": 0}
+{"text": "The system requires end users to provide their symptoms accurately to avoid false predictions.", "label": 0}
+{"text": "User shall be able to access and interact with the system directly through their web browser without additional tools.", "label": 0}
+{"text": "System shall ensure that dataset instances of a type created during app deployment start using the new code when a new version of the dataset type is deployed.", "label": 1}
+{"text": "The system (MS Forms) shall define the data types allowed for each question (e.g., text, number, date).", "label": 1}
+{"text": "User shall be able to register on STM by providing valid information.", "label": 1}
+{"text": "Customers shall finalize payment by cash using the bill mode.", "label": 1}
+{"text": "By default, the page shall not auto scroll when new ideas are added into the list.", "label": 1}
+{"text": "The system shall support agent membership in multicast groups, allowing them to join and leave.", "label": 1}
+{"text": "System shall verify account authorization and initiate transaction dialog upon acceptance.", "label": 1}
+{"text": "User shall be able to utilize the device's camera, gallery, and microphone functionalities.", "label": 0}
+{"text": "The website shall provide forms for certificates so users can request certificates online.", "label": 1}
+{"text": "System shall be able to perform distance calculations and access geolocation information for the user, sites, and nearby sites.", "label": 1}
+{"text": "The system shall allow trainers to update or delete their courses/events.", "label": 1}
+{"text": "The user shall access the application for installation, updates, and feedback via the Google Play Store.", "label": 0}
+{"text": "Web-based displays of the most current ASPERA-3 data shall be provided for public view.", "label": 1}
+{"text": "System shall ensure the application loads quickly on supported devices.", "label": 0}
+{"text": "The system shall allow repository managers to associate content files with objects and components.", "label": 1}
+{"text": "A Visual Designer shall create a moodboard to aid with visual design concepts for the nsf.gov website.", "label": 1}
+{"text": "The BE shall periodically or upon request check Backend physical processors and assure that all needed processors are alive and responding", "label": 0}
+{"text": "User shall have ALFRED integrated into a wearable device like a bracelet or necklace.", "label": 1}
+{"text": "FABS user shall receive submission errors accurately reflecting FABS errors for efficient problem resolution.", "label": 0}
+{"text": "User shall display a tabular representation of the current stock value, highest and lowest values recorded, and the P/E ratio.", "label": 1}
+{"text": "The system shall utilize a relational database (MetadataDB) for storing structured video metadata like title, language, size, and duration.", "label": 0}
+{"text": "The hardware and operating system shall be capable of supporting a screen resolution no greater than 320 x 240 pixels due to the small form factor.", "label": 1}
+{"text": "User shall be able to update their information.", "label": 0}
+{"text": "User shall have a link on the home page to a list of training options, for easy access.", "label": 1}
+{"text": "Users shall input their date of birth, address, and phone number.", "label": 1}
+{"text": "User shall be able to search for restaurants by entering a desired distance range (minimum and maximum) from their current location.", "label": 1}
+{"text": "Admin shall monitor the whole process.", "label": 0}
+{"text": "System shall require shop owners to obtain permission from the administrator before selling products.", "label": 1}
+{"text": "The user shall be able to add a New Term.", "label": 1}
+{"text": "Automated banner ads on email headers shall notify job seekers of relevant jobs.", "label": 1}
+{"text": "TCS shall provide the capability to monitor payload adherence to the uplinked mission plan.", "label": 1}
+{"text": "The system shall maintain reaction times of less than 5 seconds even under heavy loads.", "label": 0}
+{"text": "The hardware part of the system shall be able to perform indefinitely without complete loss of service, except in the event of total failure of primary and backup power. ", "label": 0}
+{"text": "The automated diagnostic tool shall display and record diagnostic results. Diagnostic results to be displayed to the user will be done so in a simple, graphical and textual format.", "label": 1}
+{"text": "The database will use the generic representations from R4.2.2.1 as table names or column headers for easier retrieval of data.", "label": 1}
+{"text": "User shall have an admin view to track registration status for each attendee, so that attendance status can be monitored.", "label": 1}
+{"text": "The system shall provide tools for capturing leads through forms, landing pages, and chatbots.", "label": 1}
+{"text": "User shall determine brokerage by multiplying transaction amount by brokerage percentage.", "label": 1}
+{"text": "The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications", "label": 1}
+{"text": "The TCS shall provide the functionality to control the ADT antenna.", "label": 1}
+{"text": "The BE shall trap, flag and repair infs, NaNs, underflows, overflows and other computation errors.", "label": 0}
+{"text": "User shall be able to create and customize a personal emoji avatar through Bitmoji integration.", "label": 1}
+{"text": "User shall be able to input and store personal details of students.", "label": 1}
+{"text": "After installing the Application from iTunes or the App store the user will be asked to login.", "label": 1}
+{"text": "The app shall interface with a register for accurate payment processing.", "label": 1}
+{"text": "User shall be able to deposit datasets through Virtual Research Environments and other workflow tools.", "label": 1}
+{"text": "User shall receive the product list within 2 seconds of requesting it, ensuring a responsive interface.", "label": 0}
+{"text": "System shall display available astrologers for interaction based on user input.", "label": 1}
+{"text": "Radford University students shall use their RU credentials to access automatic class schedule and assignment sharing.", "label": 0}
+{"text": "The system shall allow users to print musical scores.", "label": 1}
+{"text": "Newsletter subscription and customization options will be provided.", "label": 1}
+{"text": "User shall be able to update the device status after action completion.", "label": 1}
+{"text": "A stable internet connection shall be required for the player.", "label": 1}
+{"text": "User shall be able to process returns of medicines to distributors within the specified time frame, recording relevant details such as reasons for return and quantities returned.", "label": 1}
+{"text": "Bidders shall be able to view the bidder leaderboard, including the top three positions, without seeing other bidders' predictions.", "label": 1}
+{"text": "System shall implement security measures to protect the database from unauthorized access.", "label": 0}
+{"text": "A new user will make less than 3 mistakes in 5 minutes after 5 minutes of use.", "label": 0}
+{"text": "The system shall support the following operating systems - Windows 10/11 (32-bit or 64-bit) and Windows Server 2022, Windows Server 2019, Windows Server 2016, or Windows Server 2012 (including R2)", "label": 1}
+{"text": "The system shall render complex projects faster with a compatible graphics card.", "label": 0}
+{"text": "The user shall be able to play or learn about Mahjong.", "label": 0}
+{"text": "System shall confirm submission of leave request.", "label": 1}
+{"text": "The site will be available to users 24/7.", "label": 0}
+{"text": "Users shall select the recruitment option and choose Forms for Certificates.", "label": 1}
+{"text": "User shall be able to login to the system as an authorized user using a username and password.", "label": 1}
+{"text": "The Disputes System must provide confirmation upon chargeback request creation, containing dispute case number, type of chargeback requested, and merchant response due date.", "label": 1}
+{"text": "User shall be able to click on an address to open Google Maps in a new tab.", "label": 1}
+{"text": "System shall be able to allow staff to perform online data entry.", "label": 1}
+{"text": "Official events listed on Drexel website, location and hours will have accuracy greater than 40%.", "label": 0}
+{"text": "Access to sensitive user data, such as credit card information, shall be restricted to authorized personnel only, with proper access controls in place.", "label": 0}
+{"text": "If paying by cash on delivery, user shall enter address details for order confirmation.", "label": 1}
+{"text": "User shall/will be able to access online shopping opportunities.", "label": 1}
+{"text": "User shall be able to maintain a master list of symptoms for patient consultation requests.", "label": 1}
+{"text": "System shall ensure a user-friendly interface for effortless creation of slideshows with customizable elements such as text art and animated texts in VivaVideo.", "label": 0}
+{"text": "These additional non-functional requirements aim to further enhance the performance, security, user experience, reliability, and availability of the system.", "label": 0}
+{"text": "System shall be able to display a list of thumbnail images for a site, sorted from oldest to newest by year, when on the sites page.", "label": 1}
+{"text": "System shall utilize Microsoft SQL Server 2008 as the database management system.", "label": 0}
+{"text": "System will prompt the user to select their issue or write about their problem.", "label": 1}
+{"text": "The TCS shall present to the operator the estimated time of arrival and fuel status at each programmed waypoint of the proposed mission plan.", "label": 1}
+{"text": "Curators shall configure deposit forms for collections.", "label": 1}
+{"text": "The system shall allow administrators to approve job advertisements before publishing.", "label": 1}
+{"text": "Arranging job search results by dates or location shall be possible.", "label": 1}
+{"text": "The system shall empower end-users to manage their private data, including the option to delete their personal repository.", "label": 0}
+{"text": "User shall deploy a dataset type independent from any app and allow apps to create and use dataset instances of that type.", "label": 1}
+{"text": "User shall be able to initiate user password verification.", "label": 1}
+{"text": "System shall be able to run test shipping orders.", "label": 0}
+{"text": "The Teams app shall be designed for high availability, ensuring minimal disruption in case of individual service outages.", "label": 0}
+{"text": "System shall update the user's account after receiving a response from the ATM about money dispensed.", "label": 1}
+{"text": "System shall be able to print reports annually, weekly, and daily based on selected time frames.", "label": 1}
+{"text": "System shall be able to enable employees to select their availability.", "label": 1}
+{"text": "The recycled parts audit report must be returned within 10 seconds.", "label": 0}
+{"text": "The system shall provide the functionality for users to follow other users.", "label": 1}
+{"text": "User shall be able to download the Skype application from an application store or similar service on their mobile phone without any charge.", "label": 1}
+{"text": "The system shall allow researchers to generate citations and share links to files.", "label": 1}
+{"text": "User shall/will be able to pay bills online, such as utility bills, credit card bills, and loan payments.", "label": 1}
+{"text": "I/O, communications, and processing hardware shall be easily expandable, reconfigureable, augmentable and replaceable to meet increasing data transfer and processing demands imposed by EVLA science, Correlator changes, and availability of new hardware.", "label": 0}
+{"text": "The system shall allow parents to submit various types of forms to camp management.", "label": 1}
+{"text": "System shall record client feedback.", "label": 1}
+{"text": "User shall login to access the administrator portal.", "label": 1}
+{"text": "User help resources should be accessible within 90% of the system.", "label": 0}
+{"text": "The system shall remind the user of the task with their chosen ringtone.", "label": 1}
+{"text": "Each student shall have only one account.", "label": 0}
+{"text": "System shall load data from the database.", "label": 1}
+{"text": "User shall be able to see how many seats are left for a summit, to ensure timely registration.", "label": 1}
+{"text": "User shall notify the user when no matching product is found on the search.", "label": 1}
+{"text": "The user shall be able to purchase items in their cart using credits, if allowed by the item.", "label": 1}
+{"text": "System shall display the video in full screen resolution.", "label": 1}
+{"text": "The system shall ensure that textual content is free of spelling and grammatical errors for clear readability.", "label": 0}
+{"text": "User shall contact vendors and grant permission for selling products on the site after quality testing.", "label": 1}
+{"text": "Compatibility with previous Windows versions will require further testing.", "label": 0}
+{"text": "The preferred repair facility ratings shall be saved by the system.", "label": 1}
+{"text": "The platform shall allow translation of data type hierarchies for embedded viewers.", "label": 0}
+{"text": "The system shall create a complete copy of data from the source phone to the target phone.", "label": 1}
+{"text": "Delivery boy shall be able to toggle Online/Offline/Break option.", "label": 1}
+{"text": "Users shall be able to log in only after receiving a confirmation email following verification of their restaurant owner application.", "label": 1}
+{"text": "User shall be able to log in to their LeetCode account using their email and password.", "label": 1}
+{"text": "Realtor shall be able to generate a CMA report based on property criteria.", "label": 1}
+{"text": "For interdepartmental requests, the system shall require approval from both a DA and faculty group member, unless submitted by a higher-level group.", "label": 1}
+{"text": "System shall execute different types of queries for reporting purposes.", "label": 1}
+{"text": "System shall be designed for easy extensibility, maintainability, and potential release as an open-source application.", "label": 0}
+{"text": "The system shall be able to output the temperature status when the measured temperature (T) is within the acceptable range defined by the lower limit (LO) and upper limit (UO).", "label": 1}
+{"text": "System shall update the book status to Approved when the administrator approves the member request.", "label": 1}
+{"text": "User shall be able to register students through the website, and the admin shall be able to register new students.", "label": 1}
+{"text": "Customer shall able to cancel order and if cancelled money will be transferred to wallet to order food for next time(If Card Payment)", "label": 1}
+{"text": "System shall display search options to the user.", "label": 1}
+{"text": "Upon starting up the application, the first viewable screen shall contain buttons for play game options.", "label": 0}
+{"text": "A tablet shall require a user to log in using a username and password.", "label": 0}
+{"text": "Backups of the database shall be retrieved and saved by the administrator in case of hardware failure or database corruption.", "label": 0}
+{"text": "The moderator shall be able to view all grouped ideas, including duplicates.", "label": 1}
+{"text": "Admins shall not dismiss an engaged menu unless the customer requests it.", "label": 0}
+{"text": "A staff member shall have the ability to manage the progress of a part time student which includes modifying their sequence of classes and timeline of classes.", "label": 1}
+{"text": "System shall be able to provide general recommendations based on recent trends through administrative functions.", "label": 1}
+{"text": "User shall be able to search for events by date.", "label": 1}
+{"text": "User shall provide hardware specifications and limitations.", "label": 0}
+{"text": "The system must support 10,000 concurrent users with a maximum response time of 2 seconds.", "label": 0}
+{"text": "System shall enable role-based access control to enforce appropriate permissions for different user roles.", "label": 0}
+{"text": "There shall be a feature to locate affiliated cinemas based on user's location for a chosen day.", "label": 1}
+{"text": "Testing of Stock Master shall include traversing all forms, stress testing, and Authorization tests.", "label": 0}
+{"text": "Users shall sell their stocks for successful trade.", "label": 1}
+{"text": "The system shall run on PC, Laptops, and PDA etc.", "label": 0}
+{"text": "The server environment shall be single-tenant (no other applications running on the same server or container).", "label": 0}
+{"text": "System shall provide role-based landing pages showing relevant information such as assigned cases, alerts, and pending tasks.", "label": 1}
+{"text": "System shall provide an Inbox feature for administrators to view all requests made by active members.", "label": 1}
+{"text": "System shall be able to provide the status of their booking.", "label": 1}
+{"text": "The system shall be highly available during working hours with all maintenance and backup activities occurring outside of these times.", "label": 0}
+{"text": "The system shall minimize splash screens and only display them if they provide valuable information to the user.", "label": 0}
+{"text": "User shall be able to indicate where data will be stored during and after the project.", "label": 1}
+{"text": "Administrator shall be able to view pending requests, approve or reject them, and send notifications to requesters upon approval.", "label": 1}
+{"text": "The system shall allow users to store Data Packages in GitHub and automatically publish them to CKAN. ", "label": 1}
+{"text": "Colleges shall be able to register for exams at any time.", "label": 0}
+{"text": "The system shall allow multiple users to edit a score simultaneously and gracefully handle any conflicts.", "label": 1}
+{"text": "System shall provide a replacement page in case of hardware failure or database corruption.", "label": 0}
+{"text": "System shall be able to manage check book allotment requests.", "label": 0}
+{"text": "The data displayed in both the nodes of the graph and the rows of the table will be MSEL Summary data.", "label": 1}
+{"text": "System shall send a \"bad bank code\" message to the ATM if the bank code is invalid.", "label": 1}
+{"text": "User shall be able to log in to the system by entering their username/email and password.", "label": 1}
+{"text": "Upon successful registration, the system shall redirect the user to the validation page of the Admin on STM.", "label": 1}
+{"text": "The user shall be able to add the Time and Duration of their Class.", "label": 1}
+{"text": "System shall ensure that transactions reflect accurately in databases without any data loss.", "label": 0}
+{"text": "User shall enjoy a versatile editing experience with various editing features including video collages, themes, music bank, and sound effects.", "label": 0}
+{"text": "The system shall allow new patients to register by providing necessary personal and contact information.", "label": 1}
+{"text": "Based on user feedback, Admin shall have the ability to change or modify accessibility.", "label": 1}
+{"text": "User shall save the dividend released by each company for client information.", "label": 1}
+{"text": "User details and data should be stored securely in a database provided by the server.", "label": 0}
+{"text": "System shall allow users to search for blogs based on a query string, displaying matching results.", "label": 1}
+{"text": "A customer shall be able to navigate through the available items in their  engaged menu.", "label": 1}
+{"text": "The system shall be able to establish and keep the dialog with the Members systems despite the various technical environments and technologies used on their sites", "label": 0}
+{"text": "System shall allow the administrator to register members by manually inputting their information into the system.", "label": 1}
+{"text": "User shall input the date, destination, and duration for car rental.", "label": 1}
+{"text": "Users shall select the relevant performa category, fill the form, and submit it.", "label": 1}
+{"text": "The TCS shall provide the capability to override validation faults after the fault is acknowledged by the\noperator. ", "label": 1}
+{"text": "The system shall allow users to search for collections, objects, and components by various criteria.", "label": 1}
+{"text": "User shall be able to delete an activity by selecting it on the canvas and clicking the \"Delete\" button on the user GUI.", "label": 1}
+{"text": "Admin shall onboard recycling centers on the platform to increase information accuracy.", "label": 1}
+{"text": "System shall provide a shopping cart during online purchase.", "label": 1}
+{"text": "Admin shall be able to add promo code/offers. ", "label": 1}
+{"text": "User shall be able to read the blog, to stay informed about BADCamp happenings.", "label": 1}
+{"text": "Clients shall be able to change their password.", "label": 1}
+{"text": "The $HOME environment variable shall be set correctly on the server.", "label": 1}
+{"text": "Only authorized users shall have access to clinical site information.", "label": 0}
+{"text": "An API User shall be able to use metadata to retrieve data from multiple datasets.", "label": 1}
+{"text": "User shall have the option to input using either touch screen or keypad methods.", "label": 0}
+{"text": "System shall be able to facilitate data updating.", "label": 1}
+{"text": "If the validation succeeds, user shall be redirected to the \"Password reset\" page.", "label": 1}
+{"text": "The product shall comply with the estimatics laws relating to recycled parts usage.", "label": 0}
+{"text": "Only authenticated users shall have access to the system's back-end servers to ensure security.", "label": 0}
+{"text": "Upon logging out, the system shall load the main page.", "label": 1}
+{"text": "Customer shall be able to remove orders from cart.", "label": 1}
+{"text": "The BE shall be able to handle lag sets up to a maximum size of 262,144 values", "label": 0}
+{"text": "User shall be able to record sales transactions, including customer information, medicine name, quantity sold, and unit price.", "label": 1}
+{"text": "In the ingame screen, users can choose emote buttons by touching them, and upon selection, the chosen emote shall be displayed to the other user.", "label": 1}
+{"text": "The system shall allow administrators to approve/reject applications for Certified Scrum Practitioner (CSP) and Certified Scrum Trainer (CST) status.", "label": 1}
+{"text": "The application shall render images and effects efficiently to maintain a productive workflow.", "label": 0}
+{"text": "User shall be able to search for restaurants by price range (minimum and maximum) with results displayed in a list view by default.", "label": 1}
+{"text": "The system shall allow consumers to download data packages in specific versions.", "label": 1}
+{"text": "The system shall allow users to insert speaker notes for slides.", "label": 1}
+{"text": "The product shall be able to handle 10,000 concurrent users within 2 years of the initial launch.", "label": 0}
+{"text": "FABS user shall be able to download the uploaded FABS file.", "label": 1}
+{"text": "The system shall be user-friendly and intuitive for users of all technical abilities.", "label": 0}
+{"text": "System shall display a confirmation message upon successful registration of the LeetCode account.", "label": 0}
+{"text": "The user shall be able to approve an exchange offer from another user.", "label": 1}
+{"text": "Administrator shall manage user accounts.", "label": 1}
+{"text": "User shall be able to see all events, trainings, and summits sponsored by a specific sponsor, to engage with the sponsor's offerings.", "label": 1}
+{"text": "System shall be able to ensure that common operations on an equivalent document are completed within 0.2 seconds.", "label": 0}
+{"text": "System shall automatically track work/class hours based on user's sign-in and sign-out timestamps.", "label": 1}
+{"text": "The system shall allow processing of medicine orders by patients.", "label": 1}
+{"text": "The system shall be configurable to meet specific state requirements and keep data elements and rules up-to-date.", "label": 1}
+{"text": "System shall be able to allow customers to open different types of accounts.", "label": 1}
+{"text": "The system shall allow the mediator to send and receive messages from users.", "label": 1}
+{"text": "The user shall be able to create a menu entry by providing a dish name, description, and price.", "label": 1}
+{"text": "Contact information will be optionally hidden.", "label": 1}
+{"text": "User shall be able to ensure security for the central system and its software.", "label": 1}
+{"text": "A surface app page shall provide a customer with all customer system functionality.", "label": 1}
+{"text": "System shall allow a user to be a member of more than one group.", "label": 0}
+{"text": "In-game option to halt gameplay shall be provided, allowing access to fields displayed on the title screen.", "label": 0}
+{"text": "The software shall display information on a monitor screen.", "label": 0}
+{"text": "The server shall be capable of supporting no less than 200 concurrent connections from any combination of computers, tablets and displays.", "label": 0}
+{"text": "A supervisor shall be able to abort/purge a customers meal from the active  system with no expectation of payment.", "label": 1}
+{"text": "System shall be able to search for the from-location by the name of a building.", "label": 1}
+{"text": "System shall facilitate easy signup for the BADCamp newsletter.", "label": 0}
+{"text": "System shall allow user registration without any preconditions.", "label": 1}
+{"text": "The system shall allow copying and pasting stories from a spreadsheet.", "label": 1}
+{"text": "The system shall store estimation results anonymously for research purposes (Researcher).", "label": 0}
+{"text": "System shall guarantee protection of IP rights for external collaborators to mitigate collaboration risks.", "label": 0}
+{"text": "System shall provide contextual help links accessible to authenticated users.", "label": 0}
+{"text": "Faculties shall be able to upload lectures and discussions in various formats (videos, presentations, etc.).", "label": 1}
+{"text": "Adobe Photoshop shall be designed to achieve a rapid operational restart, minimizing customer inconvenience.", "label": 0}
+{"text": "System shall assign default system data values when necessary.", "label": 0}
+{"text": "User shall be able to learn about sponsorship levels, to determine appropriate sponsorship.", "label": 1}
+{"text": "The system shall allow staff members to issue zoning-related permits upon eligibility and compliance.", "label": 1}
+{"text": "User shall be advised to use genuine antivirus software.", "label": 0}
+{"text": "Premium Users shall be permitted to make up to 66 calls per day.", "label": 0}
+{"text": "The system shall allow visitors to subscribe to RSS feeds for news, courses/events, and articles.", "label": 1}
+{"text": "Customers shall cancel the billing process by card using the bill mode.", "label": 1}
+{"text": "User shall be aware of relationships between inputs and outputs.", "label": 1}
+{"text": "The system shall record publication and unpublication events with details.", "label": 1}
+{"text": "The service shall be able to show the seating arrangement and available seats, allowing users to book the desired number of seats.", "label": 1}
+{"text": "User shall require approval from the university group for asset transfers outside the university.", "label": 1}
+{"text": "System shall process the user's input and perform the desired action in the application interface.", "label": 1}
+{"text": "System shall include a fast/slow motion editor for users to choose the best video speed.", "label": 1}
+{"text": "ATM power supply shall have a 10/220 V AC manual switch.", "label": 1}
+{"text": "User shall have the option to choose to view \"tatkaal\" or \"normal\" applicants.", "label": 1}
+{"text": "User shall validate Client name to include only alphabets and spaces, rejecting inputs with numbers or other ASCII characters.", "label": 1}
+{"text": "The system shall be scalable to accommodate a growing user base.", "label": 0}
+{"text": "The database will have a functional audit trail.", "label": 1}
+{"text": "The system shall allow users to create accounts and log in to the server.", "label": 1}
+{"text": "The system shall use the organizations standard virus protection software to help monitor threats to itself.", "label": 0}
+{"text": "Website should be multi-platform, capable of running on different operating systems.", "label": 0}
+{"text": "The system shall be able to use the app on different platforms like different versions of OS/Mobiles.", "label": 0}
+{"text": "The system shall provide information about similar video items and segments based on content or perception.", "label": 1}
+{"text": "The system shall allow members to create and edit their profile descriptions.", "label": 1}
+{"text": "System shall be able to provide general recommendations based on recent trends.", "label": 0}
+{"text": "User shall be able to request refunds for products.", "label": 1}
+{"text": "System shall maintain database availability through failover mechanisms in case of server failures.", "label": 0}
+{"text": "The system shall allow administrators to delete restaurant types, removing them from the list.", "label": 1}
+{"text": "The application shall maintain a list of classes for the user.", "label": 1}
+{"text": "System shall employ easy-to-locate buttons.", "label": 0}
+{"text": "User shall experience page loading times of less than 1 second with an 8Mbits internet connection speed.", "label": 0}
+{"text": "System shall be able to send a message \"invalid user account\" to the central system for an invalid user account.", "label": 1}
+{"text": "System shall provide documentation and support resources for users to effectively utilize DMP functionalities.", "label": 0}
+{"text": "System shall be easy to migrate or backup via another USB drive.", "label": 0}
+{"text": "User shall find the system easy to navigate and use.", "label": 0}
+{"text": "The system shall allow faculty to upload course materials (syllabus, lesson plans, notes, etc.) and question banks.", "label": 1}
+{"text": "User shall be able to select disputable transactions and initiate disputes on them based on the age of the transaction.", "label": 1}
+{"text": "Restaurants shall accept or cancel orders based on availability.", "label": 1}
+{"text": "User shall be able to register by providing required details and receive a success message upon account creation.", "label": 1}
+{"text": "User shall be able to maintain chemists and labs details.", "label": 1}
+{"text": "Performance shall be influenced by the hardware components of the client/customer.", "label": 0}
+{"text": "There shall be no sound or animation used in the product.", "label": 1}
+{"text": "The system shall integrate with various data analysis and storage platforms.", "label": 0}
+{"text": "User shall have a registered phone number for software registration.", "label": 0}
+{"text": "System shall display the user's profile with options to edit information.", "label": 0}
+{"text": "The user shall be able to enter their Room number for the exam.", "label": 1}
+{"text": "While a fast internet connection is optional, the system shall be designed to perform optimally with a fast connection.", "label": 0}
+{"text": "Students shall be able to take quizzes.", "label": 1}
+{"text": "User shall confirm booking by selecting a mode of transport and number of travelers, with availability checked and redirection to the payment gateway if seats are available.", "label": 1}
+{"text": "System shall: Show the user's current location on the map view.", "label": 1}
+{"text": "Viewing application history from the profile shall be possible.", "label": 1}
+{"text": "System shall adhere to best practices for data security and privacy protection throughout the application.", "label": 0}
+{"text": "The system shall allow users to view friends' stories, browse global stories, share stories, take screenshots, and report spam content.", "label": 1}
+{"text": "The system's reliability shall be primarily dependent on a continuously maintained and updated database backup that reflects the latest changes.", "label": 0}
+{"text": "Admin shall be able to add new routes or edit existing bus journey routes.", "label": 1}
+{"text": "The system shall allow publishers to preview data package views before publishing.", "label": 1}
+{"text": "User passwords shall be hashed before storage in the database to maintain security.", "label": 0}
+{"text": "System shall authenticate users based on username and password.", "label": 1}
+{"text": "System shall ensure secure communication between the user and server by encrypting messages during log-in sessions to protect usernames and passwords.", "label": 0}
+{"text": "Uploaded videos shall be stored reliably with no data loss. High availability takes priority over strict data consistency.", "label": 0}
+{"text": "Wireless communication throughout the system will be encrypted using SSLv3  at the application layer and WPA2-PSK at the data link layer.", "label": 0}
+{"text": "User shall be able to browse items including pictures, prices, and other features.", "label": 1}
+{"text": "Students shall have the ability to view the status of their job applications.", "label": 0}
+{"text": "The system shall encrypt sensitive data (patient information, prescriptions) at rest and in transit.", "label": 0}
+{"text": "Any disputes cases closed for over 6 months must be purged from the online disputes database.", "label": 1}
+{"text": "A customer shall be able to cancel an order through their engaged menu if it is  pending and not yet placed.", "label": 1}
+{"text": "System shall provide secure access to confidential data, such as user details, by utilizing SSL encryption.", "label": 0}
+{"text": "Upon user login, the system will display personalized information and automatically add certain details to booking requests.", "label": 1}
+{"text": "System shall output request to turn on or off heating or cooling unit based on temperature data.", "label": 1}
+{"text": "System shall support OAI-PMH for repository content exposure.", "label": 1}
+{"text": "Login communication must be 100% encrypted to prevent usernames and passwords from being intercepted during data exchange between the application and server.", "label": 0}
+{"text": "User shall check feedbacks.", "label": 1}
+{"text": "Users who create a new game will be able to change the ability level of any CO involved in the game. ", "label": 1}
+{"text": "System shall ensure the stability and accuracy of acceptance tests executed against Neurohub installations.", "label": 0}
+{"text": "The system shall allow camp administrators to create and modify rules for campers and staff.", "label": 1}
+{"text": "The application should ideally use less than 10 MB of storage space, with a hard limit of 20 MB.", "label": 0}
+{"text": "The system must allow a member of the network to send requests to a particular or all the other members about possible delivery of a driver's smart card to a similar person.", "label": 1}
+{"text": "The system shall be able to do encryption and decryption of data for the password which is given by the user for login.", "label": 0}
+{"text": "User shall be able to anonymously view public information, such as recycling centers near their location, before creating an account.", "label": 1}
+{"text": "The system shall utilise periodic 30-second keep-alive messages between  tablets and the server to monitor tablet operational status.", "label": 0}
+{"text": "The system shall implement an Elasticsearch cluster to facilitate full-text search functionalities.", "label": 0}
+{"text": "System shall record client booking requests.", "label": 1}
+{"text": "Job Seeker registration shall allow the addition of CV as a Word file to the CV database.", "label": 1}
+{"text": "User shall dissolve details from both tables into a single form or make them accessible from one form.", "label": 1}
+{"text": "System shall use AJAX calls for removing shortlisted properties, employing jQuery on the client side.", "label": 1}
+{"text": "The system shall provide charts for the Activity or Event actual versus assumed time.", "label": 1}
+{"text": "Operating System software shall either have source code available or come with sufficient diagnostics and customer support.", "label": 0}
+{"text": "The system shall be able to display a printable summary of the system log.", "label": 1}
+{"text": "User shall be able to view a list of sponsors, so that they can thank all the awesome sponsors.", "label": 1}
+{"text": "The system shall be protected by open source firewall called Firestarter.\n", "label": 0}
+{"text": "The system shall comply with relevant regulations and standards.", "label": 0}
+{"text": "The system shall allow users to specify how an expense is split among participants (e.g., equally, proportionally, custom).", "label": 1}
+{"text": "The manager shall view sales statistics in various formats such as pie charts, bar graphs, and tabular formats.", "label": 1}
+{"text": "A user with administrative privileges shall be able to delegate some or all their authorized actions to another user, granting them the inventory administrator role.", "label": 1}
+{"text": "System shall check the information and apply the changes to the user's account.", "label": 1}
+{"text": "Users shall be able to find and book appointments with doctors for checkups or treatments.", "label": 1}
+{"text": "User shall add vaccination records for each child.", "label": 1}
+{"text": "The configuration window shall have a button labeled Save that when clicked will present the user with a window by which to enter a disk file or database name in which to save the modifiable data in the window.", "label": 1}
+{"text": "The system shall allow staff members to perform completeness reviews for applications.", "label": 1}
+{"text": "Administrators shall be able to add buildings.", "label": 1}
+{"text": "The THEMAS system shall control the heating and cooling units that are defined as part of the THEMAS system.", "label": 1}
+{"text": "The system shall display a list of courses matching the search criteria.", "label": 1}
+{"text": "User shall store one location for Free Users and up to five locations for Premium Users.", "label": 1}
+{"text": "The system shall be capable of restoring itself to its previous state in the event of failure (e.g. a system crash or power loss).", "label": 0}
+{"text": "User shall enter card details for online payment, with the system verifying their validity.", "label": 1}
+{"text": "System shall include records for externally held data to maintain a complete record of the University's data holdings.", "label": 0}
+{"text": "System shall provide necessary control signals to heating or cooling units upon request.", "label": 1}
+{"text": "User shall be able to modify all fields of an asset except IDs, and bulk entry files can be used for modifications.", "label": 1}
+{"text": "Administration shall improve the disease prediction database monthly based on the learning from the prior month.", "label": 1}
+{"text": "System shall provide continued access in case of server failure.", "label": 0}
+{"text": "The GUI will have a textbox that will accept inputs from a keyboard.", "label": 1}
+{"text": "During checkout, the customer shall input details such as name, mobile number, and location.", "label": 1}
+{"text": "SplitPay's user interface will prioritize usability and clarity, featuring a visually-appealing design and leveraging informative notifications and pop-ups to guide users in the future.", "label": 0}
+{"text": "The application server shall be responsible for maintaining the website.", "label": 0}
+{"text": "JavaScript code includes error handling functionality to ensure a smooth user experience.", "label": 1}
+{"text": "The diagnostic history window shall provide user selections for start times and end times for the history interval. ", "label": 1}
+{"text": "The Disputes System must provide Search functionality allowing search by dispute case number, merchant account number, cardmember account number, and issuer number, with filtering options by date range, dispute type, case status, and reason code.", "label": 1}
+{"text": "System shall send resolved feedback messages to users via email or SMS.", "label": 1}
+{"text": "End-users shall be provided with control over their private data, including deletion options, by the system.", "label": 0}
+{"text": "System shall utilize sessions for transactions to ensure data consistency.", "label": 0}
+{"text": "The connection between the client and server shall have at least 20 Mbps bandwidth.", "label": 0}
+{"text": "The system shall allow staff members to assign applications for detailed review.", "label": 1}
+{"text": "The system shall minimize vertical scrolling by prioritizing top placement of important information and utilize links for less crucial details, and avoid horizontal scrolling altogether.", "label": 0}
+{"text": "A moderator shall be able to edit a previously created session.", "label": 1}
+{"text": "The system shall link events back to either the Sync Matrix 1.0 or the Exercise Managment Tool 1.0 applications for modifications.", "label": 1}
+{"text": "User shall easily maintain the system due to its modular design, especially concerning frequent changes in database contents.", "label": 0}
+{"text": "The average time for the server to respond will be less than or equal to 2 seconds.", "label": 0}
+{"text": "Search agents shall automatically send resumes matching specified criteria via email daily.", "label": 1}
+{"text": "The system shall support language agnostic operation for portability, including English, Turkish, Finnish, and Italian for the identified replication partners.", "label": 0}
+{"text": "System shall be able to respond to critical processes within defined time limits, including patient registration, consultation requests, and prescription lookup.", "label": 0}
+{"text": "User shall be able to see the TU/e Facebook page on the title screen when starting the Facebook app.", "label": 1}
+{"text": "Each quadrant of each floor shall have a thermostat which is to be used to provide temperature data to the THEMAS system.", "label": 1}
+{"text": "The user shall be able to access help content in both offline and online modes.", "label": 0}
+{"text": "The system shall allow users to create, join, and leave groups for shared expense management.", "label": 1}
+{"text": "Users shall be able to remove an assignment from their list of assignments.", "label": 1}
+{"text": "The client will be able to parse the JSON and determine if there was an error.", "label": 1}
+{"text": "User shall be able to create a new account and select Free or Premium membership.", "label": 1}
+{"text": "System shall offer easy access to the blog for user consumption.", "label": 0}
+{"text": "The system shall allow users to create boards by providing a name for the board.", "label": 1}
+{"text": "User shall/will be able to perform online balance checks.", "label": 1}
+{"text": "FABS user shall ensure historical data includes all necessary columns for correct database information to prevent data inconsistencies.", "label": 0}
+{"text": "The system shall allow a member of the network to send a bulk request on all or a large part of its driver's smart card holders to a particular or all members of the network.\n", "label": 1}
+{"text": "System shall automatically move some emails to the spam folder and may block the sender of spam messages.", "label": 1}
+{"text": "System shall provide electronic course study materials to students.", "label": 1}
+{"text": "The system shall provide a Linked Data interface for repository data.", "label": 1}
+{"text": "The application will require well-defined test environments to ensure thorough testing of its various functionalities.", "label": 0}
+{"text": "User shall/will have sensitive data encrypted during transmission and storage.", "label": 0}
+{"text": "System shall allow dataset developers to assign explicit versions to the code of a dataset type.", "label": 0}
+{"text": "The user shall be able to add the Module name for the class.", "label": 1}
+{"text": "The look and feel of the system shall conform to the user interface standards of the smart device.", "label": 0}
+{"text": "Workers shall be able to mark tasks as completed.", "label": 1}
+{"text": "System shall be robust.", "label": 0}
+{"text": "System shall employ a secured database for storing information.", "label": 0}
+{"text": "User shall mark attendance using a selected method.", "label": 1}
+{"text": "The system shall be available 99.5% of the time.", "label": 0}
+{"text": "System shall authenticate logins and signups for users with accounts.", "label": 0}
+{"text": "System shall harvest metadata on funded research outputs for analysis and strategy refinement.", "label": 0}
+{"text": "Dispute panel shall manage, if the customer needs replacement of the order or cancellation of the order in case of order not available.", "label": 1}
+{"text": "System shall support emerging needs based on data analysis.", "label": 0}
+{"text": "The system shall be able to do the authentication process for login and payment through bankcard. ", "label": 0}
+{"text": "User experience (UX) design best practices will be adhered to by the user interface.", "label": 0}
+{"text": "Customer care representatives shall provide feasible solutions to customers' complaints and queries.", "label": 1}
+{"text": "Data that is especially hard to extract, for whatever reason, will be manually extracted and added to the database by a developer.", "label": 1}
+{"text": "System shall be able to provide a list of the 3 nearest sites, sorted alphabetically by name, with links to their respective pages.", "label": 1}
+{"text": "The system shall allow publishers to restore deleted data packages using the command-line interface.", "label": 1}
+{"text": "The user shall enter new ratings based on the audit report.", "label": 1}
+{"text": "User shall be able to change profile settings or details.", "label": 1}

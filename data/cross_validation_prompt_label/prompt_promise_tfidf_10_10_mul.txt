@@ -1,0 +1,974 @@
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.': Security
+'The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle.': Performance
+'A cohort shall be associated to one Program of Study offered by the department.': Functional
+'The application shall run on a web application server.': Operational
+'The product shall comply with corporate color scheme': Look and Feel
+'Staff members shall be able to complete a set of tasks in a timely manner.': Performance
+'The Disputes application shall support 350 concurrent users without any degradation of performance in the application.': Performance
+'The product shall have a consistent color scheme and fonts.': Look and Feel
+'The Disputes application shall ensure that only authorized users are allowed to logon to the application.': Security
+'Website must be able to support free trial periods with various parameters set by the Izogn Manager.': Functional
+
+Now, classify the following given requirement: 'The application shall match the color of the schema set forth by Department of Homeland Security'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The system shall have a MDI form that allows for the viewing of the graph and the data table.': Functional
+'The system shall display the Events in a graph by time.': Functional
+'The website shall prevent its data from being corrupted when incorrect data is entered in.': Security
+'The system shall display Events in a vertical table by time.': Functional
+'The audit report shall be displayed to the user.': Functional
+'The product shall prevent its data from incorrect data being introduced.': Security
+'The interface must summarize the data in a fashion that’s appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface': Look and Feel
+'The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.': Security
+'The product shall ensure that the database’s data corresponds to the data entered by the user. Each conference room reservation in the system will contain the same information as was entered by the user.': Security
+'The product shall respond fast to keep up-to-date data in the display.': Performance
+
+Now, classify the following given requirement: 'The data displayed in both the nodes within the graph and the rows in the table are MSEL Summary data'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The display shall have two regions: left 2/3 of the display is graphical right 1/3 of the display is a data table': Functional
+'The system shall be able to display a printable summary of the system log.': Functional
+'The system shall display Events or Activities.': Functional
+'The system shall display the Events in a graph by time.': Functional
+'The system shall refresh the display every 60 seconds.': Performance
+'The intranet pages should display appropriately in all resolutions from 800x600 and higher. The display of all the pages will be correct in 95% of the resolutions prior to implementation. The remaining 5% will be corrected within a week of notification of the incorrect display.': Look and Feel
+'The system shall display Events in a vertical table by time.': Functional
+'The System shall allow for a minimum of 6 users to work at the same time.': Performance
+'The system shall allow a user to define the time segments': Functional
+'The system shall display clear property images in the search results': Functional
+
+Now, classify the following given requirement: 'The system shall allow modification of the display.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The system shall display the Events in a graph by time.': Functional
+'The system shall display Events or Activities.': Functional
+'The system shall display the local and exercise time in separate clocks': Functional
+'The system shall display Events in a vertical table by time.': Functional
+'The system shall offer the ability to pause and resume the refresh of data.': Functional
+'The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications': Functional
+'The system shall link Events back to either the Sync Matrix 1.0 or the Exercise Managment Tool 1.0 applications for modifications.': Functional
+'The intranet pages should display appropriately in all resolutions from 800x600 and higher. The display of all the pages will be correct in 95% of the resolutions prior to implementation. The remaining 5% will be corrected within a week of notification of the incorrect display.': Look and Feel
+'The display shall have two regions: left 2/3 of the display is graphical right 1/3 of the display is a data table': Functional
+'The product shall be intuitive and self-explanatory. : 90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.': Usability
+
+Now, classify the following given requirement: 'The system shall offer a display of all the Events in the exercise.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+The system shall be easy to learn by callers and supervisors. Callers and supervisors shall learn how to use the system within 10 minutes.': Usability
+'The product shall be easy to learn by Adjusters and Collision Estimators. The product shall be learned with two days onsite training': Usability
+'The system shall be easy to use by the Program Administrators/Nursing Staff Members.': Usability
+'The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage.': Usability
+'The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.': Usability
+'Realtor shall be able to generate a CMA report based on property criteria': Functional
+'The realtor shall be able to retrieve a map showing property locations for a specified area': Functional
+'The product shall be installed by an untrained realtor without recourse to separately-printed instructions.': Usability
+'The product shall use symbols and words that are naturally understandable by the realtor community.': Usability
+'The system shall notify the realtor when a seller or buyer responds to an appointment request': Functional
+
+Now, classify the following given requirement: 'The product shall be easy for a realtor to learn.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall allow the user to save the property search results.': Functional
+'Realtor shall be able to generate a CMA report based on property criteria': Functional
+'The estimator shall apply selected recycled parts to the collision estimate.': Functional
+'The realtor shall be able to retrieve a map showing property locations for a specified area': Functional
+'Website shall allow customers to view reviews of selected movies by other customers.': Functional
+'The system shall display clear property images in the search results': Functional
+'Website shall allow customers to add their own movie review for a selected movie.': Functional
+'The system shall update or create new property listings in the MLS': Functional
+'A new user must be able to be added to the system within 10 minutes. 90% of new users are able to log into the system within 10 minutes.': Usability
+'The audit report shall be displayed to the user.': Functional
+
+Now, classify the following given requirement: 'The user shall be able to get driving directions to a selected property'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The average number of recycled parts records per day shall be 50 000.': Scalability
+'The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.': Usability
+'Any interface between a user and the automated system shall have a maximum response time of 5 seconds unless noted by an exception below.': Performance
+'Customer shall be able to check the status of their prepaid card by entering in the PIN number in under 5 seconds.': Performance
+'Website shall allow customers to browse movies by categories entered in by izogn administrator.': Functional
+'The system shall display the Events in a graph by time.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add a new cohort to the system identified by start month and year.': Functional
+'The product shall be capable of handling the existing 1000 users. This number is expected to grow 5 times within the next year.': Scalability
+The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year.': Availability
+'The system shall display Events in a vertical table by time.': Functional
+
+Now, classify the following given requirement: 'The number of mistakes noted by the students shall be decreased by 50% in the first year.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall be available during normal business hours. As long as the user has access to the client PC the system will be available 99% of the time during the first six months of operation.': Availability
+'Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.': Performance
+'Washing parameters will be updated during scheduled maintenance hours.': Maintainability
+'The product shall be capable of handling up to 1 000 concurrent requests. This number will increase to 2 000 by Release 2. The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours.': Scalability
+'A user shall be able to use the system without instruction after a short amount of time. After one use a user should understand and remember 90% of the system usage and navigation.': Usability
+'The product shall able to handle a large number of games simultaneously.': Performance
+'The product shall be able to handle 10 000 concurrent users within 2 years of the initial launch.': Scalability
+'All of the users shall be able to use the system after one day of training.': Usability
+'Only users with Update access must be able to initiate dispute requests.': Security
+'The System shall be able to automatically backup business data and restore them on demand.': Operational
+
+Now, classify the following given requirement: 'system shall be able to handle all of the user requests/usage during business hours.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The system shall interface with the faculty central server.': Operational
+'The system shall interface with the student master server.': Operational
+'Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.': Security
+'The product shall comply with corporate User Interface Guidelines': Look and Feel
+'Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.': Security
+'The application shall run on a web application server.': Operational
+'The product must be able to interface with various database management systems. The product shall communicate successfully with the database management system on 100% of all transactions.': Operational
+The interface shall be appealing to callers and supervisors. In the interface and usability survey 80% of beta testers must report that the interface is appealing.': Look and Feel
+'The server will support a maximum of 1 000 simultaneous users.': Scalability
+'We must be able to interface with any HTML browser.': Operational
+
+Now, classify the following given requirement: 'The system shall interface with CampusConnect’s central server'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'Only authorized users shall have access to students’ personal information.': Security
+'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Site including the clinical site name site contact person contact information and address.': Functional
+'Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.': Security
+'Only authorized personnel can access sales information.': Security
+'Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.': Security
+'Clinical site information shall include (but not be limited to) the name of the site contact person and contact information.': Functional
+'The product shall ensure that it can only be accessed by authorized users. The product will be able to distinguish between authorized and unauthorized users in all access attempts': Security
+'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Lab Section including the clinical site name the department/section for the lab the class instructor day and time of lab and contact information.': Functional
+'Every registered user will have access to the product’s support site via the Internet. 70% of registered users shall find a solution to their problem within 5 minutes of using the support site.': Usability
+'The Disputes System shall provide view access capability for authorized users of the application.': Functional
+
+Now, classify the following given requirement: 'Only authorized users shall have access to clinical site information.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data. The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.': Fault Tolerance
+'A database management system such as Oracle DB2 MySql or HSQL will need to be integrated with the product.': Operational
+'The product’s Look and Feel shall be able to incorporate aspects of the customer’s organization such as logo branding and identity': Look and Feel
+'System shall let customers register on the website as a “pay as you go” user in under 5 minutes.': Performance
+'All customer information will be stored on a secure database accessible only to authorized personnel.': Security
+'The WCS system shall be available at all times as long as IBM’s internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM’s internal intranet W3 is available.': Availability
+'The product shall display the grids within a circle as a view from a periscope.': Look and Feel
+'The system shall prevent malicious attacks including denial of service.': Security
+'If a user account is revoked it can only be re-instantiated by the System Administrator.': Security
+'The Disputes System shall accurately provide a list of possible reason codes for a given transaction. The list of possible reason codes must be derived based on the type of transaction and the industry that the merchant belongs to according to the business rules defined for the Disputes System.': Functional
+
+Now, classify the following given requirement: 'The system shall be built such that it is as secure as possible from malicious interference.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'Program Administrators and Nursing Staff Members shall be able to add a single student to a cohort': Functional
+'Program Administrators and Nursing Staff Members shall be able to add a new cohort to the system identified by start month and year.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes': Functional
+'The system shall be intuitive to the Program Administrators/Nursing Staff Members.': Usability
+'Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes': Functional
+'The system shall be easy to use by the Program Administrators/Nursing Staff Members.': Usability
+'A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add a new clinical lab section for an existing clinical class into the System.': Functional
+
+Now, classify the following given requirement: 'Program Administrators and Nursing Staff Members shall be able to add a listing of students to a cohort.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes': Functional
+'Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes': Functional
+'For each class within a sequence for a cohort Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.': Functional
+'Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study': Functional
+'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts including cohort identifier program of study preferred sequence of classes and quarters that a cohort will be taking specific classes.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add a single student to a cohort': Functional
+'The system shall be intuitive to the Program Administrators/Nursing Staff Members.': Usability
+'Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.': Functional
+'The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members’ planning purposes.': Functional
+
+Now, classify the following given requirement: 'Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'For each class within a sequence for a cohort Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add a student who has registered for a clinical class to a clinical lab section for that class.': Functional
+'Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study': Functional
+'Program Administrators and Nursing Staff Members shall be able to add a single student to a cohort': Functional
+'Program Administrators and Nursing Staff Members shall be able to add a new clinical lab section for an existing clinical class into the System.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes': Functional
+'The system shall be intuitive to the Program Administrators/Nursing Staff Members.': Usability
+'Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.': Functional
+'Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes': Functional
+
+Now, classify the following given requirement: 'For each class within a sequence for a cohort Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add a new clinical lab section for an existing clinical class into the System.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes': Functional
+'Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add a single student to a cohort': Functional
+'Program Administrators and Nursing Staff Members shall be able to add a new cohort to the system identified by start month and year.': Functional
+'The system shall be intuitive to the Program Administrators/Nursing Staff Members.': Usability
+'Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes': Functional
+'A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.': Functional
+'The system shall be easy to use by the Program Administrators/Nursing Staff Members.': Usability
+
+Now, classify the following given requirement: 'Program Administrators and Nursing Staff Members shall be able to add a new clinical site into the system.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes': Functional
+'The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.': Functional
+'Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes': Functional
+'Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study': Functional
+'2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.': Usability
+'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts including cohort identifier program of study preferred sequence of classes and quarters that a cohort will be taking specific classes.': Functional
+'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Nursing Student including student ID student name phone number e-mail status (full time or part time) and program of study.': Functional
+'A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.': Functional
+'The system shall be able to display a printable summary for individual nursing students which will include (but not be limited to) student name student ID admission date classes credits GPA and the cohort that the student is enrolled in.': Functional
+'The system shall be capable of processing 100% of nursing students and their classes for the next 10 years.': Scalability
+
+Now, classify the following given requirement: 'A staff member shall have the ability to manage the progress of a part time student which includes modifying their sequence of classes and timeline of classes.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'All letter requests must be formatted according to guidelines specified by the Print Letter Utility system.': Functional
+'The Disputes application shall interface with the Cardmember Posting and Billing System. This will allow the Disputes application to request adjustments to cardmember and merchant’s accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.': Operational
+'The application shall run on a web application server.': Operational
+'The Disputes application shall ensure that only authorized users are allowed to logon to the application.': Security
+'All screens created as part of the Disputes application must comply with corporate standards for interface creation.': Look and Feel
+'The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.': Security
+'The Disputes application shall support 350 concurrent users without any degradation of performance in the application.': Performance
+'The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.': Functional
+'The Dispute System shall provide the users with the ability to follow up on a dispute case via follow-up actions. The list of available follow up actions for a given dispute case must be filtered by the status of the case and the access level of the user.': Functional
+'The Disputes System shall provide view access capability for authorized users of the application.': Functional
+
+Now, classify the following given requirement: 'The Disputes application shall interface with the Letters application. This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system. A detailed history of the actions taken on the case including the date and the user that performed the action must be maintained for auditing purposes.': Functional
+'All additions of new users and modifications to user’s access shall be recorded on the User Report.': Security
+'Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.': Functional
+'The product shall generate a CMA report in an acceptable time.': Performance
+'The audit report shall be displayed to the user.': Functional
+'The user shall enter new ratings based on the audit report': Functional
+'The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.': Security
+'A new user must be able to be added to the system within 10 minutes. 90% of new users are able to log into the system within 10 minutes.': Usability
+'System shall automatically update the main page of the website every Friday and show the 4 latest movies that have been added to the website.': Functional
+'Realtor shall be able to generate a CMA report based on property criteria': Functional
+
+Now, classify the following given requirement: 'The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user’s access level. The report will be reviewed for auditing purposes.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information; the dispute case number the type of retrieval requested (copy original or portfolio) and the date that the merchant response is due.': Functional
+'The Disputes System must provide a confirmation to the user upon the creation of a chargeback request. The confirmation must contain the following information; the dispute case number the type of chargeback requested (pending or immediate) and the date that the merchant response is due.': Functional
+'The audit report shall include the number of available recycled parts from the original search results.': Functional
+'The list of dispute cases that are displayed after a search is performed must be color coded for easy identification of dispute cases based upon the dispute case status.': Usability
+'The search results shall be returned no later 30 seconds after the user has entered the search criteria': Performance
+'The Disputes System must allow the users to select disputable transactions (based on the age of the transaction) from a user interface and initiate a dispute (ticket retrieval request or chargeback notification) on the selected transaction.': Functional
+'The Dispute System shall provide the users with the ability to follow up on a dispute case via follow-up actions. The list of available follow up actions for a given dispute case must be filtered by the status of the case and the access level of the user.': Functional
+'A list of all disputes cases that meet the entered search criteria must be provided to the user. The list of cases must differentiate the type and/or status of the case by color -coding the line item in the list. For example all open cases will be yellow and all closed cases will be gray.': Functional
+'The product shall allow the user to save the property search results.': Functional
+'The Disputes System will provide the user the ability to create or initiate a ticket retrieval request. As part of ticket retrieval creation process the system must prompt the user to enter all the required information to create the ticket retrieval request. The ticket retrieval request is a document that is sent to merchant inquiring the validity of a transaction.': Functional
+
+Now, classify the following given requirement: 'The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number. In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The Disputes System must provide the ability to view existing dispute cases.': Functional
+'For any systematic (non-user initiated) action that occurs on a case such as the disputes aging process a case activity will be generated. Upon the next logon the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case.': Functional
+'The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant.': Functional
+'The Dispute System shall provide the users with the ability to follow up on a dispute case via follow-up actions. The list of available follow up actions for a given dispute case must be filtered by the status of the case and the access level of the user.': Functional
+'The Disputes System shall provide view access capability for authorized users of the application.': Functional
+'The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system. A detailed history of the actions taken on the case including the date and the user that performed the action must be maintained for auditing purposes.': Functional
+'The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.': Functional
+'The system shall provide a history report of changes made to the Activity or Event data': Functional
+'The system shall display Events or Activities.': Functional
+'The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.': Functional
+
+Now, classify the following given requirement: 'The Disputes System shall provide the users the ability to view the history of all activities that have occurred on the dispute case.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall be easy to learn by Adjusters and Collision Estimators. The product shall be learned with two days onsite training': Usability
+'The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.': Usability
+'The system shall be easy to use by the Program Administrators/Nursing Staff Members.': Usability
+'The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.': Usability
+'Only collision estimators shall search for recycled parts. Users without the collision estimator role shall not have access to the search for recycled parts.': Security
+'The interface shall be easy to use. 90% of users should be able to successfully use the system to generate a report on their first use. The interface should adhere to IBM usability standards.': Usability
+'The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage.': Usability
+The system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes.': Usability
+'For estimators the product shall be able to be operated in a repair facility during dirty and noisy conditions.': Operational
+'The adjuster shall review the collision estimate.': Functional
+
+Now, classify the following given requirement: 'The product shall be easy to use by Adjusters and Collision Estimators. 95% of Adjusters and Collision Estimators shall find the product easy to use.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall adhere to the corporate Architecture guidelines': Operational
+'The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.': Availability
+The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year.': Availability
+'The system shall be able to call the seller or buyer to schedule an appointment': Functional
+'The Disputes application shall ensure that only authorized users are allowed to logon to the application.': Security
+The product shall ensure that only supervisors can view schedule of all callers.The product must ensure that supervisors are allowed to access advertise empty time slots.': Security
+'The application shall have a downtime of at most 10 minutes per year.': Availability
+'Each time a conference room is reserved the conference room schedule shall be updated to reflect the time and date of the reservation.': Functional
+'The product shall be available for use 24 hours per day 365 days per year': Availability
+The product shall ensure that only supervisors can enter a caller’s schedule.The product must ensure that supervisors are allowed to access advertise empty time slots.': Security
+
+Now, classify the following given requirement: 'The product shall adhere to the corporate online availability schedule. The application is brought down only within 98% of the scheduled outages per the availability schedule.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The estimator shall search for available recycled parts using a list of preferred parts suppliers.': Functional
+'Only collision estimators shall search for recycled parts. Users without the collision estimator role shall not have access to the search for recycled parts.': Security
+'The estimator shall not apply recycled parts to the collision estimate if no available parts are returned.': Functional
+'The recycled parts search results provided to the estimator shall be retrieved by the system.': Functional
+'The available recycled parts information and their suppliers shall be returned to the user.': Functional
+'The system shall retain the available recycled parts and suppliers returned from the search.': Functional
+'The estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers': Functional
+'The estimator shall apply selected recycled parts to the collision estimate.': Functional
+'The ratings shall include categories for attempted use of recycled parts and actual use of recycled parts': Functional
+'The audit report shall include the number of available recycled parts from the original search results.': Functional
+
+Now, classify the following given requirement: 'The estimator shall search for available recycled parts using damaged vehicle parts information.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The estimator shall search for available recycled parts using a list of preferred parts suppliers.': Functional
+'The system shall retain the available recycled parts and suppliers returned from the search.': Functional
+'The available recycled parts information and their suppliers shall be returned to the user.': Functional
+'Only collision estimators shall search for recycled parts. Users without the collision estimator role shall not have access to the search for recycled parts.': Security
+'The estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers': Functional
+'The ratings shall include categories for attempted use of recycled parts and actual use of recycled parts': Functional
+'The estimator shall not apply recycled parts to the collision estimate if no available parts are returned.': Functional
+'The audit report shall include the number of available recycled parts from the original search results.': Functional
+'The product shall interface with the Choice Parts System. This provides the feed of recycled parts data.': Operational
+'The recycled parts search results provided to the estimator shall be retrieved by the system.': Functional
+
+Now, classify the following given requirement: 'The system shall search for available recycled parts for the supplied vehicle parts and suppliers.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The adjuster shall request a recycled parts audit of the collision estimate.': Functional
+'The audit report shall include the percentage of available recycled parts used in the estimate ': Functional
+'The audit report shall include the total number of recycled parts used in the estimate.': Functional
+'The estimator shall not apply recycled parts to the collision estimate if no available parts are returned.': Functional
+'The estimator shall apply selected recycled parts to the collision estimate.': Functional
+'The audit report shall include the number of available recycled parts from the original search results.': Functional
+'The user shall enter new ratings based on the audit report': Functional
+'Only collision estimators shall search for recycled parts. Users without the collision estimator role shall not have access to the search for recycled parts.': Security
+'Realtor shall be able to generate a CMA report based on property criteria': Functional
+'The recycled parts audit report shall be returned to the user within 10 seconds. The audit report shall be returned within 10 seconds.': Performance
+
+Now, classify the following given requirement: 'The system shall generate an audit report based on the available recycled parts and the collision estimate.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The application shall run on a web application server.': Operational
+'The system shall interface with the student master server.': Operational
+'The server will support a maximum of 1 000 simultaneous users.': Scalability
+'The system shall interface with the faculty central server.': Operational
+'The product shall use a standard navigation menu familiar to most web users.': Usability
+'The Disputes application shall ensure that only authorized users are allowed to logon to the application.': Security
+'The website shall continue to operate if the streaming server goes down.': Fault Tolerance
+'The Disputes application shall support 350 concurrent users without any degradation of performance in the application.': Performance
+'The streaming server will support 50 simultaneous streaming connections.': Scalability
+'The streaming server will have anti-virus software to prevent infection of malicious viruses.': Security
+
+Now, classify the following given requirement: 'The product must make use of web/application server technology. Open source examples include Apache web server Tomcat and the JBoss application server.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The system shall have a professional appearance': Look and Feel
+'The appearance of the product shall appear professional': Look and Feel
+'The system shall operate within the Windows XP Professional operating system.': Operational
+'The product shall have a customizable Look and Feel.': Functional
+'The product shall have a consistent color scheme and fonts.': Look and Feel
+'The product shall be robust.The product shall have fault avoidance based on standards adoption.': Fault Tolerance
+'The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds': Performance
+'The product shall have the ability to send meeting reminders to employees.': Functional
+'Only authorized users shall have access to students’ personal information.': Security
+'The owner shall have free access to all of the streaming movies.': Functional
+
+Now, classify the following given requirement: 'The product shall have a conservative and professional appearance.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.': Usability
+'Users shall feel satisfied using the product. 85% of all users will be satisfied with the product.': Usability
+'The product must be highly configurable for use with various database management systems for the end users. 80% of end users are able to integrate new database management systems with the product without changing the product’s software code.': Maintainability
+'The product shall ensure that it can only be accessed by authorized users. The product will be able to distinguish between authorized and unauthorized users in all access attempts': Security
+'When both players have positioned their 5 ships on their defensive grids the product shall define the status of each player for the first turn.': Functional
+'The product shall be able support 1000 simultaneous users.': Scalability
+'The users should be able to easily use the system to successfully complete their budgets within the stipulated time for completion. With a week of training prior to product implementation 98% of the users shall complete their budgets within the stipulated time.': Usability
+'The Dispute System shall provide the users with the ability to follow up on a dispute case via follow-up actions. The list of available follow up actions for a given dispute case must be filtered by the status of the case and the access level of the user.': Functional
+'All additions of new users and modifications to user’s access shall be recorded on the User Report.': Security
+'The product shall be able to support multiple remote users': Scalability
+
+Now, classify the following given requirement: 'The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data. The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.': Fault Tolerance
+'The product shall prevent its data from incorrect data being introduced.': Security
+'The system shall prevent malicious attacks including denial of service.': Security
+'The website shall prevent its data from being corrupted when incorrect data is entered in.': Security
+'The streaming server will have anti-virus software to prevent infection of malicious viruses.': Security
+'Only valid data shall be entered into the system. No invalid data shall be entered into the system.': Security
+'The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.': Security
+'The system shall locate the preferred repair facility with the highest ratings for the input criteria': Functional
+'The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.': Security
+'The product shall ensure that the database’s data corresponds to the data entered by the user. Each conference room reservation in the system will contain the same information as was entered by the user.': Security
+
+Now, classify the following given requirement: 'The product shall prevent the input of malicious data. The product and/or adjacent hardware/software systems’ data shall remain 100% uncorrupted each time malicious data is input into the product.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.': Scalability
+'The product shall be available to players who understand English Spanish and French. The product shall allow the user to select the language upon accessing the product.': Usability
+'The product shall allow the user to select a chosen language from one of the target market countries.': Usability
+'The product must be able to interface with various database management systems. The product shall communicate successfully with the database management system on 100% of all transactions.': Operational
+'The product must be able to interface with various email servers. The product shall be able to send email.': Operational
+'The customer shall be able to easily integrate new building maps with the product throughout the product’s lifecycle. Integration of new maps with the product shall be possible with little to no support from product support staff.': Maintainability
+'Only users with Update access must be able to initiate dispute requests.': Security
+'We must be able to interface with any HTML browser.': Operational
+'Website must be fully operational with MSN TV2.': Operational
+'The product must be highly configurable for use with various database management systems for the end users. 80% of end users are able to integrate new database management systems with the product without changing the product’s software code.': Maintainability
+
+Now, classify the following given requirement: 'The product must be developed with the J2SE/J2EE programming language libraries'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall have the ability to send meeting reminders to employees.': Functional
+'The product will record meeting acknowledgements.': Functional
+'The product shall record meeting entries.': Functional
+'The product shall record different meeting types.': Functional
+'The product shall record updated meeting agendas.': Functional
+'The product shall allow an organizer to invite other employees to meetings.': Functional
+'The product will allow priviledged users to view meeting schedules in multiple reporting views.': Functional
+'The product shall notify building personnel of equipment transport requests.': Functional
+'The system shall notify customers of changes to its information policy.': Security
+'The product shall assign the organizers contact information to each meeting they create.': Functional
+
+Now, classify the following given requirement: 'The product will notify employees of meeting invitations.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall have the ability to send meeting reminders to employees.': Functional
+'The product shall record meeting entries.': Functional
+'The product will record meeting acknowledgements.': Functional
+'The product shall record different meeting types.': Functional
+'The product shall be able to send meeting notifications via different kinds of end-user specified methods.': Functional
+'The product shall record updated meeting agendas.': Functional
+'The product shall assign the organizers contact information to each meeting they create.': Functional
+'The product shall allow an organizer to invite other employees to meetings.': Functional
+'The product will allow priviledged users to view meeting schedules in multiple reporting views.': Functional
+'The product must be able to interface with various email servers. The product shall be able to send email.': Operational
+
+Now, classify the following given requirement: 'The product shall send a meeting confirmation to the meeting organizer.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The system shall be intuitive and self explanatory.': Usability
+'The system shall be intuitive to the Program Administrators/Nursing Staff Members.': Usability
+'The user interface shall have standard menus buttons for navigation': Look and Feel
+'The product shall allow for intuitive searching of available conference rooms.': Usability
+'Any interface between a user and the automated system shall have a maximum response time of 5 seconds unless noted by an exception below.': Performance
+'The leads washing functionality will have an interface in which lead data parameters can be maintained.': Functional
+'The product shall comply with corporate User Interface Guidelines': Look and Feel
+The interface shall have a simple look. In the interface and usability survey 90% of beta testers must report that the interface is adequately simple.': Look and Feel
+'The RMS System shall have Windows XP look and feel and use GUI futures making its use intuitive.': Functional
+'The product shall be intuitive and self-explanatory. : 90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.': Usability
+
+Now, classify the following given requirement: 'The product shall have an intuitive user interface.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall free of computer viruses.': Security
+'The product shall be able to delete room equipment.': Functional
+'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.': Scalability
+'The product shall be able to store new room equipment.': Functional
+'The product will update existing room equipment.': Functional
+'The product shall display room equipment according to search parameters.': Functional
+'The product shall record the transportation status of equipment reserved.': Functional
+'The product shall record all the equipment that has been reserved.': Functional
+'The product shall notify building personnel of equipment transport requests.': Functional
+'The WCS system shall be run in a Windows environment. The WCS shall be accessed by users through the Internet on an IBM computer running a Windows 2000 or above operating system.': Operational
+
+Now, classify the following given requirement: 'The System shall utilize currently owned computer equipment.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.': Security
+'The product shall maintain a list of players.': Functional
+'All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation': Maintainability
+'The product shall maintain the status of each player for a turn either offensive or defensive.': Functional
+'When streaming a movie the buffering time should take no longer than 10 seconds (plus any latency on the user’s connection.)': Performance
+'The product shall have a consistent color scheme and fonts.': Look and Feel
+'The website should cater to all tribes in Nigeria.': Look and Feel
+'The system shall provide a history report of changes made to the Activity or Event data': Functional
+'The system shall notify customers of changes to its information policy.': Security
+'The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system. A detailed history of the actions taken on the case including the date and the user that performed the action must be maintained for auditing purposes.': Functional
+
+Now, classify the following given requirement: 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'System shall let customers register on the website as a “pay as you go” user in under 5 minutes.': Performance
+'System shall let the administrator add/remove categories on the website in under 5 minutes.': Performance
+'System shall let administrator add/remove movies on the website in under 5 minutes. Entered movie information will be stored in the database and will now be available on the website.': Performance
+'System shall let existing customers log into the website with their email address and password in under 5 seconds.': Performance
+'Website shall allow customers to add their own movie review for a selected movie.': Functional
+'System shall let customers cancel their account process shall take no longer than 2 minutes. Database will mark the account as inactive and user will not be able to log into the website.': Performance
+'A new user must be able to be added to the system within 10 minutes. 90% of new users are able to log into the system within 10 minutes.': Usability
+'The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies. Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.': Usability
+'System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.': Performance
+'System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs.': Performance
+
+Now, classify the following given requirement: 'System shall let customers register on the website as a “unlimited movie subscriber” user in under 10 minutes.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'System shall let the administrator add/remove categories on the website in under 5 minutes.': Performance
+'Daily usage statistics should be logged and accessible by the administrator.': Functional
+'System shall let customers register on the website as a “pay as you go” user in under 5 minutes.': Performance
+'System shall let administrator add/remove movies on the website in under 5 minutes. Entered movie information will be stored in the database and will now be available on the website.': Performance
+'System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.': Performance
+'System shall let existing customers log into the website with their email address and password in under 5 seconds.': Performance
+'Website must be able to support free trial periods with various parameters set by the Izogn Manager.': Functional
+'Only authorized personnel can access sales information.': Security
+'System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs.': Performance
+'Izogn Administrator must be able to add new products to the website within 2 minutes.': Performance
+
+Now, classify the following given requirement: 'System shall let Izogn Manager access sales and usage statistics in under 2 minutes.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The user interface shall have standard menus buttons for navigation': Look and Feel
+'The product shall use a standard navigation menu familiar to most web users.': Usability
+The product shall be internet browser independent.The product must run using Internet Explorer and Netscape Navigator.': Maintainability
+'The system shall use the organization’s standard virus protection software to help monitor threats to itself.': Security
+'All aspects of the website shall be accessed by a web browser over the Internet.': Operational
+'The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.': Usability
+'The product must support Internet Explorer 5.5 and above.': Operational
+'The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.': Usability
+'A user shall be able to use the system without instruction after a short amount of time. After one use a user should understand and remember 90% of the system usage and navigation.': Usability
+'98% of the user workstations shall meet the minimum software requirements prior to implementation: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1. Microsoft Internet Explorer Web Controls': Operational
+
+Now, classify the following given requirement: 'The website will use standard Internet conventions when interacting with the user.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'System will allow customers to pay for a streaming movie with a pre-paid card.': Functional
+'Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds.': Performance
+'Pre-paid cards shall be distributed via email or via a printed paper card.': Functional
+'Only administrators can activate a pre-paid card.': Security
+'The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds': Performance
+'Website shall allow customers to purchase pre-paid cards of $5 $10 or $20 value either by credit card or mail-in payment option.': Functional
+'The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time the response time should not be more than 10 seconds.not be more than 10 seconds.': Performance
+'When streaming a movie the buffering time should take no longer than 10 seconds (plus any latency on the user’s connection.)': Performance
+'Website must interface with the CyberSource API to process credit card transactions.': Operational
+'Any interface between a user and the automated system shall have a maximum response time of 5 seconds unless noted by an exception below.': Performance
+
+Now, classify the following given requirement: 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'When streaming a movie the buffering time should take no longer than 10 seconds (plus any latency on the user’s connection.)': Performance
+'Movies can only be streamed if the customer has purchased a movie and is within the 2-day time period to stream the movie.': Functional
+'All streaming movie sales will be logged in the database and accessible by the administrator.': Functional
+'The product shall operate in offline mode whenever internet connection is unavailable.': Fault Tolerance
+'If a user account is revoked it can only be re-instantiated by the System Administrator.': Security
+'The user shall easily locate instructions while using the product. User help can be found within 90% of the system.': Usability
+'System will allow customers to pay for a streaming movie with a pre-paid card.': Functional
+'A customer can only stream a movie if they purchased it and are within the 2 day viewing period.': Security
+'Only registered customers can purchase streaming movies.': Security
+'Only registered customers can purchase streaming movies.': Functional
+
+Now, classify the following given requirement: 'While streaming a movie buffering should only occur if there is latency in the user’s connection.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The streaming server will support a maximum of 700 movies; new servers can be added to support more movies.': Scalability
+'The product shall provide Dynamic Change Support and Transparent resource addition.The product shall support Transparent Resource addition and Dynamic Change support to provide scalability and avoid service interruptions of more than 1 day.': Performance
+'The product shall be able to support multiple remote users': Scalability
+'The system will provide a 24 hour 800 toll free number for support to its customers.': Availability
+'Website must be able to support free trial periods with various parameters set by the Izogn Manager.': Functional
+'The product shall be able support 1000 simultaneous users.': Scalability
+'The product shall provide GUI based Monitoring Services.System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.': Look and Feel
+'The server will support a maximum of 1 000 simultaneous users.': Scalability
+'The customer shall be able to easily integrate new building maps with the product throughout the product’s lifecycle. Integration of new maps with the product shall be possible with little to no support from product support staff.': Maintainability
+'The same hardware supporting the current website will be used to support the new system.': Operational
+
+Now, classify the following given requirement: 'Velkat staff will be available for phone support between 7am-7pm M-F to provide technical support to the Izogn administrators.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'All credit card information will be secured on the server and only accessible by authorized Izogn administrators. Information will be encrypted in the database.': Security
+'Website must interface with the CyberSource API to process credit card transactions.': Operational
+'The Disputes applications shall interface with the Merchant Information Database. The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database.': Operational
+'The Disputes application shall interface with the Cardmember Information Database. The Cardmember Information Database provides detailed information with regard to a cardmember. All cardmember detail information must be obtained from the Cardmember Information Database.': Operational
+'All customer information will be stored on a secure database accessible only to authorized personnel.': Security
+'All streaming movie sales will be logged in the database and accessible by the administrator.': Functional
+'System shall let administrator add/remove movies on the website in under 5 minutes. Entered movie information will be stored in the database and will now be available on the website.': Performance
+'Website shall allow customers to purchase pre-paid cards of $5 $10 or $20 value either by credit card or mail-in payment option.': Functional
+'All registered customer information shall be stored and maintained in the database even after the customer cancels their account.': Functional
+'Vendor will submit a credit validation record to be applied to the enterprise billing system.': Functional
+
+Now, classify the following given requirement: 'All credit card information will be encrypted in the database.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'Website shall allow customers to purchase pre-paid cards of $5 $10 or $20 value either by credit card or mail-in payment option.': Functional
+'Website must interface with the CyberSource API to process credit card transactions.': Operational
+'Movies can only be streamed if the customer has purchased a movie and is within the 2-day time period to stream the movie.': Functional
+'Website shall allow customers to add their own movie review for a selected movie.': Functional
+'System will allow customers to pay for a streaming movie with a pre-paid card.': Functional
+'The website shall continue to operate if the payment gateway goes down.': Fault Tolerance
+'A customer can only stream a movie if they purchased it and are within the 2 day viewing period.': Security
+'shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.': Functional
+'All credit card information will be secured on the server and only accessible by authorized Izogn administrators. Information will be encrypted in the database.': Security
+'The website shall make its user aware of its information practices before collection data from them via a Privacy Policy accessible on all pages of the website.': Security
+
+Now, classify the following given requirement: 'Website shall request and authorize credit card payment before allowing a user to stream a movie.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'For leads that process longer than 25 seconds the system will record the event and duration': Performance
+'The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.': Performance
+On a 56k connection the system response time for all operations must be no more than 6 seconds 90% of the time.': Performance
+'The search for recycled parts shall take no longer than 15 seconds. The search results shall be returned in under 15 seconds.': Performance
+On a 112k connection or faster the system response time for all operations must be no more than 3 seconds 90% of the time.': Performance
+The system shall be responsive. At the DePaul TeleServices Center when a supervisor uses the system to view a callers schedule the system response time must be no more than 2 seconds 90% of the time and no more than 5 seconds the rest of the time.': Performance
+'The search for the preferred repair facility shall take no longer than 8 seconds. The preferred repair facility is returned within 8 seconds': Performance
+'The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.': Performance
+'When streaming a movie the buffering time should take no longer than 10 seconds (plus any latency on the user’s connection.)': Performance
+'The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time the response time should not be more than 10 seconds.not be more than 10 seconds.': Performance
+
+Now, classify the following given requirement: 'No lead evaluation will complete in a time period longer than 25 seconds for 97% of all leads processed.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The leads washing functionality will have an interface in which lead data parameters can be maintained.': Functional
+'The lead washing process will operate within the established physical web service structure.': Operational
+'The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle.': Performance
+'The website shall prevent its data from being corrupted when incorrect data is entered in.': Security
+'If a lead is scored to the high range the system will supply the lead data and score to the enterprise system.': Functional
+'The leads washing functionality will return the lead data supplied to the vendor along with the reason of rejection.': Functional
+'The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead.': Functional
+'The product shall prevent its data from incorrect data being introduced.': Security
+'The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds': Performance
+'The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.': Security
+
+Now, classify the following given requirement: 'The washing process must use a non binding neutral data format such as xml when receiving and processing lead data.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'Data integrity scripts will be run on a weekly basis to verify the integrity of the database.': Security
+'System shall let administrator add/remove movies on the website in under 5 minutes. Entered movie information will be stored in the database and will now be available on the website.': Performance
+'The product shall allow the user to view previously downloaded search results CMA reports and appointments.': Fault Tolerance
+'The system interface will use CCR nomenclature. The system must use the same nomenclature used in the existing WCS system and reports': Look and Feel
+'The product shall interface CSR and Datastream.The product shall exchange messages between CSR and EAM on a real time basis without any direct interfaces between two systems.': Operational
+'The WCS system shall be available at all times as long as IBM’s internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM’s internal intranet W3 is available.': Availability
+'The product shall be available during normal business hours. As long as the user has access to the client PC the system will be available 99% of the time during the first six months of operation.': Availability
+'The RFS system should be available 24/7 especially during the budgeting period. The RFS system shall be available 90% of the time all year and 98% during the budgeting period. 2% of the time the system will become available within 1 hour of the time that the situation is reported.': Availability
+'The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.': Maintainability
+'The available recycled parts information and their suppliers shall be returned to the user.': Functional
+
+Now, classify the following given requirement: 'Defect reports will be available to technical units on a 24x7 basis.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'If the leads score falls within the low average then it will be returned to the supplying vendor': Functional
+'If the leads score falls within the medium average then it will be set for manual verification by an Enrollment Coordinator through the eleads system.': Functional
+'The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead.': Functional
+'The leads washing functionality will compile both contact and academic scoring information for a total score.': Functional
+'If a lead is scored to the high range the system will supply the lead data and score to the enterprise system.': Functional
+'The leads washing functionality will insert all leads captured by the web service.': Functional
+'The leads washing functionality will validate all leads received by the web service for valid data': Functional
+'The leads washing functionality will have an interface in which lead data parameters can be maintained.': Functional
+'If a user account is revoked it can only be re-instantiated by the System Administrator.': Security
+'For leads that process longer than 25 seconds the system will record the event and duration': Performance
+
+Now, classify the following given requirement: 'If the leads score falls within the high average score then it will be process by the ARA functionality.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The leads washing functionality shall receive a period list of available reps from the enterprise system.': Functional
+'The leads washing functionality will insert all leads captured by the web service.': Functional
+'The leads washing functionality will have an interface in which lead data parameters can be maintained.': Functional
+'The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead.': Functional
+'The leads washing functionality will validate all leads received by the web service for valid data': Functional
+'The leads washing functionality will return the lead data supplied to the vendor along with the reason of rejection.': Functional
+'If a lead is scored to the high range the system will supply the lead data and score to the enterprise system.': Functional
+'The leads washing functionality will verify the users authentication and rights to make parameter updates.': Functional
+'The leads washing functionality will compile both contact and academic scoring information for a total score.': Functional
+'The product shall store new conference rooms.': Functional
+
+Now, classify the following given requirement: 'The leads washing functionality will store any potential lead duplicates returned by the enterprise system.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The leads washing functionality will have an interface in which lead data parameters can be maintained.': Functional
+'If a lead is scored to the high range the system will supply the lead data and score to the enterprise system.': Functional
+'The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead.': Functional
+'The leads washing functionality will return the lead data supplied to the vendor along with the reason of rejection.': Functional
+'The leads washing functionality shall receive a period list of available reps from the enterprise system.': Functional
+'The leads washing functionality will insert all leads captured by the web service.': Functional
+'The leads washing functionality will validate all leads received by the web service for valid data': Functional
+'The vendor will verify the invalid lead.': Functional
+'The lead washing process will operate within the established physical web service structure.': Operational
+'The leads washing functionality will verify the users authentication and rights to make parameter updates.': Functional
+
+Now, classify the following given requirement: 'Prior to submitting the lead to the enterprise system the leads washing functionality will assign the lead to an admissions rep.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall be available for use 24 hours per day 365 days per year': Availability
+'The website shall be available for use 24 hours per day 365 days per year.': Availability
+'The average number of recycled parts records per day shall be 50 000.': Scalability
+'The product shall interface with the ChoiceParts system once per day at approximately 1:00 AM.': Operational
+'The application shall have a downtime of at most 10 minutes per year.': Availability
+'The product shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.': Scalability
+'The product shall remove players who have been inactive for 24 hours from the list of players.': Functional
+'The system shall be available for use between the hours of 8am and 6pm.': Availability
+'The Commissioner will be the only authorized user per league to adjust league settings.': Security
+The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year.': Availability
+
+Now, classify the following given requirement: 'The product shall be available 24 hours per day seven days per week.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.': Performance
+On a 56k connection the system response time for all operations must be no more than 6 seconds 90% of the time.': Performance
+The system shall be responsive. At the DePaul TeleServices Center when a supervisor uses the system to view a callers schedule the system response time must be no more than 2 seconds 90% of the time and no more than 5 seconds the rest of the time.': Performance
+'The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time the response time should not be more than 10 seconds.not be more than 10 seconds.': Performance
+On a 112k connection or faster the system response time for all operations must be no more than 3 seconds 90% of the time.': Performance
+'The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.': Performance
+'The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.': Performance
+'The response shall be fast enough to avoid interrupting the user’s flow of thought. 90% of tasks shall complete within 5 seconds. 98% of tasks shall complete within 8 seconds.': Performance
+'Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.': Performance
+'The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.': Availability
+
+Now, classify the following given requirement: 'The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall allow the player to position ships diagonally on their grid': Functional
+'The product shall allow a player to position ships horizontally on their grid.': Functional
+'The product shall prevent the player from overlapping ships on their grid.': Functional
+'Once a game is initiated the product shall allow each player to position their 5 ships on their respective defensive grids.': Functional
+'When both players have positioned their 5 ships on their defensive grids the product shall define the status of each player for the first turn.': Functional
+'Once a game is initiated the product shall display a defensive grid to each player': Functional
+'Once a game is initiated the product shall display an offensive grid to each player.': Functional
+'The product shall allow a player to initiate a game by selecting another available player from the list of players.': Functional
+'For each shot the product shall mark the shot as a hit or miss on the defensive grid of the defensive player.': Functional
+'For each shot the product shall mark the shot as a hit or miss on the offensive grid of the offensive player.': Functional
+
+Now, classify the following given requirement: 'The product shall allow the player to position ships vertically on their grid.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall maintain the status of each player for a turn either offensive or defensive.': Functional
+'If the shot was marked as a miss the product shall change the status of the offensive player to defensive': Functional
+'If the shot was marked as a miss the product shall change the status of the defensive player to offensive': Functional
+'For each turn the product shall allow the offensive player to define a shot.': Functional
+'The product shall allow a user to identify himself or herself as a player.': Functional
+'When both players have positioned their 5 ships on their defensive grids the product shall define the status of each player for the first turn.': Functional
+'When a game is ended the product shall allow each player to identify himself or herself as an available player in the list of players.': Functional
+'The product shall prevent a player from viewing the offensive or defensive grids of the other player.': Functional
+'For each shot the product shall mark the shot as a hit or miss on the defensive grid of the defensive player.': Functional
+'For each shot the product shall mark the shot as a hit or miss on the offensive grid of the offensive player.': Functional
+
+Now, classify the following given requirement: 'For each turn the product shall identify one player as offensive status and one player as defensive status.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall maintain the status of each player for a turn either offensive or defensive.': Functional
+'For each turn the product shall allow the offensive player to define a shot.': Functional
+'When both players have positioned their 5 ships on their defensive grids the product shall define the status of each player for the first turn.': Functional
+'When a game is ended the product shall allow each player to identify himself or herself as an available player in the list of players.': Functional
+'For each shot the product shall notify the players whether the shot was a hit or miss.': Functional
+'When a game is ended the product shall allow each player to remove himself or herself from the list of players.': Functional
+'Once a game is initiated the product shall display a defensive grid to each player': Functional
+'Users shall be able to view at least 25 NFL player statistics and points on each page.': Usability
+'For each shot the product shall mark the shot as a hit or miss on the defensive grid of the defensive player.': Functional
+'For each shot the product shall mark the shot as a hit or miss on the offensive grid of the offensive player.': Functional
+
+Now, classify the following given requirement: 'At the start of each turn the product shall notify each player of his or her status.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall be available during normal business hours. As long as the user has access to the client PC the system will be available 99% of the time during the first six months of operation.': Availability
+'Every user of the system shall be authenticated and authorized.': Security
+'Maintenance releases will be offered to customers once a year. The releases shall take no longer than 5 minutes for 80% of the customer base to install.': Maintainability
+'Washing parameters will be updated during scheduled maintenance hours.': Maintainability
+'The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second.': Performance
+'Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.': Functional
+'The product shall synchronize with the office system every hour.': Performance
+'The maintenance of the product will fall within the established corporate maintenance windows.': Operational
+'The product shall operate with every platform.The product shall accommodate any new technology without any change in its architecture.': Maintainability
+'The system shall refresh the display every 60 seconds.': Performance
+
+Now, classify the following given requirement: 'The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.': Security
+'The leads washing functionality will verify the users authentication and rights to make parameter updates.': Functional
+'The product shall have a customizable Look and Feel.': Functional
+'The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage.': Usability
+'The product shall provide GUI based Monitoring Services.System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.': Look and Feel
+'The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications': Performance
+'The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.': Usability
+'The product shall be robust.The product shall have fault avoidance based on standards adoption.': Fault Tolerance
+'The product shall have a consistent color scheme and fonts.': Look and Feel
+'The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds': Performance
+
+Now, classify the following given requirement: 'The product shall have security.The product shall provide authentication and authorization.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The audit report shall be displayed to the user.': Functional
+'The audit report shall include the total score of the audit which sums the indivual line items.': Functional
+'The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.': Usability
+'The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second.': Performance
+'The product shall store new conference rooms.': Functional
+'The recycled parts audit report shall be returned to the user within 10 seconds. The audit report shall be returned within 10 seconds.': Performance
+'The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds': Performance
+'The product shall be able to store new room equipment.': Functional
+'The adjuster shall request a recycled parts audit of the collision estimate.': Functional
+'The user shall enter new ratings based on the audit report': Functional
+
+Now, classify the following given requirement: 'The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'The System shall allow for a minimum of 6 users to work at the same time.': Performance
+'The WCS system shall not allow automatic logins by any user. Cookies containing WCS login information about a user will not be stored on a user’s computer.': Security
+'All movies shall be streamed on demand at any time of the day.': Availability
+'All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available)': Usability
+'The system shall be able to display a printable summary of the system log.': Functional
+'Any interface between a user and the automated system shall have a maximum response time of 5 seconds unless noted by an exception below.': Performance
+'The product will require collaboration with a database management system (DBMS). The DBMS may be located on the same machine as the product or on a separate machine residing on the same computer network.': Operational
+'The system shall use IBM and CCR branding standards. The interface must have one IBM logo and one CCR logo.': Look and Feel
+'The system shall display the Events in a graph by time.': Functional
+'The WCS system shall be run in a Windows environment. The WCS shall be accessed by users through the Internet on an IBM computer running a Windows 2000 or above operating system.': Operational
+
+Now, classify the following given requirement: 'The system shall be displayable on any work computer a CCR user may have. The system interface shall be formatted to display at 800 by 600 pixel resolution.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'Rreports must be easy to generate. eports must be generated within one button click and exported within one button click (after selecting the report)': Usability
+'A user shall be able to use the system without instruction after a short amount of time. After one use a user should understand and remember 90% of the system usage and navigation.': Usability
+'All of the users shall be able to use the system after one day of training.': Usability
+'The interface shall be easy to use. 90% of users should be able to successfully use the system to generate a report on their first use. The interface should adhere to IBM usability standards.': Usability
+The system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes.': Usability
+'The product must be able to interface with various database management systems. The product shall communicate successfully with the database management system on 100% of all transactions.': Operational
+The system must be available for use between 7:00AM and 11:59PM all days of the year.': Availability
+'All authorized users once authenticated must be able to logon to the Disputes System': Security
+'All updates to data files or database must be initiated from the Disputes System.': Security
+'The system interface will use CCR nomenclature. The system must use the same nomenclature used in the existing WCS system and reports': Look and Feel
+
+Now, classify the following given requirement: 'The system must use a point and click interface. 100% of all selection and navigation functionality must be able to be activated/selected by either a mouse or a keyboard'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'A primary database will be used to store cached data for active users.': Operational
+'The product shall be able to store new room equipment.': Functional
+'The product shall store new conference rooms.': Functional
+'Daily usage statistics should be logged and accessible by the administrator.': Functional
+'Users shall be able to view at least 25 NFL player statistics and points on each page.': Usability
+'All updates to data files or database must be initiated from the Disputes System.': Security
+'The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.': Operational
+'The product shall be used in office environments.': Operational
+'The same hardware supporting the current website will be used to support the new system.': Operational
+'The product should be able to be used by 90% of novice users on the Internet.': Usability
+
+Now, classify the following given requirement: 'A secondary database will be used to store historical statistics and data.'
+
+
+Please classify the given software requirements into the following categories: Functional, Availability, Fault Tolerance, Legal, Look and Feel, Maintainability, Operational, Performance, Portability, Scalability, Security, Usability. The answer should be very concise and short, i.e. only one of the above-mentioned categories.
+Below are some demonstration examples for you to learn, which consist of a software requirement and its category: 
+'User access should be limited to the permissions granted to their role(s) Each level in the PCG hierarchy will be assigned a role and users will be assigned to these roles. Access to functionality within RFS system is dependent on the privileges/permission assigned to the role..': Security
+'Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.': Security
+'The product shall ensure that it can only be accessed by authorized users. The product will be able to distinguish between authorized and unauthorized users in all access attempts': Security
+'Only authorized users shall have access to students’ personal information.': Security
+'Only registered realtors shall be able to access the system.': Security
+'The RFS system should be available 24/7 especially during the budgeting period. The RFS system shall be available 90% of the time all year and 98% during the budgeting period. 2% of the time the system will become available within 1 hour of the time that the situation is reported.': Availability
+'New branches/complexes/districts/regions and revenue/expense accounts added to the BDW must be reflected in the RFS system. 100% of the entities (mentioned above) available as of October month-end will be loaded into the RFS system prior to the budget start process.': Maintainability
+'Only authorized personnel can access sales information.': Security
+'Only authorized personnel can access customer records in the database.': Security
+'The Disputes System shall provide view access capability for authorized users of the application.': Functional
+
+Now, classify the following given requirement: 'Only authorized user shall access the RFS system. ONLY users that exist in the UAS system with the RFS system assigned to their role(s) shall access the RFS system and use it.'

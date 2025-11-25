@@ -1,0 +1,367 @@
+ Functional Suitability
+
+
+ Reliability
+
+
+ Compatibility
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency (since sending email involves sending data over a network, and the requirement mentions interfacing with various email servers, which implies handling multiple connections and potentially large amounts of data)
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Usability
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Usability
+
+
+ Usability
+
+
+ Security
+
+
+ Functional Suitability
+
+
+ Security
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Reliability
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional Suitability
+
+
+ Compatibility
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Security
+
+
+ Functional Suitability
+
+
+ Security
+
+
+ Security
+
+
+ Usability
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Security
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Reliability
+
+
+ Security
+
+
+ Functional Suitability
+
+
+ Compatibility
+
+
+ Compatibility
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Compatibility
+
+
+ Security
+
+
+ Usability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Reliability
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Functional Suitability
+
+
+ Security
+
+
+ Security
+
+
+ Performance Efficiency
+
+
+ Security
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Security
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Usability

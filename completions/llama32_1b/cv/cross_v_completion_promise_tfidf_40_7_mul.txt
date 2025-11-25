@@ -1,0 +1,202 @@
+Operational
+
+
+Security
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement can be classified under the category: **Look and Feel**
+
+
+Functional
+
+
+Usability
+
+
+Security
+
+
+Based on the given requirement, I would classify it under the category of **Functional**.
+
+
+Functional
+
+
+Look and Feel
+
+
+The given requirement 'For estimators the product shall be able to be operated in a repair facility during dirty and noisy conditions.' can be classified under the category of **Usability**.
+
+
+The given requirement can be classified into the following categories:
+
+- Operational: Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.
+- Maintainability: Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Operational
+
+
+Usability
+
+
+Operational
+
+
+Operational
+
+
+Here is the classification of the given requirement:
+
+**Security**
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The System shall allow for a minimum of 6 users to work at the same time' can be classified under the category: **Scalability**.
+
+
+Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Performance: 'System shall let administrators generate unique pre-paid pins in under 2 minutes'
+- Functional: 'System shall generate an Excel file with the generated PINs'
+- Security: 'System shall let administrators generate unique pre-paid pins'
+
+
+The given requirement 'Any interface between a user and the automated system shall have a maximum response time of 5 seconds unless noted by an exception below.' can be classified into the category: **Performance**
+
+
+Operational
+
+
+Operational
+
+
+Operational
+
+
+Performance
+
+
+Operational
+
+
+The given requirement 'Data integrity scripts will be run on a weekly basis to verify the integrity of the database.' can be classified under the category: **Maintainability**.
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'If the shot was marked as a miss the product shall change the status of the defensive player to offensive' can be classified under the category of 'Functional'.
+
+
+Functional
+
+
+The given requirements can be classified into the following categories:
+
+- 'The system shall have high availability every day of the year.': Availability
+- 'The system must be available for use between 12:00AM and 6:00PM all days of the year.': Availability
+
+
+Security
+
+
+The given requirement can be classified into the following categories:
+
+- Availability
+- Operational
+
+
+The given requirement can be classified into the following categories:
+
+- Fault Tolerance
+- Robustness
+
+
+Fault Tolerance
+
+
+The given requirement can be classified under the category: **Operational**
+
+
+Functional
+
+
+The given requirement 'The application shall have a downtime of at most 10 minutes per year' can be classified under the category of 'Availability'.

@@ -1,0 +1,431 @@
+The given requirement can be classified into the category of: Functional Suitability
+
+
+The given requirement 'The product shall be available 24 hours per day seven days per week.' can be classified under the category of **Reliability**.
+
+
+The given requirement 'The system shall interface with the student master server' can be classified under the category of **Compatibility**.
+
+
+The given requirement 'When the offensive player takes a shot the product shall simulate the sound of a ship at sea.' can be classified under the category of 'Usability'.
+
+
+The given requirement 'The product’s Look and Feel shall be able to incorporate aspects of the customer’s organization such as logo branding and identity' can be classified under the category of 'Usability'.
+
+
+The given requirement 'The product shall allow for intuitive searching of available conference rooms.' can be classified under the category of Functional Suitability.
+
+
+The given requirement 'Once a game has been initiated the product shall make the players assigned to the game unavailable for selection from the list of players.' can be classified under the category of Functional Suitability.
+
+
+The given requirement 'The product shall be expected to operate for at least 5 years for each customer installation.' can be classified under the category of **Reliability**.
+
+
+The given requirement 'The product must be able to interface with various email servers. The product shall be able to send email.' can be classified under the category of **Compatibility**.
+
+
+The given requirement can be classified under the category of **Functional Suitability**.
+
+
+The given requirement can be classified under the category of 'Usability'.
+
+
+The given requirement can be classified under the category of **Performance Efficiency**.
+
+
+Usability
+
+
+The given requirement 'The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications' can be classified under the category of **Functional Suitability**.
+
+
+The given requirement can be classified under the category of **Usability**.
+
+
+The given requirement 'Staff members shall be able to complete a set of tasks in a timely manner.' can be classified under the category of Performance Efficiency.
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes' can be classified under the category of 'Functional Suitability'.
+
+
+The given requirement 'The product will be able to delete conference rooms.' can be classified under the category of Functional Suitability.
+
+
+The given requirement 'The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions.' can be classified under the category of **Usability**.
+
+
+The given requirement can be classified into the following categories:
+
+- Performance Efficiency: 'The search for recycled parts shall take no longer than 15 seconds.'
+- Performance Efficiency: 'The search results shall be returned in under 15 seconds.'
+
+However, since both requirements are related to performance efficiency, I would categorize it as:
+
+Performance Efficiency
+
+
+The given requirement 'Users should only have to navigate through a maximum of 4 pages to create an account with the website.' can be classified under the category of **Usability**.
+
+
+Based on the given requirement, I would classify it under the category of **Usability**. This is because the requirement is focused on the user's ability to read and understand the data on the screen, which is a key aspect of usability.
+
+
+The given requirement 'All credit card information will be encrypted in the database' can be classified under the category of **Security**.
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.' can be classified under the category of Functional Suitability.
+
+
+The given requirement can be classified under the category of **Security**.
+
+
+The given requirement can be classified under the category of **Functional Suitability**.
+
+
+The given requirement 'The preferred repair facility shall be returned to the user' can be classified under the category of Functional Suitability.
+
+
+The given requirement 'The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.' can be classified under the category of **Usability**.
+
+
+The given requirement 'The system shall refresh the display every 60 seconds.' can be classified under the category of **Performance Efficiency**.
+
+
+The given requirement 'The website shall continue to operate if the streaming server goes down.' can be classified under the category of **Reliability**.
+
+
+The given requirement 'The system shall display Events or Activities' can be classified into the following categories:
+
+- Functional Suitability
+- Usability
+- Performance Efficiency
+- Reliability
+- Maintainability
+
+However, the most suitable categories would be Functional Suitability and Usability.
+
+
+The given requirement 'The product shall have a consistent color scheme and fonts.' can be classified under the category of 'Usability'.
+
+
+The given requirement 'The product shall use symbols and words that are naturally understandable by users familiar with websites' can be classified under the category of **Usability**.
+
+
+The given requirements can be classified into the following categories:
+
+1. 'The recycled parts audit report shall be returned to the user within 10 seconds.' - Performance Efficiency
+2. 'The audit report shall be returned within 10 seconds.' - Performance Efficiency
+
+
+The given requirement 'The system shall display the Events in a graph by time' can be classified under the category of Functional Suitability.
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Performance Efficiency
+
+
+The given requirement 'When a shot is marked as a miss the product shall simulate the sound of a shot missing its target.' can be classified under the category of **Usability**. This is because the requirement is focused on providing a user-friendly experience by simulating a realistic sound effect, which enhances the overall gaming experience.
+
+
+The given requirement 'When a game is ended the product shall allow each player to identify himself or herself as an available player in the list of players.' can be classified under the category of **Functional Suitability**.
+
+
+The given requirement 'The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.' can be classified under the category of **Compatibility**.
+
+
+The given requirement 'The system shall offer the ability to pause and resume the refresh of data.' can be classified under the category of **Performance Efficiency**. This is because the requirement is related to the system's ability to handle data refresh and pause/resume functionality, which is a performance-related aspect.
+
+
+The given requirement can be classified under the category of **Performance Efficiency**.
+
+
+The given requirement 'The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions' can be classified under the category of **Security**.
+
+
+The given requirement can be classified under the category of 'Usability'.
+
+
+The given requirement can be classified under the category of **Performance Efficiency**. This is because the requirement focuses on improving the system's ability to handle multiple tasks concurrently, reducing communication overhead, and enhancing overall system performance.
+
+
+The given requirement can be classified under the category of **Maintainability**.
+
+
+The given requirement can be classified into the following categories:
+
+1. Functional Suitability
+2. Usability
+3. Security 
+
+However, the most suitable category for this requirement would be Functional Suitability, as it describes the functionality of the system and the information that needs to be provided to the user upon creating a chargeback request. 
+
+The requirement also touches upon Usability, as it mentions the confirmation that needs to be provided to the user, which implies that the system should be able to display this information in a clear and understandable manner. 
+
+The requirement also has a Security aspect, as it mentions the date that the merchant response is due, which implies that the system should be able to track and manage this information securely. However, this aspect is not as prominent as the Functional Suitability and Usability aspects.
+
+
+The given requirement 'The user shall easily locate instructions while using the product. User help can be found within 90% of the system.' can be classified under the category of **Usability**.
+
+
+The given requirement 'The System shall generate Inventory Quantity Adjustment document automatically when daily Product Sales data is available.' can be classified under the category of **Functional Suitability**.
+
+
+The given requirement can be classified under the category of **Functional Suitability**.
+
+
+The given requirement 'The product shall respond fast to keep up-to-date data in the display.' can be classified under the category of **Performance Efficiency**.
+
+
+The given requirement can be classified under the category of **Functional Suitability**.
+
+
+The given requirement 'The product shall prevent a player from viewing the offensive or defensive grids of the other player.' can be classified under the category of **Security**.
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study' can be classified under the category of 'Functional Suitability'.
+
+
+The given requirement 'The product shall display conference rooms according to search parameters' can be classified under the category of **Functional Suitability**.
+
+
+The given requirement 'The vehicle data shall include vehicle year make and model' can be classified under the category of **Functional Suitability**.
+
+
+The given requirement 'When a shot is marked as a hit the product shall simulate the sound of a shot hitting its target.' can be classified under the category of 'Usability'.
+
+
+The given requirement 'The adjuster shall request a recycled parts audit of the collision estimate.' can be classified under the category of Functional Suitability.
+
+
+The given requirement 'The current repair facility ratings shall be displayed to the user' can be classified under the category of Functional Suitability.
+
+
+Based on the provided requirements, I would classify the given requirement as: **Usability**
+
+
+Based on the given requirement, I would classify it under the category of **Security**. This is because the requirement is related to controlling access to sensitive information (dispute cases) and ensuring that only authorized users can access them, which is a key aspect of security.
+
+
+The given requirement can be classified under the category of: Functional Suitability
+
+
+The given requirement 'Only authorized users shall have access to clinical site information.' can be classified under the category of **Security**.
+
+
+The given requirement 'The product shall free of computer viruses' can be classified under the category of **Security**.
+
+
+The given requirement 'The appearance of the product shall appear professional' can be classified into the category: **Usability**
+
+
+The given requirement 'The system shall locate the preferred repair facility with the highest ratings for the input criteria' can be classified under the category of **Functional Suitability**.
+
+
+The given requirement can be classified under the category of **Functional Suitability**.
+
+
+The given requirement 'Izogn Administrator must be able to update the category listings on the website within 2 minutes.' can be classified under the category of **Performance Efficiency**.
+
+
+The given requirement can be classified under the category of **Performance Efficiency**.
+
+
+The given requirement 'The website shall protect itself from intentional abuse and notify the administrator at all occurrences.' can be classified under the category of **Security**.
+
+
+The given requirement can be classified into the following categories:
+
+- Functional Suitability
+- Performance Efficiency
+
+
+The given requirement 'For each shot the product shall notify the players whether the shot was a hit or miss.' can be classified under the category of **Functional Suitability**.
+
+
+The given requirement can be classified into the following categories:
+
+- Performance Efficiency
+- Usability
+
+
+The given requirement 'The product shall retain the customer’s buying preferences and information.' can be classified under the category of **Reliability**. This is because retaining customer preferences and information is a critical aspect of maintaining the product's functionality and ensuring that the user's experience is consistent and reliable.
+
+
+The given requirement 'The system will display a blank set of ratings if there are not ratings yet defined.' can be classified under the category of **Functional Suitability**.
+
+
+The given requirement 'The website should use Flash to provide animation on the home page' can be classified under the category of 'Usability'.
+
+
+The given requirement 'System shall automatically update the main page of the website every Friday and show the 4 latest movies that have been added to the website.' can be classified under the category of **Performance Efficiency**. This is because the requirement involves the system performing a task (automatic updates) within a specific time frame (every Friday), which is related to the system's ability to handle tasks and respond to user requests efficiently.
+
+
+Based on the given requirement, I would classify it under: **Usability**
+
+This requirement focuses on the user experience and accessibility of the product, specifically ensuring that it can be easily used by users in different languages and regions.
+
+
+Based on the given requirement, I would classify it under the category of **Reliability**. This is because the requirement specifies the availability of the system, which is a critical aspect of reliability.
+
+
+The given requirement can be classified under the category of **Security**.
+
+
+The given requirement 'The product will update existing room equipment' can be classified under the category of Functional Suitability.
+
+
+The given requirement can be classified under the category of **Compatibility**.
+
+
+The given requirement can be classified under the category of 'Compatibility'. This is because the requirement specifies the system's ability to operate within a specific environment (a business office typical of the Nursing Department at DePaul University), indicating that the system needs to be compatible with the existing office setup.
+
+
+The given requirement can be classified under the category of: Functional Suitability
+
+
+The given requirement 'The streaming server will support a maximum of 700 movies; new servers can be added to support more movies.' can be classified under the category of **Performance Efficiency**.
+
+
+The given requirement 'The user shall enter new ratings based on the audit report' can be classified under the category of **Functional Suitability**.
+
+
+The given requirement 'The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds' can be classified under the category of **Performance Efficiency**.
+
+
+The given requirement can be classified under the category of **Performance Efficiency**.
+
+
+The given requirement 'The product must support Internet Explorer 5.5 and above.' can be classified under the category of **Compatibility**.
+
+
+The given requirement 'The system shall reveal private information only in compliance with the organization’s information policy.' can be classified under the category of **Security**.
+
+
+The given requirement can be classified under the category of 'Usability'.
+
+
+The given requirement can be classified under the category of 'Usability'.
+
+
+The given requirement 'The product shall be able support 1000 simultaneous users.' can be classified into the following categories:
+
+- Performance Efficiency
+- Reliability
+
+
+The given requirement can be classified under: **Functional Suitability**
+
+
+The given requirement can be classified under the category of **Reliability**. This is because the requirement specifies a specific time limit (2 minutes) for a process (account cancellation) to ensure that the system is available and functional within a certain timeframe, which is a key aspect of reliability.
+
+
+The given requirement 'The audit report shall be available to other adjusters at later points in time' can be classified under the category of 'Reliability'.
+
+
+The given requirement 'The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds' can be classified under the category of **Performance Efficiency**.
+
+
+Based on the given requirement, I would classify it under the category of: **Functional Suitability**
+
+
+Based on the given requirement, I would classify it under: **Functional Suitability**
+
+This classification is because the requirement describes a specific functional capability of the Disputes System, which is to provide search functionality with various search criteria and filtering options. This is a functional requirement that describes what the system should be able to do, rather than a non-functional requirement that describes how the system should behave or perform.
+
+
+The given requirement 'The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead' can be classified under the category of **Functional Suitability**.
+
+
+The given requirement 'The system shall achieve 95% up time.' can be classified under the category of **Reliability**.
+
+
+The given requirement 'Daily usage statistics should be logged and accessible by the administrator' can be classified under the category of **Reliability**. This is because the requirement is related to the system's ability to maintain and provide access to data, which is a critical aspect of system reliability.
+
+
+Functional Suitability
+
+
+Based on the given requirement, I would classify it under the category of **Functional Suitability**. This is because the requirement describes a specific functional requirement of the RFS system, which is to easily interface with the BDW environment and load data files, and also specifies the frequency and timing of data loading.
+
+
+The given requirement 'Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem.' can be classified under the category of **Functional Suitability**.
+
+
+The given requirement 'The product shall protect the identity of the players. The product shall provide players no access to information that might reveal the identity of another player.' can be classified into the following categories:
+
+- Security
+- Functional Suitability
+
+
+The given requirement 'The leads washing functionality will verify the users authentication and rights to make parameter updates' can be classified under the category of **Security**.
+
+
+The given requirement can be classified under the category of **Security**.
+
+
+The given requirement can be classified under: **Functional Suitability**
+
+
+The given requirement 'If a user account is revoked it can only be re-instantiated by the System Administrator' can be classified under the category of **Security**.
+
+
+The given requirement can be classified under the category of **Reliability**. This is because the requirement is related to the system's ability to maintain and store data even after a customer cancels their account, which is a critical aspect of ensuring the system's reliability and data integrity.
+
+
+Based on the given requirement, I would classify it under: **Reliability**
+
+
+The given requirement 'The product shall prevent its data from incorrect data being introduced.' can be classified under the category of **Security**.
+
+
+The given requirement can be classified under the category of **Usability**.
+
+
+The given requirement can be classified under the category of **Reliability**. This is because the requirement is related to the system's ability to maintain data integrity and prevent data corruption, which is a critical aspect of system reliability.
+
+
+Performance Efficiency
+
+
+Based on the given requirement, I would classify it under: **Reliability**
+
+This requirement is related to the system's availability and uptime, specifically specifying a specific time frame when application updates will occur, indicating that the system must be available during this time to perform updates.
+
+
+The given requirement 'Only authorized users shall have access to students’ personal information.' can be classified under the category of **Security**.
+
+
+The given requirement can be classified into the following categories:
+
+- Functional Suitability
+- Security 
+
+Explanation: 
+- Functional Suitability: The requirement describes the functionality of the system, specifically the ability of Program Administrators/Nursing Staff Members to modify information relating to a Clinical Site.
+- Security: Although the requirement does not explicitly mention security, it implies that the information related to Clinical Sites should be accessible only to authorized personnel, which is a security concern.
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system' can be classified under the category of **Functional Suitability**.
+
+
+The given requirement can be classified under the following categories:
+
+1. Functional Suitability
+2. Performance Efficiency
+3. Security 
+
+However, the most suitable category for this requirement would be Functional Suitability, as it describes the functionality of the system.
+
+
+The given requirement can be classified under the category of **Reliability**. 
+
+This is because the requirement focuses on the product's ability to handle changes and additions without service interruptions, ensuring high availability and reliability.
+
+
+The given requirement 'Formula substitutionary ingredients shall be kept in persisted order' can be classified under the category of **Maintainability**.
+
+
+The given requirement 'The system shall use symbols and words that are naturally understandable by the user community.' can be classified under the category of **Usability**.

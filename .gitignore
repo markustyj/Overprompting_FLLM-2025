@@ -1,0 +1,12 @@
+.env
+.env_llama
+.env_siemens_api
+.env_gemini
+
+__pycache__
+.ipynb_checkpoints
+data/few_shot_list/
+llama/drive
+llama/results
+
+.gitattributes

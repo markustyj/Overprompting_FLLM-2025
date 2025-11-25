@@ -1,0 +1,397 @@
+Functional
+
+
+Look and Feel
+
+
+Operational
+
+
+Functional
+
+
+The given requirement is: 'A database management system such as Oracle DB2 MySql or HSQL will need to be integrated with the product.'
+
+This requirement falls under the category: Operational
+
+
+Look and Feel
+
+
+Functional
+
+
+Scalability
+
+
+The requirement is classified as: Operational
+
+
+Functional
+
+
+Look and Feel
+
+
+The given requirement is classified as: Performance
+
+
+The requirement is classified as: Look and Feel
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+The given requirement is: 'The user shall easily locate instructions while using the product. User help can be found within 90% of the system.'
+
+This requirement falls under the category of Usability.
+
+
+Usability
+
+
+Usability
+
+
+The given requirement: 'All customer information will be stored on a secure database accessible only to authorized personnel.'
+
+Category: Security
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+The given requirement: 'The product shall have a consistent color scheme and fonts.'
+
+Category: Look and Feel
+
+
+Usability
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Operational
+
+
+I would classify this requirement as "Maintainability".
+
+
+I would classify the requirement "The owner shall have free access to all of the streaming movies." as Usability.
+
+
+I would classify this requirement as: Functional
+
+
+The given requirement "The product shall retain the customer’s buying preferences and information." falls under the category of **Usability**.
+
+
+The requirement is: Usability
+
+
+The requirement is classified as: Maintainability
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+The given requirement is: 'All screens created as part of the Disputes application must comply with corporate standards for interface creation.'
+
+This requirement falls under the category: **Look and Feel**
+
+
+Functional
+
+
+I would classify this requirement as: Functional
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+The given requirement is: 'The Disputes System must be accessible by both internal and external users.'
+
+This requirement falls under the category of: **Security**
+
+
+Functional
+
+
+Operational
+
+
+The given requirement is: 'One insurance company shall not be able to view another insurance company's claim data.'
+
+This requirement falls under the category of: **Security**
+
+
+The given requirement is: 'The product shall comply with corporate color scheme'
+
+Classification: Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+The requirement is classified as: Fault Tolerance
+
+
+Functional
+
+
+The given requirement is classified under: Performance
+
+
+The given requirement: 'An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.'
+
+Category: Usability
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+The requirement is classified as: Maintainability
+
+
+Scalability
+
+
+The given requirement is classified under: **Security**
+
+
+Functional
+
+
+The given requirement is classified as: Usability
+
+
+The given requirement is classified as: Maintainability
+
+
+Functional
+
+
+Scalability
+
+
+Functional
+
+
+Performance
+
+
+Performance
+
+
+I would classify this requirement as "Maintainability".
+
+
+The requirement "The system shall notify customers of changes to its information policy." falls under the category of **Security**.
+
+
+The requirement is classified as: Maintainability
+
+
+Usability
+
+
+Scalability
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+The given requirement is: 'The Disputes System must provide the ability to view existing dispute cases.'
+
+This requirement falls under the category: **Functional**
+
+
+Functional
+
+
+The given requirement: 'The system shall be available for use between the hours of 8am and 6pm.'
+
+Category: Availability
+
+
+The requirement is: 'All registered customer information shall be stored and maintained in the database even after the customer cancels their account.'
+
+Category: Security
+
+
+Functional
+
+
+The given requirement falls under the category of "Operational".
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+The given requirement is classified under the category: Maintainability
+
+
+Functional
+
+
+The given requirement is: 'All additions of new users and modifications to user’s access shall be recorded on the User Report.'
+
+This requirement falls under the category of: **Security**
+
+
+The requirement 'All streaming movie sales will be logged in the database and accessible by the administrator.' falls under the category: **Functional**
+
+
+Scalability
+
+
+The given requirement: 'Every user of the system shall be authenticated and authorized.'
+
+Classification: Security
+
+
+The given requirement is classified as: Usability
+
+
+I would classify this requirement as "Operational".
+
+
+Performance
+
+
+The given requirement is: 'Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.'
+
+This requirement falls under the category of: Availability
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+The given requirement is classified as: Performance
+
+
+Functional
+
+
+Usability

@@ -1,0 +1,9 @@
+A Git LFS (Large File Storage) object!
+
+This is a version 1 object, which contains metadata about a large file stored in Git LFS. Let's break it down:
+
+* `version`: The version of the Git LFS specification, which is 1 in this case.
+* `oid`: The object ID, which is a unique identifier for the large file. In this case, it's a SHA-256 hash: `sha256:d6a2dd52b3c702eab3c26e509f81536f714126a2c11e6d874c903ebd42d29042`.
+* `size`: The size of the large file, which is 51,721,410 bytes (or approximately 51.7 MB).
+
+This object ID can be used to retrieve the large file from a Git LFS server or a Git repository that supports LFS.

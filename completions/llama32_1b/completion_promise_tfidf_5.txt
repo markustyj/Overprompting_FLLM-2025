@@ -1,0 +1,517 @@
+Here are the classifications:
+
+1. 'The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.'
+   - Functional
+
+
+Functional
+
+
+Operational
+
+
+Functional
+
+
+Operational
+
+
+Here are the classifications:
+
+1. 'The product shall use a standard navigation menu familiar to most web users.' 
+   - Usability
+
+
+Functional
+
+
+Scalability
+
+
+Here are the classifications:
+
+1. 'The product must be able to interface with various database management systems. The product shall communicate successfully with the database management system on 100% of all transactions.'
+   - Operational
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The product must comply with the intranet page standards and requirements of ENET Securities.' - Operational
+2. '95% of the product look & feel will be approved by the Architecture group prior to implementation. The remaining 5% will be corrected and approved within one month of product release.' - Operational
+
+
+Here are the classifications:
+
+1. 'Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.'
+   - Performance
+
+
+Look and Feel
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The language of the product shall accommodate all of the target market countries.' - Usability
+2. '90% of survey respondents from each target market country will find that the language of the product is acceptable.' - Usability
+
+
+Here are the classifications:
+
+- Functional: No
+- Availability: No
+- Fault Tolerance: No
+- Legal: No
+- Look and Feel: No
+- Maintainability: No
+- Operational: No
+- Performance: No
+- Portability: No
+- Scalability: No
+- Security: No
+- Usability: Yes
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Here are the classifications:
+
+- 'The user shall easily locate instructions while using the product.' : Usability
+- 'User help can be found within 90% of the system.' : Usability
+
+
+Usability
+
+
+Here are the classifications:
+
+1. 'If projected the data must be readable. On a 10x10 projection screen 90% of viewers must be able to read Event / Activity data from a viewing distance of 30': 
+   - Usability
+
+
+Security
+
+
+Functional
+
+
+Security
+
+
+Here are the classifications:
+
+1. 'Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.': Functional
+2. 'Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.': Functional
+3. 'For each class within a sequence for a cohort Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.': Functional
+4. 'For each class within a sequence for a cohort Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.': Functional
+5. 'The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members’ planning purposes.': Operational
+
+
+Functional
+
+
+Usability
+
+
+Performance
+
+
+Here are the classifications:
+
+- Functional
+- Performance
+
+
+Functional
+
+
+Look and Feel
+
+
+Here are the classifications:
+
+1. 'The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies.' - Usability
+2. 'Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.' - Performance
+
+
+Here are the classifications:
+
+1. 'The search for the preferred repair facility shall take no longer than 8 seconds. The preferred repair facility is returned within 8 seconds' 
+   - Performance
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.': 
+   - Operational
+
+
+Functional
+
+
+Usability
+
+
+Here are the classifications for the given requirements:
+
+1. 'The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.'
+   - Functional
+
+
+Here are the classifications:
+
+- Functional
+- Security
+- Usability
+
+
+Here are the classifications:
+
+- Functional: 'The product shall provide Portals.'
+- Usability: 'The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators)'
+
+
+Here are the classifications:
+
+1. 'The product must be highly configurable for use with various database management systems for the end users. 80% of end users are able to integrate new database management systems with the product without changing the product’s software code.'
+   - Maintainability
+
+
+Here are the classifications:
+
+1. 'The Disputes System shall allow the user to create or initiate a chargeback request. The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.': 
+   - Functional
+   - Operational
+   - Security
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+- 'The product shall respond fast to keep up-to-date data in the display.' 
+  - Performance
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Security
+
+
+Functional
+
+
+Operational
+
+
+Here are the classifications:
+
+- Security
+- Availability
+
+
+Look and Feel
+
+
+Here are the classifications:
+
+- Functional: 'The search radius shall be between 1 and 30 miles'
+- Performance: 'The search results shall be returned no later 30 seconds after the user has entered the search criteria'
+
+
+Here are the classifications:
+
+1. 'The system shall be able to display a printable summary of the system log.' 
+   - Functional
+
+
+Operational
+
+
+Here are the classifications:
+
+1. 'The product shall process messages within 2 seconds.' - Performance
+2. 'The product shall have a maximum message processing time of 2 seconds' - Performance
+
+
+Security
+
+
+Here is the classification of the given requirement:
+
+Availability
+
+
+Functional
+
+
+Look and Feel
+
+
+Usability
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The website should appeal to all Africans not only Nigerians.'
+   - Look and Feel
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The customer shall be able to easily integrate new building maps with the product throughout the product’s lifecycle. Integration of new maps with the product shall be possible with little to no support from product support staff.'
+   - Usability
+
+
+Here are the classifications:
+
+1. 'The Disputes application shall support 350 concurrent users without any degradation of performance in the application.': 
+   Performance
+
+
+Security
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The product shall be translated into foreign languages other than the target market countries’ languages in future releases. For each emerging target market it shall take no more than 5 days to configure the product for that market’s language.'
+   - Operational
+
+
+Here are the classifications:
+
+1. 'The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.' 
+   - Operational
+
+
+Functional
+
+
+Here is the classification:
+
+Availability
+
+
+Here are the classifications:
+
+1. 'The system will display a blank set of ratings if there are not ratings yet defined.' 
+   - Functional
+
+
+Here are the classifications:
+
+1. 'The recycled parts audit report shall be returned to the user within 10 seconds.' - Performance
+2. 'The audit report shall be returned within 10 seconds.' - Performance
+
+
+Here are the classifications:
+
+1. 'The search for recycled parts shall take no longer than 15 seconds.' - Performance
+2. 'The search results shall be returned in under 15 seconds.' - Performance
+
+
+Here are the classifications:
+
+1. 'Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.' 
+   - Operational
+
+
+Security
+
+
+Here are the classifications:
+
+- 'Maintenance releases will be offered to customers once a year.' : Operational
+- 'The releases shall take no longer than 5 minutes for 80% of the customer base to install.' : Operational
+
+
+Here are the classifications:
+
+1. 'An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.': 
+   - Legal
+
+
+Scalability
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The Disputes System must provide the ability to view existing dispute cases.' 
+   - Functional
+
+
+Functional
+
+
+Availability
+
+
+Maintainability
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The RFS system should be able to easily interface with the BDW environment in order to load the data.' - Portability
+2. '7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year.' - Performance
+3. 'The data will be as of October month-end.' - Operational
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The System shall be able to automatically backup business data and restore them on demand.' 
+   - Operational
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'All additions of new users and modifications to user’s access shall be recorded on the User Report.' 
+   - Security
+
+
+Functional
+
+
+Availability
+
+
+Security
+
+
+Usability
+
+
+Look and Feel
+
+
+Performance
+
+
+Here are the classifications:
+
+1. 'Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.': 
+   - Operational
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.'
+   - Availability
+
+
+Here are the classifications:
+
+1. 'The product shall poll the system for messages every second.' - Performance
+2. 'The product shall poll the system for new messages at a maximum of every 1 second.' - Performance
+
+
+Here are the classifications:
+
+1. 'Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem.' 
+   - Functional
+
+
+Availability

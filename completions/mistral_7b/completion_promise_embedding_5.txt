@@ -1,0 +1,367 @@
+ Functional
+
+
+ Performance (specifically, Audio)
+
+
+ Operational
+
+
+ Functional
+
+
+ Operational
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Scalability
+
+
+ Performance
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Performance
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Security
+
+
+ Functional
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Performance
+
+
+ On-demand streaming of movies at any time of the day falls under the category of Usability.
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Usability, Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Operational
+
+
+ Pausability falls under the category of Operational.
+
+
+ Functional
+
+
+ Functional
+
+
+ The given requirement falls under the category of: Data Management (or alternatively, Personalization) as it involves retaining customer preferences and information. However, it can also be considered as a part of Fault Tolerance, as the system should be able to recover customer data in case of failure.
+
+
+ Performance, Usability
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability (since the requirement is about making the product easy to learn, which falls under the category of user experience)
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Operational
+
+
+ Functional
+
+
+ Operational
+
+
+ Security
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Usability
+
+
+ Scalability
+
+
+ Security
+
+
+ Functional
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Functional
+
+
+ Scalability
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (or Maintainability, depending on the specific implementation details)
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Scalability
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Availability
+
+
+ Storage (or Maintainability)
+
+
+ Functional
+
+
+ Portability
+
+
+ Functional
+
+
+ Performance
+
+
+ Functional
+
+
+ Performance (specifically, Backup and Restore)
+
+
+ Functional
+
+
+ Security
+
+
+ Functional
+
+
+ Performance
+
+
+ Security
+
+
+ Usability
+
+
+ Fault Tolerance (or Operational, depending on the specifics of the Print Letter Utility system's guidelines enforcement)
+
+
+ Performance
+
+
+ Operational
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Usability

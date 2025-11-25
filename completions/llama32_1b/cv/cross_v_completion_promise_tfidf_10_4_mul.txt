@@ -1,0 +1,271 @@
+Here are the classifications for the given requirements:
+
+1. 'The product shall respond fast to keep up-to-date data in the display.' - Performance
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The system shall offer a display of all the Events in the exercise.': Functional
+2. 'The system shall refresh the display every 60 seconds.': Performance
+3. 'The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.': Maintainability
+4. 'The Disputes System must provide the ability to view existing dispute cases.': Functional
+5. 'Only valid data shall be entered into the system. No invalid data shall be entered into the system.': Security
+6. 'The product shall have the ability to send meeting reminders to employees.': Functional
+7. 'The Disputes System shall provide the users the ability to view the history of all activities that have occurred on the dispute case.': Functional
+8. 'The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.': Security
+9. 'The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.': Security
+10. 'The product shall prevent the input of malicious data. The product and/or adjacent hardware/software systems’ data shall remain 100% uncorrupted each time malicious data is input into the product.': Security
+11. 'The system shall offer the ability to pause and resume the refresh of data.': Performance
+
+
+Look and Feel
+
+
+The given requirement: 'The product shall retain user preferences in the event of a failure.' 
+
+Category: Availability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Usability
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The system will notify affected parties when changes occur affecting classes including but not limited to class cancellations class section detail changes and changes to class offerings for a given quarter.': Functional
+2. 'The system will notify affected parties when changes occur affecting clinicals including but not limited to clinical section capacity changes and clinical section cancellations.': Functional
+3. 'The system will notify affected parties when changes occur affecting specific students including but not limited to changing a student’s status from full time to part time and moving a student to a different clinical section.': Functional
+4. 'The system will notify affected parties for routine communication purposes including but not limited to informing students of upcoming offered classes (timeline) and what their schedule will be/shall be.': Functional
+5. 'The system shall notify customers of changes to its information policy.': Security
+6. 'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts including cohort identifier program of study preferred sequence of classes and quarters that a cohort will be taking specific classes.': Functional
+7. 'Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.': Functional
+8. 'The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.': Functional
+9. 'Students added to a cohort shall be eligible for the cohort’s Program of Study.': Functional
+10. 'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Program of Study within the Nursing Department including the Program of study name and required classes for that Program of Study.': Functional
+11. 'The system will notify affected parties when changes occur affecting cohorts including but not limited to changes to the sequence for a cohort’s program of study and changes to a given week’s schedule (lab cancelled this week due to instructor illness).': Functional
+
+
+Here are the classifications for the given requirements:
+
+1. 'All screens created as part of the Disputes application must comply with corporate standards for interface creation.'
+   - Look and Feel
+
+
+The given requirement 'The Disputes System must be accessible by both internal and external users.' can be classified under the category of **Availability**.
+
+
+Here is the classification of the given requirement:
+
+**Functional**
+
+
+Look and Feel
+
+
+Usability
+
+
+Operational
+
+
+Here are the classifications:
+
+1. 'The system will display a blank set of ratings if there are not ratings yet defined.' 
+   - Functional
+
+
+Operational
+
+
+Look and Feel
+
+
+Usability
+
+
+Availability
+
+
+Here are the classifications:
+
+1. 'The product must be highly configurable for use with various database management systems for the end users. 80% of end users are able to integrate new database management systems with the product without changing the product’s software code.': 
+   - Maintainability
+
+
+Functional
+
+
+Here are the classifications for the given requirements:
+
+1. 'The System shall be able to automatically backup business data and restore them on demand.'
+   - Maintainability
+
+
+Here is the classification:
+
+Functional
+
+
+Functional
+
+
+Based on the given requirement, I would classify it as: 
+
+Look and Feel
+
+
+Look and Feel
+
+
+Availability
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Here is the classification of the given requirement:
+
+Functional
+
+
+Here is the classification:
+
+Security
+
+
+Here are the classifications for the given requirements:
+
+1. 'Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.'
+   - Availability
+   - Performance
+
+
+Here are the classifications:
+
+1. 'The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle.'
+   - Operational
+
+
+Operational
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The product shall display each type of ship in a grid using an image of the specific type of ship.': 
+   - Functional
+   - Look and Feel
+
+
+Scalability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Here are the classifications:
+
+1. The product shall ensure that only supervisors can advertise empty time slots. - Security
+2. The product must ensure that supervisors are allowed to access advertise empty time slots. - Security
+
+
+Here are the classifications:
+
+1. 'The product shall provide Monitoring Services.' - Functional
+2. 'The product shall be easy for System Administrators and DBAs to use after two weeks of usage.' - Maintainability
+
+
+Here are the classifications:
+
+- Functional: The product shall provide Error Tracking Services.
+- Availability: The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.
+
+
+Here are the classifications:
+
+1. 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+   - Functional
+
+
+Here are the classifications:
+
+1. 'The WCS system shall have the ability to include data for regions outside the United States and be accessed by users outside of the United States if approved by CCR management.': 
+   - Portability
+
+
+Here are the classifications:
+
+1. 'The WCS system shall be run in a Windows environment.' - Operational
+2. 'The WCS shall be accessed by users through the Internet on an IBM computer running a Windows 2000 or above operating system.' - Operational
+
+
+Here are the classifications:
+
+1. 'The message board shall contain the 5 most recently posted messages on the league page. The messages will contain up to the first 150 characters of the message.'
+ 
+- Functional: The requirement describes a specific functionality of the system.
+
+
+Here are the classifications:
+
+1. 'The RFS system should be able to easily interface with the BDW environment in order to load the data.' - Operational
+2. '7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year.' - Operational
+3. 'The data will be as of October month-end.' - Operational
+4. 'Test files (7) shall be loaded up to 5 times throughout the year from the BDW.' - Operational
+
+
+Here is the classification of the given requirement:
+
+Look and Feel

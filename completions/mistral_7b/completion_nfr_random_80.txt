@@ -1,0 +1,10459 @@
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Availability
+
+
+ Fault Tolerance (specifically, discussing atomicity of operations)
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Security (since it involves filtering and security-related configurations)
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Performance (due to the potential need for efficient searching or sorting of the list)
+
+
+ Performance
+
+
+ Efficiency (Performance)
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Performance (since the requirement involves running a script to generate a new report without deleting previous ones, which could potentially lead to performance issues if not managed properly)
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Scalability (as creating a read-only group can help distribute read operations, improving scalability)
+
+
+ Security
+
+
+ Fault Tolerance (as it involves handling different types of sockets)
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security (as Burp Suite is a security tool for web application testing)
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (for finding response time) and Availability (for determining Ram-Up time for handling 1k and 2k users)
+
+
+ Performance (since the question is about the efficiency of a loop)
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Security
+
+
+ Availability (High availability payment processing site)
+
+
+ Security
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Security
+
+
+ Availability
+
+
+ Maintainability (due to the mention of locks, which is a mechanism to control concurrent access and maintain data integrity)
+
+
+ Availability
+
+
+ Scalability
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Fault Tolerance (as COM Callable Wrappers provide a way to call methods on components written in other languages, increasing the system's ability to handle errors and maintain functionality)
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Availability
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Scalability (since MongoDB is a NoSQL database known for its scalability capabilities)
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance (due to network issue during download)
+
+
+ Performance
+
+
+ Security
+
+
+ Performance (Scalability)
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance (Ramp up time can be considered a performance metric related to the time it takes for a system to reach its optimal state, while Synchronization timer is related to the frequency at which a system checks for updates or synchronizes with another system)
+
+
+ Performance
+
+
+ Fault Tolerance (or Maintainability, depending on the context, as the lock statement is used for synchronization and concurrency control, which can impact performance and maintainability)
+
+
+ Performance
+
+
+ This requirement does not fall into any of the provided categories as it is a subjective question and does not pertain to nonfunctional software requirements such as Availability, Fault Tolerance, Maintainability, Performance, Portability, Scalability, or Security. It is more of a philosophical or rhetorical question.
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Compression (or, indirectly, Storage)
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Maintainability (as it relates to understanding the function's behavior and usage)
+
+
+ Performance
+
+
+ Performance (due to potential string manipulation and concatenation operations)
+
+
+ Security
+
+
+ Availability
+
+
+ Designing an event reporting system: Scalability
+
+
+ Scalability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Asynchronous Data Transfer (Fault Tolerance)
+
+
+ Performance
+
+
+ Security
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Performance (assuming the focus is on the network latency and response time of the request)
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Scalability
+
+
+ Security
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Security
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Maintainability (as it relates to the consistency and ease of adjusting the appearance of images across different contexts)
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance (due to monitoring and tracking the training process)
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Scalability
+
+
+ Portability
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance (multiple VRRP instances) and Scalability (1 instance with multiple VIPs)
+
+
+ Scalability
+
+
+ Security
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Security (as it involves checking the login path, which is a common security concern)
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Security
+
+
+ Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (depending on the context, it could also be Scalability if the focus is on handling large numbers of nested objects)
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance (due to the requirement of downloading content on demand)
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability (as it implies a way to reward and motivate users, which can be a part of a larger user engagement strategy, and thus, the system should be designed in a way that adding new features like badges is easy and efficient)
+
+
+ Performance (since the error is related to the syntax of the code, which affects its execution speed)
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance (due to the loop and trace log management)
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Sharing in VIM is not directly related to any of the given categories (Availability, Fault Tolerance, Maintainability, Performance, Portability, Scalability, Security). It could be considered as a Usability or Collaboration requirement.
+
+
+ Security
+
+
+ Maintainability
+
+
+ Security
+
+
+ Fault Tolerance (or Performance, depending on the specific implementation)
+
+
+ Performance (since the requirement is about writing output to a file, which can impact the performance of the program)
+
+
+ Performance
+
+
+ Portability
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Scalability
+
+
+ Portability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (optimizing lookups for efficiency)
+
+
+ Performance
+
+
+ Scalability
+
+
+ Hosting a whole site on a CDN: Scalability (due to the ability to distribute content across multiple geographic locations, reducing latency and improving site performance for users worldwide) and Performance (CDNs can cache content, reducing the load on the origin server and improving response times).
+
+
+ Security
+
+
+ Performance (due to the implication of opening a new window, which could potentially affect the performance of the main window)
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Performance (as the requirement seems to be about processing the log data in near realtime)
+
+
+ Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance (since it's about the efficiency of handling requests, which is a performance aspect)
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance (since APIs for drawing animations or static diagrams can have an impact on the application's performance)
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Availability
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Security (since Firestore rules are used to control access to data, and the requirement is about checking if all fields are present in the read data)
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Efficiency (Performance)
+
+
+ Performance (optimization)
+
+
+ Scalability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Performance (due to the frame rate drop at 60hz but not at 120hz)
+
+
+ Portability
+
+
+ Portability
+
+
+ Maintainability (since the requirement is about updating an older project with a newer version of Xamarin, which may involve changes in the codebase or dependencies, and ensuring compatibility)
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Availability
+
+
+ Cassandra - order of consistency: Performance (since consistency level affects read and write latency)
+
+
+ Availability
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Filtering HTTP requests based on body before they get to the server falls under the category of Security. This is because it involves checking and controlling the data that is sent to the server, which can help prevent various types of attacks such as SQL Injection, Cross-Site Scripting (XSS), and other malicious requests.
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Performance
+
+
+ Converting generated shellcode to hexadecimal: Portability
+
+
+ Performance
+
+
+ Portability
+
+
+ Scalability
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance (since combining two COUNT queries into one can potentially improve query performance by reducing the number of database round trips)
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability (as it refers to the ability to handle large amounts of data, which is a characteristic of NoSQL datastores)
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Performance (Optimizing the query for better performance could involve using multiple smaller queries instead of one big one, depending on the specific database system and the structure of the data.)
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance (since removing comments can reduce the size of the generated code and thus improve the performance of the application)
+
+
+ Security
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance, Scalability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance (as it involves fetching and processing data in real-time)
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Fault Tolerance (or Scalability, depending on the specific implementation details)
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance (implicitly, as creating sequences of case classes can impact performance if not optimized properly)
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Reporting (or Documentation): Not directly related to any of the given categories. However, it can be considered as a part of Maintainability as it improves the readability and understandability of the software.
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Fault Tolerance (since OAuth provides a way to securely access resources from third-party services, enhancing the website's security and reliability)
+
+
+ Scalability
+
+
+ Availability
+
+
+ Performance
+
+
+ Portability
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Portability
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Availability
+
+
+ Performance
+
+
+ Availability
+
+
+ Availability
+
+
+ Maintainability (since the requirement is about finding a Pythonic way to perform the conversion, which implies a focus on readability, simplicity, and adherence to Python best practices)
+
+
+ Scalability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Portability
+
+
+ Security (since the process involves extracting sensitive information from a photo)
+
+
+ Security
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Fault Tolerance, Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance (due to the large data set)
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Security (since the requirement is about securely accessing an API without exposing the password in the code)
+
+
+ Scalability
+
+
+ Availability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Fault Tolerance
+
+
+ Efficiency (Performance)
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Availability
+
+
+ Caching: Redis or Memcache for caching AVPs
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Portability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Fault Tolerance (or Scalability, depending on the specifics of the program)
+
+
+ Portability
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Fault Tolerance (or Security, depending on the specifics of the signing process)
+
+
+ Efficiency (Performance)
+
+
+ Availability
+
+
+ Portability
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Portability
+
+
+ Security
+
+
+ Security
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Availability
+
+
+ Performance
+
+
+ Scalability (in the context of Scala programming language)
+
+
+ Performance
+
+
+ Performance (due to the focus on optimizing the use of a multiprocess pool)
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance (or Maintainability, depending on the specific issue)
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Portability
+
+
+ Scalability
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Portability
+
+
+ Portability
+
+
+ Availability
+
+
+ Security
+
+
+ Security
+
+
+ Security (due to potential network or firewall issues that may block access to the UI)
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security (since the requirement involves bypassing a security restriction to manipulate the bundle ID of an APK)
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Authentication (since the requirement involves connecting to a system and ensuring secure access)
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Scalability (due to the mention of a deployed app on AWS, which is a cloud platform, and ThinkPHP, a PHP framework, which implies a potentially large number of requests)
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Availability
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance (since the requirement involves displaying SQL query results as part of a dashboard, which implies real-time or near real-time data processing)
+
+
+ Security
+
+
+ Security
+
+
+ Maintainability
+
+
+ Authentication: Security
+
+
+ Availability
+
+
+ Performance (as it involves summarizing data by-group)
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Performance (since PPL is a parallel programming library, discussing alternatives implies a focus on improving performance)
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Security
+
+
+ Scalability
+
+
+ Portability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Authentication (Security)
+
+
+ Maintainability (since all the mentioned languages have been used in various photo-sharing sites, and the choice depends on factors like the team's expertise, project requirements, and the ecosystem's support)
+
+
+ Scalability
+
+
+ Availability
+
+
+ Performance (due to the nature of scraping data, efficiency and speed are important factors)
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance (since caching strategies are used to improve the speed of data access)
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Portability
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security (due to the presence of cookies, which can be used for session management and potentially contain sensitive information)
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security (Potential vulnerability or error related to base64 decode)
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance (or Security, depending on the specific implementation details)
+
+
+ Availability
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Security (since these tools may require certain permissions or bypass certain security measures to function properly, and in a restricted staging environment, these could potentially be seen as security risks)
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Security
+
+
+ Performance (due to the requirement of generating a unique identifier efficiently)
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ This requirement does not fit into any of the provided categories (Availability, Fault Tolerance, Maintainability, Performance, Portability, Scalability, Security). It is more about understanding the context or terminology used in Spark logs, which is a diagnostic or informational aspect, not directly related to the non-functional requirements mentioned.
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Access control for a single blob storage container: Security
+
+
+ Security
+
+
+ Performance
+
+
+ Availability (since the requirement mentions High Availability and multi-datacenter)
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance (since this involves comparing strings, possibly using algorithms like Levenshtein distance)
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance, Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Scalability
+
+
+ Portability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance (since the query execution involves resources on the local database)
+
+
+ This requirement does not fall into any of the provided categories as it is a comparison between two cloud service providers (GAE and AWS) from a specific year (2012), which is not related to non-functional software requirements such as Availability, Fault Tolerance, Maintainability, Performance, Portability, Scalability, Security. It could be classified as a "Comparison" or "Infrastructure" category instead.
+
+
+ Availability (high availability replicated servers) and Performance (Tomcat session lost, Firefox and Chrome use 60 secs as TTL and don't respect DNS defined TTL 60 secs)
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance (on PostgreSQL SQL)
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Parallelization/Asynchronization: Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Fault Tolerance, Security
+
+
+ Security
+
+
+ Performance (due to the context.terminal setting affecting the terminal output)
+
+
+ Portability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Availability
+
+
+ Scalability
+
+
+ Security
+
+
+ Scalability
+
+
+ Security
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance (or Scalability, depending on the specific framework's capabilities)
+
+
+ Scalability
+
+
+ Troubleshooting (not a specific non-functional requirement, but can be considered under Maintainability as it involves diagnosing and resolving issues in the software).
+
+
+ Performance (since the requirement involves redrawing part of the view, which could potentially impact the performance of the application)
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (due to the optimization of loading resources)
+
+
+ Performance
+
+
+ Performance, Scalability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Security (as it involves CORS policy)
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Portability
+
+
+ Availability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance (Optimization of SQL queries can impact performance)
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Security (since the error is related to PEM, which is a format for storing X.509 certificates)
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance, Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Portability
+
+
+ Scalability
+
+
+ Availability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance (since the requirement is about avoiding blocking calls, which can improve the performance of the server listening function)
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance (since the error is related to the performance of a specific function)
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Portability
+
+
+ Security
+
+
+ Security (since AjaxSpider is a security scanning tool in ZAP)
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security (as access logs can contain sensitive information)
+
+
+ Security
+
+
+ Portability
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Security (due to potential vulnerabilities related to the ECDSA KeyFactory)
+
+
+ Portability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance (due to potential optimization of HTML rendering by changing class names on refresh)
+
+
+ Performance
+
+
+ Error Message Display (Maintainability)
+
+
+ Authorization Server: Shared by Multiple APIs -> Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Caching: Performance
+
+
+ Security
+
+
+ Security (as it could potentially allow for manipulation of data before it reaches the intended recipient)
+
+
+ Security
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Performance (since the requirement is about excluding unwanted requests to improve the performance of the report)
+
+
+ Performance
+
+
+ Localized String not loading from customised bundle in M1 chip machine: Portability
+
+
+ Availability
+
+
+ Security
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Performance (since the requirement is about parsing numbers efficiently and getting the desired attributes)
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Portability
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security (since it involves a security-related class `SecureRandom`)
+
+
+ Maintainability
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance (since JIT is a technique to improve the performance of a program)
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance (as it reduces the amount of data sent to the client, thus improving the loading speed)
+
+
+ Performance
+
+
+ Security
+
+
+ Performance (since the choice between flat parser and structured parser can impact the parsing speed and efficiency of the language translator)
+
+
+ Security
+
+
+ Security (since the process involves converting a certificate format, which is related to encryption and decryption, and thus, security)
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Security (due to potential XSS vulnerabilities)
+
+
+ Security
+
+
+ Performance (since hashlib.scrypt is a password hashing function and its performance is a key concern for security)
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Scalability (due to handling a large number of records and maintaining a small active subset)
+
+
+ Security
+
+
+ Performance (since reading materials for scalability analysis is likely to help improve the performance of a system)
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Performance (since JMeter is a performance testing tool and connecting to HBase using JDBC is a common performance testing scenario)
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Security (since the question is about the security of SSL context and TLSv1.2)
+
+
+ Availability
+
+
+ Security
+
+
+ Performance (due to the update operation on a row and variable within a function)
+
+
+ Availability
+
+
+ Security
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security (due to potential unauthorized access and data exposure risks)
+
+
+ Performance
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance (due to the nature of the kata being about finding the most efficient solution)
+
+
+ Performance
+
+
+ The given requirement "Stack - what exactly is it?" does not fall into any of the provided categories (Availability, Fault Tolerance, Maintainability, Performance, Portability, Scalability, Security). It is a question about computer science concepts, specifically data structures.
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Portability
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability (since only part of the graph database is part of the cluster, implying a need for handling larger data sets or multiple instances)
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Security (due to the use of both subscription-key and OAuth2 flow, which involve authentication and authorization, and potential security implications if not properly managed)
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance (or Maintainability, depending on the context)
+
+
+ Fault Tolerance (or, alternatively, Availability, depending on the specific implementation details)
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance (since the requirement is about providing an alternate image if WebP format is not supported, which can help improve the loading speed of the website for browsers that do support WebP)
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Fault Tolerance
+
+
+ Availability (since Zookeeper and Doozer are used for distributed coordination and service discovery, which are aspects of high availability)
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance (or Portability, depending on the specifics of h2load's requirements for certificate and key format)
+
+
+ Availability
+
+
+ Portability
+
+
+ Security
+
+
+ Availability
+
+
+ Security (since CSP is set to restrict certain types of content, allowing XML, JSON, and CSV files requires a secure method to bypass the restriction)
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance (since CodeQL is a static analysis tool that scans code, and the requirement is about scanning JAR files, which could potentially be a performance-intensive operation)
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Security (potential for URL manipulation or redirection attacks)
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Fault Tolerance (The requirement mentions an address family not supported by the protocol, which suggests a problem with network connectivity or protocol compatibility.)
+
+
+ Portability
+
+
+ Security
+
+
+ Maintainability (as it involves sharing and reusing code between different parts of the system)
+
+
+ Availability (implied by the requirement of a single installer)
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance (since preventing page reload can improve the perceived performance of the application)
+
+
+ Maintainability (since the requirement is about the behavior of the software upon completion of a song, not about ensuring the software can handle multiple songs or any other specific non-functional aspect)
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (as nmap's performance might be affected by network conditions, number of hosts, etc.)
+
+
+ Availability
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Availability
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Availability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Performance
+
+
+ Security
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Performance (since it's about displaying specific types, which could potentially impact performance if not handled correctly)
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (assuming the JSON task is used for building and running the C++ code efficiently)
+
+
+ Maintainability
+
+
+ Security (since preconnect and preload are related to resource loading and can impact the security of data transfer)
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability (or Portability, depending on the context)
+
+
+ Authentication (Google SSO) and Authorization (Web Application/Relying Party) are separate concerns. However, the given requirement is more about Authentication, so it falls under the category of Security.
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Maintainability (since the source code is not open for public scrutiny or collaboration)
+
+
+ Performance
+
+
+ Performance (since finding your own IP address involves network operations and the response time can be a factor)
+
+
+ Performance
+
+
+ Scalability
+
+
+ This requirement does not fall into any of the given categories as it is not a nonfunctional software requirement, but rather a request for an explanation or demonstration of a concept (in this case, the Fast Fourier Transform).
+
+
+ Security
+
+
+ Security
+
+
+ Performance (since the problem is related to finding the most efficient way to represent data, which is a common performance concern)
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability (due to the question about intercepting a public method at runtime) and Performance (due to the question about how variables are stored in memory)
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Availability
+
+
+ Maintainability (implies that the system should be designed in a way that the pin number is automatically generated or retrieved, which is a part of the overall system's usability and user experience)
+
+
+ Security
+
+
+ Portability
+
+
+ Portability
+
+
+ Security
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Fault Tolerance (or Maintainability, depending on the specific context, e.g., if the focus is on managing memory usage to prevent crashes or leaks rather than ensuring reliable navigation)
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (since the question is about the width of a child element, which can impact the rendering and performance of a web page)
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Performance (assuming the focus is on downloading the file efficiently)
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Portability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Sequential Processing (a subcategory of Scalability)
+
+
+ Performance (since the error might be due to inefficient or slow execution of the code)
+
+
+ Scalability
+
+
+ Availability
+
+
+ Security
+
+
+ Availability
+
+
+ Performance
+
+
+ Maintainability (as it involves managing state for authentication and theme change)
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Availability
+
+
+ Performance (since it's related to the extraction and handling of data during a performance test)
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Hiding JMeter setup thread group samplers to be reported in the generated dashboard falls under the category of Maintainability. This is because it is a requirement related to the organization and management of the software, rather than its performance, availability, fault tolerance, scalability, or security.
+
+
+ Maintainability
+
+
+ Performance (assuming efficient storage and retrieval is required)
+
+
+ Security
+
+
+ Cloning a virtual machine in VirtualBox is more about Portability, as it allows you to create an exact copy of the host OS, which can be used in different environments or for testing purposes. However, the process itself doesn't directly relate to any specific non-functional requirement category mentioned above.
+
+
+ Performance (since it involves comparing the current value with a previous one, which can potentially involve multiple operations and thus affect performance)
+
+
+ Availability
+
+
+ Security (as Suricata is a network security tool and the requirement is about a banner, which could potentially contain sensitive information, thus requiring secure handling)
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Portability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security (since the C# Security.GetSecureString function is used for handling secure strings)
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security (as it involves different use cases between computer and user, which could potentially be a security concern)
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Security (due to potential access restrictions or permissions issues when running the command remotely)
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Fault Tolerance (or Scalability, depending on the context)
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance (since the operation involves filling a matrix with specific values and zeros, which can impact the time complexity of the algorithm)
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (since Spark checkpointing is used to save the state of RDDs and DataFrames periodically to a storage system, which can help improve the resilience and fault tolerance of Spark applications, but the primary goal is to improve the performance of the application by reducing the amount of data that needs to be recomputed in case of failures or application restart)
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Availability
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance (since the question is about sending a file in an API request, which can impact the performance of the system)
+
+
+ Performance
+
+
+ Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance (or Scalability, depending on the context)
+
+
+ Security
+
+
+ Encoding/Decoding: Portability
+
+
+ Security
+
+
+ Security
+
+
+ Scalability
+
+
+ Availability
+
+
+ Performance
+
+
+ Security (since making bot commands private is a way to restrict access to certain users, thus enhancing security)
+
+
+ Portability
+
+
+ Performance (due to the need to generate and check a large number of combinations)
+
+
+ Performance
+
+
+ Performance (due to potential network latency or DNS resolution issues)
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance (since LHCI assertions are used for performance testing and analysis)
+
+
+ Performance
+
+
+ Security
+
+
+ Performance (since the requirement is about sorting a list)
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Fault Tolerance (or Maintainability, depending on the specifics of the issue)
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Security (since it involves customizing a login page, which is a security-related feature)
+
+
+ Security
+
+
+ Availability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Portability
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Fault Tolerance
+
+
+ Scalability
+
+
+ Performance (assuming the list is large and the operation needs to be efficient)
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Availability
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Availability
+
+
+ Availability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Performance (since a hash table is an efficient data structure for searching, inserting, and deleting items, especially when dealing with large amounts of data)
+
+
+ Portability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Portability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Portability
+
+
+ Security
+
+
+ Security
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance (since stateless design can help in distributing requests across multiple instances and thread-safety ensures that the application can handle multiple requests concurrently without data inconsistencies)
+
+
+ Performance
+
+
+ Performance (due to reaching the limit of maximum number of open files, which can impact the system's performance)
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Factors for choosing between using a wrapper library or issuing command line process: Maintainability
+
+
+ Security
+
+
+ Maintainability (since both methods can be implemented, the choice between vector and heap storage with pointers or indices can impact the maintainability and readability of the code)
+
+
+ Security
+
+
+ Security
+
+
+ Availability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance (assuming the focus is on efficient API calls)
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Maintainability
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Maintainability (as running in development mode may indicate easier debugging and development process, but not directly related to the final product's performance, availability, fault tolerance, security, portability, or scalability).
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Security
+
+
+ Performance (since re-evaluating the query plan can potentially improve the performance of the database queries)
+
+
+ Performance (Connection pools affect performance), Maintainability (Single-threaded design can impact maintainability)
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Maintainability
+
+
+ Permission (Access Control): Availability
+
+
+ Performance (Scalability)
+
+
+ Security
+
+
+ Availability (Running on a specific port)
+
+
+ Performance
+
+
+ Performance (since saving cookies can impact the performance of subsequent requests)
+
+
+ Security
+
+
+ Availability
+
+
+ Performance (since the requirement is about using the old print function in Python 3, which has different behavior than the new print function in Python 3)
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Fault Tolerance (or Availability, depending on the specifics of the API call invocation and error handling)
+
+
+ Performance
+
+
+ Performance, Maintainability, Security
+
+
+ Security
+
+
+ Availability, Scalability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance (since identifying the algorithm involves comparing different algorithms based on their performance)
+
+
+ Performance
+
+
+ Sorting an array of integer-triples in C#: Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance (due to potential hardware limitations)
+
+
+ Portability
+
+
+ Performance
+
+
+ Availability
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Security
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance (specifically, optimization and efficiency)
+
+
+ Performance
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability (since the question refers to the app's ability to handle increasing amounts of data or users over time)
+
+
+ Availability
+
+
+ Performance (due to the use of Bayesian Optimization for hyper-parameter tuning)
+
+
+ Performance
+
+
+ Availability (OpenJDK is a popular open-source implementation of the Java Development Kit, and it's often the default JVM on various platforms.)
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Performance (since it's about decoding data)
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Availability
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Portability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (since the query may need to scan the entire table if the WHERE clause is unknown)
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance (due to the use of subqueries in the ANY() function, which can impact performance if not optimized properly)
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Availability
+
+
+ Scalability
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Maintainability (as it involves choosing a database for session management)
+
+
+ Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security (since Charles is a proxy tool used for monitoring and debugging network traffic, and in this case, it's being used to analyze the endpoints used by an app, which could potentially reveal sensitive information)
+
+
+ Security
+
+
+ Both terms, Portability and Platform Independent, refer to the ability of software to run on multiple platforms. However, "Portability" is more specific to the code level, focusing on the ease of moving code from one environment to another, while "Platform Independent" is a broader term that includes both the code and the data, ensuring that the software can run on different hardware and operating systems without modification. So, in this context, the requirement can be classified as "Portability".
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security (as Xcode Organizer is used for debugging and analyzing app's crash logs, network activity, etc., and events from MXSignpost can contain sensitive information)
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Availability
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance (if limiting concurrency is to handle multiple requests efficiently, ensuring no single request monopolizes resources) or Performance (if limiting concurrency is to optimize the processing speed of individual requests)
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Security
+
+
+ Performance (since the question is about the efficiency of MySQL's index usage in queries/sub-queries)
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Maintainability (since the number of bits in a character doesn't directly affect the software's functionality, but it can impact the password policy and security if not properly defined and enforced)
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance (for armeabi-v7a) and Performance (for arm64-v8a)
+
+
+ Performance
+
+
+ Security
+
+
+ Steganography is a technique used to hide data within other data, in this case, an image. However, the specific requirement mentions using k-means clustering, which is a machine learning algorithm used for data clustering and not directly related to steganography. Therefore, this requirement can be classified as Performance, as it involves processing an image using a computational algorithm.
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Backup (Availability)
+
+
+ Availability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Portability
+
+
+ Redundancy is a method to ensure Availability. So, the given requirement "HowTo create a redundant instance of SOLR?" can be classified under the category: Availability.
+
+
+ Maintainability
+
+
+ Fault Tolerance, Performance (implicitly, as using least resources can also be seen as a form of fault tolerance)
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Handling multiple languages in JMeter falls under the category of Portability.
+
+
+ Performance (since the requirement is about comparing the performance of an operation in different scenarios)
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Maintainability (as increasing the size of the application may affect its maintainability, especially in terms of build and deployment times)
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Availability
+
+
+ Efficiency (Performance)
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Notification (or Alerting): Availability
+
+
+ Performance
+
+
+ Security (potential issue with Content-Security-Policy or other security headers)
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Fault Tolerance (or Maintainability, depending on the specific impact of disabling tolerance on rendering HTML)
+
+
+ Security
+
+
+ Optimizing Celery for third party HTTP calls: Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance (Optimization)
+
+
+ Portability
+
+
+ Portability
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance (since the operation involves copying data and indexes from one table to another, which can impact the system's performance)
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Fault Tolerance (or Maintainability, depending on the context)
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Security
+
+
+ Scalability
+
+
+ Portability
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Reliability (for long-term projects)
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Anonymization in an RDBMS requires maintaining Privacy, which is a subcategory of Security. So, the given requirement falls under the Security category.
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability (due to the discussion about the impact of rows/columns, hierarchical order of attributes, and empty/redundant attributes in OLAP Cubes)
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance (since encapsulation can impact performance by hiding inefficient implementations, but the primary focus seems to be on Go and performance)
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance (since the question is about the internal behavior of hashlib, which can impact performance if the objects maintain references to the original input)
+
+
+ Security
+
+
+ Performance (assuming multiple sources imply multiple files, and reading from multiple files can impact performance)
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Encryption: Security
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Scalability
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance (since responsive heatmaps are used to visualize and analyze data in real-time or near real-time, and the performance of the system is crucial for the smooth functioning of the heatmaps)
+
+
+ Maintainability
+
+
+ Security
+
+
+ Fault Tolerance (or Scalability, depending on the specific implementation details)
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Fault Tolerance (or Maintainability, depending on the context)
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance (due to the use of `eval()` which can lead to performance issues and security vulnerabilities)
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance (since the operation involves iterating through a data frame and applying a function based on grouping, which can impact performance)
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance (since the question is about how data is written and re-written to disk, which can impact the speed and efficiency of the operation)
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (since the requirement involves deleting data from multiple tables, which can impact the performance of the database)
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Maintainability (since the maximum size of the Redux store can impact the performance and scalability of the application, but it's more about managing the size and structure of the store data)
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Scalability
+
+
+ Availability
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Security (due to potential security risks associated with allowing arbitrary URL schemes)
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Scalability
+
+
+ Backup/Restore: Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Parallelization (Scalability)
+
+
+ Security
+
+
+ Security (since the server is accepting insecure client connections, which can lead to potential security vulnerabilities)
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Monitoring changes in Google Drive files for whole domain using Drive API: Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Scalability, Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Availability (as Erlang is often used for high-availability and fault-tolerant systems)
+
+
+ Security
+
+
+ Performance
+
+
+ Security (since it involves setting a custom Sec-WebSocket-Protocol, which is a security-related header in WebSockets communication)
+
+
+ Fault Tolerance
+
+
+ Security (since Hashcat is a password cracking tool and the issue is related to the output of Exhausted, which means the tool couldn't find a match, possibly due to an incorrect rule or weak hash)
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Scalability
+
+
+ Fault Tolerance (since WebGoat is a web application security training platform, getting the jar file is a way to ensure the application can be run reliably even if it's not available on a central server)
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Fault Tolerance, Scalability
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Fault Tolerance
+
+
+ Scalability
+
+
+ This requirement does not fall into any of the provided categories as it is not related to nonfunctional software requirements (Availability, Fault Tolerance, Maintainability, Performance, Portability, Scalability, Security). Instead, it is a question about the functionality of a specific search parameter in Google, which is a functional requirement.
+
+
+ Performance (due to potential issues with the project's structure or dependencies)
+
+
+ Performance
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Fault Tolerance (since ROP gadgets are used for exploiting vulnerabilities to execute arbitrary code)
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance (due to potential issues with data representation and handling on different architectures)
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance (since the question is about passing a function as a parameter to a performance measurement function)
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Automating Namecheap's browser DNS update with Java: Portability
+
+
+ Fault Tolerance (or Maintainability, depending on the context)
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Parallelism (Scalability)
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance (or Scalability, depending on the context)
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security (indirectly, as understanding the dependency graph can help in identifying potential security vulnerabilities)
+
+
+ Performance
+
+
+ Performance (due to the mention of 1 GB Ram, which could be a concern for MySQL performance optimization)
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Security (since "npm outdated" checks for outdated packages and "npm audit" checks for vulnerabilities, both are related to security in the context of software)
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Performance (due to potential inefficiency in handling a large number of arguments)
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Uniqueness (or Identity): This requirement is about ensuring each token has a unique identifier, which is not explicitly categorized under the given non-functional requirements. However, it can be considered as a part of Security, as unique identifiers can help in token management and authentication processes.
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Portability
+
+
+ Availability
+
+
+ Performance
+
+
+ Fault Tolerance (since the requirement is about the position of the Floating Action Button, but not directly related to its functionality or appearance, it can be considered as a design choice that affects the overall user experience and can impact the app's usability, which is a non-functional requirement. The curve position can potentially affect the ease of access and usage of the app, making it more or less user-friendly, and thus, impacting the app's fault tolerance.)
+
+
+ Maintainability
+
+
+ Performance (since it's about setting properties of a video capture object, which can impact the performance of the video processing)
+
+
+ Availability
+
+
+ Portability
+
+
+ Availability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Caching: Performance (specifically, caching the content of website pages can improve the speed of loading the pages, which falls under the Performance category)
+
+
+ Security
+
+
+ Security
+
+
+ Security (since the question is about what headers can be accepted by an HTTP server, which is a security concern as it relates to the CORS policy and other security headers)
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security (since the requirement is about a security testing tool, ZAP, and the absence of a report when a scan is successful might indicate that no vulnerabilities were found, which is a security-related aspect)
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Accessing the Android file system by Progressive Web Apps falls under the category of Portability.
+
+
+ Availability
+
+
+ Security
+
+
+ Security
+
+
+ Scalability
+
+
+ Security
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Availability
+
+
+ Availability
+
+
+ Portability
+
+
+ Availability
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance (since the weight of npm packages can affect the performance of the application during download and installation)
+
+
+ Performance
+
+
+ Scalability
+
+
+ Prefix Tolerance (or Portability, depending on the specific shell and version)
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance (or Maintainability, depending on the specific impact of the script)
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Online Availability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Security (as it involves accessing locked or private data)
+
+
+ Availability (IAM Authentication) and Security (Row Level Security)
+
+
+ Security
+
+
+ Security
+
+
+ Performance (since the requirement is about bypassing the obsolescence of the gets function, which is known to have performance issues due to its lack of bounds checking)
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Availability
+
+
+ Calling multiple API/servers is more related to Scalability and Portability. However, it also involves Security considerations when dealing with cross-origin requests. So, it can be categorized as Scalability, Portability, and Security.
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Maintainability (as responsiveness is a design concern that affects the maintainability of the template)
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance (or Scalability, depending on the specific implementation details)
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance (or Performance, depending on the specific context)
+
+
+ Security
+
+
+ Performance (as it's a common choice for building high-performance web applications)
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance (since these options are related to JVM's garbage collection and compilation performance)
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Maintainability (as it is a simple example demonstrating integration between two systems, Django and Celery)
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Availability
+
+
+ Performance
+
+
+ Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Diagnosing a website not loading on mobile with 4G falls under the category of Performance. This is because the issue is related to the speed and efficiency of the website's loading on a specific network (4G), which is a performance concern.
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Security (potential authentication issue)
+
+
+ Scalability
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Maintainability (as they are a common choice for data storage and can help with data organization and retrieval, which is a maintainability concern)
+
+
+ Security
+
+
+ Availability
+
+
+ Performance
+
+
+ Fault Tolerance (or Availability, depending on the context, as opening the camera is a crucial functionality)
+
+
+ Fault Tolerance (or Portability, depending on the context)
+
+
+ Portability
+
+
+ Scalability (Performance)
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance (or Performance, depending on the specific solution)
+
+
+ Validation: Performance (assuming the validation process impacts the performance of the system)
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Scalability
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance, Fault Tolerance
+
+
+ Performance (assuming the operation involves multiple database queries, which can be optimized for better performance)
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance (since parallelization is often used to improve the speed of computations)
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Availability
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Fault Tolerance (or Maintainability, depending on the context)
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Availability
+
+
+ Availability
+
+
+ Portability
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (specifically, reducing Total Blocking Time and main Thread work)
+
+
+ Availability
+
+
+ Portability
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Availability
+
+
+ Availability (pcs)
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Security (since OAuth2 is a standard for access delegation, it helps to secure mobile apps by providing controlled access to resources)
+
+
+ Scalability (for High Availability configuration)
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Scalability (since the question is about different database options for an ad network infrastructure, which typically requires scalability to handle large amounts of data and requests)
+
+
+ Availability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Email Notifications: Maintainability (implies reliable and consistent delivery of notifications, which is a maintainability concern)
+
+
+ Availability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance (due to potential performance impact of warnings, although it could also be considered Maintainability as the warning may indicate a potential issue with the code)
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Availability, Security
+
+
+ Security
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (since the requirement is about improving the performance of the pandas groupby function by combining two functions)
+
+
+ Performance
+
+
+ Security
+
+
+ Availability (since the requirement involves moving from a clustered SQL Server setup to a standalone one)
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (assuming the focus is on efficient retrieval and manipulation of the mappings)
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Maintainability (since the choice between server-side and client-side processing can impact the maintainability of the application, as it affects the distribution of logic and data, and can impact performance, security, and other non-functional requirements)
+
+
+ Fault Tolerance, Scalability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Availability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Security (due to potential exposure of sensitive data)
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Security (since the issue is related to the disabling of a security feature, 2-factor authentication, in cPanel)
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance, Scalability
+
+
+ Availability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Portability
+
+
+ Portability
+
+
+ Availability
+
+
+ Portability
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance (since a random generator is often used for performance-sensitive operations, and NIST standards ensure predictable and secure randomness)
+
+
+ Performance
+
+
+ Performance and Scalability (Scalability due to the application being in parallel computers)
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance (due to potential disk I/O operations at system startup)
+
+
+ Security
+
+
+ Performance (Optimization)
+
+
+ Availability
+
+
+ Security, Portability
+
+
+ Portability
+
+
+ Portability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Maintainability (as it relates to the choice between two programming paradigms and their impact on code structure, reusability, and maintainability)
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Filtering: Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Maintainability (since configuring build machine memory and using gradle daemons in parallel can improve the efficiency and reliability of the build process)
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security (since it's related to handling failed login attempts and potentially preventing brute force attacks)
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Availability
+
+
+ Availability
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Availability
+
+
+ Availability
+
+
+ Performance (assuming the dataset size is large and needs to be processed efficiently in cloud computing environments)
+
+
+ Monitoring Azure Event Hub: Availability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Testing (not specified)
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance (or Portability, depending on the approach taken)
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Portability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance (since the requirement involves managing events and data persistence in a reliable manner)
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance (since the operation involves parsing a non-standard JSON string)
+
+
+ Performance
+
+
+ Scalability & Availability (for C#)
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Portability
+
+
+ Scalability
+
+
+ Portability
+
+
+ Performance (since removing headers can potentially improve response time)
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Security
+
+
+ Scalability
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Maintainability (as it relates to the effectiveness and efficiency of the TimerView in SwiftUI over time, potentially including aspects of performance, scalability, and fault tolerance)
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance, Scalability
+
+
+ Authentication (Security)
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Performance (StreamBuilder and FutureBuilder are used for handling asynchronous data, and their choice can impact the app's loading speed)
+
+
+ Security
+
+
+ Security (due to potential CORS policy violation)
+
+
+ Security
+
+
+ Availability
+
+
+ Fault Tolerance
+
+
+ Scalability (as creating multiple databases can impact the overall performance and resource usage of the server)
+
+
+ Security
+
+
+ Performance
+
+
+ Security (since the requirement involves a token from Keycloak, an identity and access management solution)
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance (Optimization)
+
+
+ Scalability
+
+
+ Fault Tolerance (or Portability, depending on the context)
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security (Authentication)
+
+
+ Scalability
+
+
+ Availability
+
+
+ Portability
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Security (since Cloudflare provides DDoS protection and the requirement is about accessing a URL protected by Cloudflare)
+
+
+ Performance (since preloading assets can improve the loading speed of the application)
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (since the choice between multiple columns or a single column can impact the efficiency of data storage and retrieval, which falls under the Performance category)
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance, Security
+
+
+ Availability
+
+
+ Availability
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Performance (Gustafson's law is a principle that suggests that the speed of a parallel algorithm can be improved by increasing the number of processors, while keeping the amount of work per processor constant)
+
+
+ CLS (Cumulative Layout Shifts) is a measure of visual stability on a webpage. To decrease CLS, one might implement strategies such as reserving space for ads, images, and other content that might otherwise shift the layout, or ensuring that content loads in a predictable order. While this requirement doesn't explicitly fall into any of the given categories, it can be associated with Performance and User Experience (UX) as a lower CLS score can lead to a smoother and more responsive user experience. However, for the purpose of this classification, it can be categorized as Performance.
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance (due to the efficiency of sending serialized objects over sockets compared to strings)
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Detecting duplicates in a data integration system: Performance (since it involves comparing and processing large amounts of data efficiently)
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Portability
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Tracing .Net core API in Datadog: Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Scalability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Availability
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Security
+
+
+ Scalability
+
+
+ Fault Tolerance
+
+
+ This requirement does not fall into any of the given categories. It is more about Technology Choice or Development Platform, rather than a Non-functional Software Requirement (Availability, Fault Tolerance, Maintainability, Performance, Portability, Scalability, Security).
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Parallelization (Scalability)
+
+
+ Performance (specifically, event collection efficiency)
+
+
+ Performance
+
+
+ Portability
+
+
+ Security (since the error is related to Spring Security configuration)
+
+
+ Availability
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Fault Tolerance (since deleting credentials and aliases from a credential store can be considered as a maintenance operation that affects the system's state)
+
+
+ Portability
+
+
+ Security (as it involves client-side input validation)
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance (Maintainability)
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance (since caching is often used to improve the speed of operations)
+
+
+ Performance
+
+
+ Performance, Maintainability (depending on the specific requirements and context, the choice could also impact Scalability and Fault Tolerance)
+
+
+ Availability
+
+
+ Scalability
+
+
+ Availability
+
+
+ Availability (since both IP address and hostname can be used to connect to a database, but network issues or DNS resolution problems can affect the availability of the connection)
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Availability
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Portability
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Spring batch: Fault Tolerance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Low cost (Pricing)
+
+
+ Performance (due to the normalization and redirection process potentially affecting the application's speed)
+
+
+ Performance (since both are types of distributions used for random number generation, and the choice between them can impact the performance of certain algorithms)
+
+
+ Performance (since NVL is a function that can affect query performance, and replacing it with another function or operator might impact the performance)
+
+
+ Availability
+
+
+ Performance
+
+
+ Maintainability (specifically, data privacy)
+
+
+ Scalability
+
+
+ Performance
+
+
+ Barrier in MPI: Availability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Authentication: Security
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Scalability
+
+
+ This requirement does not fall into any of the provided categories (Availability, Fault Tolerance, Maintainability, Performance, Portability, Scalability, Security). It seems to be related to the design or functionality of a turbofan engine, which is outside the scope of non-functional software requirements.
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Security (since it involves OAuth2 authorization)
+
+
+ Performance
+
+
+ Performance
+
+
+ Sharing: Portability
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance (since the use of multiple Table Type parameters in a SQL procedure can potentially optimize the query performance by reducing the number of joins or improving the query readability)
+
+
+ Security
+
+
+ Availability (since integrating Google Cloud Filestore with a Compute Engine instance running WordPress aims to ensure the availability and accessibility of the WordPress data)
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance (since the use of GUI displayed results can potentially reduce the number of new queries, thus improving performance)
+
+
+ Performance
+
+
+ Availability (SQL 2016 Availability Groups)
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Portability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security (The error suggests there might be an issue with the script tag in the HTML file, which could be related to Cross-Origin Resource Sharing (CORS) or other security-related issues.)
+
+
+ Security
+
+
+ Performance (since it involves processing and reading data in real-time)
+
+
+ Portability
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability (since the requirement involves calling a method from one controller to another, which could potentially lead to code coupling and maintenance issues if not handled properly)
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance (or Scalability, depending on the specific implementation details)
+
+
+ Scalability
+
+
+ Performance (specifically, "load testing" or "performance testing" from multiple locations)
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Portability
+
+
+ Maintainability (as it involves integrating two different technologies, Vue.js and Python Flask API)
+
+
+ Maintainability
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Security
+
+
+ Performance
+
+
+ Portability
+
+
+ Scalability
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Portability
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance (since it affects the initial loading time of the video)
+
+
+ Maintainability
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance (due to potential differences in key format or implementation between different versions of BouncyCastle library)
+
+
+ Availability (implied by the question asking about the impact on another server)
+
+
+ Security
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Performance
+
+
+ Availability
+
+
+ Maintainability (as it relates to software development practices and processes)
+
+
+ Security
+
+
+ Availability
+
+
+ Security
+
+
+ Availability (The requirement is about keeping the software up-to-date, which is a part of ensuring its availability.)
+
+
+ Performance
+
+
+ Fault Tolerance (or Performance, depending on the specific implementation approach)
+
+
+ Scalability
+
+
+ Performance
+
+
+ Security
+
+
+ Security (as WMAP is a Metasploit module and the error suggests a potential issue with its loading, which could be due to a vulnerability or misconfiguration)
+
+
+ Security
+
+
+ Security
+
+
+ Scalability (since the requirement is about creating a scalable background for text in a div using CSS)
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Maintainability (since understanding and optimizing storage and memory usage for process instances can help in maintaining the system efficiently)
+
+
+ Fault Tolerance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Security
+
+
+ Scalability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security (as these Event IDs are related to Audit Failure and Success events in Windows, which are used for tracking security-related activities)
+
+
+ Security (CWE-120 and CWE-20 are security-related vulnerabilities)
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Scalability (with a focus on load balancing and high availability)
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Security (Access control)
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Scalability
+
+
+ Security
+
+
+ Availability
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance (since calibration of additive noise affects the level of privacy and thus the system's performance in maintaining differential privacy)
+
+
+ Availability
+
+
+ Portability
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Split: Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Maintainability
+
+
+ Security
+
+
+ Security (as it involves checking for potential security issues such as redirects on error responses)
+
+
+ Security
+
+
+ Maintainability
+
+
+ Availability
+
+
+ Performance, Security
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Availability
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance (or Maintainability, depending on the context)
+
+
+ Execution Point Tracking (or Debugging): Maintainability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Performance (since Power BI relationships are based on SQL Server database schema and performance considerations may impact the efficiency of these relationships)
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Synchronization requirement can be classified under Availability, as it ensures that the data is consistently available across different Azure Blob storage accounts on a scheduled basis.
+
+
+ Performance (or Maintainability, depending on the context)
+
+
+ Performance
+
+
+ Performance (since the operator >> is often used for bit shifting operations, which can impact performance)
+
+
+ Performance
+
+
+ Performance (since high loss value indicates inefficiency or slow performance)
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Availability (assuming Open CTI is a software that needs to be installed and run on the MacBook)
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Security
+
+
+ Scalability
+
+
+ Fault Tolerance
+
+
+ Scalability
+
+
+ Maintainability (or Scalability, depending on the context)
+
+
+ Security (since it involves storing user data with an external authentication provider)
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Scalability
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Fault Tolerance
+
+
+ Portability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security
+
+
+ Portability
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Security (since the Java Security Manager may be denying the execution due to a security policy)
+
+
+ Security
+
+
+ Security
+
+
+ Maintainability
+
+
+ Security
+
+
+ Scalability
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Efficiency (Performance)
+
+
+ Performance (or Scalability)
+
+
+ Fault Tolerance
+
+
+ React: Efficiency (Maintainability)
+
+
+ Performance
+
+
+ Availability
+
+
+ Portability
+
+
+ Portability
+
+
+ Performance
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ Fault Tolerance
+
+
+ Performance
+
+
+ Security
+
+
+ Performance
+
+
+ Fault Tolerance
+
+
+ The given requirement "width 100% on top of body requires scrolling" falls under the category of Performance, as it may impact the rendering and scrolling performance of the web page.
+
+
+ Performance (since the question is about high traffic, which implies handling a large number of requests, thus implying a need for good performance)
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Availability
+
+
+ Scalability
+
+
+ Security
+
+
+ Performance
+
+
+ Maintainability (since the requirement implies dealing with large data sets that may require efficient memory management strategies or data partitioning techniques)
+
+
+ Performance

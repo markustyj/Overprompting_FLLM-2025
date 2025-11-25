@@ -1,0 +1,208 @@
+Functional
+
+
+The given requirement 'The product shall produce search results in an acceptable time' can be classified under the category: **Performance**
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+Usability
+
+
+The given requirement: 'The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.'
+
+Can be classified under: **Security**
+
+
+Security
+
+
+Here is the classification of the given requirement:
+
+**Security**
+
+
+Operational
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Maintainability
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Operational
+- Portability
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Security 
+
+Explanation: 
+- The requirement is related to the functionality of the system, ensuring that the data entered by the user is accurate and corresponds to the data in the database. This is a functional requirement.
+- The requirement also ensures that the data is accurate and secure, which is a security requirement.
+
+
+The given requirement can be classified into the following categories:
+
+- Availability
+- Fault Tolerance
+- Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Based on the given requirement, I would classify it under: **Maintainability**
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+The given requirement 'When streaming a movie the buffering time should take no longer than 10 seconds (plus any latency on the user’s connection.)' can be classified under the category: **Performance**
+
+
+Scalability
+
+
+Operational
+
+
+Functional
+
+
+Security
+
+
+Security
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'If the shot was marked as a miss the product shall change the status of the offensive player to defensive' can be classified under the category: **Functional**
+
+
+Functional
+
+
+Security
+
+
+Usability
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Scalability
+
+
+Based on the given requirement, I would classify it under the category of **Usability**. This is because the requirement focuses on ensuring that users can use the system effectively after receiving training, which is a usability concern.
+
+
+The given requirement 'A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page.' can be classified under the category of **Usability**.
+
+
+Usability

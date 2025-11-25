@@ -1,0 +1,213 @@
+Usability
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The user interface shall have standard menus buttons for navigation' can be classified under the category: **Look and Feel**
+
+
+Look and Feel
+
+
+Security
+
+
+Usability
+
+
+Performance
+
+
+Availability
+
+
+Scalability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Usability
+
+
+The given requirement: 'The Disputes application shall support 350 concurrent users without any degradation of performance in the application.'
+
+Category: Performance
+
+
+Security
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The Dispute System shall provide the users with the ability to follow up on a dispute case via follow-up actions. The list of available follow up actions for a given dispute case must be filtered by the status of the case and the access level of the user.'
+   - Functional
+
+
+Look and Feel
+
+
+The given requirement 'Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.' can be classified under the category of **Availability**.
+
+
+Look and Feel
+
+
+Here are the classifications for the given requirements:
+
+1. 'The search for recycled parts shall take no longer than 15 seconds.' - Performance
+2. 'The search results shall be returned in under 15 seconds.' - Performance
+
+
+The given requirement can be classified into the category: Performance.
+
+
+Scalability
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here is the classification of the given requirement:
+
+**Portability**
+
+
+Here are the classifications for the given requirement:
+
+- Operational: 'The product must be able to interface with any HTML browser.'
+- Performance: 'The product shall display HTML properly in 80% of all HTML browsers tested (minimum is to test 8 browsers).'
+- Operational: 'The product shall transmit data between the user and the product without problems.'
+- Look and Feel: 'The product shall display HTML properly in 80% of all HTML browsers tested (minimum is to test 8 browsers).'
+
+
+Operational
+
+
+The given requirement can be classified into the following categories:
+
+- Maintainability: Maintenance releases will be offered to customers once a year.
+- Performance: The releases shall take no longer than 5 minutes for 80% of the customer base to install.
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'Formula substitutionary ingredients shall be kept in persisted order' can be classified under the category: Maintainability.
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Usability
+
+
+Availability
+
+
+Security
+
+
+Look and Feel
+
+
+Maintainability
+
+
+Functional
+
+
+Functional
+
+
+Availability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The product shall provide Portals.
+- Look and Feel: The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators)
+
+
+Look and Feel
+
+
+Security
+
+
+Performance
+
+
+Here are the classifications:
+
+1. 'The RFS system should be available 24/7 especially during the budgeting period.' - Availability
+2. 'The RFS system shall be available 90% of the time all year and 98% during the budgeting period.' - Availability
+3. '2% of the time the system will become available within 1 hour of the time that the situation is reported.' - Availability
+
+
+Security
+
+
+Here are the classifications:
+
+- Functional
+- Look and Feel
+- Maintainability

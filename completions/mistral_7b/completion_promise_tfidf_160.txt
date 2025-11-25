@@ -1,0 +1,367 @@
+ Functional
+
+
+ Look and Feel
+
+
+ Operational
+
+
+ Functional
+
+
+ Operational
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Performance
+
+
+ Operational
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Performance
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Usability
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Security
+
+
+ Functional
+
+
+ Security, Access Control
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Performance
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Usability
+
+
+ Performance
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Operational
+
+
+ Fault Tolerance
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Portability, Performance (KPIs), Usability (ad-hoc reporting)
+
+
+ Maintainability
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ The given software requirement 'The Disputes System must be accessible by both internal and external users.' falls under the category of 'Security'. This is because the requirement is related to the access control of the system, ensuring that only authorized users (both internal and external) can access the system.
+
+
+ Functional
+
+
+ Operational
+
+
+ Security
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Error Tracking Services, Fault Tolerance
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Security
+
+
+ Functional
+
+
+ Maintainability
+
+
+ Scalability
+
+
+ Functional
+
+
+ Scalability
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Purging of closed disputes cases after 6 months falls under the category of Maintainability.
+
+
+ Security
+
+
+ Performance
+
+
+ Usability
+
+
+ Scalability
+
+
+ Functional
+
+
+ Performance
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Availability
+
+
+ Storage/Maintainability
+
+
+ Functional
+
+
+ Performance, Operational
+
+
+ Functional
+
+
+ Performance
+
+
+ Functional
+
+
+ Backup and Restore: Operational
+
+
+ Functional
+
+
+ Security
+
+
+ Functional
+
+
+ Performance
+
+
+ Security
+
+
+ Usability
+
+
+ Formatting: Look and Feel
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Usability

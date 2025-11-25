@@ -1,0 +1,1825 @@
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Functional for "The user shall be able to see their overall score")
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Localization)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Maintainability)
+
+
+ Non-functional
+
+
+ Non-functional (specifically, Security)
+
+
+ Non-functional (Reliability)
+
+
+ Non-functional (since it describes a behavior of the system in relation to performance, but does not specify what the system should do)
+
+
+ Functional
+
+
+ Non-functional (Access Control)
+
+
+ ["Functional"]
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Reliability)
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional (Modularization, Documentation)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Usability)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Performance)
+
+
+ Non-functional (Security)
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional (Response Time)
+
+
+ Functional
+
+
+ Non-functional (since it specifies a constraint on the system's data management capabilities, rather than a specific function the system must perform)
+
+
+ Non-functional (since it specifies a constraint on the system's behavior, not a specific function)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Operational)
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional (Reliability)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Security)
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Concurrency)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (specifically, usability)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Security)
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Security)
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional (Operational)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (specifically, usability requirement)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Reliability)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Monitoring is a behavior or quality aspect, not a specific function)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional (specifically, Design Constraint)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Responsiveness)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional (Performance)
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Accuracy)
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Performance, Security, User Experience, Reliability, Availability)
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Concurrency, Collaboration, Scalability)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Accuracy, Data Integrity)
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional (Security, Data Integrity)
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Robustness)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional (Security)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional (Security)
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Performance)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional (Usability)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Performance)
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Configurability, Updatability)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Performance)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Reliability)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional (specifically, Validation Rule)
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Usability)
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional (Ease of use)
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Non-functional (Integration is a non-functional requirement as it describes how the system interacts with other systems, not what the system does)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Reliability, Availability)
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional (Security)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Data Integrity)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Modularity, Maintainability)
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional (Portability)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Error handling)
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional (Data Integrity)
+
+
+ Functional
+
+
+ Non-functional (specifically, Quality Attribute)
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Non-functional (Security)
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Non-functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional

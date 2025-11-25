@@ -1,0 +1,225 @@
+The given requirement 'The system shall refresh the display every 60 seconds.' can be classified into the category: Performance.
+
+
+Functional
+
+
+The given requirement: 'The top 1/4 of the table will hold events that are to occur sequentially.'
+
+Category: Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The system shall be intuitive and self-explanatory.' can be classified under the category of 'Usability'.
+
+
+Usability
+
+
+Usability
+
+
+Operational
+
+
+Operational
+
+
+Operational
+
+
+Security
+
+
+The given requirement: 'A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.'
+
+Category: Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Operational
+
+
+The given requirement 'All additions of new users and modifications to user’s access shall be recorded on the User Report.' can be classified under the category: **Security**
+
+
+Based on the given requirement, I would classify it under: **Functional**
+
+
+Security
+
+
+The given requirement: 'The Disputes System must prevent external users from requesting original receipts. Requests for original receipts are restricted to internal users.'
+
+Category: Functional
+
+
+The given requirement 'The Disputes System must provide the ability to view existing dispute cases.' can be classified under the category of **Functional**.
+
+
+Operational
+
+
+The given requirement: 'The user shall easily locate instructions while using the product. User help can be found within 90% of the system.' 
+
+can be classified into the category: **Usability**
+
+
+Both requirements: 'The recycled parts audit report shall be returned to the user within 10 seconds.' and 'The audit report shall be returned within 10 seconds.' can be classified under the category of **Performance**.
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Scalability
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Performance
+
+
+Here is the classification of the given requirement:
+
+**Maintainability**
+
+This requirement focuses on the ease of integrating new building maps with the product, which implies that the product should be flexible and adaptable to changes, making it easier for users to maintain and update the product over time.
+
+
+The given requirement can be classified into the following categories:
+
+- Scalability
+- Usability
+- Look and Feel
+- Maintainability
+
+
+Operational
+
+
+The given requirement can be classified into the following categories:
+
+- Security
+- Performance
+- Operational
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Scalability
+
+
+Usability
+
+
+Security
+
+
+Security
+
+
+Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Usability
+
+
+Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Operational
+
+
+The given requirement can be classified into the following categories:
+
+- Look and Feel
+- Usability
+
+
+The given requirement can be classified under the following categories:
+
+- Usability
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Availability
+- Operational
+
+
+Security
+
+
+Look and Feel
+
+
+Availability
+
+
+Here are the classifications:
+
+1. 'Changes to revenue and expense formulae must be applied to the RFS system every year prior to the budgeting process start.' - Operational
+2. 'Revenue and expense formulae will be updated within one week of their receipt after which 2 weeks will be allotted to testing of the budget calculations to be conducted jointly by the project development team and PCG Finance.' - Operational
+
+
+Based on the given requirement, I would classify it under the category of: **Operational**
+
+This is because the requirement is related to the system's functionality and its interaction with the BDW environment, specifically the loading of data into the RFS system. It's an operational requirement that deals with the system's performance and its ability to process and load data from the BDW.

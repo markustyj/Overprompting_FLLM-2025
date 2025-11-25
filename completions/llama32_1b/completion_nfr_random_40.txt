@@ -1,0 +1,11375 @@
+Performance
+
+
+Availability
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Here are the classifications:
+
+1. Azure internal load balancing - Which IP address need to be passed while creating ILB: Availability
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Availability
+
+
+Atomicity
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Maintainability
+
+
+Security
+
+
+Here are the classifications:
+
+1. spark write performance issue to S3 (EMR) while limiting the number of target files, need suggestions: **Performance**
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+The given requirement: Efficiently keeping track of the top-k keys of a dictionary based on value can be classified under **Performance**.
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Maintainability
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+The given requirement: Optimize Array.sort by multiple conditions can be classified under **Performance**.
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+- Run an JMeter script in non-gui to generate a new report with a random name without delete previous reports: 
+  - Availability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+The given requirement "reverse sorting gone wrong in python" can be classified under **Performance**.
+
+
+Scalability
+
+
+Performance
+
+
+Scalability
+
+
+The given requirement: Efficient way to apply function to every submatrix of a given size in MATLAB can be classified under **Performance**.
+
+
+Security
+
+
+Performance
+
+
+The given requirement can be classified under the category of **Performance**.
+
+
+Here are the classifications:
+
+- In Jmeter how to find the response time for 1k/2k concurrent user, and also what should be Ram-Up time for 1k and 2k user: Performance
+
+
+Portability
+
+
+Availability
+
+
+Security
+
+
+Scalable networks
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Scalability
+
+
+Availability
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+Availability
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Fault Tolerance
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+The given requirement: "pcs does not stop the failover resources in partner node before it starts them in main node while booting both machines at same time" can be classified under **Availability**.
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Portability
+
+
+Availability
+
+
+Security
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Availability
+
+
+Scalability
+
+
+Here are the classifications:
+
+1. do too many composer packages slow laravel apps? [closed] - Performance
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Scalability
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+The given requirement: "What is the most efficient way to split a List into two Lists based on one condition?" can be classified under **Performance**.
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Portability
+
+
+Security
+
+
+Fault Tolerance
+
+
+Security
+
+
+Availability
+
+
+Maintainability
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Maintainability
+
+
+Security
+
+
+Portability
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+The given requirement: Best way to execute procedure with JPA StoredProcedureQuery in a for loop can be classified under **Performance**.
+
+
+Availability
+
+
+Adding spaces between characters in string C++: Performance
+
+
+Security
+
+
+The given requirement: `tf.train.MonitoredTrainingSession arguments` falls under the category of **Maintainability**.
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Scalability
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Scalability
+
+
+Java StringBuilder Argument Performance
+
+This requirement falls under the category of **Performance**.
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Performance
+
+
+Here are the classifications:
+
+1. MongoDB Concurrency Question - FindOne, then FindOneAndUpdate Atomicity: 
+   - **Availability**: 
+   - **Fault Tolerance**: 
+   - **Maintainability**: 
+   - **Performance**: 
+   - **Portability**: 
+   - **Scalability**: 
+   - **Security**: None
+
+
+Maintainability
+
+
+Security
+
+
+Portability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Mysterious StringReader performance: Performance
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Performance
+
+
+Parallel for-loop with SharedArray: Scalability
+
+
+Maintainability
+
+
+Maintainability
+
+
+Scalability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Scalability
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Fault Tolerance
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Portability
+
+
+Security
+
+
+Maintainability
+
+
+Availability
+
+
+Here are the classifications:
+
+1. Is it possible to give an ASP.NET MVC route more server resources than others? [closed] - Maintainability
+
+
+Portability
+
+
+Availability
+
+
+Portability
+
+
+Availability
+
+
+Predicting Spark performance/scalability on cluster: Scalability
+
+
+Performance
+
+
+Availability
+
+
+Nonportability
+
+
+Scalability
+
+
+Portability
+
+
+Security
+
+
+Here are the classifications:
+
+1. Second form as waiting form and updating its label. - Availability
+
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Here are the classifications:
+
+1. ConstraintLayout: Could adding unnecessary constraints decrease performance? - Performance
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Here are the classifications:
+
+1. CAP Theorem - Partition Tolerance means Nodes down or Network down: Availability
+
+
+Performance issue using IsNull function in the Select statement: Performance
+
+
+Performance
+
+
+Security
+
+
+JS Getter performance
+
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Maintainability
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Performance
+
+
+Security
+
+
+Fault Tolerance
+
+
+Portability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Concurrent file write in Java on Windows: Fault Tolerance
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Character Min Length in JavaScript: Performance
+
+
+Security
+
+
+Scalability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+1. Azure Managed Instance Same Query in Row / Batch Mode running in very similar times. Why isn't Batch Mode Running Faster? 
+   - Availability
+
+
+Performance
+
+
+Fault Tolerance
+
+
+Availability
+
+
+Maintainability
+
+
+Maintainability
+
+
+Real-time processing alternative: Performance
+
+
+Performance
+
+
+Here are the classifications:
+
+- Questions about Node + Ngynx: Portability
+- Scalability: Scalability
+- Timeouts: Availability
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Portability
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Availability
+
+
+Consistency.
+
+
+Availability
+
+
+The given requirement: Postgresql multiple join, slow query after add where clause at the end of query can be classified under **Performance**.
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Portability
+
+
+Fault Tolerance
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Portability
+
+
+Performance
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+The given requirement: Collections.sort(list) and list.sort(Comparator.naturalOrder()) in term of performance can be classified as: Performance.
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Scalability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Scalability
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Fault Tolerance
+
+
+Maintainability
+
+
+Maintainability
+
+
+Security
+
+
+Portability
+
+
+Here are the classifications:
+
+1. Project Euler - Problem 3: How to make my Sieve of Eratosthenes implementation work properly? - Maintainability
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+The given requirement: ERP system, one big SQL query or multiple small SQL query can be classified into **Performance**.
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Scalability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Fault Tolerance
+
+
+Portability
+
+
+Here are the classifications:
+
+1. Cordova: Restrict API access of external JavaScript, sandbox external JS - **Security**
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Complexity between if-else, switch and regex: Maintainability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Maintainability
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Scalability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+The given requirement "Rails: render complex view in parallel" can be classified under **Performance**.
+
+
+Availability
+
+
+Performance
+
+
+Portability
+
+
+Portability
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+Scalability
+
+
+Availability
+
+
+Availability
+
+
+Here are the classifications:
+
+- Availability
+- Fault Tolerance
+
+
+Availability
+
+
+Maintainability
+
+
+Parallelizing divide step and merge step in mergesort algorithm with OpenMP: Scalability
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Maintainability
+
+
+Security
+
+
+IO size vs block size: Performance
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Availability
+
+
+Performance
+
+
+Scalability
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Fault Tolerance
+
+
+Availability
+
+
+Performance
+
+
+Maintainability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+1. Elasticsearch: What would be the lowest-cost, highest-impact change I can make to decrease response times? 
+   - Performance
+
+
+Performance
+
+
+Portability
+
+
+Portability
+
+
+Performance
+
+
+Performance
+
+
+The given requirement: "Efficient check that two floating point values have distinct signs" can be classified under **Performance**.
+
+
+Performance
+
+
+Availability
+
+
+Maintainability
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Availability
+
+
+Availability
+
+
+Portability
+
+
+Scalable/Responsible Polling of 3rd-Party API: Scalability
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Portability
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Here are the classifications:
+
+1. Firebase: Availability
+2. What's more efficient when using NoSQL - to store referenced table object in an object or to store id and retrieve it on demand?: Performance
+
+
+Availability
+
+
+Portability
+
+
+Availability
+
+
+Async execution of commands in Python: Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+The given requirement: "The impact of correlated failures on cluster performance" can be classified under **Availability**.
+
+
+Here are the classifications:
+
+1. Is signal driven I/O actually deprecated by epoll in practice under linux?: Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Scalability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Scalability
+
+
+Scalability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Here are the classifications:
+
+1. why does this regular expression add such enormous time complexity?: Performance
+
+
+Security
+
+
+Portability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Scalability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Fault Tolerance
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+The given requirement "Is this correct time complexity?" does not fit into any of the specified categories as it is a functional requirement.
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Maintainability
+
+
+Portability
+
+
+Availability
+
+
+Portability
+
+
+Scalability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Portability
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Availability
+
+
+Time complexity.
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Scalability
+
+
+Security
+
+
+Maintainability
+
+
+Here are the classifications:
+
+1. dedicated servers for socket.io: Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Portability
+
+
+Performance
+
+
+The given requirement: "Error about “A single query's result set can't execeed 2 billion rows”" can be classified into the category: **Availability**.
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+The given requirement can be classified under the category of **Maintainability**.
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Maintainability
+
+
+Security
+
+
+Fault Tolerance
+
+
+Portability
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Portability
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Maintainability
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Here are the classifications:
+
+1. Language best for a Photo-sharing site: PHP, Python, Ruby or something else? [closed] - **Performance**
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Java code efficiency when converting string: Performance
+
+
+Security
+
+
+Usefulness of Toggle functions: Maintainability
+
+
+Maintainability
+
+
+Performance
+
+
+Portability
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+- Availability: 
+- Fault Tolerance: 
+- Maintainability: 
+- Performance: 
+- Portability: 
+- Scalability: 
+- Security: 
+
+None of the above categories fit this requirement.
+
+
+Here is the classification of the given requirement:
+
+**Performance**
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+yihi performance optimization for gridview searching: Performance
+
+
+Portability
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Portability
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+The given requirement "Conway's Game of Life in Python - Competitive Programming - how to optimize" can be classified into the following non-functional software requirements:
+
+* Performance
+
+
+Portability
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Here are the classifications:
+
+1. querySelectorAll vs NodeIterator vs TreeWalker - fastest pure JS flat DOM iterator: **Performance**
+
+
+Availability
+
+
+Scalability
+
+
+Portability
+
+
+Availability
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Scalability
+
+
+Portability
+
+
+Performance
+
+
+I would classify the given requirement: C# dictionary vs 2D array as **Performance**.
+
+
+Here are the classifications:
+
+1. What are some good resources for designing a web-services based architecture that can scale well?: Availability
+
+
+Maintainability
+
+
+Performance
+
+
+Maintaining class library assemblies utilized by multiple projects: Maintainability
+
+
+Availability
+
+
+Availability
+
+
+Here are the classifications:
+
+1. high availability replicated servers: Availability
+2. tomcat session lost: Availability
+3. Firefox and chrome use 60 segs as TTL and don't respect DNS defined TTL: Availability
+
+
+Maintainability
+
+
+Scalability
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+The given requirement "How to parallellize/async this method?" can be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Scalability
+
+
+Security
+
+
+Portability
+
+
+Availability
+
+
+The given requirement: "loadEventEnd result is changed sometimes comes 0 sometimes comes 500ms" can be classified under **Performance**.
+
+
+Availability
+
+
+Portability
+
+
+Fault Tolerance
+
+
+The given requirement: "Running NodeJS on all CPU cores in order to achieve maximum hardware potential" can be classified under **Performance**.
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Return from Entity Framework Core: Availability
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Maintainability
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+The given requirement: SQLite Performance for querying large amounts of tick data can be classified under **Performance**.
+
+
+Portability
+
+
+Security
+
+
+Fault Tolerance
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Scalability
+
+
+Availability
+
+
+Scalability
+
+
+Availability
+
+
+Portability
+
+
+Maintainability
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Portability
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Scalability
+
+
+Scalability
+
+
+Performance
+
+
+The given requirement: "without Loops to Sum Range of odd numbers" can be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Fault Tolerance
+
+
+Fault Tolerance
+
+
+Availability
+
+
+This is a good practice on Laravel.
+
+
+Security
+
+
+Performance
+
+
+The given requirement: SQL: ON vs. WHERE in sub JOIN can be classified under **Performance**.
+
+
+Portability
+
+
+Portability
+
+
+Performance
+
+
+Portability
+
+
+Availability
+
+
+Maintainability
+
+
+Security
+
+
+Maintainability
+
+
+Scalability
+
+
+Portability
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Portability
+
+
+Availability
+
+
+Portability
+
+
+The given requirement "Fortran Dot Product performance: Increasing cpu time consumption with diminishing array size" can be classified under **Performance**.
+
+
+Security
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Scalability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Security
+
+
+The given requirement: "An efficient way to multiply two dataframes based on a condition on a certain column" can be classified under **Performance**.
+
+
+Security
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Scalability
+
+
+Portability
+
+
+Performance
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Maintainability
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Maintainability
+
+
+Performance
+
+
+Portability
+
+
+Availability
+
+
+Portability
+
+
+The given requirement: "Seeing significant slowness with using an external database with Docker compose run services (but not when using local DBs)" can be classified into the category: **Performance**.
+
+
+Here are the classifications:
+
+1. Numba error :No implementation of function Function(<function all at #>) found for signature - Maintainability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Here are the classifications:
+
+1. SQL Selecting by parameter: **Security**
+2. SQL Joining: **Performance**
+3. Saving in-memory Collection: **Maintainability**
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Group concat Query Performance
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+High latency when sending events to Azure Event Hub: Performance
+
+
+Portability
+
+
+Portability
+
+
+Maintainability
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Maintainability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Here are the classifications:
+
+1. Shared volume across multiple docker-compose projects: Portability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Maintainability
+
+
+Performance
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Portability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Portability
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Beginner efficiency code question: Improve the efficiency of the code.
+
+Classification: Performance
+
+
+Security
+
+
+Performance
+
+
+Localized String not loading from customised bundle in M1 chip machine: Availability
+
+
+Here are the classifications:
+
+1. Is there a way to achieve Autofailover and autodiscovery of redis nodes with JedisCluster?: Availability
+
+
+DDOS prevention
+
+
+Portability
+
+
+Maintainability
+
+
+Availability
+
+
+Here are the classifications:
+
+1. E_ACCESSDENIED when creating a host-only interface on virtualbox via vagrant: Availability
+
+
+Performance
+
+
+Here are the classifications:
+
+1. Lighthouse performance Optimization : Remove unused main.js and polyfills.js files build by es05 and es2015 plugins not working in angular 11: **Performance**
+
+
+Scalability
+
+
+Maintainability
+
+
+Security
+
+
+Improving the latency of server response under high-volme traffic: Performance
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Portability
+
+
+Maintainability
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Scaling in nosql vs rdbms: Scalability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Here are the classifications:
+
+1. Best way to portably assign the result of fgetc() to a char in C: Portability
+2. How much secure is Laravel's `Default Auth::attempt()` against SQL Injection or any sort of vulnerability?: Security
+3. Does Seaside scale?: Scalability
+4. process socket data in near realtime python: Performance
+5. Why does the below file generation method return FileNotFoundException on simultaneous request to this endpoint?: Scalability
+6. Javascript loop way faster in IE than Chrome browsers: Performance
+7. how can I reliably process thousands of HTTP requests when some may error?: Fault Tolerance
+8. How do I translate Prolog's cuts to Curry?: Performance
+9. tput is very slow on MinTTY (Git Bash): Performance
+10. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+11. Linq Orderby compares with itself. Why?: Performance
+12. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+13. Artemis load balancing via queue federation plus HA replication policy: Availability
+14. EC2 auto scaling with elastic IP: Availability
+15. Speeding up loading assemblies at runtime: Portability
+16. SDL Mixer fails to load file on some machines only: Portability
+17. SQL Server big rows fetch performance consideration: Performance
+18. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+19. WEP hacking and why IV capture is needed: Security
+20. Configure X-XSS Protection Header: Security
+21. cygwin C++ static/portable library to avoid releasing source code?: Portability
+22. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+23. MySQL Fabric works with MyIsam tables?: Availability
+24. Efficient, multi-tenant separated, DB for C# [closed]: Performance
+25. React won't call backend (Node) due to CORS error: Security
+26. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+27. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+28. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+29. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+30. How to understand the stackwalk event in ETW?: Performance
+31. JS Web workers and security: Security
+32. Scalability in shared multi-tenant MySQL database: Scalability
+33. Silverlight: Enterprise-grade push notifications: Scalability
+34. Fast and precise implementation of pow(complex<double>, 2): Performance
+35. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+36. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+37. Why is it bad practice to use an FCM Server Key on a Flutter/Android client?: Security
+38. How corosync, pacemaker and zookeeper are related to each other?: Availability
+39. Multi-homed SQL Server with High Availability Groups: Availability
+40. Are there any negative impacts to dynamically import all components in a page?: Performance
+
+And for the new requirement:
+Why is string format so much faster than converting something into a string in Python?: Performance
+
+
+Neo4j docker performance problems: Performance
+
+
+Security
+
+
+Security
+
+
+Manageability vs. Maintainability
+
+
+Security
+
+
+Security
+
+
+InfluxDB query performance on small dataset (5000 rows): Performance
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Here are the classifications:
+
+- Is it possible to implement JIT for bytecode interpreter in C without resorting to assembly?: Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Scalability
+
+
+Availability
+
+
+Scalability
+
+
+Here are the classifications:
+
+1. Not able to perform base backup in postgres replication. Error: pg_basebackup: could not connect to server: 
+   - Availability
+
+
+Availability
+
+
+Security
+
+
+The given requirement can be classified under **Performance**.
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+The given requirement: ANTL4 Parser (Flat parser vs Structor parse) for Language Translator can be classified under **Maintainability**.
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Here are the classifications:
+
+1. Tomcat7 parallel deployment feature: experiences using it on production servers? 
+   - Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Here are the classifications:
+
+1. Given two binary lists of same length, how to find all the pair of indices corresponding to ones of alternating lists without ones in between: 
+   - Performance
+
+
+Availability
+
+
+Haskell computation performance: Performance
+
+
+Security
+
+
+Maintainability
+
+
+Scalability
+
+
+Here are the classifications:
+
+1. Solution design for 26M records a year: Scalability
+2. Only 5000 are active at any time: Availability
+
+
+Security
+
+
+Scalability
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Security
+
+
+Portability
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Maintainability
+
+
+Security
+
+
+Here are the classifications:
+
+1. Flink StateFun high availability exception: "java.lang.IllegalStateException: There is no operator for the state.....": **Fault Tolerance**
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Here are the classifications:
+
+1. Pandas Iterrows: Faster Alternatives? [duplicate] - Performance
+
+
+Security
+
+
+Fault Tolerance
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Spring-boot latency with Mongo DB connections: Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+GridSearchCV VS CV of the model: Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Scalability
+
+
+Scalability
+
+
+Scalability
+
+
+The given requirement: AWS Lambda connection to ElasticSearch / Kibana is taking over 1.5 seconds can be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Fault Tolerance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Portability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+The given requirement: golang fiber slow in build binary compared to debug can be classified under **Performance**.
+
+
+The given requirement: Angular recompile with Docker very slow after updating from Angular 12 can be classified under **Performance**.
+
+
+Maintainability
+
+
+Performance
+
+
+Scalability
+
+
+Security
+
+
+Maintainability
+
+
+Optimizing nested for loop wrt time taken: Performance
+
+
+Security
+
+
+Portability
+
+
+Performance
+
+
+Scalability
+
+
+Portability
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Maintainability
+
+
+Scalability
+
+
+Here are the classifications:
+
+- HA and centralized config storage for zeromq - alternatives to zookeeper and doozer: Availability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Here are the classifications:
+
+1. Codility - Stonewall problem: 100% on correctness but 0% on performance - Performance
+
+
+Here are the classifications:
+
+1. How to handle evolving c++ std:: namespace? e.g.: std::tr1::shared_ptr vs. std::shared_ptr vs. boost::shared_ptr vs. boost::tr1::shared_ptr: Maintainability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Scalability
+
+
+The given requirement: "What is the running time of this iterative function?" 
+
+can be classified into: **Performance**
+
+
+The given requirement: C# memory access optimization that offset large array (Why is this code slow) can be classified under **Performance**.
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Maintainability
+
+
+Security
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Scalability
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Portability
+
+
+Maintainability
+
+
+The given requirement "which query consumes less resources an update or a select" can be classified under **Performance**.
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+This requirement can be classified under **Availability**.
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+1. Why does stack-based iteration not preform better than recursion in C? (Using Fibonacci number as an example): Performance
+
+
+Performance
+
+
+Availability
+
+
+Portability
+
+
+Here are the classifications:
+
+1. Hadoop HA. Auto failover configured but Standby NN doesn't become active until NN is started again: 
+   - Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Scalability
+
+
+Portability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Rails Engines scalability issue: Scalability
+
+
+Maintainability
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Availability
+
+
+Portability
+
+
+Performance
+
+
+Maintainability
+
+
+Portability
+
+
+Portability
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Here are the classifications:
+
+1. If I hide/show a fragment instead of replacing it, would that cause more load on UI rendering? 
+   - Performance
+
+
+Here are the classifications:
+
+1. SAPUI5: Grid-Table: Column resize performance issues - Performance
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Here are the classifications:
+
+1. JRE upgrade: Maintainability
+2. Migrate SSL certificates: Security
+
+
+Scalability
+
+
+Scalability
+
+
+Scalability
+
+
+Security
+
+
+Fault Tolerance
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Maintainability
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Fault Tolerance
+
+
+Partitioning in Oracle using custom functions: Portability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+The given requirement can be classified under the category of **Performance**.
+
+
+Performance
+
+
+Portability
+
+
+Availability
+
+
+Portability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Numbers without assignment or statement in C: Maintainability
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Scalable
+
+
+Scalability
+
+
+Availability
+
+
+Performance
+
+
+Maintainability
+
+
+Performance
+
+
+Performance
+
+
+Maintainability
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Here are the classifications:
+
+1. Dynatrace PurePath: what are each yellow bar? - Availability
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Portability
+
+
+Performance
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Scalability
+
+
+Performance
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Scaling and Performance.
+
+
+Fault Tolerance
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Portability
+
+
+Scalable WCF Web Service: Scalability
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Maintainability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Fault Tolerance
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Portability
+
+
+Portability
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+ClickHouse - SELECT row of data is too slow: Performance
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Fault Tolerance
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Here are the classifications:
+
+1. MacOS Keychain: Why not all user's keychains are being listed when remotely running the command `security list-keychains` - Availability
+
+
+Scalability
+
+
+Content Security Policy: The page’s settings blocked the loading of a resource at 
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Scalability
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+The given requirement can be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+Partitioned tables have impact on join with BigQuery: Performance
+
+
+Maintainability
+
+
+Portability
+
+
+Maintainability
+
+
+Portability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Scalability
+
+
+The given requirement: Joining a rails table with a large number of records - causing my app to hang can be classified under **Performance**.
+
+
+Here are the classifications:
+
+1. Service end-point vs 3 individual end-points for Create/Update/Delete in CRUD | Architecture: **Maintainability**
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+The given requirement: Mongodb performance - batch update vs. serial updates vs. serial get and update can be classified under **Performance**.
+
+
+Scalability
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Portability
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Fault Tolerance
+
+
+The given requirement can be classified under **Performance**.
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Portability
+
+
+Maintainability
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Here are the classifications:
+
+1. Python multiprocessing: 
+   - Portability
+   - Performance
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Portability
+
+
+Availability
+
+
+Availability
+
+
+Portability
+
+
+Fault Tolerance
+
+
+Scalable http session management (java, linux) -> Scalability
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+The given requirement: pgpool 4.1.0 healthcheck getsockopt() detected error "Connection refused" falls under the category of **Availability**.
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Scalability
+
+
+Here are the classifications:
+
+1. Kafka: What is the minimum number of brokers required for high availability? - Availability
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Scalability
+
+
+Availability
+
+
+Portability
+
+
+Security
+
+
+Scalability
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Scipy: Speeding Up Sampling -> Performance
+
+
+Portability
+
+
+The given requirement "thread safe, stateless design using Spring" can be classified under **Maintainability**.
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+- Implement tree structure. Store nodes in vector and denote children with indices: Portability
+- Store nodes on the heap and use pointers to the children: Maintainability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Performance
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+The given requirement: Migration from MySQL 5.6.35 to MariaDB 10.6.3 - Queries not working can be classified into the following categories:
+
+- Availability: 
+  - Queries not working implies that the system is not functioning as expected, which can be a critical issue for availability.
+
+- Security:
+  - Although not directly related, security can be a concern during database migrations, especially if the migration process involves changes to database schema or data.
+
+- Maintainability:
+  - The requirement to migrate from one database management system to another can be a complex process that requires careful planning and execution, which can impact maintainability.
+
+- Performance:
+  - Although not explicitly mentioned, the fact that queries are not working can imply performance issues, as the system may be unable to handle the workload or may be experiencing errors.
+
+- Portability:
+  - Although not directly related, the migration process may require changes to the application code to ensure portability between the two database management systems.
+
+However, the most relevant category for the given requirement is Availability, as the primary concern is that the queries are not working, which can impact the system's ability to function as expected.
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Availability
+
+
+Here are the classifications:
+
+1. Is there a need for a LB in preference for the built-in policies in Cassandra C# driver? 
+   - Availability
+
+
+Performance
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Security
+
+
+Maintainability
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Here are the classifications:
+
+- Does Rails create any connection pools to mysql?: Availability
+- Is it a single threaded design?: Maintainability
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Scalability
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Maintainability
+
+
+Portability
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+The given requirement: T-SQL Efficient use of PARTITION BY and DISTINCT can be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+The given requirement: `std::map very slow if contents were deleted` can be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Maintainability
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+The given requirement: "Laravel app is very slow - over 3 seconds to boot and 2 seconds to load" can be classified into the following categories:
+
+- Performance
+- Availability
+
+
+Maintainability
+
+
+Availability
+
+
+Portability
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+Security
+
+
+Scalability
+
+
+Maintainability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Portability
+
+
+Security
+
+
+Here are the classifications:
+
+- monetdb in the cloud: Availability
+- scalability: Scalability
+- amazon s3: Availability
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Here are the classifications:
+
+1. Laravel livewire, render performance issue. How to manage hundreds of components: 
+   - Performance
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Here are the classifications:
+
+1. How to generate three pseudo-random number sequences R1, R2, R3 from three keys/seeds K1, K2, K3, such that R1 XOR R2 XOR R3 = 0: 
+   - Performance
+
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Scalability
+
+
+Availability
+
+
+Based on the given requirement, I would classify it under **Performance**. The requirement involves optimizing a machine learning model (XGBoost) for a multi-class target variable using Bayesian optimization, which is a technique used to improve the performance of the model.
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+The given requirement: Optimizing a matrix transpose function with OpenMP can be classified under **Performance**.
+
+
+Maintainability
+
+
+Availability
+
+
+Here are the classifications:
+
+1. My primary mongoDB went down, but the secondary mongoDB did not came up even though both are in high availability sync: Availability
+
+
+Scalability
+
+
+Maintainability
+
+
+Portability
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+The given requirement "Running time of counting nodes in a given range in a BST algorithm" can be classified under **Performance**.
+
+
+Performance
+
+
+Here are the classifications:
+
+1. Should we use PHP framework for a high scalable web site? [closed] - Scalability
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+The given requirement: SQL performance difference JOIN vs UNIONALL can be classified under **Performance**.
+
+
+Performance
+
+
+Security
+
+
+FabricJS freedrawing performance tips: Performance
+
+
+Maintainability
+
+
+Security
+
+
+The given requirement can be classified under **Maintainability**.
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+The given requirement: Spring Boot app experiencing latency across the board under load can be classified under **Performance**.
+
+
+Security
+
+
+Here are the classifications:
+
+1. All else held equal, which is the faster querying option: Milvus, RocksDB, or Apache HBase - **Performance**
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Maintainability
+
+
+Detectron2 Speed up inference instance segmentation: Performance
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Time and space complexity of the algorithm: Performance
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability vs Platform Independent: Portability
+
+
+Maintainability
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+The given requirement "Running out of memory while joining csv files with pandas" can be classified under **Performance**.
+
+
+Portability
+
+
+Security
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Portability
+
+
+Performance
+
+
+Performance
+
+
+Fault Tolerance
+
+
+The given requirement "Spring Batch Slow Write with multiple datasources" can be classified under **Performance**.
+
+
+Fault Tolerance
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Fault Tolerance
+
+
+Portability
+
+
+Scalability
+
+
+Maintainability
+
+
+Availability
+
+
+Availability
+
+
+Maintainability
+
+
+Performance
+
+
+Performance
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Availability
+
+
+Maintainability
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Portability
+
+
+Performance
+
+
+Portability
+
+
+Maintainability
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Maintainability
+
+
+Scalability
+
+
+Performance
+
+
+Maintainability
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Fault Tolerance
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Fault Tolerance
+
+
+Availability
+
+
+The given requirement: Laravel - Chunk update too slow (SQLSRV - MYSQL) can be classified under **Performance**.
+
+
+Portability
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Scalability
+
+
+Performance
+
+
+Performance
+
+
+The given requirement: "Problem with writing a value using CIN to individual data in a struct C++" can be classified under **Maintainability**.
+
+
+Performance
+
+
+Maintainability
+
+
+The given requirement can be classified under **Maintainability**. 
+
+The use of `useCallback` and `useMemo` in custom hooks is primarily for optimizing performance and reducing unnecessary re-renders, which in turn improves maintainability of the code.
+
+
+Portability
+
+
+Portability
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Scalability
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+The given requirement: Most memory efficient way to open and operate upon 500+ urls in selenium python can be classified under **Performance**.
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Scalability
+
+
+Portability
+
+
+Maintainability
+
+
+Security
+
+
+The given requirement: SQL: Combining WHERE, ORDER and LIMIT on 15 million+ row query can be classified under **Performance**.
+
+
+Performance
+
+
+Availability
+
+
+Scalability
+
+
+Security
+
+
+Maintainability
+
+
+Scalability
+
+
+The given requirement: "Training is very slow when add a custom layers. I found this tensor ops run on cpu not on gpu, I don't konw why?" can be classified under **Performance**.
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+The given requirement: SQL (Postgres): ON vs WHERE for better performance can be classified under **Performance**.
+
+
+Performance
+
+
+Security
+
+
+Here are the classifications:
+
+1. Scalability of OLAP Cubes - Impact of Rows/Columns: Scalability
+2. hierarchical order of attributes: Maintainability
+3. empty/redundant attributes: Maintainability
+
+
+Here are the classifications:
+
+- fread(), solaris to unix portability: Portability
+- use of uninitialised values: Fault Tolerance
+
+
+Performance
+
+
+The given requirement "Go, encapsulation and performance" can be classified into the following categories:
+
+- Performance
+- Maintainability
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Automation Services vs Scheduled updates: Availability
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+1. Why does it takes longer to saveAll() than to save() in MongoDB Spring Data?: Performance
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+The given requirement "python performance loop vs. sum vs. exec" can be classified under **Performance**.
+
+
+Here are the classifications:
+
+1. C# - Faster way to get set public static fields instead of using Reflection.SetValue / GetValue: **Performance**
+
+
+Scalability
+
+
+Performance
+
+
+Performance
+
+
+Maintainability
+
+
+Here are the classifications:
+
+1. Definitive books/resources on web application scalability: Scalability
+
+
+Here are the classifications:
+
+1. Keycloak on Kubernetes high availability cluster (with ldap as user federation) using codecentrics Helm Charts: 
+   - Availability
+   - Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Responsive Heatmaps
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Scalability
+
+
+Scalability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+The given requirement "Python, excel, eval and the cardinal sins" can be classified under the category of **Security**.
+
+
+Availability
+
+
+Maintainability
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+The given requirement "AWS Lambda, Scaling, Implementation" can be classified into the following categories:
+
+- **Scalability**: AWS Lambda, Scaling
+- **Performance**: Implementation
+
+
+Performance
+
+
+Maintainability
+
+
+Performance
+
+
+Fault Tolerance
+
+
+Security
+
+
+Availability
+
+
+Maintainability
+
+
+Performance
+
+
+Maintainability
+
+
+Scalability
+
+
+Scalability
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+The given requirement can be classified under the category of **Fault Tolerance**.
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Maintainability
+
+
+Maintainability
+
+
+Portability
+
+
+Performance
+
+
+Availability
+
+
+Maintainability
+
+
+Availability
+
+
+Maintainability
+
+
+Portability
+
+
+Maintainability
+
+
+Security
+
+
+The given requirement: Postgresql 12: performance issue with overlap operator and join on very same table can be classified under **Performance**.
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Maintainability
+
+
+Portability
+
+
+Maintainability
+
+
+Security
+
+
+The given requirement "search in list efficiency way (nested lis)" can be classified under **Performance**.
+
+
+Scalability
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Here are the classifications:
+
+1. Calculate in T-SQL FAST the high and low of the previous 1440 rows: **Performance**
+
+
+Replication
+
+
+Security
+
+
+Scalability
+
+
+Scalability
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+The given requirement: "How to parallelize program that reads data from file into vectors [duplicate]" can be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+The given requirement: Calculate lost packet in tcp-variants-comparsion.cc in n3.33 can be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Scalability
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Fault Tolerance
+
+
+Security
+
+
+Here are the classifications:
+
+1. Which is more efficient in this scenario: return a member by reference, or return as pointer? - Performance
+
+
+Portability
+
+
+Portability
+
+
+Nodejs scaling and prioritising functions: Scalability
+
+
+Security
+
+
+Availability
+
+
+The given requirement: Longest subarray that has a sum equal to s can be classified under **Performance**.
+
+
+Scalability
+
+
+Maintainability
+
+
+Maintainability
+
+
+Fault Tolerance
+
+
+Scalability
+
+
+Performance
+
+
+Maintainability
+
+
+Performance
+
+
+Availability
+
+
+Maintainability
+
+
+Security
+
+
+Here are the classifications:
+
+- CakePHP and MySQL fetching records: a handful at a time or hundreds in a row: **Performance**
+
+
+Maintainability
+
+
+Availability
+
+
+Here are the classifications:
+
+1. Multiplayer game server: 
+   - Availability
+   - Fault Tolerance
+   - Scalability
+   - Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Scalability
+- Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+The given requirement: "reduce the time complexity of the this Django queryset parse function" can be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+The given requirement can be classified under **Performance**.
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Performance
+
+
+Node cluster
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+The given requirement: SQL Server :: Replication Distribution Agent never ending can be classified into the category of **Availability**.
+
+
+Security
+
+
+Service Locator vs Constructor injection performance: Performance
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+The given requirement: "Route get by _id queries in Elasticsearch to improve performance" can be classified under **Performance**.
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Handling user activity on web portal with performance
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+The given requirement can be classified under: **Availability**
+
+
+Portability
+
+
+Maintainability
+
+
+Security
+
+
+Portability
+
+
+The given requirement: React Native :FLatList with videos crashing on scroll in low-end devices can be classified under **Performance**.
+
+
+Security
+
+
+Availability
+
+
+Maintainability
+
+
+Maintainability
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Maintainability
+
+
+Maintainability
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+Scalable
+
+
+Scalability
+
+
+Performance
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+The given requirement: Query Optimization Advice for IF EXISTS THEN UPDATE ELSE INSERT multiple rows inside WHILE statement can be classified under **Performance**.
+
+
+Portability
+
+
+Portability
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Maintainability
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+Availability
+
+
+Performance
+
+
+Here are the classifications:
+
+1. PHP5 + MongoDB 2.6 + PHP driver 1.5.1 - C10k Apache worker/prefork: Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Scalability
+
+
+Fault Tolerance
+
+
+Availability
+
+
+Cost of changing a value vs. accessing an array in C: Maintainability
+
+
+Portability
+
+
+Security
+
+
+Based on the given requirements, I would classify the following requirements into the following categories:
+
+- SQL Server query improvement suggestion: Performance
+- Aggregation of large amount of data in a query: Performance
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+The given requirement: Ftrace overhead comparison : trace_printk v/s custom tracepoint in linux can be classified under **Performance**.
+
+
+Maintainability
+
+
+The given requirement: System too slow after minikube (4gb ram + core i3) can be classified under **Performance**.
+
+
+Security
+
+
+Performance
+
+
+Fault Tolerance
+
+
+Fault Tolerance
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Noexcept
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Fault Tolerance
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+iText performance: Generate or populate pdf forms? 
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Maintainability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Maintainability
+
+
+Availability
+
+
+Portability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Fault Tolerance
+
+
+Security
+
+
+Here are the classifications:
+
+1. AWS RDS Postgres/Iam Authentication/ and Row Level Security - All In One: 
+   Availability
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Here are the classifications:
+
+1. Why does selecting/updating on inner-join take so much longer on higher IDs and is threr a way around it?: Performance
+
+
+Portability
+
+
+CoreData performance battle: traversing relationships vs count references: Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Scalability
+
+
+Availability
+
+
+Performance
+
+
+SSMS Performance issues when connecting to Azure Database: Performance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Scalability
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Maintainability
+
+
+The given requirement: Gradle task execution time: compileKotlin is way slower than compileJava can be classified into the category of **Performance**.
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Maintainability
+
+
+Maintainability
+
+
+Maintainability
+
+
+Scalability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Scalability
+
+
+Availability
+
+
+Availability
+
+
+Here are the classifications:
+
+1. What is the best way to override istream for large object (over 30 fields): **Performance**
+
+
+Security
+
+
+Scalability
+
+
+Scalability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+The given requirement: "Why is to_sql() slower than iterrows() and cursor.execute()?" can be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+1. C or Python for performance and scalability in creating socket connections: **Performance**
+
+
+Portability
+
+
+Scalability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Portability
+
+
+Scalability
+
+
+Maintainability
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Reliability
+
+
+Logical indexing: Maintainability
+
+
+Security
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Portability
+
+
+Portability
+
+
+Scalability
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Scalability
+
+
+Here are the classifications:
+
+1. Pgpool-II: Delegated IP is not available when disconnected Primary or Standby Node Failed: Availability
+
+
+The given requirement: Consecutive calls to same subroutine in fortran with significantly slower performance can be classified under **Performance**.
+
+
+Here are the classifications:
+
+1. CSRF using AJAX. Why is it possible?: Security
+
+
+Performance
+
+
+Fault Tolerance
+
+
+Security
+
+
+Security
+
+
+Algorithmic complexity of generating Hamming numbers: Performance
+
+
+Flutter performance
+
+
+Availability
+
+
+Security
+
+
+Scalability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Portability
+
+
+Performance
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Portability
+
+
+Performance
+
+
+Security
+
+
+Fault Tolerance
+
+
+Portability
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+The given requirement can be classified under the following categories:
+
+1. **Scalability**: Session store in InProc vs Redis (Asp.Net MVC 5) with scalability in mind
+2. **Security**: (Implicit) Session management and data storage security is a concern in this requirement.
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+Portability
+
+
+Scalable System Architecture/Design for Reading/Parsing Files: Scalability
+
+
+Performance
+
+
+Performance
+
+
+Scanning lists more efficiently in python: Performance
+
+
+Fault Tolerance
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Portability
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+The given requirement: "The Runtime measurement in Java outputs unreal time values after looping the same testrun for the 3rd time [duplicate]" can be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Hystrix Execution Patterns: Scalability
+
+
+Performance
+
+
+Security
+
+
+Node.js slow broadcast: Performance
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Availability
+
+
+Here are the classifications:
+
+1. Spark in kerberized Hadoop environment and High Availability enabled: 
+   - Availability
+
+2. Spark SQL can only read data after write task: 
+   - Fault Tolerance
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+The given requirement: MySQL: Composite Index on Where + Order By can be classified under **Performance**.
+
+
+Maintainability
+
+
+Maintainability
+
+
+Performance
+
+
+The given requirement: "transform broadcasting to something calculateable. matrix np.multipy" can be classified under **Performance**.
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Maintainability
+
+
+Performance
+
+
+Performance
+
+
+pandas groupby performance / combine 2 functions: Performance
+
+
+Performance
+
+
+Security
+
+
+Here are the classifications:
+
+1. Sharepoint 2010 databases - How to move to standalone SQL 2012 from SQL 2012 AlwaysOn: Availability
+
+
+The given requirement: "What is the effiiency of these 3 programs (in Python)" can be classified under **Performance**.
+
+
+The given requirement can be classified under the category of **Performance**.
+
+
+Maintainability
+
+
+Performance
+
+
+Availability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Availability
+
+
+Availability
+
+
+Scalability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Availability
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Portability
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Scalability
+
+
+Security
+
+
+503 error on server load tests on Wildfly server on Jelastic: Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+The given requirement "Replicated container of Certificate Authority (CA) server is not working" can be classified under **Availability**.
+
+
+Security
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Here are the classifications:
+
+1. Redis HA using Docker & Kubernetes (1 Master 2 slaves) Ubuntu 16.04: 
+   - Availability
+   - Scalability
+
+
+High and unstable TTFB (Time To First Byte) can be classified under **Availability**.
+
+
+Here are the classifications:
+
+1. AsParallel() method is supported in PCL but not available in.NET Standard 1.3: 
+   - Portability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+The given requirement: "Why node app is consuming more ram usage even the heap memory is low?" can be classified under **Performance**.
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Precision of digital computers: Performance
+
+
+Portability
+
+
+Performance
+
+
+The given requirement "Multiple sendto() using UDP socket" can be classified under **Performance**.
+
+
+Performance
+
+
+Here are the classifications:
+
+1. Building large scale REST service - PHPFog, cloudControl, Orchestra or Amazon AWS: Availability
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Portability
+
+
+The given requirement: Numpy speed efficiency using broadcasting, transpose and reshape in large size array can be classified under **Performance**.
+
+
+Maintainability
+
+
+Scalability
+
+
+Stateless Object Oriented Programming vs. Functional Programming: Maintainability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+1. Can Python ever be faster than C in C based OS? Why? [closed] : Performance
+
+
+Performance
+
+
+Scalability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Portability
+
+
+The given requirement can be classified under **Maintainability**.
+
+
+Security
+
+
+The given requirement "R: Conditional Sum by Row in DataTable" can be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+The given requirement can be classified under the category of **Performance**.
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Maintainability
+
+
+Scalability
+
+
+Availability
+
+
+Scalability
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Scalability
+
+
+Maintainability
+
+
+Availability
+
+
+Availability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Unit testing.
+
+
+Security
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Scalability
+
+
+Security
+
+
+Portability
+
+
+Performance
+
+
+Portability
+
+
+Here are the classifications:
+
+- numpy - what is recursor in numpy/core/arrayprint.pyarrayprint.py and why it costs time?: Performance
+
+
+Fault Tolerance
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Portability
+
+
+Here are the classifications:
+
+- Performance
+- Performance
+
+
+Maintainability
+
+
+Security
+
+
+Portability
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Fault Tolerance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+The given requirement "Nodejs parallel requests are getting slower" can be classified under **Performance**.
+
+
+Fault Tolerance
+
+
+Security
+
+
+Portability
+
+
+Scalability
+
+
+Portability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Portability
+
+
+Maintainability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Here are the classifications:
+
+1. What are the best practices to test performance and scalability of Message Oriented Middleware (MOM) solutions?: 
+   - Performance
+   - Scalability
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Here are the classifications:
+
+1. Symfony4 is slow on Windows - What happens after $kernel->terminate($request, $response);?: Performance
+
+
+Security
+
+
+Flutter Pdf Viewer performance
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+1. Flutter application loading local data: 
+   - Maintainability (due to the need for efficient and organized code)
+
+2. Best way to portably assign the result of fgetc() to a char in C: 
+   - Portability
+
+3. How much secure is Laravel's `Default Auth::attempt()` against SQL Injection or any sort of vulnerability?: 
+   - Security
+
+4. Does Seaside scale?: 
+   - Scalability
+
+5. process socket data in near realtime python: 
+   - Performance
+
+6. Why does the below file generation method return FileNotFoundException on simultaneous request to this endpoint?: 
+   - Scalability
+
+7. Javascript loop way faster in IE than Chrome browsers: 
+   - Performance
+
+8. how can I reliably process thousands of HTTP requests when some may error?: 
+   - Fault Tolerance
+
+9. How do I translate Prolog's cuts to Curry?: 
+   - Performance
+
+10. tput is very slow on MinTTY (Git Bash): 
+    - Performance
+
+11. Portable code: __import__ parameter string type between Python 2 and Python 3: 
+    - Portability
+
+12. Linq Orderby compares with itself. Why?: 
+    - Performance
+
+13. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): 
+    - Security
+
+14. Artemis load balancing via queue federation plus HA replication policy: 
+    - Availability
+
+15. EC2 auto scaling with elastic IP: 
+    - Availability
+
+16. Speeding up loading assemblies at runtime: 
+    - Portability
+
+17. SDL Mixer fails to load file on some machines only: 
+    - Portability
+
+18. SQL Server big rows fetch performance consideration: 
+    - Performance
+
+19. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: 
+    - Performance
+
+20. WEP hacking and why IV capture is needed: 
+    - Security
+
+21. Configure X-XSS Protection Header: 
+    - Security
+
+22. cygwin C++ static/portable library to avoid releasing source code?: 
+    - Portability
+
+23. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: 
+    - Security
+
+24. MySQL Fabric works with MyIsam tables?: 
+    - Availability
+
+25. Efficient, multi-tenant separated, DB for C#: 
+    - Performance
+
+26. React won't call backend (Node) due to CORS error: 
+    - Security
+
+27. Which is the best exception to use? Or: how to deal with a misconfigured Activity?: 
+    - Maintainability
+
+28. How to summarize data by-group, by creating dummy variables as the collapsing method: 
+    - Performance
+
+29. DataProc is taking more than 3 hrs to process than expected less than 15 mins: 
+    - Performance
+
+30. condition checking on signatures of template of a class (Ex. HashSet + HashMap): 
+    - Maintainability
+
+31. How to understand the stackwalk event in ETW?: 
+    - Performance
+
+32. JS Web workers and security: 
+    - Security
+
+33. Scalability in shared multi-tenant MySQL database: 
+    - Scalability
+
+34. Silverlight: Enterprise-grade push notifications: 
+    - Scalability
+
+35. Fast and precise implementation of pow(complex<double>, 2): 
+    - Performance
+
+36. Caching the result of modulus operations but why that doesn't improve performance?: 
+    - Performance
+
+37. Improving speed of clicks and sending keys with selenium [duplicate]: 
+    - Performance
+
+38. Why is it bad practice to use an FCM Server Key on a Flutter/Android client?: 
+    - Security
+
+39. How corosync, pacemaker and zookeeper are related to each other?: 
+    - Availability
+
+40. Multi-homed SQL Server with High Availability Groups: 
+    - Availability
+
+41. Are there any negative impacts to dynamically import all components in a page?: 
+    - Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+The given requirement: Computing time for an Open MP fortran program is the same as the sequential version
+
+should be classified under: **Performance**
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Performance
+
+
+Scalability
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Scalability
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Here are the classifications:
+
+1. XSLT optimization: multiple templates or xsl:choose? [closed] - Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Scalability
+
+
+Availability
+
+
+Portability
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Maintainability
+
+
+Fault Tolerance
+
+
+The given requirement: "laravel error 'ArgumentCountError Too few arguments to function App\Http\Controllers\UserController::messagesend(), 1 passed 2 expected'" can be classified under **Maintainability**.
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Preload fonts and other assets, configured by nuxt.config.js: Performance
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Scalability
+
+
+WPF Large uniformGrid performance issues: Performance
+
+
+Performance
+
+
+Availability
+
+
+I would classify the given requirement as: **Performance**
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+This requirement can be classified under **Performance**.
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+1. Decrease CLS on a live website: Maintainability
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+The given requirement: "Why does my Postgresql query performance suffer on a 1 billion row table when a small, semi-frequent insert job runs?" can be classified under **Performance**.
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Scalability
+
+
+Maintainability
+
+
+Portability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+Security
+
+
+Scalability
+
+
+The given requirement: CSS opacity animation problem: performance/cache involved?
+
+Category: Performance
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Portability
+
+
+Performance
+
+
+Security
+
+
+Tensorflow performance drop for second calculation: Performance
+
+
+Relocations (.reloc section) in executable file: Availability
+
+
+Here are the classifications:
+
+1. Best way to portably assign the result of fgetc() to a char in C: Portability
+2. How much secure is Laravel's `Default Auth::attempt()` against SQL Injection or any sort of vulnerability?: Security
+3. Does Seaside scale?: Scalability
+4. process socket data in near realtime python: Performance
+5. Why does the below file generation method return FileNotFoundException on simultaneous request to this endpoint?: Scalability
+6. Javascript loop way faster in IE than Chrome browsers: Performance
+7. how can I reliably process thousands of HTTP requests when some may error?: Fault Tolerance
+8. How do I translate Prolog's cuts to Curry?: Performance
+9. tput is very slow on MinTTY (Git Bash): Performance
+10. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+11. Linq Orderby compares with itself. Why?: Performance
+12. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+13. Artemis load balancing via queue federation plus HA replication policy: Availability
+14. EC2 auto scaling with elastic IP: Availability
+15. Speeding up loading assemblies at runtime: Portability
+16. SDL Mixer fails to load file on some machines only: Portability
+17. SQL Server big rows fetch performance consideration: Performance
+18. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+19. WEP hacking and why IV capture is needed: Security
+20. Configure X-XSS Protection Header: Security
+21. cygwin C++ static/portable library to avoid releasing source code?: Portability
+22. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+23. MySQL Fabric works with MyIsam tables?: Availability
+24. Efficient, multi-tenant separated, DB for C# [closed]: Performance
+25. React won't call backend (Node) due to CORS error: Security
+26. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+27. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+28. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+29. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+30. How to understand the stackwalk event in ETW?: Performance
+31. JS Web workers and security: Security
+32. Scalability in shared multi-tenant MySQL database: Scalability
+33. Silverlight: Enterprise-grade push notifications: Scalability
+34. Fast and precise implementation of pow(complex<double>, 2): Performance
+35. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+36. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+37. Why is it bad practice to use an FCM Server Key on a Flutter/Android client?: Security
+38. How corosync, pacemaker and zookeeper are related to each other?: Availability
+39. Multi-homed SQL Server with High Availability Groups: Availability
+40. Are there any negative impacts to dynamically import all components in a page?: Performance
+
+And for the new requirement:
+Javascript Array: what is a Big O of performing sort and then map right after on it?
+Answer: Performance
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Scalability
+
+
+Availability
+
+
+Maintainability
+
+
+Performance
+
+
+Availability
+
+
+Portability
+
+
+Availability
+
+
+Performance
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Maintainability
+
+
+Portability
+
+
+Maintainability
+
+
+The given requirement "Tree viewer refresh is taking a lot of time when a new element is added" can be classified under **Performance**.
+
+
+Parallelizing for-loop and merging the thread private variables: **Performance**
+
+
+Availability
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Time Complexity of accessing element from vector vs unordered_map: Performance
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Scalability
+
+
+Security
+
+
+Maintainability
+
+
+Performance improvement of for loop and synset matching: Performance
+
+
+Scalability
+
+
+Maintainability
+
+
+Availability
+
+
+Maintainability
+
+
+The given requirement: "Why doesn't my epoll based program improve performance by increasing the number of connections?" can be classified under **Performance**.
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Scalable
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+The given requirement: `boto3.session.client('mediastore-data'...) takes more than 2 seconds on EC2 instances` can be classified into the following categories:
+
+- **Performance**: The requirement is related to the performance of the code, specifically the time it takes to execute.
+- **Availability**: Although not directly related, the requirement is on EC2 instances, which implies that the availability of the instances might be affected by the performance issue.
+
+
+Performance
+
+
+Scalability
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+1. Java Program using Big O(n log n) or Big O(log n) complexity [duplicate] - **Performance**
+
+
+Security
+
+
+The given requirement: "adding master1 and master2 to load balancer in implementing HA kubernetes cluster" can be classified under **Availability**.
+
+
+Scalability
+
+
+Availability
+
+
+Portability
+
+
+Fault Tolerance
+
+
+Security
+
+
+Here are the classifications:
+
+1. How Nested Loop are Squared Big O? : Performance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Here are the classifications:
+
+1. Spring batch: Fault Tolerant
+2. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+3. How to understand the stackwalk event in ETW?: Performance
+4. Fast and precise implementation of pow(complex<double>, 2): Performance
+5. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+6. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+7. Are there any negative impacts to dynamically import all components in a page?: Performance
+8. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+9. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+10. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+11. React won't call backend (Node) due to CORS error: Security
+12. How can I reliably process thousands of HTTP requests when some may error?: Fault Tolerant
+13. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+14. WEP hacking and why IV capture is needed: Security
+15. Configure X-XSS Protection Header: Security
+16. cygwin C++ static/portable library to avoid releasing source code?: Portability
+17. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+18. Speeding up loading assemblies at runtime: Portability
+19. SDL Mixer fails to load file on some machines only: Portability
+20. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+21. SQL Server big rows fetch performance consideration: Performance
+22. JS Web workers and security: Security
+23. Scalability in shared multi-tenant MySQL database: Scalability
+24. Silverlight: Enterprise-grade push notifications: Scalability
+25. Fast and precise implementation of pow(complex<double>, 2): Performance
+26. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+27. MySQL Fabric works with MyIsam tables?: Availability
+28. Artemis load balancing via queue federation plus HA replication policy: Availability
+29. EC2 auto scaling with elastic IP: Availability
+30. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+31. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+32. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+33. How to understand the stackwalk event in ETW?: Performance
+34. Fast and precise implementation of pow(complex<double>, 2): Performance
+35. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+36. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+37. Are there any negative impacts to dynamically import all components in a page?: Performance
+38. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+39. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+40. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+41. React won't call backend (Node) due to CORS error: Security
+42. How can I reliably process thousands of HTTP requests when some may error?: Fault Tolerant
+43. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+44. WEP hacking and why IV capture is needed: Security
+45. Configure X-XSS Protection Header: Security
+46. cygwin C++ static/portable library to avoid releasing source code?: Portability
+47. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+48. Speeding up loading assemblies at runtime: Portability
+49. SDL Mixer fails to load file on some machines only: Portability
+50. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+51. SQL Server big rows fetch performance consideration: Performance
+52. JS Web workers and security: Security
+53. Scalability in shared multi-tenant MySQL database: Scalability
+54. Silverlight: Enterprise-grade push notifications: Scalability
+55. Fast and precise implementation of pow(complex<double>, 2): Performance
+56. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+57. MySQL Fabric works with MyIsam tables?: Availability
+58. Artemis load balancing via queue federation plus HA replication policy: Availability
+59. EC2 auto scaling with elastic IP: Availability
+60. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+61. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+62. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+63. How to understand the stackwalk event in ETW?: Performance
+64. Fast and precise implementation of pow(complex<double>, 2): Performance
+65. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+66. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+67. Are there any negative impacts to dynamically import all components in a page?: Performance
+68. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+69. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+70. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+71. React won't call backend (Node) due to CORS error: Security
+72. How can I reliably process thousands of HTTP requests when some may error?: Fault Tolerant
+73. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+74. WEP hacking and why IV capture is needed: Security
+75. Configure X-XSS Protection Header: Security
+76. cygwin C++ static/portable library to avoid releasing source code?: Portability
+77. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+78. Speeding up loading assemblies at runtime: Portability
+79. SDL Mixer fails to load file on some machines only: Portability
+80. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+81. SQL Server big rows fetch performance consideration: Performance
+82. JS Web workers and security: Security
+83. Scalability in shared multi-tenant MySQL database: Scalability
+84. Silverlight: Enterprise-grade push notifications: Scalability
+85. Fast and precise implementation of pow(complex<double>, 2): Performance
+86. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+87. MySQL Fabric works with MyIsam tables?: Availability
+88. Artemis load balancing via queue federation plus HA replication policy: Availability
+89. EC2 auto scaling with elastic IP: Availability
+90. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+91. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+92. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+93. How to understand the stackwalk event in ETW?: Performance
+94. Fast and precise implementation of pow(complex<double>, 2): Performance
+95. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+96. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+97. Are there any negative impacts to dynamically import all components in a page?: Performance
+98. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+99. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+100. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+101. React won't call backend (Node) due to CORS error: Security
+102. How can I reliably process thousands of HTTP requests when some may error?: Fault Tolerant
+103. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+104. WEP hacking and why IV capture is needed: Security
+105. Configure X-XSS Protection Header: Security
+106. cygwin C++ static/portable library to avoid releasing source code?: Portability
+107. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+108. Speeding up loading assemblies at runtime: Portability
+109. SDL Mixer fails to load file on some machines only: Portability
+110. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+111. SQL Server big rows fetch performance consideration: Performance
+112. JS Web workers and security: Security
+113. Scalability in shared multi-tenant MySQL database: Scalability
+114. Silverlight: Enterprise-grade push notifications: Scalability
+115. Fast and precise implementation of pow(complex<double>, 2): Performance
+116. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+117. MySQL Fabric works with MyIsam tables?: Availability
+118. Artemis load balancing via queue federation plus HA replication policy: Availability
+119. EC2 auto scaling with elastic IP: Availability
+120. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+121. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+122. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+123. How to understand the stackwalk event in ETW?: Performance
+124. Fast and precise implementation of pow(complex<double>, 2): Performance
+125. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+126. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+127. Are there any negative impacts to dynamically import all components in a page?: Performance
+128. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+129. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+130. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+131. React won't call backend (Node) due to CORS error: Security
+132. How can I reliably process thousands of HTTP requests when some may error?: Fault Tolerant
+133. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+134. WEP hacking and why IV capture is needed: Security
+135. Configure X-XSS Protection Header: Security
+136. cygwin C++ static/portable library to avoid releasing source code?: Portability
+137. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+138. Speeding up loading assemblies at runtime: Portability
+139. SDL Mixer fails to load file on some machines only: Portability
+140. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+141. SQL Server big rows fetch performance consideration: Performance
+142. JS Web workers and security: Security
+143. Scalability in shared multi-tenant MySQL database: Scalability
+144. Silverlight: Enterprise-grade push notifications: Scalability
+145. Fast and precise implementation of pow(complex<double>, 2): Performance
+146. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+147. MySQL Fabric works with MyIsam tables?: Availability
+148. Artemis load balancing via queue federation plus HA replication policy: Availability
+149. EC2 auto scaling with elastic IP: Availability
+150. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+151. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+152. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+153. How to understand the stackwalk event in ETW?: Performance
+154. Fast and precise implementation of pow(complex<double>, 2): Performance
+155. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+156. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+157. Are there any negative impacts to dynamically import all components in a page?: Performance
+158. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+159. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+160. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+161. React won't call backend (Node) due to CORS error: Security
+162. How can I reliably process thousands of HTTP requests when some may error?: Fault Tolerant
+163. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+164. WEP hacking and why IV capture is needed: Security
+165. Configure X-XSS Protection Header: Security
+166. cygwin C++ static/portable library to avoid releasing source code?: Portability
+167. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+168. Speeding up loading assemblies at runtime: Portability
+169. SDL Mixer fails to load file on some machines only: Portability
+170. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+171. SQL Server big rows fetch performance consideration: Performance
+172. JS Web workers and security: Security
+173. Scalability in shared multi-tenant MySQL database: Scalability
+174. Silverlight: Enterprise-grade push notifications: Scalability
+175. Fast and precise implementation of pow(complex<double>, 2): Performance
+176. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+177. MySQL Fabric works with MyIsam tables?: Availability
+178. Artemis load balancing via queue federation plus HA replication policy: Availability
+179. EC2 auto scaling with elastic IP: Availability
+180. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+181. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+182. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+183. How to understand the stackwalk event in ETW?: Performance
+184. Fast and precise implementation of pow(complex<double>, 2): Performance
+185. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+186. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+187. Are there any negative impacts to dynamically import all components in a page?: Performance
+188. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+189. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+190. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+191. React won't call backend (Node) due to CORS error: Security
+192. How can I reliably process thousands of HTTP requests when some may error?: Fault Tolerant
+193. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+194. WEP hacking and why IV capture is needed: Security
+195. Configure X-XSS Protection Header: Security
+196. cygwin C++ static/portable library to avoid releasing source code?: Portability
+197. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+198. Speeding up loading assemblies at runtime: Portability
+199. SDL Mixer fails to load file on some machines only: Portability
+200. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+201. SQL Server big rows fetch performance consideration: Performance
+202. JS Web workers and security: Security
+203. Scalability in shared multi-tenant MySQL database: Scalability
+204. Silverlight: Enterprise-grade push notifications: Scalability
+205. Fast and precise implementation of pow(complex<double>, 2): Performance
+206. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+207. MySQL Fabric works with MyIsam tables?: Availability
+208. Artemis load balancing via queue federation plus HA replication policy: Availability
+209. EC2 auto scaling with elastic IP: Availability
+210. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+211. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+212. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+213. How to understand the stackwalk event in ETW?: Performance
+214. Fast and precise implementation of pow(complex<double>, 2): Performance
+215. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+216. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+217. Are there any negative impacts to dynamically import all components in a page?: Performance
+218. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+219. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+220. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+221. React won't call backend (Node) due to CORS error: Security
+222. How can I reliably process thousands of HTTP requests when some may error?: Fault Tolerant
+223. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+224. WEP hacking and why IV capture is needed: Security
+225. Configure X-XSS Protection Header: Security
+226. cygwin C++ static/portable library to avoid releasing source code?: Portability
+227. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+228. Speeding up loading assemblies at runtime: Portability
+229. SDL Mixer fails to load file on some machines only: Portability
+230. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+231. SQL Server big rows fetch performance consideration: Performance
+232. JS Web workers and security: Security
+233. Scalability in shared multi-tenant MySQL database: Scalability
+234. Silverlight: Enterprise-grade push notifications: Scalability
+235. Fast and precise implementation of pow(complex<double>, 2): Performance
+236. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+237. MySQL Fabric works with MyIsam tables?: Availability
+238. Artemis load balancing via queue federation plus HA replication policy: Availability
+239. EC2 auto scaling with elastic IP: Availability
+240. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+241. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+242. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+243. How to understand the stackwalk event in ETW?: Performance
+244. Fast and precise implementation of pow(complex<double>, 2): Performance
+245. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+246. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+247. Are there any negative impacts to dynamically import all components in a page?: Performance
+248. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+249. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+250. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+251. React won't call backend (Node) due to CORS error: Security
+252. How can I reliably process thousands of HTTP requests when some may error?: Fault Tolerant
+253. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+254. WEP hacking and why IV capture is needed: Security
+255. Configure X-XSS Protection Header: Security
+256. cygwin C++ static/portable library to avoid releasing source code?: Portability
+257. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+258. Speeding up loading assemblies at runtime: Portability
+259. SDL Mixer fails to load file on some machines only: Portability
+260. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+261. SQL Server big rows fetch performance consideration: Performance
+262. JS Web workers and security: Security
+263. Scalability in shared multi-tenant MySQL database: Scalability
+264. Silverlight: Enterprise-grade push notifications: Scalability
+265. Fast and precise implementation of pow(complex<double>, 2): Performance
+266. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+267. MySQL Fabric works with MyIsam tables?: Availability
+268. Artemis load balancing via queue federation plus HA replication policy: Availability
+269. EC2 auto scaling with elastic IP: Availability
+270. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+271. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+272. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+273. How to understand the stackwalk event in ETW?: Performance
+274. Fast and precise implementation of pow(complex<double>, 2): Performance
+275. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+276. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+277. Are there any negative impacts to dynamically import all components in a page?: Performance
+278. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+279. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+280. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+281. React won't call backend (Node) due to CORS error: Security
+282. How can I reliably process thousands of HTTP requests when some may error?: Fault Tolerant
+283. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+284. WEP hacking and why IV capture is needed: Security
+285. Configure X-XSS Protection Header: Security
+286. cygwin C++ static/portable library to avoid releasing source code?: Portability
+287. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+288. Speeding up loading assemblies at runtime: Portability
+289. SDL Mixer fails to load file on some machines only: Portability
+290. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+291. SQL Server big rows fetch performance consideration: Performance
+292. JS Web workers and security: Security
+293. Scalability in shared multi-tenant MySQL database: Scalability
+294. Silverlight: Enterprise-grade push notifications: Scalability
+295. Fast and precise implementation of pow(complex<double>, 2): Performance
+296. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+297. MySQL Fabric works with MyIsam tables?: Availability
+298. Artemis load balancing via queue federation plus HA replication policy: Availability
+299. EC2 auto scaling with elastic IP: Availability
+300. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+301. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+302. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+303. How to understand the stackwalk event in ETW?: Performance
+304. Fast and precise implementation of pow(complex<double>, 2): Performance
+305. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+306. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+307. Are there any negative impacts to dynamically import all components in a page?: Performance
+308. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+309. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+310. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+311. React won't call backend (Node) due to CORS error: Security
+312. How can I reliably process thousands of HTTP requests when some may error?: Fault Tolerant
+313. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+314. WEP hacking and why IV capture is needed: Security
+315. Configure X-XSS Protection Header: Security
+316. cygwin C++ static/portable library to avoid releasing source code?: Portability
+317. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+318. Speeding up loading assemblies at runtime: Portability
+319. SDL Mixer fails to load file on some machines only: Portability
+320. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+321. SQL Server big rows fetch performance consideration: Performance
+322. JS Web workers and security: Security
+323. Scalability in shared multi-tenant MySQL database: Scalability
+324. Silverlight: Enterprise-grade push notifications: Scalability
+325. Fast and precise implementation of pow(complex<double>, 2): Performance
+326. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+327. MySQL Fabric works with MyIsam tables?: Availability
+328. Artemis load balancing via queue federation plus HA replication policy: Availability
+329. EC2 auto scaling with elastic IP: Availability
+330. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+331. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+332. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+333. How to understand the stackwalk event in ETW?: Performance
+334. Fast and precise implementation of pow(complex<double>, 2): Performance
+335. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+336. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+337. Are there any negative impacts to dynamically import all components in a page?: Performance
+338. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+339. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+340. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+341. React won't call backend (Node) due to CORS error: Security
+342. How can I reliably process thousands of HTTP requests when some may error?: Fault Tolerant
+343. ZAP security testing in Mobile - unable to launch app or browser via connected wifi after changing Proxy to manual in mobile ( both android and IOS ): Security
+344. WEP hacking and why IV capture is needed: Security
+345. Configure X-XSS Protection Header: Security
+346. cygwin C++ static/portable library to avoid releasing source code?: Portability
+347. Portable code: __import__ parameter string type between Python 2 and Python 3: Portability
+348. Speeding up loading assemblies at runtime: Portability
+349. SDL Mixer fails to load file on some machines only: Portability
+350. How to fix list comprehension 'bitwise_and' error and optimize for-loop?: Performance
+351. SQL Server big rows fetch performance consideration: Performance
+352. JS Web workers and security: Security
+353. Scalability in shared multi-tenant MySQL database: Scalability
+354. Silverlight: Enterprise-grade push notifications: Scalability
+355. Fast and precise implementation of pow(complex<double>, 2): Performance
+356. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+357. MySQL Fabric works with MyIsam tables?: Availability
+358. Artemis load balancing via queue federation plus HA replication policy: Availability
+359. EC2 auto scaling with elastic IP: Availability
+360. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+361. How to summarize data by-group, by creating dummy variables as the collapsing method: Performance
+362. DataProc is taking more than 3 hrs to process than expected less than 15 mins: Performance
+363. How to understand the stackwalk event in ETW?: Performance
+364. Fast and precise implementation of pow(complex<double>, 2): Performance
+365. Caching the result of modulus operations but why that doesn't improve performance?: Performance
+366. Improving speed of clicks and sending keys with selenium [duplicate]: Performance
+367. Are there any negative impacts to dynamically import all components in a page?: Performance
+368. condition checking on signatures of template of a class (Ex. HashSet + HashMap): Maintainability
+369. Which is the best exception to use? Or: how to deal with a misconfigured Activity? [closed]: Maintainability
+370. How can I determine the origin of the cross-origin frame throwing a CORS Exception?: Security
+371. React won't call backend (Node) due to CORS error: Security
+372. How can I reliably process thousands of HTTP requests when some may error?: Fault Tolerant
+373. ZAP security testing in
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Scalability
+
+
+Maintainability
+
+
+Security
+
+
+Availability
+
+
+The given requirement: `bernoulli_distribution vs uniform_int_distribution` can be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Leader/Follower vs work queue: Availability
+
+
+Maintainability
+
+
+Availability
+
+
+Performance
+
+
+Fault Tolerance
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Availability
+
+
+Availability
+
+
+The given requirement: "Why is this code taking so long after function execution?" can be classified under **Performance**.
+
+
+Inconsistent data between crm_resource resource list and CIB content: Availability
+
+
+Availability
+
+
+Maintainability
+
+
+Portability
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Security
+
+
+The given requirement "Workbook_SheetSelectionChange() dramatically slowing down scrolling in large spreadsheet" can be classified under **Performance**.
+
+
+Fault Tolerance
+
+
+Security
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Here are the classifications:
+
+1. r large data.table why is extracting a word with regex faster than stringr::word: **Performance**
+
+
+Security
+
+
+Scalability
+
+
+Scalability
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Portability
+
+
+Performance
+
+
+Scalability
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Scalability
+
+
+Here are the classifications:
+
+1. 20x performance difference Interlocked.Read vs Interlocked.CompareExchange though both implemented with lock cmpxchg: **Performance**
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Maintainability
+
+
+Portability
+
+
+Scalability
+
+
+Performance
+
+
+Smooth change speed of audio without interrupting playback: Performance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Fault Tolerance
+
+
+Fault Tolerance
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Portability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Scalability
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Availability
+
+
+The given requirement: pg_restore: connecting to database for restore taking too long can be classified under **Performance**.
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+The given requirement: "Why does my TCP socket take a long time to read a response?" should be classified under **Performance**.
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Portability
+
+
+The given requirement "Scaling an incrementing counter in MySQL (for keeping track of pageviews)" can be classified under **Scalability**.
+
+
+Fault Tolerance
+
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Portability
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Portability
+
+
+NodeJS Clustering Issues: Fault Tolerance
+
+
+Security
+
+
+The given requirement: "large number of threads is wait state in threadpool causing performance problems" can be classified under **Performance**.
+
+
+Security
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Scalability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Availability
+
+
+Security
+
+
+Here are the classifications:
+
+1. Singletons: Maintainability
+2. Static methods: Portability
+3. Webservice scalability: Scalability
+
+
+Maintainability
+
+
+Availability
+
+
+Scalability
+
+
+Performance
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Fault Tolerance
+
+
+Security
+
+
+Here are the classifications:
+
+- In Julia what's the difference between dispatching on abstract types versus parametric subset of abstract types?: Maintainability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+Availability
+
+
+Security
+
+
+Performance
+
+
+The given requirement can be classified under the category of **Availability**.
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+1. Regex group optimization [duplicate]: Performance
+
+
+Fault Tolerance
+
+
+Scalability
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Availability
+
+
+Portability
+
+
+Workload identity federation VS identity platform in GCP: Availability
+
+
+Scalability
+
+
+DAX Performance issue: why is my SUMX() so slow? 
+- Performance
+
+
+Fault Tolerance
+
+
+Portability
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Availability
+
+
+Performance
+
+
+Scalability
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Performance
+
+
+Core dumped during 3D implementation of'max area of islands' algorithm: Availability
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Security
+
+
+Performance
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Scalability
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+The given requirement can be classified under the following categories:
+
+- **Performance**: big performance loss when fetching images and setting them as part of state slice
+- **Security**: None
+- **Maintainability**: None
+- **Portability**: None
+- **Scalability**: None
+- **Availability**: None
+- **Fault Tolerance**: None
+
+
+Availability
+
+
+Performance
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Portability
+
+
+Security
+
+
+Security
+
+
+The given requirement: "MongoDB partition window, getting the document where a field has the greatest value" can be classified under **Performance**.
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Maintainability
+
+
+Maintainability
+
+
+Availability
+
+
+Scalability
+
+
+Availability
+
+
+Performance
+
+
+Security
+
+
+Portability
+
+
+Performance
+
+
+The given requirement "persistent_logins in Spring-Security" can be classified under the category of **Security**.
+
+
+Security
+
+
+Fault Tolerance
+
+
+Here are the classifications:
+
+1. Building scalable applications VS just Cloud ready applications: **Scalability**
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Maintainability
+
+
+The given requirement can be classified under **Performance**.
+
+
+Security
+
+
+Performance
+
+
+Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Maintainability
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Availability
+
+
+The given requirement "Why does this simple threaded program get stuck?" can be classified under **Fault Tolerance**.
+
+
+Availability
+
+
+Maintainability
+
+
+Performance
+
+
+Performance
+
+
+Performance
+
+
+Maintainability
+
+
+The given requirement "problems with a portscanner in python [closed]" can be classified under the category of **Performance**.
+
+
+Availability
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Portability
+
+
+Portability
+
+
+The given requirement: "speed up drop rows base on pandas column values" can be classified under **Performance**.
+
+
+Security
+
+
+Portability
+
+
+The given requirement: `c#.net core read appsettings.json with ConfigurationBuilder class performance problem` can be classified under **Performance**.
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Security
+
+
+Here are the classifications:
+
+1. Scaling MVC vs. Scaling multi-tier applications: Scalability
+
+
+Performance
+
+
+Here are the classifications:
+
+1. Flink in YARN + Checkpointing in HDFS - recurring error org.apache.hadoop.hdfs.server.namenode.LeaseExpiredException: **Availability**
+
+
+Maintainability
+
+
+Security
+
+
+The given requirement: "How to efficiently process a list that continously being appended with new item in Python" can be classified under **Performance**.
+
+
+Security
+
+
+Availability
+
+
+Here are the classifications:
+
+1. React: How can I efficiently make my component so the entire component doesn't re-render when a prop changes? - Maintainability
+
+
+Performance
+
+
+Availability
+
+
+Portability
+
+
+Portability
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Security
+
+
+The given requirement can be classified under **Maintainability**.
+
+
+The given requirement: "Why race condition is only solved with ReentrantLock and not synchronized" can be classified under **Maintainability**.
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Fault Tolerance
+
+
+Security
+
+
+Security
+
+
+Scalability
+
+
+Security
+
+
+Maintainability
+
+
+Maintainability
+
+
+Performance

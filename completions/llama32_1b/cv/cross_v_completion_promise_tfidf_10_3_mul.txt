@@ -1,0 +1,253 @@
+The given requirement 'The system shall refresh the display every 60 seconds.' can be classified under the category: Performance.
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Here are the classifications:
+
+1. 'The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.'
+   - Usability
+
+
+Here are the classifications:
+
+1. 'The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.': 
+   - Operational
+
+
+Operational
+
+
+Operational
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Operational
+
+
+Here are the classifications:
+
+- Functional
+- Security
+
+
+Functional
+
+
+Security
+
+
+Here are the classifications for the given requirements:
+
+1. 'The Disputes System must prevent external users from requesting original receipts. Requests for original receipts are restricted to internal users.'
+   - Security
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The product shall interface with the Choice Parts System. This provides the feed of recycled parts data.'
+   - Portability
+
+
+Here are the classifications:
+
+1. 'The user shall easily locate instructions while using the product. User help can be found within 90% of the system.' 
+- Usability
+
+
+Here are the classifications:
+
+1. 'The recycled parts audit report shall be returned to the user within 10 seconds. The audit report shall be returned within 10 seconds.'
+   - Performance
+
+
+Here are the classifications:
+
+1. 'One insurance company shall not be able to view another insurance company's claim data.' 
+   - Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Scalability
+
+
+Here are the classifications:
+
+1. 'A new user must be able to be added to the system within 10 minutes.' - Usability
+2. '90% of new users are able to log into the system within 10 minutes.' - Usability
+
+
+Here are the classifications:
+
+- Functional: 
+- Availability: 
+- Maintainability: 
+- Operational: 
+- Performance: 
+- Portability: 
+- Scalability: 
+- Security: 
+- Usability: 
+
+However, the most suitable category for the given requirement is: Maintainability
+
+
+Here are the classifications:
+
+1. 'The product shall be translated into foreign languages other than the target market countries’ languages in future releases. For each emerging target market it shall take no more than 5 days to configure the product for that market’s language.': Scalability
+
+
+Operational
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product shall have the ability to receive automatic software updates as new threats emerge.' - Performance
+2. '100% of customers will be able to receive automatic software updates transmitted to the installed product.' - Availability
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Based on the given requirement, I would classify it as: **Functional**
+
+
+Here is the classification:
+
+Availability
+
+
+Here are the classifications:
+
+- Functional
+- Usability
+
+
+Security
+
+
+Security
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The product shall poll the system for messages every second.' - Performance
+2. 'The product shall poll the system for new messages at a maximum of every 1 second.' - Performance
+
+
+Here are the classifications:
+
+1. 'The interface must summarize the data in a fashion that’s appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface' 
+- Look and Feel
+
+
+Here are the classifications:
+
+- Functional
+- Usability
+
+
+Here is the classification of the given requirement:
+
+Availability
+
+
+Security
+
+
+Look and Feel
+
+
+Here are the classifications for the given requirements:
+
+1. 'Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.': 
+   - Availability
+   - Operational
+
+
+Here are the classifications:
+
+1. 'Changes to revenue and expense formulae must be applied to the RFS system every year prior to the budgeting process start.' - Operational
+2. 'Revenue and expense formulae will be updated within one week of their receipt after which 2 weeks will be allotted to testing of the budget calculations to be conducted jointly by the project development team and PCG Finance.' - Operational
+
+
+Here are the classifications:
+
+- Functional
+- Operational
+- Availability
+- Performance

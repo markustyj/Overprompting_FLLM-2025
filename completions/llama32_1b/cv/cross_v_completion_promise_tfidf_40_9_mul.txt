@@ -1,0 +1,205 @@
+Usability
+
+
+Functional
+
+
+The given requirement: 'The system shall provide a history report of changes made to the Activity or Event data' can be classified into the following categories:
+
+- Functional
+- Security
+
+
+Security
+
+
+Performance
+
+
+The given requirement '100% of saved user preferences shall be restored when system comes back online' can be classified under the category: **Fault Tolerance**.
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The realtor shall be notified of new client appointments after automatic synchronization with office system' can be classified under the category: **Functional**
+
+
+Security
+
+
+Security
+
+
+The given requirement can be classified under the category: **Availability**
+
+
+Functional
+
+
+Based on the given requirement, I would classify it under: **Functional**
+
+
+The given requirement can be classified into the following categories:
+
+- Availability
+- Operational
+
+
+Operational
+
+
+The given requirement 'All updates to data files or database must be initiated from the Disputes System' can be classified under the category of **Operational**.
+
+
+Here is the classification of the given requirement:
+
+**Functional**
+
+
+Operational
+
+
+The given requirement 'The product shall adhere to the corporate Architecture guidelines' can be classified under the category: Maintainability.
+
+
+The given requirement can be classified into the following categories:
+
+- Performance: 'The preferred repair facility ratings shall be saved within 5 seconds.'
+- Performance: 'The save shall occur within 5 seconds.'
+
+
+The given requirement can be classified into the following categories:
+
+- Availability
+- Fault Tolerance
+
+
+Scalability
+
+
+Performance
+
+
+Security
+
+
+Security
+
+
+Based on the given requirement, I would classify it under: **Functional**
+
+
+Functional
+
+
+Functional
+
+
+Operational
+
+
+Operational
+
+
+Operational
+
+
+Operational
+
+
+Functional
+
+
+The given requirement 'PME Subsystem shall allow for a product to exist in more than one submenu' can be classified under the category of 'Functional'.
+
+
+Usability
+
+
+Usability
+
+
+Availability
+
+
+Scalability
+
+
+Operational
+
+
+Operational
+
+
+Security
+
+
+The given requirement 'The website shall not be offensive to religious or ethnic groups.' can be classified under the category of **Look and Feel**.
+
+
+Functional
+
+
+The given requirement 'For leads that process longer than 25 seconds the system will record the event and duration' can be classified under the category of **Fault Tolerance**.
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+The given requirement 'The product shall maintain a list of players.' can be classified into the following categories:
+
+- Functional
+- Maintainability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Usability
+
+
+The given requirement can be classified into the following categories:
+
+- Maintainability
+- Portability
+
+
+Usability
+
+
+Security
+
+
+Operational
+
+
+The given requirement can be classified into the following categories:
+
+- Availability: The intranet pages should display appropriately in all resolutions from 800x600 and higher.
+- Look and Feel: The display of all the pages will be correct in 95% of the resolutions prior to implementation.
+- Performance: The remaining 5% will be corrected within a week of notification of the incorrect display.

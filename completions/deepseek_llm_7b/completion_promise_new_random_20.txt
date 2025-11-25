@@ -1,0 +1,367 @@
+Functional Suitability
+
+
+Reliability
+
+
+Compatibility
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Compatibility
+
+
+The given software requirement falls into the 'Functional Suitability' category. The website should have a clear and easy way for customers to buy different values of prepaid cards using credit cards or through mail-in payments, which is considered as its functional suitability in terms of providing purchasing options according to customer needs.
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Usability
+
+
+The software requirement can be classified into 'Usability'.
+
+
+Security
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Reliability
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Compatibility
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Security
+
+
+Functional Suitability
+
+
+Security
+
+
+Security
+
+
+Usability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Security
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Usability
+
+
+Compatibility
+
+
+Performance Efficiency
+
+
+Usability
+
+
+The given software requirement can be classified into two categories - 'Performance Efficiency' and 'Reliability'. The first part of the requirement states that the Disputes application should be available 24x7x365, which implies high availability. However, it also mentions scheduled maintenance windows, indicating potential periods when access to the system might not be possible. This suggests a need for reliability in terms of adhering to the planned downtime and minimizing any disruptions during other times.
+
+
+The given software requirement can be classified into the "Security" category. The requirement emphasizes the need for user access control based on their assigned roles, which plays a critical role in maintaining security by ensuring that users only have access to the functionalities and resources they are entitled to, thereby reducing potential unauthorized access or misuse of sensitive information within the RFS system.
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Compatibility
+
+
+Security
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+The category for this software requirement is 'Functional Suitability'.
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Performance Efficiency
+
+
+Reliability
+
+
+Maintainability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Maintainability
+
+
+Usability

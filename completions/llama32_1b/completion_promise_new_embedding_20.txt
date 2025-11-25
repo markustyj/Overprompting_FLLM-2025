@@ -1,0 +1,409 @@
+Functional Suitability
+
+
+Reliability
+
+
+Compatibility
+
+
+Functional Suitability
+
+
+Based on the given requirement, I would classify it under: **Functional Suitability**
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Reliability
+
+
+Here is the classification of the given requirement:
+
+**Functional Suitability**
+
+
+Functional Suitability
+
+
+Here is the classification of the given requirement:
+
+Usability
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Based on the given requirement, I would classify it under: **Reliability**
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Based on the given requirement, I would classify it under: **Usability**
+
+
+The given requirement can be classified into the following categories:
+
+- Performance Efficiency: 'The search for recycled parts shall take no longer than 15 seconds.'
+- Performance Efficiency: 'The search results shall be returned in under 15 seconds.'
+
+
+Usability
+
+
+Usability
+
+
+Security
+
+
+Functional Suitability
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Usability
+
+
+The given requirement 'The system shall refresh the display every 60 seconds.' can be classified under the category of **Performance Efficiency**.
+
+
+Reliability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Usability
+
+
+Both requirements can be classified under: **Performance Efficiency**
+
+
+Functional Suitability
+
+
+Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Based on the given requirement, I would classify it under: **Usability**
+
+
+Based on the given requirement, I would classify it under: **Performance Efficiency**
+
+
+Here are the classifications:
+
+- Functional Suitability: No
+- Usability: No
+- Performance Efficiency: No
+- Security: No
+- Compatibility: No
+- Reliability: No
+- Maintainability: Yes
+
+
+Functional Suitability
+
+
+Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Security
+
+
+Security
+
+
+The given requirement 'The appearance of the product shall appear professional' can be classified under the category of 'Usability'.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Security
+
+
+Based on the given requirement, I would classify it under: **Functional Suitability**
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+The given requirement 'The website should use Flash to provide animation on the home page.' can be classified under the category: **Performance Efficiency**
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+- Functional Suitability: The product shall be translated into foreign languages other than the target market countries’ languages in future releases. For each emerging target market it shall take no more than 5 days to configure the product for that market’s language.
+- Usability: None
+- Performance Efficiency: None
+- Security: None
+- Compatibility: None
+- Reliability: None
+- Maintainability: None
+
+
+Reliability
+
+
+Security
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+Compatibility
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+The given requirement can be classified into the following categories:
+
+- Functional Suitability: 'The preferred repair facility ratings shall be saved by the system.'
+- Performance Efficiency: 'The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.'
+
+
+The given requirement can be classified into the following categories:
+
+- Performance Efficiency: 'The search for the preferred repair facility shall take no longer than 8 seconds.'
+- Functional Suitability: 'The preferred repair facility is returned within 8 seconds'
+
+
+Compatibility
+
+
+Security
+
+
+Usability
+
+
+Usability
+
+
+The given requirement 'The product shall be able support 1000 simultaneous users.' can be classified into the category: Performance Efficiency
+
+
+Functional Suitability
+
+
+I would classify the given requirement as: **Performance Efficiency**
+
+
+Functional Suitability
+
+
+The given requirement 'The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds' can be classified under: 
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number. In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.' 
+   - Functional Suitability
+
+
+Functional Suitability
+
+
+Reliability
+
+
+Based on the given requirement, I would classify it under: **Reliability**
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The RFS system should be able to easily interface with the BDW environment in order to load the data.' - Compatibility
+2. '• 7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year.' - Performance Efficiency
+3. 'The data will be as of October month-end.' - Functional Suitability
+4. 'Test files (7) shall be loaded up to 5 times throughout the year from the BDW.' - Performance Efficiency
+
+
+Functional Suitability
+
+
+Security
+
+
+Functional Suitability
+
+
+Security
+
+
+Functional Suitability
+
+
+Security
+
+
+Reliability
+
+
+Based on the given requirement, I would classify it under: Performance Efficiency
+
+
+Security
+
+
+Usability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Reliability
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+The given requirement can be classified into the following categories:
+
+- Maintainability
+- Performance Efficiency
+
+
+Functional Suitability
+
+
+The given requirement 'The system shall use symbols and words that are naturally understandable by the user community.' can be classified under the category of **Usability**.

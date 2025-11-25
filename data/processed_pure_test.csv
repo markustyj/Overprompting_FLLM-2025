@@ -1,0 +1,613 @@
+text,class,b_class
+System shall utilize SSL (Secured Socket Layer) certificate for protection.,Non-functional,Non-functional
+The system shall allow creating a new game with a name and optional description.,Functional,Functional
+"User shall/will be able to interact with the system using standard input/output devices including keyboard, monitor, printer, and scanner.",Non-functional,Non-functional
+The APAF system shall acquire from ESOC the telemetry data of the ASPERA-3 Experiment and Mars Express Orbit/Attitude.,Functional,Functional
+The system shall enable users to write comments on posts.,Functional,Functional
+The adjuster shall be able to override the preferred repair facility on the estimate assignment.,Functional,Functional
+"In case of a Revision task, the user shall be able to select the exam the revision is for.",Functional,Functional
+"The server shall be capable of supporting an arbitrary number of active orders, meaning no orders shall be lost under any circumstances.",Non-functional,Non-functional
+The system shall track user data preview statistics.,Non-functional,Non-functional
+The user shall be able to filter their view by Academic Year/Term or Current.,Functional,Functional
+System shall maintain uptime as per defined expectations and handle errors effectively.,Non-functional,Non-functional
+The system shall warn the user that the particular field is mandatory and allow the user to continue completing.,Functional,Functional
+"The system shall display information about people, products, brands, and broadcaster logos identified in videos.",Functional,Functional
+The system shall provide all examination category pages.,Functional,Functional
+Receipt and statement dispensers shall have specified maximum dimensions.,Functional,Functional
+System shall be able to display a walking tour page when the user clicks a Walking Tour link.,Functional,Functional
+"System shall allow input of numbers, operands, special symbols, and letters.",Non-functional,Non-functional
+The user shall be able to see their overall score and a plot conclusion to their answers to key story questions.,Functional,Functional
+"An OK indicator, appearing green, shall signify the absence of any diagnostic conditions.",Functional,Functional
+"The system shall be responsive, ensuring that it promptly follows every command given by the users.",Non-functional,Non-functional
+The system shall allow staff members to capture hearing decisions for enforcement.,Functional,Functional
+The system shall display car information in a user-friendly format.,Functional,Functional
+The system shall validate user information before processing the transaction.,Functional,Functional
+"The system shall support multiple languages for user interface elements, potentially including multilingual ebooks.",Non-functional,Non-functional
+The system shall be able to display a printable summary for individual clinical labs which will include (but not be limited to) class name class number lab section listing of students enrolled instructor day(s) time and location.,Functional,Functional
+System shall check the database to determine if the items are in stock.,Functional,Functional
+The BE shall periodically or upon request check PIDs and assure that all started tasks are alive and running.,Non-functional,Non-functional
+User shall be able to create and edit Event records.,Functional,Functional
+"The system shall be maintainable through modular code structure, allowing for easy future modifications by separating functionalities into subscenes within the main Flash game.",Non-functional,Non-functional
+"The application's code structure should be designed for easy extension, facilitating the addition of new features.",Non-functional,Non-functional
+FABS user shall not receive DABS banner messages and vice versa.,Functional,Functional
+The system should perform its intended function without failure for a specified period.,Non-functional,Non-functional
+"When a user selects the option to join an existing game, the MultiMahjongClient will retrieve a list of any games that still require players from the MultiMahjongServer.",Functional,Functional
+"User shall be able to post jobs with detailed descriptions including job title, company name, location, salary, job type, work type, and required skills.",Functional,Functional
+Only a moderator shall be able to group ideas and specify a name for the group.,Functional,Functional
+"Users shall be able to send text messages, pictures, videos, audio recordings, video calls, and play multiplayer games.",Functional,Functional
+"System shall facilitate the process of adding, removing, and managing items in the shopping cart during transactions.",Functional,Functional
+"The system shall include ""grammar"" checks to ensure proper placement of slurs and ties.",Functional,Functional
+System shall maintain data securely in a fireproof cabinet 25 km away from the hospital.,Non-functional,Non-functional
+"User shall be able to use the application in multiple languages, including English and French.",Non-functional,Non-functional
+System shall offer keyboard-based navigation for rearranging hierarchy elements in the frontend.,Non-functional,Non-functional
+System shall accommodate a large volume of items and users without encountering faults.,Non-functional,Non-functional
+"A Data Publishing User shall be able to import data in various formats (Excel, JSON, Google Spreadsheet, Fiscal Data Package).",Functional,Functional
+"The user shall be able to choose the type of task (Assignment, Reminder, Revision) from a drop-down menu.",Functional,Functional
+The system shall cater to 10 simultaneous users from 9am to 5pm.,Non-functional,Non-functional
+The platform shall have a blog highlighting open fiscal projects.,Non-functional,Non-functional
+User shall benefit from a modularized and well-documented system for ease of maintenance and future enhancements.,Non-functional,Non-functional
+System shall ensure that enabling or disabling explore for a dataset does not result in silent loss of data or data available for explore.,Non-functional,Non-functional
+The system shall allow curators to establish relationships between collections.,Functional,Functional
+"The Life Insurance System shall provide registration forms for customers, agents, and employees.",Functional,Functional
+User shall ensure ease of porting the software to other host machines and/or operating systems.,Non-functional,Non-functional
+User shall be able to change the calendar to a different month.,Functional,Functional
+Encryption shall be employed by the system for all privacy-sensitive data stored on the server.,Non-functional,Non-functional
+System shall facilitate information exchange between citizens and police.,Functional,Functional
+The product shall allow the user to view previously downloaded search results CMA reports and appointments.,Non-functional,Non-functional
+The software interface shall be designed to provide a more intuitive and natural drawing experience for users with a touch-screen enabled tablet/monitor.,Non-functional,Non-functional
+Regular maintenance and monitoring procedures shall be established to identify and address potential reliability issues proactively.,Non-functional,Non-functional
+The system shall allow users to change their information at any time.,Functional,Functional
+System shall enable depositors to specify disposal policies for datasets to ensure legal and contractual compliance.,Functional,Functional
+System shall be able to send newsletters regarding promotions.,Functional,Functional
+The system will notify affected parties when changes occur affecting specific students including but not limited to changing a student’s status from full time to part time and moving a student to a different clinical section.,Functional,Functional
+The BE shall send output data to the e2e System.,Functional,Functional
+"The user can manipulate and view course details, including department-wise and description.",Functional,Functional
+A waiter shall be able to log into a tablet using their assigned username and  password.,Functional,Functional
+Healthcare providers shall have the ability to create and send electronic prescriptions to pharmacies.,Functional,Functional
+"Bidders shall score points based on their predictions, with point values varying depending on the point difference between the two teams playing.",Functional,Functional
+The system shall be able to interpret desired heating/cooling unit and its requested ON/OFF status.,Functional,Functional
+The system shall allow users to view equipment information.,Functional,Functional
+User can register working locations of healthcare workers for use in health survey forms.,Functional,Functional
+System shall segment view and download statistics by country and sector to demonstrate broader impact.,Non-functional,Non-functional
+User shall be able to maintain daily logs (employee function).,Functional,Functional
+The System must provide adequate response times for commonly performed functions under both standard and peak conditions,Non-functional,Non-functional
+Customer Shall be able to login or skip from registration to enter the menu dashboard.,Functional,Functional
+Web interface shall use clear and consistent terminology for ease of use by users with basic internet and office experience.,Non-functional,Non-functional
+System shall provide an interface for sellers to add product description and price through their account.,Functional,Functional
+A Moderator shall be able to specify a warning for total time remaining.,Functional,Functional
+The system shall be able to activate the appropriate heating or cooling unit based on a predefined temperature differential between the current temperature and setting.,Functional,Functional
+The system shall allow any authorized university group member to add assets to the inventory.,Functional,Functional
+"The system shall specify the content, format, and criteria for generating reports and other data outputs.",Functional,Functional
+The system shall track checksums for content files.,Functional,Functional
+"Interfaces must be customizable and user-configurable, saving configurations in user profiles.",Non-functional,Non-functional
+"The system shall allow users to create, schedule, track, and manage tasks related to sales activities.",Functional,Functional
+A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.,Functional,Functional
+"The product should enhance the productivity of Collision Estimators, with 80% agreeing their productivity has increased within one month.",Non-functional,Non-functional
+System's back-end servers shall only be accessible to authenticated administrators for security.,Non-functional,Non-functional
+WhatsApp shall distinguish between Wi-Fi and mobile data networks for media download operations.,Functional,Functional
+The MultiMahjongClient will save the user preferences in a file and read them in when the program begins.,Functional,Functional
+User shall be provided with a comprehensive help and support system to address any issues or queries related to Gmail usage.,Functional,Functional
+System shall enable persistent web links between articles and underlying datasets for robust research referencing.,Non-functional,Non-functional
+"Software shall be provided that allows an authorized user full access to all messaging, monitor, and control traffic throughout the CMCS.",Non-functional,Non-functional
+"User shall be able to process data, reloading if necessary, and accurately handle attributes for recommendations.",Functional,Functional
+User shall expect the Big Basket server to be operational 24*7 without any interruptions.,Non-functional,Non-functional
+User shall be notified when they initiate shipment of an item.,Functional,Functional
+"For non-programmers, the system shall allow customization of the application's visual style (colors and icons) for easy maintenance.",Non-functional,Non-functional
+Developer shall provide FABS groups that function under the FREC paradigm.,Functional,Functional
+"Restaurant owner account creation prioritizes security by enforcing unique usernames, requiring them to choose a different option if their desired name is unavailable.",Non-functional,Non-functional
+Recent jobs shall be displayed on the homepage.,Functional,Functional
+"If all required fields are properly filled, the user shall be redirected to the main page.",Functional,Functional
+"Defaults for data entry must be persistent and include user-definable, previous, and context-derived values.",Non-functional,Non-functional
+"Faculties shall be able to upload and download assignments, college notices, student notices, journals, and videos.",Functional,Functional
+User shall be able to create a new account by entering personal details.,Functional,Functional
+The system shall be available as an application on both Android and iOS platforms.,Non-functional,Non-functional
+System shall require users to have Java plug-ins enabled and CSS functioning properly.,Non-functional,Non-functional
+User shall/will be able to integrate with Netbeans IDE 7.2.1 for Java development and MySQL Query Browser for database management.,Non-functional,Non-functional
+"The system shall offer functionalities for enhancing scanned documents (e.g., adjusting brightness, contrast).",Functional,Functional
+The user shall be able to get driving directions to a selected property.,Functional,Functional
+System shall be easy to operate and manage.,Non-functional,Non-functional
+Adobe Illustrator shall achieve smooth operation and optimal performance.,Non-functional,Non-functional
+User shall be able to attach subject-specific metadata to datasets for improved discoverability.,Functional,Functional
+The product shall respond fast to keep up-to-date data in the display.,Non-functional,Non-functional
+System shall verify user credentials with the bank databases and accept or reject authorization.,Functional,Functional
+"The LMS shall store all information about librarians and patrons, including their access keys and priority.",Functional,Functional
+A supervisor shall be able to abort/purge a table's account/meals from the  active system with no expectation of payment.,Functional,Functional
+The system shall allow staff members to assign hearing dates for applications.,Functional,Functional
+System shall ensure efficient email communication for trainers via the website.,Non-functional,Non-functional
+User shall present their ID card for validation.,Functional,Functional
+"User shall be able to cut items by selecting them and clicking the ""Cut"" button.",Functional,Functional
+Candidates shall enter required details and submit to view marks information.,Functional,Functional
+User shall specify metadata for an experiment protocol before creating a file.,Functional,Functional
+User shall view the header information box showing the updated date and time.,Non-functional,Non-functional
+The system shall verify the entered login credentials (email/password) and grant access if valid.,Functional,Functional
+The user shall be able to view past tasks by tapping the three-dotted menu widget on the top right corner of the screen.,Functional,Functional
+User shall be able to input correct last watched title string with validation for its presence.,Non-functional,Non-functional
+The system shall enable users to search for information online.,Functional,Functional
+User shall be able to make a booking (client function).,Functional,Functional
+"User shall be able to register by providing username, surname, password, and email.",Functional,Functional
+User shall be able to see a displayed set of topics when performing a search as described in requirement UCAR602.,Functional,Functional
+The product shall be web-based and must operate from a web server.,Non-functional,Non-functional
+"User shall be able to make payments securely through integrated payment gateways like PayPal, InterSwitch, etc.",Non-functional,Non-functional
+"Professionals, including agents who work as residential and commercial real estate brokers, provide property details to the admin, who then adds the property to the website.",Functional,Functional
+System shall ensure supportability through well-documented code and modules.,Non-functional,Non-functional
+"The system shall be able to retransmit, reconstruct, or reprocess data to ensure its reliability in case of loss or inaccessibility.",Non-functional,Non-functional
+System shall allow user to track shipments by entering order information.,Functional,Functional
+System shall be able to modify the appearance of the separate launchers.,Functional,Functional
+"System shall ensure protection against various types of failures, damage, or harm, including physical, social, financial, and psychological.",Non-functional,Non-functional
+"System conducts health surveys to identify disease outbreaks, storing data offline if connectivity fails.",Functional,Functional
+The system shall allow applicants to resubmit revised plans.,Functional,Functional
+"System shall be able to print a receipt, update system parameters, and dispense money upon a successful transaction.",Functional,Functional
+The system shall allow archivists to automatically assign unique identifiers and embed metadata in files.,Functional,Functional
+System shall be able to check if the withdrawal amount is within transaction limits and display the amount to be dispensed.,Functional,Functional
+The system shall protect presentations from unauthorized access and modification.,Non-functional,Non-functional
+User shall be able to view and edit their profile information.,Non-functional,Non-functional
+"Map results should be clear and user-friendly, allowing selection of any pin with a single click.",Non-functional,Non-functional
+The software will support simultaneous user acces only if there are multiple terminals.,Functional,Functional
+Executive shall have full access to company-related data for performance evaluation.,Non-functional,Non-functional
+The system shall provide a way for parents to connect with staff in case of emergencies.,Functional,Functional
+Users who create a new game will be able to choose to play different variations of Mahjong rules other than those described in Section 4.3.1.,Functional,Functional
+"After checkout, the system shall send the list of ordered products to the grocery store owner.",Functional,Functional
+User shall be able to play Mahjong with no prior knowledge of the rules.,Non-functional,Non-functional
+"The connection between the Web API and the programs will use HTTPS, for security.",Non-functional,Non-functional
+User shall manage user accounts and permissions.,Functional,Functional
+A Data Publishing User shall be able to provide additional GeoJSON sources.,Functional,Functional
+"System shall be able to change the text elements used in the user interfaces of the sub-apps and main application, excluding external resources.",Functional,Functional
+There shall be a UNIX-based APAF system production computer with an archival system. ,Non-functional,Non-functional
+System shall manage and adjust operations based on given parameters.,Functional,Functional
+Users shall be able to add a class to a list of classes in which they are enrolled.,Functional,Functional
+All access to cases and related activities must be stored in the audit trail for legal admissibility and data recovery.,Non-functional,Non-functional
+System shall enforce access controls and permissions for sharing and managing data.,Non-functional,Non-functional
+System shall display the submitted application form with all entered data.,Functional,Functional
+"User shall access the system 24/7, with planned maintenance during off-peak hours.",Non-functional,Non-functional
+User shall be able to create a profile and set credentials for authentication.,Functional,Functional
+The user shall be able to cancel booked tickets if they need to change their travel dates.,Functional,Functional
+The BE shall be able to apply user selected frequency domain processes.,Functional,Functional
+"The search response time for the system must consistently be within two seconds, with an ideal goal of one second, based on measurments from 1000 searches during testing.",Non-functional,Non-functional
+System shall show the first lines of news articles based on the titles on the title screen.,Functional,Functional
+The system shall encrypt all sensitive information via https.,Non-functional,Non-functional
+Intermediate files of cleaned-up ASPERA-3 and MEX OA telemetry shall be generated in the event that cleaned-up telemetry is not provided by ESOC.,Functional,Functional
+User shall be able to select a topic from the search result list.,Functional,Functional
+"Any administrative level or authorized inventory group member can view and approve pending requests, with users notified by email upon request treatment and updates made to the waiting for execution list.",Functional,Functional
+Resumes will be imported directly from an existing database.,Functional,Functional
+User shall have the ability to search for specific emails using keywords or filters.,Functional,Functional
+The search feature will display either search results or a no matches found message depending on the query's success.,Functional,Functional
+User shall be prompted to verify their email upon registration for added security.,Non-functional,Non-functional
+"The system shall provide separate interfaces for students, faculty, and administrators.",Functional,Functional
+Users shall be limited to three attempts to enter their password.,Non-functional,Non-functional
+The user interface shall have standard menus buttons for navigation.,Non-functional,Non-functional
+System shall validate the entered credentials in the database.,Functional,Functional
+The product shall allow the user to save the property search results.,Functional,Functional
+User shall experience response times of 1 second or less when accessing patient information.,Non-functional,Non-functional
+User shall be able to delete properties they have added to the system.,Functional,Functional
+The system shall allow camp administrators to view medical forms for allergy preparedness.,Functional,Functional
+Customers shall browse categories and products easily.,Functional,Functional
+System shall support the deletion of blogs by validating user actions and updating the database accordingly.,Functional,Functional
+"System shall require users to comply with applicable laws and regulations governing data privacy, security, and intellectual property rights, including legal notices related to licensing, copyrights, trademarks, and usage restrictions in production environments.",Non-functional,Non-functional
+System shall employ error prevention through sanity checks and limited free-text input.,Non-functional,Non-functional
+The system shall allow importing stories from a spreadsheet.,Functional,Functional
+"User shall perform on-device translation locally without internet reliance, delivering responsive and reliable translation experiences.",Functional,Functional
+Only admin shall know the number of bidders bidding on teams and their details.,Functional,Functional
+The user shall be able to set the name of an assignment.,Functional,Functional
+The upsconline.nic.in site shall be available 24/7 for access.,Non-functional,Non-functional
+User shall receive a more helpful file-level error message when uploading a file with the wrong extension.,Functional,Functional
+System shall log the serial number of a valid cash card.,Functional,Functional
+System shall not function without an internet connection.,Functional,Functional
+System shall provide functionality for users to assign Location information to Containers.,Functional,Functional
+"User shall be able to find session information, to explore available sessions.",Functional,Functional
+System shall scale to accommodate growth.,Non-functional,Non-functional
+"System shall handle up to 20,000 transactions per minute during peak workload conditions.",Non-functional,Non-functional
+"User shall be able to interact with the platform to create a LeetCode account, providing their email, username, and password.",Non-functional,Non-functional
+All Users will be able to view the next product by swiping left to right.,Non-functional,Non-functional
+The system will limit access to authorized users.,Functional,Functional
+The system shall be able to handle 1000 customers logged in concurrently at the same time.,Non-functional,Non-functional
+System shall send a temporary password to the user's email for password reset (client function).,Functional,Functional
+The Article Manager will run on the editor's PC and will utilize an Access database.,Non-functional,Non-functional
+System shall generate alarm data for invalid temperature values or temperature limit exceedance.,Functional,Functional
+Newsletters shall be sent to clients' email addresses.,Functional,Functional
+"System shall facilitate quick access to desired content, enabling users to find what they are looking for effortlessly.",Non-functional,Non-functional
+User shall provide a valid email for Google Games to execute the application on their device.,Functional,Functional
+The system shall allow users to send and receive messages.,Functional,Functional
+The system shall notify the user of any schedule changes.,Functional,Functional
+The system shall allow archivists to search by material type and image using image upload.,Functional,Functional
+The system shall allow users to create new presentations or open existing ones.,Functional,Functional
+The system shall provide marks information in PDF format.,Functional,Functional
+System shall maintain data integrity by preventing data loss through proper database management.,Non-functional,Non-functional
+Reliability shall be ensured to prevent data loss in case of server failure during ongoing operations.,Non-functional,Non-functional
+The system requires end users to provide their symptoms accurately to avoid false predictions.,Non-functional,Non-functional
+User shall be able to access and interact with the system directly through their web browser without additional tools.,Non-functional,Non-functional
+System shall ensure that dataset instances of a type created during app deployment start using the new code when a new version of the dataset type is deployed.,Functional,Functional
+"The system (MS Forms) shall define the data types allowed for each question (e.g., text, number, date).",Functional,Functional
+User shall be able to register on STM by providing valid information.,Functional,Functional
+Customers shall finalize payment by cash using the bill mode.,Functional,Functional
+"By default, the page shall not auto scroll when new ideas are added into the list.",Functional,Functional
+"The system shall support agent membership in multicast groups, allowing them to join and leave.",Functional,Functional
+System shall verify account authorization and initiate transaction dialog upon acceptance.,Functional,Functional
+"User shall be able to utilize the device's camera, gallery, and microphone functionalities.",Non-functional,Non-functional
+The website shall provide forms for certificates so users can request certificates online.,Functional,Functional
+"System shall be able to perform distance calculations and access geolocation information for the user, sites, and nearby sites.",Functional,Functional
+The system shall allow trainers to update or delete their courses/events.,Functional,Functional
+"The user shall access the application for installation, updates, and feedback via the Google Play Store.",Non-functional,Non-functional
+Web-based displays of the most current ASPERA-3 data shall be provided for public view.,Functional,Functional
+System shall ensure the application loads quickly on supported devices.,Non-functional,Non-functional
+The system shall allow repository managers to associate content files with objects and components.,Functional,Functional
+A Visual Designer shall create a moodboard to aid with visual design concepts for the nsf.gov website.,Functional,Functional
+The BE shall periodically or upon request check Backend physical processors and assure that all needed processors are alive and responding,Non-functional,Non-functional
+User shall have ALFRED integrated into a wearable device like a bracelet or necklace.,Functional,Functional
+FABS user shall receive submission errors accurately reflecting FABS errors for efficient problem resolution.,Non-functional,Non-functional
+"User shall display a tabular representation of the current stock value, highest and lowest values recorded, and the P/E ratio.",Functional,Functional
+"The system shall utilize a relational database (MetadataDB) for storing structured video metadata like title, language, size, and duration.",Non-functional,Non-functional
+The hardware and operating system shall be capable of supporting a screen resolution no greater than 320 x 240 pixels due to the small form factor.,Functional,Functional
+User shall be able to update their information.,Non-functional,Non-functional
+"User shall have a link on the home page to a list of training options, for easy access.",Functional,Functional
+"Users shall input their date of birth, address, and phone number.",Functional,Functional
+User shall be able to search for restaurants by entering a desired distance range (minimum and maximum) from their current location.,Functional,Functional
+Admin shall monitor the whole process.,Non-functional,Non-functional
+System shall require shop owners to obtain permission from the administrator before selling products.,Functional,Functional
+The user shall be able to add a New Term.,Functional,Functional
+Automated banner ads on email headers shall notify job seekers of relevant jobs.,Functional,Functional
+TCS shall provide the capability to monitor payload adherence to the uplinked mission plan.,Functional,Functional
+The system shall maintain reaction times of less than 5 seconds even under heavy loads.,Non-functional,Non-functional
+"The hardware part of the system shall be able to perform indefinitely without complete loss of service, except in the event of total failure of primary and backup power. ",Non-functional,Non-functional
+"The automated diagnostic tool shall display and record diagnostic results. Diagnostic results to be displayed to the user will be done so in a simple, graphical and textual format.",Functional,Functional
+The database will use the generic representations from R4.2.2.1 as table names or column headers for easier retrieval of data.,Functional,Functional
+"User shall have an admin view to track registration status for each attendee, so that attendance status can be monitored.",Functional,Functional
+"The system shall provide tools for capturing leads through forms, landing pages, and chatbots.",Functional,Functional
+User shall determine brokerage by multiplying transaction amount by brokerage percentage.,Functional,Functional
+The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications,Functional,Functional
+The TCS shall provide the functionality to control the ADT antenna.,Functional,Functional
+"The BE shall trap, flag and repair infs, NaNs, underflows, overflows and other computation errors.",Non-functional,Non-functional
+User shall be able to create and customize a personal emoji avatar through Bitmoji integration.,Functional,Functional
+User shall be able to input and store personal details of students.,Functional,Functional
+After installing the Application from iTunes or the App store the user will be asked to login.,Functional,Functional
+The app shall interface with a register for accurate payment processing.,Functional,Functional
+User shall be able to deposit datasets through Virtual Research Environments and other workflow tools.,Functional,Functional
+"User shall receive the product list within 2 seconds of requesting it, ensuring a responsive interface.",Non-functional,Non-functional
+System shall display available astrologers for interaction based on user input.,Functional,Functional
+Radford University students shall use their RU credentials to access automatic class schedule and assignment sharing.,Non-functional,Non-functional
+The system shall allow users to print musical scores.,Functional,Functional
+Newsletter subscription and customization options will be provided.,Functional,Functional
+User shall be able to update the device status after action completion.,Functional,Functional
+A stable internet connection shall be required for the player.,Functional,Functional
+"User shall be able to process returns of medicines to distributors within the specified time frame, recording relevant details such as reasons for return and quantities returned.",Functional,Functional
+"Bidders shall be able to view the bidder leaderboard, including the top three positions, without seeing other bidders' predictions.",Functional,Functional
+System shall implement security measures to protect the database from unauthorized access.,Non-functional,Non-functional
+A new user will make less than 3 mistakes in 5 minutes after 5 minutes of use.,Non-functional,Non-functional
+"The system shall support the following operating systems - Windows 10/11 (32-bit or 64-bit) and Windows Server 2022, Windows Server 2019, Windows Server 2016, or Windows Server 2012 (including R2)",Functional,Functional
+The system shall render complex projects faster with a compatible graphics card.,Non-functional,Non-functional
+The user shall be able to play or learn about Mahjong.,Non-functional,Non-functional
+System shall confirm submission of leave request.,Functional,Functional
+The site will be available to users 24/7.,Non-functional,Non-functional
+Users shall select the recruitment option and choose Forms for Certificates.,Functional,Functional
+User shall be able to login to the system as an authorized user using a username and password.,Functional,Functional
+"The Disputes System must provide confirmation upon chargeback request creation, containing dispute case number, type of chargeback requested, and merchant response due date.",Functional,Functional
+User shall be able to click on an address to open Google Maps in a new tab.,Functional,Functional
+System shall be able to allow staff to perform online data entry.,Functional,Functional
+"Official events listed on Drexel website, location and hours will have accuracy greater than 40%.",Non-functional,Non-functional
+"Access to sensitive user data, such as credit card information, shall be restricted to authorized personnel only, with proper access controls in place.",Non-functional,Non-functional
+"If paying by cash on delivery, user shall enter address details for order confirmation.",Functional,Functional
+User shall/will be able to access online shopping opportunities.,Functional,Functional
+User shall be able to maintain a master list of symptoms for patient consultation requests.,Functional,Functional
+System shall ensure a user-friendly interface for effortless creation of slideshows with customizable elements such as text art and animated texts in VivaVideo.,Non-functional,Non-functional
+"These additional non-functional requirements aim to further enhance the performance, security, user experience, reliability, and availability of the system.",Non-functional,Non-functional
+"System shall be able to display a list of thumbnail images for a site, sorted from oldest to newest by year, when on the sites page.",Functional,Functional
+System shall utilize Microsoft SQL Server 2008 as the database management system.,Non-functional,Non-functional
+System will prompt the user to select their issue or write about their problem.,Functional,Functional
+The TCS shall present to the operator the estimated time of arrival and fuel status at each programmed waypoint of the proposed mission plan.,Functional,Functional
+Curators shall configure deposit forms for collections.,Functional,Functional
+The system shall allow administrators to approve job advertisements before publishing.,Functional,Functional
+Arranging job search results by dates or location shall be possible.,Functional,Functional
+"The system shall empower end-users to manage their private data, including the option to delete their personal repository.",Non-functional,Non-functional
+User shall deploy a dataset type independent from any app and allow apps to create and use dataset instances of that type.,Functional,Functional
+User shall be able to initiate user password verification.,Functional,Functional
+System shall be able to run test shipping orders.,Non-functional,Non-functional
+"The Teams app shall be designed for high availability, ensuring minimal disruption in case of individual service outages.",Non-functional,Non-functional
+System shall update the user's account after receiving a response from the ATM about money dispensed.,Functional,Functional
+"System shall be able to print reports annually, weekly, and daily based on selected time frames.",Functional,Functional
+System shall be able to enable employees to select their availability.,Functional,Functional
+The recycled parts audit report must be returned within 10 seconds.,Non-functional,Non-functional
+The system shall provide the functionality for users to follow other users.,Functional,Functional
+User shall be able to download the Skype application from an application store or similar service on their mobile phone without any charge.,Functional,Functional
+The system shall allow researchers to generate citations and share links to files.,Functional,Functional
+"User shall/will be able to pay bills online, such as utility bills, credit card bills, and loan payments.",Functional,Functional
+"I/O, communications, and processing hardware shall be easily expandable, reconfigureable, augmentable and replaceable to meet increasing data transfer and processing demands imposed by EVLA science, Correlator changes, and availability of new hardware.",Non-functional,Non-functional
+The system shall allow parents to submit various types of forms to camp management.,Functional,Functional
+System shall record client feedback.,Functional,Functional
+User shall login to access the administrator portal.,Functional,Functional
+User help resources should be accessible within 90% of the system.,Non-functional,Non-functional
+The system shall remind the user of the task with their chosen ringtone.,Functional,Functional
+Each student shall have only one account.,Non-functional,Non-functional
+System shall load data from the database.,Functional,Functional
+"User shall be able to see how many seats are left for a summit, to ensure timely registration.",Functional,Functional
+User shall notify the user when no matching product is found on the search.,Functional,Functional
+"The user shall be able to purchase items in their cart using credits, if allowed by the item.",Functional,Functional
+System shall display the video in full screen resolution.,Functional,Functional
+The system shall ensure that textual content is free of spelling and grammatical errors for clear readability.,Non-functional,Non-functional
+User shall contact vendors and grant permission for selling products on the site after quality testing.,Functional,Functional
+Compatibility with previous Windows versions will require further testing.,Non-functional,Non-functional
+The preferred repair facility ratings shall be saved by the system.,Functional,Functional
+The platform shall allow translation of data type hierarchies for embedded viewers.,Non-functional,Non-functional
+The system shall create a complete copy of data from the source phone to the target phone.,Functional,Functional
+Delivery boy shall be able to toggle Online/Offline/Break option.,Functional,Functional
+Users shall be able to log in only after receiving a confirmation email following verification of their restaurant owner application.,Functional,Functional
+User shall be able to log in to their LeetCode account using their email and password.,Functional,Functional
+Realtor shall be able to generate a CMA report based on property criteria.,Functional,Functional
+"For interdepartmental requests, the system shall require approval from both a DA and faculty group member, unless submitted by a higher-level group.",Functional,Functional
+System shall execute different types of queries for reporting purposes.,Functional,Functional
+"System shall be designed for easy extensibility, maintainability, and potential release as an open-source application.",Non-functional,Non-functional
+The system shall be able to output the temperature status when the measured temperature (T) is within the acceptable range defined by the lower limit (LO) and upper limit (UO).,Functional,Functional
+System shall update the book status to Approved when the administrator approves the member request.,Functional,Functional
+"User shall be able to register students through the website, and the admin shall be able to register new students.",Functional,Functional
+Customer shall able to cancel order and if cancelled money will be transferred to wallet to order food for next time(If Card Payment),Functional,Functional
+System shall display search options to the user.,Functional,Functional
+"Upon starting up the application, the first viewable screen shall contain buttons for play game options.",Non-functional,Non-functional
+A tablet shall require a user to log in using a username and password.,Non-functional,Non-functional
+Backups of the database shall be retrieved and saved by the administrator in case of hardware failure or database corruption.,Non-functional,Non-functional
+"The moderator shall be able to view all grouped ideas, including duplicates.",Functional,Functional
+Admins shall not dismiss an engaged menu unless the customer requests it.,Non-functional,Non-functional
+A staff member shall have the ability to manage the progress of a part time student which includes modifying their sequence of classes and timeline of classes.,Functional,Functional
+System shall be able to provide general recommendations based on recent trends through administrative functions.,Functional,Functional
+User shall be able to search for events by date.,Functional,Functional
+User shall provide hardware specifications and limitations.,Non-functional,Non-functional
+"The system must support 10,000 concurrent users with a maximum response time of 2 seconds.",Non-functional,Non-functional
+System shall enable role-based access control to enforce appropriate permissions for different user roles.,Non-functional,Non-functional
+There shall be a feature to locate affiliated cinemas based on user's location for a chosen day.,Functional,Functional
+"Testing of Stock Master shall include traversing all forms, stress testing, and Authorization tests.",Non-functional,Non-functional
+Users shall sell their stocks for successful trade.,Functional,Functional
+"The system shall run on PC, Laptops, and PDA etc.",Non-functional,Non-functional
+The server environment shall be single-tenant (no other applications running on the same server or container).,Non-functional,Non-functional
+"System shall provide role-based landing pages showing relevant information such as assigned cases, alerts, and pending tasks.",Functional,Functional
+System shall provide an Inbox feature for administrators to view all requests made by active members.,Functional,Functional
+System shall be able to provide the status of their booking.,Functional,Functional
+The system shall be highly available during working hours with all maintenance and backup activities occurring outside of these times.,Non-functional,Non-functional
+The system shall minimize splash screens and only display them if they provide valuable information to the user.,Non-functional,Non-functional
+User shall be able to indicate where data will be stored during and after the project.,Functional,Functional
+"Administrator shall be able to view pending requests, approve or reject them, and send notifications to requesters upon approval.",Functional,Functional
+The system shall allow users to store Data Packages in GitHub and automatically publish them to CKAN. ,Functional,Functional
+Colleges shall be able to register for exams at any time.,Non-functional,Non-functional
+The system shall allow multiple users to edit a score simultaneously and gracefully handle any conflicts.,Functional,Functional
+System shall provide a replacement page in case of hardware failure or database corruption.,Non-functional,Non-functional
+System shall be able to manage check book allotment requests.,Non-functional,Non-functional
+The data displayed in both the nodes of the graph and the rows of the table will be MSEL Summary data.,Functional,Functional
+"System shall send a ""bad bank code"" message to the ATM if the bank code is invalid.",Functional,Functional
+User shall be able to log in to the system by entering their username/email and password.,Functional,Functional
+"Upon successful registration, the system shall redirect the user to the validation page of the Admin on STM.",Functional,Functional
+The user shall be able to add the Time and Duration of their Class.,Functional,Functional
+System shall ensure that transactions reflect accurately in databases without any data loss.,Non-functional,Non-functional
+"User shall enjoy a versatile editing experience with various editing features including video collages, themes, music bank, and sound effects.",Non-functional,Non-functional
+The system shall allow new patients to register by providing necessary personal and contact information.,Functional,Functional
+"Based on user feedback, Admin shall have the ability to change or modify accessibility.",Functional,Functional
+User shall save the dividend released by each company for client information.,Functional,Functional
+User details and data should be stored securely in a database provided by the server.,Non-functional,Non-functional
+"System shall allow users to search for blogs based on a query string, displaying matching results.",Functional,Functional
+A customer shall be able to navigate through the available items in their  engaged menu.,Functional,Functional
+The system shall be able to establish and keep the dialog with the Members systems despite the various technical environments and technologies used on their sites,Non-functional,Non-functional
+System shall allow the administrator to register members by manually inputting their information into the system.,Functional,Functional
+"User shall input the date, destination, and duration for car rental.",Functional,Functional
+"Users shall select the relevant performa category, fill the form, and submit it.",Functional,Functional
+"The TCS shall provide the capability to override validation faults after the fault is acknowledged by the
+operator. ",Functional,Functional
+"The system shall allow users to search for collections, objects, and components by various criteria.",Functional,Functional
+"User shall be able to delete an activity by selecting it on the canvas and clicking the ""Delete"" button on the user GUI.",Functional,Functional
+Admin shall onboard recycling centers on the platform to increase information accuracy.,Functional,Functional
+System shall provide a shopping cart during online purchase.,Functional,Functional
+Admin shall be able to add promo code/offers. ,Functional,Functional
+"User shall be able to read the blog, to stay informed about BADCamp happenings.",Functional,Functional
+Clients shall be able to change their password.,Functional,Functional
+The $HOME environment variable shall be set correctly on the server.,Functional,Functional
+Only authorized users shall have access to clinical site information.,Non-functional,Non-functional
+An API User shall be able to use metadata to retrieve data from multiple datasets.,Functional,Functional
+User shall have the option to input using either touch screen or keypad methods.,Non-functional,Non-functional
+System shall be able to facilitate data updating.,Functional,Functional
+"If the validation succeeds, user shall be redirected to the ""Password reset"" page.",Functional,Functional
+The product shall comply with the estimatics laws relating to recycled parts usage.,Non-functional,Non-functional
+Only authenticated users shall have access to the system's back-end servers to ensure security.,Non-functional,Non-functional
+"Upon logging out, the system shall load the main page.",Functional,Functional
+Customer shall be able to remove orders from cart.,Functional,Functional
+"The BE shall be able to handle lag sets up to a maximum size of 262,144 values",Non-functional,Non-functional
+"User shall be able to record sales transactions, including customer information, medicine name, quantity sold, and unit price.",Functional,Functional
+"In the ingame screen, users can choose emote buttons by touching them, and upon selection, the chosen emote shall be displayed to the other user.",Functional,Functional
+The system shall allow administrators to approve/reject applications for Certified Scrum Practitioner (CSP) and Certified Scrum Trainer (CST) status.,Functional,Functional
+The application shall render images and effects efficiently to maintain a productive workflow.,Non-functional,Non-functional
+User shall be able to search for restaurants by price range (minimum and maximum) with results displayed in a list view by default.,Functional,Functional
+The system shall allow consumers to download data packages in specific versions.,Functional,Functional
+The system shall allow users to insert speaker notes for slides.,Functional,Functional
+"The product shall be able to handle 10,000 concurrent users within 2 years of the initial launch.",Non-functional,Non-functional
+FABS user shall be able to download the uploaded FABS file.,Functional,Functional
+The system shall be user-friendly and intuitive for users of all technical abilities.,Non-functional,Non-functional
+System shall display a confirmation message upon successful registration of the LeetCode account.,Non-functional,Non-functional
+The user shall be able to approve an exchange offer from another user.,Functional,Functional
+Administrator shall manage user accounts.,Functional,Functional
+"User shall be able to see all events, trainings, and summits sponsored by a specific sponsor, to engage with the sponsor's offerings.",Functional,Functional
+System shall be able to ensure that common operations on an equivalent document are completed within 0.2 seconds.,Non-functional,Non-functional
+System shall automatically track work/class hours based on user's sign-in and sign-out timestamps.,Functional,Functional
+The system shall allow processing of medicine orders by patients.,Functional,Functional
+The system shall be configurable to meet specific state requirements and keep data elements and rules up-to-date.,Functional,Functional
+System shall be able to allow customers to open different types of accounts.,Functional,Functional
+The system shall allow the mediator to send and receive messages from users.,Functional,Functional
+"The user shall be able to create a menu entry by providing a dish name, description, and price.",Functional,Functional
+Contact information will be optionally hidden.,Functional,Functional
+User shall be able to ensure security for the central system and its software.,Functional,Functional
+A surface app page shall provide a customer with all customer system functionality.,Functional,Functional
+System shall allow a user to be a member of more than one group.,Non-functional,Non-functional
+"In-game option to halt gameplay shall be provided, allowing access to fields displayed on the title screen.",Non-functional,Non-functional
+The software shall display information on a monitor screen.,Non-functional,Non-functional
+"The server shall be capable of supporting no less than 200 concurrent connections from any combination of computers, tablets and displays.",Non-functional,Non-functional
+A supervisor shall be able to abort/purge a customers meal from the active  system with no expectation of payment.,Functional,Functional
+System shall be able to search for the from-location by the name of a building.,Functional,Functional
+System shall facilitate easy signup for the BADCamp newsletter.,Non-functional,Non-functional
+System shall allow user registration without any preconditions.,Functional,Functional
+The system shall allow copying and pasting stories from a spreadsheet.,Functional,Functional
+The system shall store estimation results anonymously for research purposes (Researcher).,Non-functional,Non-functional
+System shall guarantee protection of IP rights for external collaborators to mitigate collaboration risks.,Non-functional,Non-functional
+System shall provide contextual help links accessible to authenticated users.,Non-functional,Non-functional
+"Faculties shall be able to upload lectures and discussions in various formats (videos, presentations, etc.).",Functional,Functional
+"Adobe Photoshop shall be designed to achieve a rapid operational restart, minimizing customer inconvenience.",Non-functional,Non-functional
+System shall assign default system data values when necessary.,Non-functional,Non-functional
+"User shall be able to learn about sponsorship levels, to determine appropriate sponsorship.",Functional,Functional
+The system shall allow staff members to issue zoning-related permits upon eligibility and compliance.,Functional,Functional
+User shall be advised to use genuine antivirus software.,Non-functional,Non-functional
+Premium Users shall be permitted to make up to 66 calls per day.,Non-functional,Non-functional
+"The system shall allow visitors to subscribe to RSS feeds for news, courses/events, and articles.",Functional,Functional
+Customers shall cancel the billing process by card using the bill mode.,Functional,Functional
+User shall be aware of relationships between inputs and outputs.,Functional,Functional
+The system shall record publication and unpublication events with details.,Functional,Functional
+"The service shall be able to show the seating arrangement and available seats, allowing users to book the desired number of seats.",Functional,Functional
+User shall require approval from the university group for asset transfers outside the university.,Functional,Functional
+System shall process the user's input and perform the desired action in the application interface.,Functional,Functional
+System shall include a fast/slow motion editor for users to choose the best video speed.,Functional,Functional
+ATM power supply shall have a 10/220 V AC manual switch.,Functional,Functional
+"User shall have the option to choose to view ""tatkaal"" or ""normal"" applicants.",Functional,Functional
+"User shall validate Client name to include only alphabets and spaces, rejecting inputs with numbers or other ASCII characters.",Functional,Functional
+The system shall be scalable to accommodate a growing user base.,Non-functional,Non-functional
+The database will have a functional audit trail.,Functional,Functional
+The system shall allow users to create accounts and log in to the server.,Functional,Functional
+The system shall use the organizations standard virus protection software to help monitor threats to itself.,Non-functional,Non-functional
+"Website should be multi-platform, capable of running on different operating systems.",Non-functional,Non-functional
+The system shall be able to use the app on different platforms like different versions of OS/Mobiles.,Non-functional,Non-functional
+The system shall provide information about similar video items and segments based on content or perception.,Functional,Functional
+The system shall allow members to create and edit their profile descriptions.,Functional,Functional
+System shall be able to provide general recommendations based on recent trends.,Non-functional,Non-functional
+User shall be able to request refunds for products.,Functional,Functional
+System shall maintain database availability through failover mechanisms in case of server failures.,Non-functional,Non-functional
+"The system shall allow administrators to delete restaurant types, removing them from the list.",Functional,Functional
+The application shall maintain a list of classes for the user.,Functional,Functional
+System shall employ easy-to-locate buttons.,Non-functional,Non-functional
+User shall experience page loading times of less than 1 second with an 8Mbits internet connection speed.,Non-functional,Non-functional
+"System shall be able to send a message ""invalid user account"" to the central system for an invalid user account.",Functional,Functional
+System shall provide documentation and support resources for users to effectively utilize DMP functionalities.,Non-functional,Non-functional
+System shall be easy to migrate or backup via another USB drive.,Non-functional,Non-functional
+User shall find the system easy to navigate and use.,Non-functional,Non-functional
+"The system shall allow faculty to upload course materials (syllabus, lesson plans, notes, etc.) and question banks.",Functional,Functional
+User shall be able to select disputable transactions and initiate disputes on them based on the age of the transaction.,Functional,Functional
+Restaurants shall accept or cancel orders based on availability.,Functional,Functional
+User shall be able to register by providing required details and receive a success message upon account creation.,Functional,Functional
+User shall be able to maintain chemists and labs details.,Functional,Functional
+Performance shall be influenced by the hardware components of the client/customer.,Non-functional,Non-functional
+There shall be no sound or animation used in the product.,Functional,Functional
+The system shall integrate with various data analysis and storage platforms.,Non-functional,Non-functional
+User shall have a registered phone number for software registration.,Non-functional,Non-functional
+System shall display the user's profile with options to edit information.,Non-functional,Non-functional
+The user shall be able to enter their Room number for the exam.,Functional,Functional
+"While a fast internet connection is optional, the system shall be designed to perform optimally with a fast connection.",Non-functional,Non-functional
+Students shall be able to take quizzes.,Functional,Functional
+"User shall confirm booking by selecting a mode of transport and number of travelers, with availability checked and redirection to the payment gateway if seats are available.",Functional,Functional
+System shall: Show the user's current location on the map view.,Functional,Functional
+Viewing application history from the profile shall be possible.,Functional,Functional
+System shall adhere to best practices for data security and privacy protection throughout the application.,Non-functional,Non-functional
+"The system shall allow users to view friends' stories, browse global stories, share stories, take screenshots, and report spam content.",Functional,Functional
+The system's reliability shall be primarily dependent on a continuously maintained and updated database backup that reflects the latest changes.,Non-functional,Non-functional
+Admin shall be able to add new routes or edit existing bus journey routes.,Functional,Functional
+The system shall allow publishers to preview data package views before publishing.,Functional,Functional
+User passwords shall be hashed before storage in the database to maintain security.,Non-functional,Non-functional
+System shall authenticate users based on username and password.,Functional,Functional
+System shall ensure secure communication between the user and server by encrypting messages during log-in sessions to protect usernames and passwords.,Non-functional,Non-functional
+Uploaded videos shall be stored reliably with no data loss. High availability takes priority over strict data consistency.,Non-functional,Non-functional
+Wireless communication throughout the system will be encrypted using SSLv3  at the application layer and WPA2-PSK at the data link layer.,Non-functional,Non-functional
+"User shall be able to browse items including pictures, prices, and other features.",Functional,Functional
+Students shall have the ability to view the status of their job applications.,Non-functional,Non-functional
+"The system shall encrypt sensitive data (patient information, prescriptions) at rest and in transit.",Non-functional,Non-functional
+Any disputes cases closed for over 6 months must be purged from the online disputes database.,Functional,Functional
+A customer shall be able to cancel an order through their engaged menu if it is  pending and not yet placed.,Functional,Functional
+"System shall provide secure access to confidential data, such as user details, by utilizing SSL encryption.",Non-functional,Non-functional
+"Upon user login, the system will display personalized information and automatically add certain details to booking requests.",Functional,Functional
+System shall output request to turn on or off heating or cooling unit based on temperature data.,Functional,Functional
+System shall support OAI-PMH for repository content exposure.,Functional,Functional
+Login communication must be 100% encrypted to prevent usernames and passwords from being intercepted during data exchange between the application and server.,Non-functional,Non-functional
+User shall check feedbacks.,Functional,Functional
+Users who create a new game will be able to change the ability level of any CO involved in the game. ,Functional,Functional
+System shall ensure the stability and accuracy of acceptance tests executed against Neurohub installations.,Non-functional,Non-functional
+The system shall allow camp administrators to create and modify rules for campers and staff.,Functional,Functional
+"The application should ideally use less than 10 MB of storage space, with a hard limit of 20 MB.",Non-functional,Non-functional
+The system must allow a member of the network to send requests to a particular or all the other members about possible delivery of a driver's smart card to a similar person.,Functional,Functional
+The system shall be able to do encryption and decryption of data for the password which is given by the user for login.,Non-functional,Non-functional
+"User shall be able to anonymously view public information, such as recycling centers near their location, before creating an account.",Functional,Functional
+The system shall utilise periodic 30-second keep-alive messages between  tablets and the server to monitor tablet operational status.,Non-functional,Non-functional
+The system shall implement an Elasticsearch cluster to facilitate full-text search functionalities.,Non-functional,Non-functional
+System shall record client booking requests.,Functional,Functional
+Job Seeker registration shall allow the addition of CV as a Word file to the CV database.,Functional,Functional
+User shall dissolve details from both tables into a single form or make them accessible from one form.,Functional,Functional
+"System shall use AJAX calls for removing shortlisted properties, employing jQuery on the client side.",Functional,Functional
+The system shall provide charts for the Activity or Event actual versus assumed time.,Functional,Functional
+Operating System software shall either have source code available or come with sufficient diagnostics and customer support.,Non-functional,Non-functional
+The system shall be able to display a printable summary of the system log.,Functional,Functional
+"User shall be able to view a list of sponsors, so that they can thank all the awesome sponsors.",Functional,Functional
+"The system shall be protected by open source firewall called Firestarter.
+",Non-functional,Non-functional
+The system shall comply with relevant regulations and standards.,Non-functional,Non-functional
+"The system shall allow users to specify how an expense is split among participants (e.g., equally, proportionally, custom).",Functional,Functional
+"The manager shall view sales statistics in various formats such as pie charts, bar graphs, and tabular formats.",Functional,Functional
+"A user with administrative privileges shall be able to delegate some or all their authorized actions to another user, granting them the inventory administrator role.",Functional,Functional
+System shall check the information and apply the changes to the user's account.,Functional,Functional
+Users shall be able to find and book appointments with doctors for checkups or treatments.,Functional,Functional
+User shall add vaccination records for each child.,Functional,Functional
+The configuration window shall have a button labeled Save that when clicked will present the user with a window by which to enter a disk file or database name in which to save the modifiable data in the window.,Functional,Functional
+The system shall allow staff members to perform completeness reviews for applications.,Functional,Functional
+Administrators shall be able to add buildings.,Functional,Functional
+The THEMAS system shall control the heating and cooling units that are defined as part of the THEMAS system.,Functional,Functional
+The system shall display a list of courses matching the search criteria.,Functional,Functional
+User shall store one location for Free Users and up to five locations for Premium Users.,Functional,Functional
+The system shall be capable of restoring itself to its previous state in the event of failure (e.g. a system crash or power loss).,Non-functional,Non-functional
+"User shall enter card details for online payment, with the system verifying their validity.",Functional,Functional
+System shall include records for externally held data to maintain a complete record of the University's data holdings.,Non-functional,Non-functional
+System shall provide necessary control signals to heating or cooling units upon request.,Functional,Functional
+"User shall be able to modify all fields of an asset except IDs, and bulk entry files can be used for modifications.",Functional,Functional
+Administration shall improve the disease prediction database monthly based on the learning from the prior month.,Functional,Functional
+System shall provide continued access in case of server failure.,Non-functional,Non-functional
+The GUI will have a textbox that will accept inputs from a keyboard.,Functional,Functional
+"During checkout, the customer shall input details such as name, mobile number, and location.",Functional,Functional
+"SplitPay's user interface will prioritize usability and clarity, featuring a visually-appealing design and leveraging informative notifications and pop-ups to guide users in the future.",Non-functional,Non-functional
+The application server shall be responsible for maintaining the website.,Non-functional,Non-functional
+JavaScript code includes error handling functionality to ensure a smooth user experience.,Functional,Functional
+The diagnostic history window shall provide user selections for start times and end times for the history interval. ,Functional,Functional
+"The Disputes System must provide Search functionality allowing search by dispute case number, merchant account number, cardmember account number, and issuer number, with filtering options by date range, dispute type, case status, and reason code.",Functional,Functional
+System shall send resolved feedback messages to users via email or SMS.,Functional,Functional
+"End-users shall be provided with control over their private data, including deletion options, by the system.",Non-functional,Non-functional
+System shall utilize sessions for transactions to ensure data consistency.,Non-functional,Non-functional
+The connection between the client and server shall have at least 20 Mbps bandwidth.,Non-functional,Non-functional
+The system shall allow staff members to assign applications for detailed review.,Functional,Functional
+"The system shall minimize vertical scrolling by prioritizing top placement of important information and utilize links for less crucial details, and avoid horizontal scrolling altogether.",Non-functional,Non-functional
+A moderator shall be able to edit a previously created session.,Functional,Functional
+The system shall link events back to either the Sync Matrix 1.0 or the Exercise Managment Tool 1.0 applications for modifications.,Functional,Functional
+"User shall easily maintain the system due to its modular design, especially concerning frequent changes in database contents.",Non-functional,Non-functional
+The average time for the server to respond will be less than or equal to 2 seconds.,Non-functional,Non-functional
+Search agents shall automatically send resumes matching specified criteria via email daily.,Functional,Functional
+"The system shall support language agnostic operation for portability, including English, Turkish, Finnish, and Italian for the identified replication partners.",Non-functional,Non-functional
+"System shall be able to respond to critical processes within defined time limits, including patient registration, consultation requests, and prescription lookup.",Non-functional,Non-functional
+User shall be able to see the TU/e Facebook page on the title screen when starting the Facebook app.,Functional,Functional
+Each quadrant of each floor shall have a thermostat which is to be used to provide temperature data to the THEMAS system.,Functional,Functional
+The user shall be able to access help content in both offline and online modes.,Non-functional,Non-functional
+"The system shall allow users to create, join, and leave groups for shared expense management.",Functional,Functional
+Users shall be able to remove an assignment from their list of assignments.,Functional,Functional
+The client will be able to parse the JSON and determine if there was an error.,Functional,Functional
+User shall be able to create a new account and select Free or Premium membership.,Functional,Functional
+System shall offer easy access to the blog for user consumption.,Non-functional,Non-functional
+The system shall allow users to create boards by providing a name for the board.,Functional,Functional
+User shall/will be able to perform online balance checks.,Functional,Functional
+FABS user shall ensure historical data includes all necessary columns for correct database information to prevent data inconsistencies.,Non-functional,Non-functional
+"The system shall allow a member of the network to send a bulk request on all or a large part of its driver's smart card holders to a particular or all members of the network.
+",Functional,Functional
+System shall automatically move some emails to the spam folder and may block the sender of spam messages.,Functional,Functional
+System shall provide electronic course study materials to students.,Functional,Functional
+The system shall provide a Linked Data interface for repository data.,Functional,Functional
+The application will require well-defined test environments to ensure thorough testing of its various functionalities.,Non-functional,Non-functional
+User shall/will have sensitive data encrypted during transmission and storage.,Non-functional,Non-functional
+System shall allow dataset developers to assign explicit versions to the code of a dataset type.,Non-functional,Non-functional
+The user shall be able to add the Module name for the class.,Functional,Functional
+The look and feel of the system shall conform to the user interface standards of the smart device.,Non-functional,Non-functional
+Workers shall be able to mark tasks as completed.,Functional,Functional
+System shall be robust.,Non-functional,Non-functional
+System shall employ a secured database for storing information.,Non-functional,Non-functional
+User shall mark attendance using a selected method.,Functional,Functional
+The system shall be available 99.5% of the time.,Non-functional,Non-functional
+System shall authenticate logins and signups for users with accounts.,Non-functional,Non-functional
+System shall harvest metadata on funded research outputs for analysis and strategy refinement.,Non-functional,Non-functional
+"Dispute panel shall manage, if the customer needs replacement of the order or cancellation of the order in case of order not available.",Functional,Functional
+System shall support emerging needs based on data analysis.,Non-functional,Non-functional
+The system shall be able to do the authentication process for login and payment through bankcard. ,Non-functional,Non-functional
+User experience (UX) design best practices will be adhered to by the user interface.,Non-functional,Non-functional
+Customer care representatives shall provide feasible solutions to customers' complaints and queries.,Functional,Functional
+"Data that is especially hard to extract, for whatever reason, will be manually extracted and added to the database by a developer.",Functional,Functional
+"System shall be able to provide a list of the 3 nearest sites, sorted alphabetically by name, with links to their respective pages.",Functional,Functional
+The system shall allow publishers to restore deleted data packages using the command-line interface.,Functional,Functional
+The user shall enter new ratings based on the audit report.,Functional,Functional
+User shall be able to change profile settings or details.,Functional,Functional

@@ -1,0 +1,248 @@
+Usability
+
+
+Functional
+
+
+The given requirement 'The system shall display the local and exercise time in separate clocks' can be classified under the category of **Functional**.
+
+
+The given requirement 'The user interface shall have standard menus buttons for navigation' can be classified under the category: **Look and Feel**.
+
+
+Look and Feel
+
+
+Security
+
+
+The given requirement: 'The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.'
+
+Can be classified under: **Usability**
+
+
+Performance
+
+
+Availability
+
+
+Scalability
+
+
+Functional
+
+
+Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+Look and Feel
+
+
+Based on the given requirement, I would classify it under the category of **Usability**. This is because the requirement focuses on the ease of use and the ability of the merchant services representatives to perform a specific action (follow-up on a dispute case) after completing a training course.
+
+
+The given requirement: 'The Disputes application shall support 350 concurrent users without any degradation of performance in the application.'
+
+Category: Performance
+
+
+Security
+
+
+Functional
+
+
+Based on the given requirement, I would classify it under the following categories:
+
+- Functional
+- Usability
+- Availability 
+
+The reason for this classification is as follows:
+
+- Functional: The requirement describes the functionality of the Dispute System, specifically the ability to follow up on a dispute case and the filtering of follow-up actions based on the case status and user access level.
+- Usability: The requirement also mentions the user interface aspect, specifically that the list of available follow-up actions must be filtered by the status of the case and the access level of the user, which implies that the system should provide a clear and intuitive way for users to follow up on dispute cases.
+- Availability: Although the requirement does not directly mention availability, it implies that the system should be able to handle the filtering of follow-up actions based on the case status and user access level, which suggests that the system should be able to operate within a reasonable timeframe and handle the required functionality.
+
+
+Look and Feel
+
+
+The given requirement can be classified under the following categories:
+
+- Availability: The requirement implies that the system must be able to handle and process data for a certain period of time, which is related to the availability of the system.
+- Security: Although not directly related, the requirement of purging data after a certain period of time implies that the system must have a mechanism to manage and secure its data.
+- Performance: The requirement of purging data after a certain period of time implies that the system must be able to handle and process large amounts of data efficiently, which is related to performance.
+- Maintainability: The requirement of purging data after a certain period of time implies that the system must have a mechanism to manage and maintain its data, which is related to maintainability.
+- Scalability: The requirement of purging data after a certain period of time implies that the system must be able to handle and process large amounts of data, which is related to scalability.
+
+However, if I had to choose one category that best fits this requirement, I would say it is: 
+
+- Availability
+
+
+Look and Feel
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Functional
+
+
+The given requirement: 'The search for the preferred repair facility shall take no longer than 8 seconds. The preferred repair facility is returned within 8 seconds' 
+
+can be classified into the category: **Performance**
+
+
+Scalability
+
+
+Security
+
+
+Functional
+
+
+The given requirement: 'The system shall resolve the zipcode for the street address city and state if zipcode is unknown.'
+
+Can be classified under: Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The adjuster shall request a recycled parts audit of the collision estimate.' can be classified into the following categories:
+
+- Functional
+- Security
+
+
+Functional
+
+
+Functional
+
+
+Operational
+
+
+Here are the classifications for the given requirement:
+
+- Operational: 'The product must be able to interface with any HTML browser.'
+- Performance: 'The product shall display HTML properly in 80% of all HTML browsers tested (minimum is to test 8 browsers).'
+- Usability: 'The product shall transmit data between the user and the product without problems.'
+
+
+Operational
+
+
+The given requirement can be classified into the following categories:
+
+- Maintainability: Maintenance releases will be offered to customers once a year.
+- Performance: The releases shall take no longer than 5 minutes for 80% of the customer base to install.
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'Formula substitutionary ingredients shall be kept in persisted order' can be classified under the category of **Functional**.
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Usability
+
+
+Availability
+
+
+Security
+
+
+Look and Feel
+
+
+Security
+
+
+Functional
+
+
+The given requirement 'When a ship is sunk the product shall simulate the sound of a sinking ship.' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+Availability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+Look and Feel
+
+
+Security
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Scalability
+
+
+Based on the given requirement, I would classify it under the following categories:
+
+- Availability (specifically, the requirement mentions the system being available 24/7, 90% of the time, and 98% during the budgeting period)
+- Performance (the requirement mentions the system becoming available within 1 hour of the situation being reported, implying a certain level of responsiveness)
+- Operational (the requirement mentions the budgeting period, which is an operational context)
+
+
+The given requirement can be classified into the following categories:
+
+- Security
+- Maintainability
+
+
+Here are the classifications:
+
+- Functional
+- Look and Feel
+- Maintainability

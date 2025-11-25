@@ -1,0 +1,3485 @@
+Non-functional
+
+
+Functional
+
+
+**Non-Functional Requirement** – Specifically, this falls under **Usability** and **Hardware Compatibility**.
+
+Here’s why:
+
+*   **It’s a constraint:** This requirement dictates *how* the user can interact with the system. It’s not a feature or a specific function.
+*   **It defines supported hardware:** It explicitly states the acceptable input/output devices.
+*   **Impacts Design:** It influences the design of the user interface, data entry methods, and output formats.
+
+**Classification:**  Hardware Compatibility / Usability
+
+
+**Functional Requirement:**
+
+This requirement clearly describes a specific action the system *must* perform – acquiring telemetry data from the ASPERA-3 and Mars Express missions. This falls squarely into the category of a functional requirement, detailing a core system capability.
+
+**Specifically, it’s a Data Acquisition Requirement.** It dictates *what* data the system needs to obtain and *from where*. 
+
+Would you like me to elaborate on why this is classified as a functional requirement, or perhaps suggest a more specific sub-category within functional requirements (e.g., Data Acquisition, Sensor Integration)?
+
+
+Functional
+
+
+Functional
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific action a user can take within the system – selecting an exam for a revision task. This directly relates to how the system *functions* and how users interact with it to complete a particular process. It’s not a performance characteristic (like speed) or a quality attribute (like usability). It’s a core operational requirement.
+
+
+**Non-Functional Requirement** – Specifically, a **Performance Requirement** and a **Reliability Requirement**.
+
+Here’s why:
+
+*   **Performance:** The requirement focuses on the server’s ability to handle a *large volume* of orders – this directly relates to performance and responsiveness.
+*   **Reliability:** The phrase “no orders shall be lost under any circumstances” is a core aspect of reliability. It dictates a critical system behavior.
+
+It’s not a functional requirement (describing *what* the system does) but rather a constraint on *how* it performs.
+
+
+Non-functional
+
+
+Functional
+
+
+Based on the provided context and the given requirement – “System shall maintain uptime as per defined expectations and handle errors effectively” – this requirement falls squarely into the category of **Reliability**.
+
+Here’s why:
+
+* **Uptime as per defined expectations:** Directly relates to the core concept of reliability – consistently operating as intended.
+* **Handle errors effectively:**  A key component of reliability is the system’s ability to gracefully manage and recover from errors, preventing disruptions and maintaining operational stability.
+
+**Therefore, the classification is Reliability.** 
+
+Would you like me to elaborate on why this is the most appropriate classification, or perhaps discuss how this requirement might be further broken down into more specific sub-requirements?
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+**Non-Functional Requirement (NFR)** – Specifically, this falls under **Performance & Reliability**.
+
+Here’s why:
+
+*   **Focus on System Behavior:** This requirement dictates a specific technical constraint (dimensions) that impacts how the system *behaves* – namely, the physical output devices.
+*   **Impact on System Operation:**  Incorrect dimensions would directly impair the system’s ability to function correctly (e.g., receipts wouldn’t fit, statements wouldn’t be delivered).
+*   **Measurable Constraint:** The “specified maximum dimensions” provides a quantifiable limit that can be tested and verified.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional**
+
+**Reasoning:** This requirement describes a specific action the system *must* perform – displaying a page – in response to a user interaction (clicking a link). It’s about the system’s core functionality and how it responds to user input.
+
+
+**Functional**
+
+**Reasoning:** This requirement describes *what* the system does – it specifies the types of data the user can input. This directly relates to the system's core functionality and processing capabilities. It’s not a constraint on *how* it’s done, but rather a definition of the expected input.
+
+
+Functional
+
+
+**Non-functional**
+
+**Reasoning:**
+
+This requirement describes a visual element (the green indicator) and its meaning – signifying the *absence* of errors. This falls squarely into the realm of user interface design and usability, which are core aspects of non-functional requirements. It’s about how the system *appears* and how a user *perceives* its state, rather than a functional behavior or constraint.
+
+
+Non-functional
+
+
+Functional
+
+
+
+Non-functional
+
+
+Functional
+
+
+
+Non-functional
+
+
+**Classification:** Reporting / Data Extraction
+
+**Justification:**
+
+This requirement clearly falls under the category of reporting and data extraction. The system needs to *extract* specific data points (class name, student list, instructor details, time, location) and *display* them in a format suitable for printing.  It’s not about user interaction or core system functionality; it’s about generating a specific, formatted output. 
+
+**Priority:** Medium -  While useful, it’s likely a supporting feature rather than a core system requirement. It would likely be considered a “nice-to-have” feature.
+
+
+Functional
+
+
+**Non-Functional Requirement** – Specifically, a **Performance & Reliability** requirement.
+
+Here’s why:
+
+*   **Focus on Behavior:** This requirement describes *how* the system should behave (checking task status) rather than *what* it should do (e.g., create a report).
+*   **Performance & Reliability:** It directly relates to ensuring the system’s operational health and responsiveness – key aspects of performance and reliability.  It’s about proactively monitoring and maintaining the system’s state.
+
+Let me know if you’d like me to classify another requirement!
+
+
+Functional
+
+
+
+**Non-Functional Requirement** – Specifically, it’s a **Maintainability** requirement.
+
+Here’s why:
+
+*   **Focus on System Properties:** The requirement directly addresses a *system property* – the ability to be maintained.
+*   **Technical Detail:** It specifies *how* the system should be built (modular code structure) to achieve that property.
+*   **Not a User Feature:** It doesn’t describe what a user *does* or *sees*. It’s about the underlying technical design.
+
+Let me know if you’d like to classify another requirement!
+
+
+This requirement is best classified as **Non-Functional Requirement (NFR)**, specifically a requirement for **Maintainability** and **Extensibility**. 
+
+Here's why:
+
+* **It’s not a specific feature:** It doesn’t describe *what* the application *does* (like “users can upload photos”).
+* **It’s a quality attribute:** It’s about *how* the application is built – its architecture and design – which directly impacts its long-term viability and adaptability.
+* **Impacts Maintainability:** A design for easy extension directly contributes to easier maintenance, bug fixes, and future updates.
+
+**Therefore, the correct classification is NFR – Maintainability & Extensibility.**
+
+
+**Non-Functional**
+
+**Reasoning:**
+
+This requirement dictates a specific behavior of the system – preventing cross-communication between different modules (FABS and DABS). This falls squarely into the category of non-functional requirements, which define *how* the system should behave, rather than *what* it should do. It’s about system architecture, isolation, and preventing unintended interactions, all of which are core aspects of non-functional requirements like security, stability, and maintainability.
+
+
+**Non-functional Requirement** – Specifically, this falls under **Reliability**. 
+
+Here’s why:
+
+*   **Focus on Behavior:** This requirement describes *how* the system should behave (without failure) rather than *what* it should do.
+*   **Quality Attribute:** It directly relates to a key quality attribute – reliability – which is a core concern in software development.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional Requirement**
+
+This requirement directly describes *what* the system should do – retrieve a list of games needing players. It’s a core function of the application.
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies an action – retrieving a list.
+*   **System Behavior:** It defines a specific behavior of the MultiMahjongClient.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional Requirement**
+
+This requirement directly describes a specific action a user can perform within the system – posting a job listing. It outlines the data elements that must be included in that listing. 
+
+**Reasoning:**
+
+*   **Action-Oriented:** It specifies *what* the user can do (post a job).
+*   **Data Specification:** It defines the data elements that are part of that action (job title, company name, etc.).
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional Requirement**
+
+**Reasoning:**
+
+This requirement directly dictates *what* the system *must do*. It describes a specific action (grouping ideas and naming them) that a user role (moderator) is authorized to perform. It’s not a constraint on *how* the system does something, but rather a defined capability. 
+
+Would you like me to classify another requirement?
+
+
+**Functional:** This requirement describes *what* the system does – it outlines the core functionalities available to the user (sending messages, sharing media, making calls, and playing games).
+
+**Detailed Breakdown:**
+
+*   **Core Functionality:** Sending messages, sharing media (pictures, videos, audio), and engaging in video calls are fundamental communication features.
+*   **Entertainment:** The inclusion of multiplayer games indicates an entertainment aspect.
+
+**Therefore, the primary classification is Functional.**
+
+
+Functional
+
+
+Non-functional
+
+
+**Non-Functional Requirement** – Specifically, a **Security & Physical Requirement**.
+
+Here’s why:
+
+*   **Non-Functional:** This requirement doesn’t describe *what* the system *does* (its functionality), but rather *how* it’s protected and stored.
+*   **Security:** The core purpose is to protect the data from damage (fire).
+*   **Physical Requirement:** It dictates a specific physical location for data storage.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Non-Functional Requirement** – Specifically, this falls under **Usability** and **Internationalization**.
+
+Here’s why:
+
+*   **Usability:** The ability to use the application in multiple languages directly impacts the user’s ability to effectively interact with it.
+*   **Internationalization:** This requirement is a core aspect of internationalization – designing a product to be easily adaptable for use in different locales.
+
+It’s not a functional requirement (like “The application must allow users to upload videos”) because it describes *how* the application should behave (support multiple languages) rather than *what* it should do.
+
+
+**Non-Functional Requirement** – Specifically, a usability or interaction requirement.
+
+**Reasoning:**
+
+This requirement describes *how* a user interacts with the system – using keyboard shortcuts to manipulate the UI hierarchy. This focuses on the user experience and efficiency of interaction, rather than the core functionality being delivered. It’s about the *implementation* of a feature, not the feature itself. 
+
+Here's why it doesn't fit other categories:
+
+*   **Functional Requirement:** It doesn't define *what* the system does, only *how* a user can accomplish a task.
+*   **Performance Requirement:** It doesn't relate to speed, responsiveness, or resource usage.
+*   **Security Requirement:** It doesn’t address authentication, authorization, or data protection.
+
+
+Non-functional
+
+
+Functional
+
+
+**Functional Requirement**
+
+**Reasoning:**
+
+This requirement directly describes *what* the system must do – allowing the user to select a task type. It’s a core function of the system.  It’s not about *how* it’s done (e.g., the UI design of the dropdown), but rather the capability itself.
+
+
+
+**Non-Functional Requirement (Performance/Capacity)**
+
+**Reasoning:**
+
+This requirement directly addresses the system’s ability to handle a specific number of concurrent users within a defined timeframe. This falls squarely into the category of performance or capacity requirements, which are crucial for ensuring a system can meet its intended workload.
+
+
+Functional
+
+
+Non-functional
+
+
+**Non-Functional**
+
+**Reasoning:**
+
+This requirement focuses on the *behavior* and *stability* of the system – specifically, preventing data loss or corruption when a feature (enabling/disabling “explore”) is modified.  It’s about ensuring system reliability and data integrity, which are core aspects of non-functional requirements. It doesn’t describe *what* the system *does*, but *how* it performs and avoids negative consequences.
+
+
+Functional
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+**Functional Requirement**
+
+Here’s why:
+
+*   **Describes a specific action:** This requirement clearly outlines a system action – notifying parties about changes.
+*   **Impacts System Behavior:** It dictates how the system *must* behave when certain events (student status changes, clinical section moves) occur.
+*   **User-Centric:** It focuses on the outcome for users (affected parties) receiving notifications.
+
+**Classification:** This requirement falls squarely into the category of a functional requirement – it defines *what* the system should do.
+
+
+**Functional Requirement**
+
+**Reasoning:**
+
+This requirement describes a specific action the BE (Backend Engine) *must* perform – sending data to the e2e System. It’s a core function of the system and directly relates to how the system operates and processes information. It’s not a constraint or a non-functional characteristic (like performance or security), but rather a defined behavior. 
+
+Would you like me to classify another requirement from the list?
+
+
+**Functional Requirement**
+
+**Reasoning:**
+
+This requirement describes a specific action a user can perform – manipulating and viewing course details. It’s about *what* the system needs to do. It’s not a constraint on *how* the system does it (e.g., performance, security).  The inclusion of “department-wise” and “description” further solidifies this as a core functionality.
+
+
+
+Functional
+
+
+Functional
+
+
+Here's a classification of the requirement: “Bidders shall score points based on their predictions, with point values varying depending on the point difference between the two teams playing.”
+
+**Classification:** **Business Logic / Scoring & Rules Engine**
+
+**Rationale:**
+
+*   **Scoring System:** The core of the requirement is a system for awarding points based on a prediction.
+*   **Variable Point Values:** The “point values varying depending on the point difference” indicates a rules engine – a system that dynamically adjusts scoring based on specific conditions.
+*   **Game Logic:** This clearly represents a fundamental aspect of a game or competitive system.
+
+**Further Breakdown (Potential Categories):**
+
+*   **Game Mechanics:** (Broadest)
+*   **Rules Engine:** (More specific – the system that defines the scoring rules)
+*   **Data Processing:** (Because it involves comparing predictions and calculating differences)
+
+Would you like me to elaborate on any of these aspects, or perhaps suggest related classifications?
+
+
+Functional
+
+
+Functional
+
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific action the system needs to perform – recording healthcare worker locations for survey forms. It’s a core function of the system. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies *what* the system needs to do (record locations).
+*   **Impact:** It directly affects the creation and functionality of health survey forms.
+
+Would you like me to elaborate on why this is a functional requirement, or perhaps suggest a more detailed breakdown of the requirement?
+
+
+Non-functional
+
+
+Functional
+
+
+**Non-Functional Requirement** – Specifically, it’s a **Performance Requirement**. 
+
+Here’s why:
+
+*   **Focus on System Behavior:** This requirement describes *how* the system should behave (response times) rather than *what* it should do (e.g., process data, store information).
+*   **Performance Metric:** “Adequate response times” is a quantifiable metric used to assess the system’s performance.
+*   **Impacts System Design:** This type of requirement directly influences decisions about hardware, software, and system architecture.
+
+Let me know if you’d like me to classify another requirement!
+
+
+Functional
+
+
+
+Non-functional
+
+
+Functional
+
+
+**Functional Requirement**
+
+This requirement clearly defines a specific action a user (the Moderator) can perform within the system – setting a warning based on time remaining. It’s directly tied to a system function and its intended outcome. 
+
+Here’s why it’s classified as functional:
+
+*   **Actionable:** It describes a specific task a user can perform.
+*   **System Impact:** It affects how the system behaves (setting a warning).
+*   **Measurable:** The effectiveness of the warning can be assessed.
+
+Would you like me to elaborate on any aspect of this classification?
+
+
+**Functional Requirement**
+
+This requirement directly describes a specific function the system must perform – controlling heating/cooling based on a temperature difference. It’s a core operational capability.
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies *what* the system *does* (activate heating/cooling).
+*   **Measurable:** The “temperature differential” is a quantifiable metric.
+*   **Core Functionality:** It’s a fundamental aspect of the system’s purpose.
+
+Let me know if you’d like me to classify another requirement!
+
+
+Functional
+
+
+
+Functional
+
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+**Functional Requirement:** This requirement clearly defines a core function of the system – managing and tracking student academic programs. It specifies the data elements (program name, list of required classes) that must be included.
+
+**Classification:**  This would likely fall under categories like:
+
+*   **Data Management:**  It’s about defining and storing data related to academic programs.
+*   **Course Management:** It’s directly tied to the management of courses within a program.
+*   **Student Progression:**  It’s a foundational requirement for tracking student progress through a program.
+
+**Priority:** High – This is a fundamental requirement for any system managing academic programs.
+
+
+**Non-Functional Requirement** – Specifically, a **Performance Requirement** or **Usability Requirement**.
+
+Here’s why:
+
+*   **Focus on Outcome:** The requirement isn’t about *what* the system does (e.g., estimating damage), but *how* it impacts the user’s work.
+*   **User Experience:** It directly relates to the user’s experience and productivity, which are key aspects of usability.
+*   **Measurable:** The “80% agreeing” provides a quantifiable metric for assessing the requirement’s success.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Security Requirement** 
+
+This requirement falls squarely into the category of **Security**. It directly addresses access control and restricts access to the system’s core functionality – the back-end servers – to only authorized personnel (authenticated administrators). 
+
+Here’s why:
+
+*   **Access Control:** It’s a fundamental access control measure.
+*   **Data Protection:** Limiting access to administrators helps protect sensitive data and system integrity.
+*   **Security Best Practice:** Restricting access based on authentication is a core security principle.
+
+Would you like me to classify another requirement from the list?
+
+
+**Non-Functional Requirement** – Specifically, a **Performance Requirement** or **Connectivity Requirement**.
+
+Here’s why:
+
+*   **Focus on Behavior:** This requirement describes *how* the system should behave (distinguishing between networks) rather than a specific feature or function.
+*   **Impact on User Experience:**  The way the system handles network connections directly impacts the user’s experience – download speeds, data usage, and potential interruptions.
+*   **Technical Detail:** It’s a technical detail about the system’s architecture and how it manages network connections.
+
+Would you like me to classify another requirement?
+
+
+**Non-Functional Requirement** – Specifically, this falls under **Performance & Reliability**.
+
+Here’s why:
+
+*   **Reliability:** Saving and loading user preferences is crucial for a consistent and reliable user experience. If the application doesn’t load preferences correctly, it’s a major reliability issue.
+*   **Performance:** The speed and efficiency of this process (saving and loading) contribute to the overall performance of the application.  A slow or problematic save/load could negatively impact user experience.
+
+**Classification:**  **P2 – Performance & Reliability** (This would be a medium priority requirement, as it directly impacts usability and a core function of the application).
+
+
+Non-functional
+
+
+Functional
+
+
+
+**Non-Functional Requirement (Performance & Security)**
+
+Here’s the breakdown of why it’s classified this way:
+
+*   **Performance:** The requirement explicitly mentions “monitor and control traffic,” which inherently implies real-time observation and intervention – a core aspect of performance.
+*   **Security:** “Full access” suggests a level of control that needs to be tightly secured to prevent unauthorized manipulation or disruption of the system.
+
+**Justification:**
+
+This requirement isn’t about *what* the system *does* (like data storage or user interface), but rather *how* it performs and the security implications of that performance. It’s a critical requirement for ensuring the system’s stability, reliability, and security.
+
+
+Non-functional
+
+
+**Non-Functional Requirement (NFR)** – Specifically, this falls under **Availability**.
+
+Here’s why:
+
+*   **Focus on Uptime:** The requirement explicitly states “24*7 without any interruptions,” directly addressing the desired level of system uptime.
+*   **Service Level:** It’s a key aspect of defining a Service Level Agreement (SLA) – the expected level of service availability.
+
+Let me know if you’d like me to classify another requirement!
+
+
+Non-functional
+
+
+**Non-Functional Requirement (Specifically, Usability & Maintainability)**
+
+Here’s the breakdown of why it’s classified this way:
+
+*   **Focus on User Experience:** The requirement explicitly states “For non-programmers,” indicating a concern for the ease of use for users who aren’t technical experts.
+*   **Usability:** Customization of visual style (colors and icons) directly contributes to usability – making the system more approachable and intuitive for a broader audience.
+*   **Maintainability:**  Allowing visual customization simplifies maintenance by reducing the need for technical expertise to adjust the appearance of the system.
+
+**Key Characteristics:**
+
+*   It’s not a functional requirement (which describes *what* the system does).
+*   It’s not a performance requirement (which focuses on speed or efficiency).
+*   It’s a quality attribute – a characteristic of the system that impacts its overall value.
+
+Would you like me to elaborate on any aspect of this classification?
+
+
+**Functional Requirement:** This requirement clearly describes a specific function the system *must* perform – creating and managing FABS groups operating within the FREC (presumably Faculty Research and Education Committee) paradigm. 
+
+**Classification:**  It’s a core functional requirement, directly impacting how the system operates and manages data access and permissions. 
+
+Do you want me to elaborate on why it’s classified this way, or perhaps suggest a more specific categorization (e.g., security, access control)?
+
+
+**Non-Functional Requirement** – Specifically, a **Security Requirement**.
+
+Here’s why:
+
+*   **Focus on Security:** The core of the requirement is about preventing duplicate accounts and ensuring a unique identifier for each restaurant owner. This directly relates to security best practices.
+*   **Constraint:** The “if unavailable, choose another” clause introduces a constraint on the user experience, driven by a security need.
+
+Let me know if you’d like me to classify another requirement!
+
+
+Functional
+
+
+**Functional Requirement**
+
+This requirement describes a specific user interaction and system behavior – the redirection to the main page upon successful form completion. It’s directly tied to a core system function (user navigation) and is a key part of the overall user experience. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies *what* the system does (redirects the user).
+*   **System Behavior:** It defines a specific response of the system to a particular user action (filling out a form).
+*   **Measurable:**  The success of this requirement can be verified – does the user get redirected, or not?
+
+Would you like me to classify another requirement?
+
+
+**Non-Functional Requirement** – Specifically, a **Data Quality** or **Configuration** requirement.
+
+Here’s why:
+
+*   **Focus on System Behavior:** This requirement describes *how* the system should behave – it dictates that the system remembers and uses preferences and contextual information.
+*   **Impact on User Experience:**  Persistent defaults directly affect the user’s experience and the ease with which they can work with the system.
+*   **Not Core Functionality:** It’s not about *what* the system does (e.g., storing data) but *how* it does it in a way that’s tailored to the user.
+
+**Categories:**
+
+*   **Performance:** (Indirectly – efficient use of resources)
+*   **Usability:** (Directly – simplifies data entry)
+*   **Configuration:** (Explicitly – setting up system behavior)
+
+Would you like me to generate a short description of this requirement for documentation purposes?
+
+
+**Functional Requirement**
+
+This requirement directly describes a specific action a user (faculty) can perform within the system – uploading and downloading various types of files. This clearly defines a core functionality of the system. 
+
+**Justification:**
+
+*   **Action-Oriented:** It specifies a concrete task – uploading and downloading.
+*   **Content Type:** It defines the types of content involved (assignments, notices, journals, videos).
+
+Would you like me to classify another requirement?
+
+
+Functional
+
+
+
+**Non-Functional Requirement** – Specifically, this falls under **Availability** and **Portability**.
+
+Here’s why:
+
+*   **Availability:** It directly addresses the system’s ability to be accessed and used.
+*   **Portability:** It specifies the target platforms (Android and iOS), indicating the system needs to function correctly across those environments.
+
+It’s not a functional requirement (like “users can submit data”) but rather a characteristic of the system’s design.
+
+
+**Non-Functional Requirement (Technical Constraint)**
+
+**Reasoning:**
+
+This requirement dictates a specific technical prerequisite for the system to operate correctly. It’s not a requirement about *what* the system *should* do, but rather *how* it needs to be set up on the user’s end.  It’s a technical constraint that impacts usability and functionality – if Java or CSS aren’t enabled, the system won’t work as intended.  Therefore, it falls under the category of non-functional requirements, specifically a technical constraint.
+
+
+
+**Non-Functional**
+
+**Reasoning:**
+
+This requirement describes *tools* and *environments* used to *develop* and *manage* the system’s database. It’s about the development process and the tools used, not the core functionality of the system itself. It’s a technical dependency, but it doesn’t define what the system *does*.  It’s a constraint on how the system is built and maintained, rather than a feature of the system itself.
+
+
+**Functional Requirement**
+
+**Reasoning:**
+
+This requirement describes a specific action the system *must* perform – manipulating scanned documents (adjusting brightness and contrast). It’s not a constraint on *how* the system does something (like using a specific technology), but rather a defined capability.  It directly relates to a core function of the system.
+
+
+
+Functional
+
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+
+**Non-Functional Requirement - Performance**
+
+Here’s why:
+
+*   **Focus on Speed:** The requirement explicitly states “respond fast” and “keep up-to-date data.” This directly relates to system performance and responsiveness.
+*   **Impact on User Experience:** Fast response times are crucial for a good user experience, preventing delays and frustration.
+*   **Measurable:** Performance can be measured (e.g., response time, latency).
+
+**Therefore, it falls under the category of Performance.**
+
+Would you like me to elaborate on why other classifications might not be suitable?
+
+
+Functional
+
+
+Functional
+
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific action – the ability to completely remove a customer’s account and associated data – and its effect (no expectation of payment). It’s a defined process with a clear outcome.  It’s not a performance characteristic (like speed or availability) or a security measure. It’s a core operational capability. 
+
+Here's why it doesn't fit other categories:
+
+*   **Non-Functional:** It’s not about performance, reliability, security, or usability.
+*   **Data Integrity:** While it impacts data, the focus is on the *action* of removing data, not the rules governing data consistency.
+
+
+Functional
+
+
+Functional
+
+
+Non-functional
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific action the user can perform within the system – cutting items. It’s a clear, actionable instruction tied to a system function (the "Cut" button).  It’s not a quality attribute like performance or usability, but rather a core feature.
+
+
+Functional
+
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+**Functional Requirement:** This requirement describes a specific action a user can perform – viewing past tasks.
+
+**Priority:** High – This is a core feature expected in a task management system.
+
+**Rationale:** It directly impacts the user’s ability to access and utilize previously completed or archived tasks.
+
+
+
+**Functional:** This requirement clearly describes a specific action the user can perform – inputting a title and having it validated. It’s about a core system function.
+
+Here’s why it’s functional: It dictates a specific user interaction and a system response (validation).
+
+
+
+Functional
+
+
+
+Functional
+
+
+
+Functional
+
+
+**Functional**
+
+This requirement describes a core functionality – the display of search results. It’s about a system response to a user action (a search) and the presentation of that result. Therefore, it falls squarely within the realm of system functionality.
+
+
+
+Non-functional
+
+
+Functional
+
+
+
+Here’s a classification of that requirement, broken down by relevant categories:
+
+*   **Primary Classification:** **Data Input/Management** – This is the core function being described. The requirement focuses on adding new property information to the system.
+*   **Secondary Classification:** **User Interaction** – It involves a specific interaction between real estate professionals and the system.
+*   **Specific Category:** **Property Listing/Catalog Management** – This is the most granular category, describing the purpose of the data entry.
+
+**In short:** It’s a requirement for adding new property listings to the system, driven by interaction between real estate professionals and the system.
+
+
+Non-functional
+
+
+**Functional Requirement:** This requirement describes *what* the system *does*. It specifies a core function – data recovery and correction – which is a key capability of the system.
+
+**Priority:** High – Data reliability is paramount in this context. Any failure in this area would have significant consequences.
+
+**Reasoning:**
+
+*   **Action-Oriented:** The phrase "retransmit, reconstruct, or reprocess" clearly indicates an action the system must take.
+*   **Data Integrity Focus:** The goal is to ensure data reliability, directly relating to a fundamental system objective.
+
+Would you like me to classify another requirement, or perhaps elaborate on how this requirement might be implemented?
+
+
+Functional
+
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement directly relates to a specific, observable behavior of the system – changing the visual presentation of launchers. It’s not a general principle or constraint (like “non-functional”), nor is it a design decision (like “user-friendly interface”). It’s a concrete action the system must be able to perform.
+
+
+Non-functional
+
+
+Here’s a classification of the requirement: “System conducts health surveys to identify disease outbreaks, storing data offline if connectivity fails.”
+
+**Primary Classification:** **Data Collection & Management** – This is the core function being described.
+
+**Secondary Classifications & Attributes:**
+
+*   **Real-time Data Capture:** (Implied) – The system is designed to collect data as it happens.
+*   **Offline Functionality:** – A critical feature, indicating resilience and ability to operate in areas with limited connectivity.
+*   **Disease Surveillance:** – The purpose of the data collection is explicitly stated.
+*   **Data Integrity:** – The offline storage component highlights the importance of ensuring data accuracy and reliability.
+*   **Resilience:** – The system’s ability to continue functioning despite network interruptions.
+
+**Overall, this requirement falls squarely into the category of Data Collection and Management, with strong emphasis on reliability and operational capability.**
+
+Would you like me to elaborate on any of these aspects, or perhaps classify a different requirement?
+
+
+Functional
+
+
+
+Functional
+
+
+Functional
+
+
+Based on the provided requirements and the given requirement – “System shall be able to check if the withdrawal amount is within transaction limits and display the amount to be dispensed.” – this requirement falls under the category of:
+
+**Business Logic & Transaction Processing**
+
+Here’s why:
+
+*   **Transaction Limits:** This directly relates to enforcing rules around acceptable transaction amounts.
+*   **Displaying Information:** The requirement to display the dispensed amount is a crucial part of the transaction process, providing feedback to the user.
+
+**Further Breakdown:**
+
+*   **Functional Requirement:** It’s a core function of the system – processing withdrawals.
+*   **Data Validation:** It involves validating user input against predefined limits.
+*   **User Interface (UI) Display:** It impacts the user experience by providing clear information about the transaction.
+
+Would you like me to elaborate on any aspect of this classification, or perhaps provide a more detailed breakdown of the requirement’s components?
+
+
+Non-functional
+
+
+Functional
+
+
+**Functional Requirement:** This requirement directly relates to the core functionality of the system – displaying and interacting with map data.
+
+**Priority:** High – Clear and easy map interaction is fundamental to the system’s usability and effectiveness.
+
+**Justification:** The requirement specifies a key interaction (selecting a pin with a single click), which is a critical element for map-based applications. It’s not just about displaying the map, but about enabling users to *do* something with the map data.
+
+
+
+**Non-Functional Requirement** – Specifically, a **Performance Requirement** or **Concurrency Requirement**.
+
+Here’s why:
+
+*   **Focus on Behavior Under Load:** This requirement dictates *how* the system behaves when multiple users are trying to access it concurrently. It’s not a feature (like “user registration”) but a constraint on the system’s ability to handle multiple users.
+*   **Concurrency:** The core of the requirement is about managing simultaneous access, which is a fundamental aspect of concurrency.
+*   **Performance Impact:** The statement implies a performance limitation – the system *only* functions correctly with multiple terminals.
+
+Let me know if you’d like me to elaborate on any aspect of this classification!
+
+
+Non-functional
+
+
+Non-functional
+
+
+**Functional Requirement**
+
+This requirement describes a specific capability of the system – allowing users to select different Mahjong rule variations. This directly relates to a core feature and how the system operates. 
+
+**Reasoning:**
+
+*   **Actionable:** It specifies what a user *can do* within the system.
+*   **Specific:** It details a particular option (different Mahjong rule variations).
+*   **Impact:** It affects the user’s experience and the game’s mechanics.
+
+Would you like me to classify another requirement?
+
+
+Non-functional
+
+
+**Functional Requirement**
+
+This requirement falls squarely into the category of a functional requirement. It describes *what* the system must do – allow a user to play Mahjong – regardless of their existing knowledge. It’s a core feature of the application.
+
+Here's why it's not other classifications:
+
+*   **Non-Functional:** It doesn't describe a quality like performance, security, or usability.
+*   **Business Requirement:** It’s a feature request, not a strategic goal.
+*   **User Story:** While it could be part of a user story ("As a new player, I want to be able to play Mahjong without needing to learn the rules beforehand"), the core classification is still functional.
+
+Would you like me to elaborate on why this is a functional requirement, or perhaps suggest a more detailed way to phrase it for a requirements document?
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+**Classification:** **UI Customization / Themeing**
+
+**Reasoning:**
+
+This requirement directly addresses the ability to modify the visual presentation of the application’s interface. Specifically, it focuses on changing the *text elements* – essentially, the fonts, colors, and potentially the text content itself – within the application’s user interface. This falls squarely within the category of UI customization or themeing, allowing for personalization and potentially adapting the interface to different user preferences or branding needs. 
+
+It’s not about data manipulation, functionality changes, or system configuration – it’s purely about the *look and feel* of the interface.
+
+
+**Functional:** This requirement describes *what* the system does – it specifies the operating system (UNIX) and the core function (archival system). 
+
+Therefore, the classification is **Functional**.
+
+
+
+Functional
+
+
+Functional
+
+
+**Non-Functional** 
+
+**Reasoning:**
+
+This requirement focuses on the *technical* aspect of data storage and preservation – ensuring the audit trail exists for legal and recovery purposes. It’s about the system’s behavior and capabilities, rather than the specific functionality being provided to the user.  It’s a requirement for data integrity and system reliability, which falls under the category of non-functional requirements.
+
+
+Functional
+
+
+Functional
+
+
+
+This requirement falls under **Availability & Reliability**. 
+
+Here’s the breakdown:
+
+*   **24/7 Access:** Directly relates to the system’s availability and the user’s expectation of continuous access.
+*   **Planned Maintenance during Off-Peak Hours:** This explicitly addresses the system’s reliability – ensuring minimal disruption to users during times when they’re least impacted.
+
+**Therefore, it’s primarily a requirement for Availability & Reliability.** 
+
+It could also have elements related to Service Level Agreements (SLAs) if specific uptime percentages were defined.
+
+
+Functional
+
+
+Functional
+
+
+Non-functional
+
+
+**Non-Functional Requirement (Performance)**
+
+Here’s the breakdown of why it’s classified as a Non-Functional Requirement – specifically a Performance Requirement:
+
+*   **Focus on System Behavior:** This requirement isn’t about *what* the system does (e.g., “The system must return search results”) but *how well* it does it. It’s about the speed and responsiveness of the search function.
+*   **Measurable:** The requirement includes specific targets (2 seconds, ideally 1 second) and a method for measuring it (1000 searches during testing). This is a key characteristic of non-functional requirements.
+*   **Impact on User Experience:**  A slow search response time would negatively impact the user experience.
+
+**Key Characteristics of a Non-Functional Requirement:**
+
+*   Often describes qualities like performance, security, usability, reliability, scalability, etc.
+*   Typically expressed as constraints or targets (e.g., “must be within X seconds”).
+*   Doesn’t directly dictate the system’s functionality but influences how that functionality is implemented.
+
+Would you like me to elaborate on any aspect of this classification, or perhaps provide an example of how this type of requirement would be documented in a requirements specification?
+
+
+Functional
+
+
+Non-functional
+
+
+**Non-Functional**
+
+**Reasoning:**
+
+This requirement describes a fallback mechanism – what the system *does* if something isn’t provided by another system (ESOC). It’s about system behavior and resilience, not the core functionality being delivered. It’s about how the system handles a potential failure or missing input, rather than the data itself. Therefore, it falls under the category of non-functional requirements, specifically related to robustness and error handling.
+
+
+Functional
+
+
+**Functional:** This requirement describes a core system function – the approval workflow for requests. It outlines the process of review, notification, and status updates.
+
+**Priority:** High – This is a fundamental requirement for managing requests and ensuring efficient operations.
+
+**Keywords:** Approval Workflow, Request Management, Notifications, Status Updates, User Roles.
+
+
+Functional
+
+
+Functional
+
+
+
+**Non-Functional Requirement**
+
+Here’s why:
+
+*   **Focus on Behavior/Performance:** This requirement describes *how* the system behaves (displaying results or a "no matches" message) rather than *what* the system does (e.g., searching a database).
+*   **Performance/Error Handling:** It’s fundamentally about the system’s response to a query – a core aspect of system performance and error handling.
+*   **Testability:** It’s easily testable – you can verify that the system displays the correct message under different conditions (successful search, no results).
+
+**Therefore, it’s a Non-Functional Requirement (NFR)** – specifically related to system behavior, performance, and error handling.
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+
+Non-functional
+
+
+Functional
+
+
+
+Functional
+
+
+Functional
+
+
+**Functional Requirement**
+
+This requirement describes *what* the system must do – it specifies the action of deleting a blog and the process involved. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It clearly states an action the user can perform (delete a blog).
+*   **Process-Driven:** It outlines the steps the system takes to fulfill that action (validation and database update).
+
+Let me know if you’d like me to classify another requirement!
+
+
+Non-functional
+
+
+**Non-Functional Requirement** – Specifically, a **Reliability** requirement.
+
+**Reasoning:**
+
+This requirement focuses on *how* the system behaves when things go wrong. It’s not about *what* the system does, but about *preventing* errors from occurring in the first place.  Sanity checks and limiting free-text input are directly related to reducing the likelihood of user errors and, consequently, system errors.  It’s a design choice aimed at improving the system’s robustness and reliability.
+
+
+Functional
+
+
+
+**Non-Functional Requirement** – Specifically, a **Performance Requirement** and a **Reliability Requirement**.
+
+Here’s the breakdown:
+
+*   **Performance:** The requirement emphasizes “responsive and reliable translation experiences,” directly relating to speed and efficiency – key aspects of performance.
+*   **Reliability:** The phrase “without internet reliance” highlights the need for the system to function correctly even when network connectivity is unavailable, a core element of reliability.
+
+Would you like me to elaborate on why this is classified as a non-functional requirement, or perhaps provide a more detailed description of its characteristics?
+
+
+**Security & Access Control**
+
+This requirement falls squarely into the category of **Security & Access Control**. It dictates that sensitive information (bidder details and quantity) is restricted to authorized personnel – specifically, administrators. This is a fundamental security principle – least privilege. 
+
+Here’s why it’s classified this way:
+
+*   **Data Sensitivity:** The information is likely considered sensitive, potentially impacting competitive bidding processes.
+*   **Role-Based Access:** It clearly defines access rights based on user roles (Admin vs. other users).
+*   **Protection Against Unauthorized Access:** The requirement aims to prevent unauthorized individuals from gaining insight into bidding strategies.
+
+Would you like me to elaborate on any aspect of this classification, or perhaps suggest related requirements that might be relevant?
+
+
+**Functional Requirement**
+
+This requirement directly relates to a core function of the system – managing assignments. It’s a clear action the user can perform within the system. 
+
+Here's why it's classified as functional:
+
+*   **Actionable:** It describes a specific action a user can take.
+*   **System Impact:**  Changing the assignment name will directly affect the system’s data and how assignments are tracked.
+
+Would you like me to provide a short justification for this classification?
+
+
+**Non-Functional Requirement** – Specifically, a **Service Level Agreement (SLA)** requirement.
+
+**Reasoning:**
+
+*   **“Shall be available”** – This indicates a desired state of operation.
+*   **“24/7”** – This defines the availability expectation, a key component of an SLA.
+
+It’s not a functional requirement because it doesn’t describe *what* the system *does*, but rather *how well* it performs (its availability).
+
+
+**Non-Functional Requirement** – Specifically, this falls under **Usability** and **Reliability**.
+
+Here’s why:
+
+*   **Usability:** A clear, informative error message directly impacts the user’s ability to understand and correct the problem, improving the overall user experience.
+*   **Reliability:**  A robust error message helps ensure the system behaves predictably and doesn’t silently fail, preventing data loss or further issues.
+
+It’s not a functional requirement (defining *what* the system does) but rather a requirement about *how* the system behaves when something goes wrong.
+
+
+Functional
+
+
+
+**Non-Functional Requirement** – Specifically, a **Performance Requirement** or **Availability Requirement**.
+
+Here’s why:
+
+*   **Availability:** This requirement directly impacts the system’s ability to be *available* for use. Without an internet connection, the system is effectively unavailable.
+*   **Performance:** It also relates to performance, as the system’s responsiveness and functionality are entirely dependent on a network connection.
+
+It’s not a functional requirement (like “The system shall allow users to log in”) because it describes a *condition* for the system to operate.
+
+
+Functional
+
+
+Functional
+
+
+
+Non-functional
+
+
+**Non-Functional Requirement (Performance)**
+
+Here’s why:
+
+*   **Focus on Capacity:** This requirement directly addresses the system’s ability to handle a high volume of transactions – a core performance characteristic.
+*   **Quantifiable Metric:** It specifies a precise number (20,000 transactions per minute) – a key element of performance requirements.
+*   **Context – Peak Workload:** The phrase “peak workload conditions” clarifies that this is a stress test scenario, not a typical operating condition.
+
+**Classification Breakdown:**
+
+*   **Category:** Performance
+*   **Type:** Capacity/Throughput
+*   **Priority:** Likely High – Handling a large volume of transactions is critical for many applications.
+
+Would you like me to elaborate on any aspect of this classification or perhaps generate a more formal requirement statement based on this?
+
+
+Functional
+
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific *action* a user can take within the system – swiping to view the next product. It dictates a core interaction and a system behavior.  It’s not about usability, performance, or user satisfaction – those are all aspects of *usability*, but this requirement is about *what* the user can do. 
+
+Let me know if you’d like me to classify another requirement!
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+**Non-Functional Requirement** – Specifically, this falls under **Usability** and **Data Integrity**.
+
+Here’s why:
+
+*   **Usability:** Accurate symptom input is *crucial* for the system to function correctly and provide useful predictions. A poorly inputted symptom will lead to a flawed prediction.
+*   **Data Integrity:** The system relies on the accuracy of the data provided. Incorrect symptom input directly impacts the quality and reliability of the system’s output.
+
+**Classification:**  It’s a requirement for *how* the user interacts with the system, rather than a core feature or function.
+
+
+Non-functional
+
+
+**Functional**
+
+**Reasoning:** This requirement describes a specific behavior – the automatic updating of dataset instances with new code upon deployment of a new version. It dictates *what* the system should do, rather than *how* it should do it. This aligns with the core function of a data management system.
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement directly dictates *what* the system *does*. It specifies a core functionality – defining data types – which is essential for data validation, storage, and processing. It’s not about *how* the system does it, but rather the fundamental data structure it enforces.
+
+
+Functional
+
+
+
+Functional
+
+
+**Non-Functional Requirement** – Specifically, a performance or usability requirement.
+
+**Reasoning:**
+
+This requirement dictates *how* the system *behaves* under a certain condition (adding new ideas). It’s not about *what* the system does (e.g., creating a task), but rather about the user experience – preventing unwanted automatic scrolling.  These types of requirements often relate to performance, responsiveness, or user interface design.
+
+
+Functional
+
+
+
+Functional
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a core capability of the system – the ability to interact with the device’s hardware components (camera, gallery, microphone). This directly relates to the system’s intended use and is a fundamental feature. It’s not a design aesthetic or a user experience element, but rather a technical requirement for the system to operate.
+
+
+Functional
+
+
+
+**Non-Functional Requirement** – Specifically, a **Performance/Technical Requirement**.
+
+Here’s why:
+
+*   **Focus on Technical Capability:** This requirement describes a core technical function – calculating distances and accessing geolocation. It’s not about user experience, usability, or a specific feature.
+*   **Performance Implication:** The phrase “efficiently” (implied by “perform distance calculations”) points to a performance consideration – how quickly and accurately the system can handle this task.
+*   **Underlying Technology:** It’s fundamentally about the system’s ability to utilize location services and distance algorithms.
+
+**Categories it falls under:**
+
+*   **Accuracy:** (Related to the precision of distance calculations)
+*   **Performance:** (Related to speed and efficiency)
+*   **Technical:** (A core technical capability)
+
+
+Functional
+
+
+
+**Functional Requirement:** This requirement describes *what* the application does – it allows users to interact with the app through the Google Play Store for key actions like installation, updates, and providing feedback.
+
+**Classification:**  This would likely fall under a category like: **User Interface & Interaction** or **User Management**. 
+
+It’s a core functionality related to how a user interacts with the application.
+
+
+
+Here's a classification of the requirement: “Web-based displays of the most current ASPERA-3 data shall be provided for public view.”
+
+**Primary Classification:** **Data Access & Visualization** – This is the core function being requested. It’s about making data accessible and presenting it in a usable format.
+
+**Secondary Classifications & Attributes:**
+
+*   **Public Access:**  Clearly indicates a requirement for external users.
+*   **Real-time/Near Real-time:** “Most current” suggests a need for relatively up-to-date data.
+*   **Web-Based:** Specifies the delivery method.
+*   **Data Source:** ASPERA-3 is identified as the data source.
+
+**Overall, this requirement falls squarely within the category of Data Access & Visualization, with a strong emphasis on public dissemination.**
+
+Would you like me to elaborate on any aspect of this classification, or perhaps generate a more detailed requirement statement based on this classification?
+
+
+Non-functional
+
+
+Functional
+
+
+
+Functional
+
+
+**Non-Functional Requirement** – Specifically, a **Performance & Reliability** requirement.
+
+Here’s why:
+
+*   **Focus on System Behavior:** This requirement describes *how* the BE system should behave – it’s checking the health of its processors.
+*   **Reliability Aspect:** It directly relates to the system’s reliability by ensuring that critical processors are functioning correctly.
+*   **Performance Implication:**  A failing processor would impact performance, so this requirement contributes to overall system responsiveness.
+
+**Classification:**  Performance & Reliability
+
+
+Functional
+
+
+Functional
+
+
+**Functional Requirement**
+
+This requirement describes a specific data display – a tabular representation of stock data (price, high/low, P/E ratio). It dictates *what* the system should show.  It’s directly related to the core functionality of the application.
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies an action – displaying data.
+*   **Data-Driven:** It defines the type and format of the data to be presented.
+*   **Core Functionality:**  This is a key piece of information for users interested in stock analysis.
+
+
+Non-functional
+
+
+**Non-Functional Requirement** – Specifically, a **Performance Requirement** or **Constraints Requirement**.
+
+Here’s why:
+
+*   **Constraints:** This requirement directly limits the system’s capabilities – it dictates a specific screen resolution. This is a technical limitation.
+*   **Performance:**  A lower resolution impacts the *performance* of the user interface and the visual experience. It’s not a feature or functionality, but a technical constraint that affects how the system *performs*.
+
+Let me know if you’d like me to classify another requirement!
+
+
+Functional
+
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement directly describes a specific action a user can take within the system – accessing a list of training options. It’s about a core functionality of the system (providing access to training information).  It’s not about usability, performance, or any other non-functional aspect.
+
+
+Functional
+
+
+**Functional Requirement**
+
+This requirement directly relates to a core functionality of the system – searching for restaurants. It specifies a particular search parameter (distance range) and how the user can define it.  It’s a clear instruction for the system to implement.
+
+**Priority:** High – Distance is a key factor in restaurant searches.
+
+Would you like me to elaborate on why it’s classified as a functional requirement, or perhaps suggest related requirements?
+
+
+Non-functional
+
+
+Functional
+
+
+
+Functional
+
+
+Non-functional
+
+
+**Functional Requirement**
+
+This requirement directly relates to a core function of the TCS – ensuring the AV is executing the intended mission. It’s about data monitoring and verification, a key operational capability. 
+
+Here’s why it’s classified as functional:
+
+*   **Actionable:** It describes what the system *must do* – monitor payload behavior.
+*   **Measurable:** The degree of adherence can be quantified (e.g., deviation from planned route, speed, altitude).
+*   **Impacts System Behavior:**  If the system fails to monitor, it impacts the overall mission success.
+
+Would you like me to elaborate on any aspect of this classification?
+
+
+**Non-Functional Requirement (Performance)**
+
+This requirement falls squarely into the category of performance requirements. Specifically, it’s a **response time** requirement. It dictates a specific, measurable performance target – less than 5 seconds – under a defined condition (heavy loads). 
+
+Here’s why it’s classified this way:
+
+*   **Measurable:** “Less than 5 seconds” is a quantifiable metric.
+*   **Performance-Related:** It directly addresses how quickly the system responds to user actions.
+*   **Testable:** This requirement can be rigorously tested under simulated heavy load conditions.
+
+Would you like me to elaborate on any aspect of this classification, such as how this requirement might be tested or how it relates to other types of requirements?
+
+
+This requirement falls under **Availability** and **Reliability**. Here’s a breakdown:
+
+*   **Availability:** The core of the requirement – “without complete loss of service” – directly addresses availability. It’s stating the system must remain operational.
+*   **Reliability:** The phrase “except in the event of total failure of primary and backup power” highlights the system’s reliability. It acknowledges that failures *will* happen, but emphasizes the need for robust backup power to mitigate their impact.
+
+**Classification:**  **High Priority Availability & Reliability** 
+
+**Further Considerations:** This requirement suggests a focus on redundancy and fault tolerance – key aspects of ensuring a highly available system.
+
+
+**Classification:** Functional Requirement
+
+**Reasoning:**
+
+This requirement directly describes a core function of the system – displaying diagnostic results. It specifies *what* the system needs to do (display results) and *how* it should be presented (graphical and textual format). This aligns with the definition of a functional requirement, which outlines what a system *does*. 
+
+Here's why it's not a non-functional requirement: It doesn't describe a quality attribute like performance, security, or usability. It’s a specific action the system must perform.
+
+
+**Non-Functional Requirement**
+
+**Reasoning:**
+
+This requirement describes a technical implementation detail – how the database is structured – to improve data retrieval. It’s not a functional requirement (what the system *does*) but rather a characteristic of *how* it’s implemented. It’s about efficiency and ease of access, which falls under the umbrella of non-functional qualities like performance and maintainability.
+
+
+Non-functional
+
+
+Functional
+
+
+**Functional**
+
+This requirement describes a specific calculation within the system – determining brokerage. It’s a core function the system needs to perform. 
+
+Here’s why it’s classified as Functional:
+
+*   **Action-Oriented:** It describes what the system *does* – calculates brokerage.
+*   **Core Logic:** It represents a fundamental piece of the system’s operational logic.
+
+Would you like me to classify another requirement?
+
+
+**Functional Requirement:** This requirement directly dictates *what* the system *does* – it’s responsible for displaying data from specific applications.
+
+**Priority:** High – This is a core function of the system, likely essential for its primary purpose.
+
+**Classification:** Data Display / Integration
+
+---
+
+Do you want me to classify another requirement, or would you like me to elaborate on any of the above classifications?
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement directly describes a specific action the TCS must perform – controlling the ADT antenna. It’s a clear statement of a function the system needs to execute. It doesn’t relate to performance, security, or any other non-functional characteristic.
+
+
+**Non-Functional**
+
+Here’s why:
+
+*   **Focus on Error Handling:** This requirement directly addresses how the system *responds* to errors – trapping, flagging, and repairing them. This is a core aspect of system robustness and reliability.
+*   **Technical Detail:** It’s a highly technical specification detailing a specific error handling mechanism.
+*   **Impact on System Behavior:** It dictates how the system behaves when encountering problematic data or calculations.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional:** This requirement directly relates to a core feature of the application – the ability to personalize the user experience through a customizable avatar. 
+
+**Detailed Classification:**
+
+*   **Feature Enhancement:** It’s an enhancement to the existing user profile system.
+*   **Integration Dependency:** It relies on integration with a third-party service (Bitmoji).
+*   **User Customization:** It caters to user preferences and self-expression.
+
+Would you like me to classify another requirement?
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+**Non-Functional Requirement (Performance)**
+
+Here’s why:
+
+*   **Focus on Speed:** The requirement explicitly states “within 2 seconds,” directly addressing response time – a key performance metric.
+*   **User Experience Impact:**  A slow response time negatively impacts the user experience.
+*   **Measurable:**  “2 seconds” provides a quantifiable target for testing and verification.
+
+Therefore, it falls squarely into the category of performance requirements.
+
+
+Functional
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific action the system must perform – allowing students to access the class schedule and assignment sharing using their RU credentials. It’s about a core system function. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies *what* the system needs to do (provide access).
+*   **System Behavior:** It defines how the system should behave when a student logs in.
+
+Let me know if you’d like me to classify another requirement!
+
+
+Functional
+
+
+Functional
+
+
+
+Functional
+
+
+**Non-Functional Requirement (NFR)** – Specifically, a **Performance Requirement** or **Quality Attribute**.
+
+Here’s why:
+
+* **Focus on Quality:** This requirement directly addresses a key aspect of the system’s quality – its ability to function reliably.  A stable internet connection is *essential* for the core functionality.
+* **Performance Impact:** It’s about the *performance* of the system.  An unstable connection will lead to poor gameplay, disconnections, and a frustrating user experience.
+* **Constraint:** It’s a constraint on the system – it dictates a necessary condition for operation.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional Requirement:** This requirement directly relates to a core business process – handling returns. It specifies *what* the system needs to do (process returns, record details) and *how* (within a timeframe).
+
+**Classification:**  This would likely fall under categories like:
+
+*   **Inventory Management:** (Because it involves handling returned stock)
+*   **Order Management:** (Related to processing returns of ordered items)
+*   **Returns Processing:** (A specific, dedicated category)
+
+**Priority:** High – Returns processing is a critical operational function.
+
+---
+
+Would you like me to classify another requirement, or perhaps elaborate on how this one might be implemented (e.g., suggesting potential data fields to capture)?
+
+
+**Non-Functional Requirement** – Specifically, a requirement related to **Data Privacy & Security**.
+
+**Reasoning:**
+
+This requirement dictates *how* information is presented to the user. It’s not about *what* the system does (like booking a hotel or searching for restaurants), but rather about controlling access to data and preventing unauthorized disclosure.  It’s a constraint on the system’s behavior, ensuring a specific level of data protection. 
+
+Here's why other classifications wouldn't fit as well:
+
+*   **Functional Requirement:** It doesn’t describe a core function of the system.
+*   **Usability Requirement:** While it impacts the user experience, it’s primarily about data access, not ease of use.
+
+
+Non-functional
+
+
+**Non-Functional Requirement (Performance)**
+
+Here’s why:
+
+*   **Focus on Performance:** This requirement directly addresses how quickly and efficiently the system operates – specifically, the number of errors a user makes within a timeframe.
+*   **Measurable:** “Less than 3 mistakes” is a quantifiable metric.
+*   **Impact on User Experience:** It’s about the user’s experience – minimizing errors leads to a smoother, more productive interaction.
+
+Let me know if you’d like to classify another requirement!
+
+
+**Non-Functional Requirement**
+
+This requirement specifies a technical constraint – the supported operating systems. It’s not about *how* the system performs, but *what* platforms it can run on. Therefore, it falls under the category of non-functional requirements, specifically related to **Compatibility** or **Platform Support**.
+
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+
+**Non-Functional Requirement** – Specifically, it’s a **Availability Requirement**. 
+
+Here’s why:
+
+*   **Focus on System Behavior:** This requirement describes *how* the system should behave (always available) rather than *what* it should do (e.g., display a search bar).
+*   **Service Level:** It establishes a service level agreement (SLA) – the system must be accessible at all times.
+*   **Reliability:** It’s a core aspect of system reliability.
+
+Would you like me to classify another requirement?
+
+
+**Functional**
+
+**Reasoning:** This requirement describes a specific action a user can take within the system – selecting a recruitment option and then choosing a form related to certificates. This directly relates to a system function and how a user interacts with it. It’s not a general design principle or constraint.
+
+
+Functional
+
+
+**Functional Requirement**
+
+This requirement directly describes a specific action the system *must* perform – generating a confirmation message with key details. It’s about the system’s behavior and output. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies what the system *does* (creates and sends a confirmation).
+*   **Data-Related:** It defines the content of the confirmation – specific data elements (case number, chargeback type, due date).
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Non-Functional Requirement** – Specifically, a **Usability** requirement.
+
+**Reasoning:**
+
+This requirement describes *how* a user interacts with the system (clicking on an address). It’s not about *what* the system does (e.g., displaying a map), but rather the ease and efficiency of that interaction.  It’s a quality attribute related to the user experience.
+
+
+
+Functional
+
+
+**Non-Functional Requirement**
+
+Here’s why:
+
+*   **Focus on Quality/Performance:** This requirement is about the *accuracy* of data – a key aspect of system quality and performance.
+*   **Measurable:** “Accuracy greater than 40%” provides a quantifiable target.
+*   **Not Core Functionality:** It’s not about *what* the system does (e.g., displaying events) but *how well* it does it.
+
+Let me know if you’d like to classify another requirement!
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+**Functional**
+
+**Reasoning:** This requirement describes a core data management function – creating and maintaining a list of symptoms. This directly relates to the system’s ability to process patient information and generate consultation requests. It’s a fundamental operational requirement, not a user interface or experience element.
+
+
+**Functional:** This requirement describes *what* the system does – it allows users to create slideshows with customizable elements.
+
+**Non-Functional (Usability):** It also implicitly addresses usability by stating it should be “effortless” and “user-friendly.”  The emphasis on “effortless” and “user-friendly” leans heavily into the non-functional aspect of ease of use.
+
+**Therefore, the best classification is: Functional & Non-Functional (Usability)**
+
+
+**Non-Functional** 
+
+This requirement explicitly states it’s about enhancing *non-functional* qualities – performance, security, user experience, reliability, and availability.  It’s not a feature or a specific functionality, but rather a directive to improve the *how* the system operates.
+
+
+**Functional Requirement**
+
+**Reasoning:**
+
+This requirement describes a specific action the system *must* perform – displaying a sorted list of thumbnails. It dictates a particular behavior (sorting by date) and a visual output (thumbnails). This clearly falls under the category of what the system *does*. 
+
+Here's a breakdown of why it's not other classifications:
+
+*   **Non-Functional Requirement:** While presentation is involved, it’s not about performance, security, or usability – those are non-functional.
+*   **Data Requirement:** It’s not simply about *storing* the data; it’s about *displaying* it in a specific order.
+
+
+Non-functional
+
+
+Functional
+
+
+**Functional Requirement**
+
+**Justification:**
+
+This requirement directly describes *what* the system must do – it dictates the information displayed to the operator. It’s about a specific output and a core function of the system (providing mission planning data).  It’s not a constraint on performance or a quality attribute. 
+
+Would you like me to classify any other requirements?
+
+
+Functional
+
+
+Functional
+
+
+
+Functional
+
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+**Non-Functional Requirement** – Specifically, a **Reliability** requirement.
+
+**Reasoning:**
+
+*   **Focus on System Behavior:** This requirement describes *how* the Teams app should behave under adverse conditions (service outages). It’s not about a specific feature or functionality.
+*   **Availability:** The core concept is ensuring the app remains operational and accessible to users despite potential failures.
+*   **Quality Attribute:** High availability is a key quality attribute of software systems, focusing on reliability and uptime.
+
+Would you like me to classify another requirement?
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+
+**Non-Functional Requirement** – Specifically, a **Performance Requirement**.
+
+**Reasoning:**
+
+This requirement focuses on a *measurable* aspect of the system’s behavior – the time it takes to deliver a report.  It’s not about *what* the report contains (that’s a functional requirement), but *how quickly* it’s delivered.  The 10-second timeframe is a key performance indicator (KPI) for the system’s responsiveness.
+
+
+Functional
+
+
+**Non-Functional Requirement** – Specifically, a requirement related to **Usability** and **Accessibility**.
+
+Here’s why:
+
+*   **Usability:** It describes how a user can access and utilize the core functionality of the app – downloading it.
+*   **Accessibility:** It highlights the availability of the app through common distribution channels (app stores) without incurring a cost.
+
+It’s not a feature (like “video chat”) or a data requirement. It’s a stipulation about *how* a user gets access to the application.
+
+
+Functional
+
+
+Functional
+
+
+
+This requirement falls under **Scalability & Maintainability**. 
+
+Here’s a breakdown of why:
+
+* **Scalability:** The core of the requirement – “meet increasing data transfer and processing demands” – directly addresses scalability. It’s about the system’s ability to handle growing workloads.
+* **Maintainability:** The terms “expandable, reconfigureable, augmentable, and replaceable” highlight the need for a system that’s easy to modify, upgrade, and repair, crucial for long-term operation and adapting to evolving scientific needs.
+
+**Therefore, the primary classification is Scalability & Maintainability.** 
+
+It also has elements of **Hardware Design** due to the focus on hardware components, but the overarching goal is about the system’s ability to adapt and grow.
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+
+**Non-Functional Requirement** – Specifically, it’s a **Performance Requirement** and a **Usability Requirement**.
+
+Here’s why:
+
+*   **Performance:** The requirement focuses on *accessibility* of help resources, which directly relates to how quickly a user can get assistance – a key aspect of system performance.
+*   **Usability:**  Easy access to help resources is a core element of a usable system.  If users can’t easily find help, the system’s usability is compromised.
+
+Would you like me to elaborate on why this is classified as a non-functional requirement, or perhaps provide an example of how this requirement might be tested?
+
+
+Non-functional
+
+
+**Non-Functional Requirement** – Specifically, a **Security Requirement** or **Data Integrity Requirement**.
+
+**Reasoning:**
+
+This requirement dictates a fundamental constraint on how users interact with the system. It’s not about *what* the system does, but *how* it manages user identities and data.  It directly relates to security (preventing multiple accounts from a single student) and ensuring data consistency (avoiding confusion and errors due to multiple accounts).
+
+
+
+Functional
+
+
+**Functional Requirement**
+
+This requirement directly relates to a core function of the system – displaying availability. It’s about a specific action a user can take (checking seat availability) to inform a decision (registering). 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It describes a specific action a user can perform.
+*   **System Behavior:** It dictates how the system responds to a user’s request (showing seat counts).
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Error Handling / Negative Constraint** 
+
+This requirement falls squarely into the category of error handling. It dictates a specific behavior (notifying the user) when a negative condition is encountered (no matching product found). 
+
+Here’s why it’s classified this way:
+
+*   **Negative Constraint:** It’s not a positive action; it’s a response to a lack of a desired outcome.
+*   **Error Handling:** It’s a mechanism to inform the user that the search didn’t yield results, which is a potential source of confusion or frustration.
+
+Would you like me to generate a concise statement of this requirement?
+
+
+Functional
+
+
+Functional
+
+
+**Non-Functional Requirement** 
+
+**Reasoning:**
+
+This requirement focuses on a quality attribute of the system – readability and clarity. It’s not about *what* the system does (functional), but *how well* it does it.  Ensuring error-free text is a characteristic of a well-designed and reliable system, falling under the category of usability and quality. 
+
+Would you like me to classify another requirement?
+
+
+Functional
+
+
+
+**Non-Functional Requirement**
+
+This requirement falls under a non-functional requirement because it describes a *quality* of the system – specifically, its compatibility with older versions of Windows. It’s not about *what* the system does, but *how well* it does it (in terms of compatibility). 
+
+Here’s why:
+
+*   **Focus on Quality:** The requirement is about ensuring a certain level of usability and functionality across a range of older systems.
+*   **Not Core Functionality:** It’s not a core feature of the system itself, but rather a constraint or consideration for its development.
+
+Would you like me to elaborate on why this is classified as a non-functional requirement?
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+**Functional Requirement**
+
+This requirement describes *what* the system needs to do – generate a CMA report. It’s a core function the system must perform. 
+
+Here’s why it’s functional and not non-functional:
+
+*   **Action-oriented:** It specifies a specific action (generating a CMA report).
+*   **Measurable:** The system’s success is determined by whether it produces a valid CMA report.
+
+Would you like me to classify another requirement?
+
+
+**Functional Requirement**
+
+**Justification:**
+
+This requirement dictates a specific process flow and access control within the system. It clearly outlines a defined workflow (requiring two approvals) based on the type of request. This directly impacts how users can interact with the system and is a core function of the system’s operation.  It’s not a quality attribute (like performance or usability) but a core operational rule.
+
+**Category:** Access Control / Workflow Management
+
+
+Functional
+
+
+Non-functional
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific action the system *must* perform – outputting a temperature status. It’s a core function of the system based on a defined input (temperature measurement) and a set of rules (comparing to LO and UO).  It’s not about performance, availability, or any other non-functional characteristic.
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+
+Functional
+
+
+**Functional Requirement**
+
+This requirement directly describes *what* the application should do – display specific buttons on the initial screen. It’s a core function of the application. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies a clear action – displaying buttons.
+*   **Measurable:** You can verify if the requirement is met by checking if the buttons are present on the initial screen.
+
+Would you like me to elaborate on why it’s a functional requirement, or perhaps suggest how it could be broken down into smaller, more manageable requirements?
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+**Non-Functional Requirement** 
+
+**Reasoning:**
+
+This requirement describes a constraint on system behavior – specifically, how an administrator interacts with a customer’s engaged menu. It’s not a feature or a desired outcome, but rather a rule governing the system’s operation.  It’s about *how* the system should behave, not *what* it should do.  Therefore, it falls under the category of non-functional requirements, which often deal with qualities like constraints, performance, security, or usability.
+
+
+Based on the provided requirements and the given scenario, this requirement would be classified as **Functional**.
+
+Here’s why:
+
+*   **Functional Requirements** define *what* the system should do. This requirement clearly states an action – managing a part-time student’s course progression – and specifies the actions involved (modifying sequence and timeline). It’s about a specific capability the system needs to provide.
+
+Let's look at why it's *not* other classifications:
+
+*   **Non-Functional Requirements:** These deal with *how* the system performs (e.g., performance, security, usability). This requirement doesn't focus on speed, reliability, or user experience.
+*   **Data Requirements:** This describes the data the system needs to store or process, not the actions performed.
+
+Do you want me to elaborate further on why this classification is appropriate, or perhaps provide an example of another requirement and its classification?
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+This requirement is primarily **Performance** and **Scalability**. Here’s a breakdown:
+
+*   **Performance (Specifically Response Time):** The “maximum response time of 2 seconds” directly relates to performance – how quickly the system responds to user requests.
+*   **Scalability:** The “10,000 concurrent users” indicates a need for the system to handle a large number of simultaneous users, which is a key aspect of scalability.
+
+**Therefore, it’s best classified as a Performance and Scalability requirement.**
+
+It could also be considered a **Capacity Requirement** as it defines the system's ability to handle a specific load.
+
+
+Functional
+
+
+**Functional**
+
+**Reasoning:** This requirement describes a specific action the system must perform – finding cinemas based on location and date. It’s a clear, defined function of the application. It’s not a general usability guideline or a quality attribute.
+
+
+**Non-Functional**
+
+**Reasoning:**
+
+This requirement describes *how* the Stock Master system should be tested – the specific types of tests to be performed. It’s about the *process* of testing, not the functionality itself.  Stress testing, authorization tests, and traversing forms are all aspects of the testing methodology.  Therefore, it falls under the category of non-functional requirements, which define *how* the system should behave, rather than *what* it should do.
+
+
+Functional
+
+
+
+Non-functional
+
+
+**Non-Functional Requirement**
+
+**Reasoning:**
+
+This requirement dictates a specific technical constraint – the server’s architecture and resource allocation. It’s about *how* the system is built and operates, focusing on isolation and performance.  It’s not a feature or a user-facing behavior, but rather a technical specification. Therefore, it falls under the category of non-functional requirements, specifically related to system architecture and stability.
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+**Non-Functional Requirement (Availability)**
+
+Here’s why:
+
+*   **Focus on Uptime:** The requirement explicitly states “highly available during working hours,” directly addressing the system’s availability – how reliably it’s accessible when users need it.
+*   **Operational Constraints:** The clause about maintenance occurring outside working hours defines a constraint on the system’s operation, a key characteristic of non-functional requirements.
+
+**Key Characteristics of this Requirement:**
+
+*   **Availability:** This is the primary concern.
+*   **Operational Window:** It specifies the times when the system *must* be available.
+*   **Maintenance Strategy:** It outlines *when* maintenance can occur, impacting the system’s overall resilience.
+
+Would you like me to elaborate on any aspect of this classification, or perhaps provide an example of how this requirement might be tested?
+
+
+**Non-Functional Requirement (Usability/User Experience)**
+
+**Reasoning:**
+
+This requirement directly addresses how the system *presents* information to the user. It’s concerned with minimizing disruption and maximizing efficiency – core aspects of usability.  It’s not about *what* the system does, but *how* it presents itself.  Splash screens, by their nature, are often considered disruptive. Therefore, this falls squarely into the category of usability/user experience.
+
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific action a college can perform – registering for exams. It’s about a capability the system must provide.  It’s not a constraint on performance, availability, or scalability – those would be non-functional requirements.
+
+
+Non-functional
+
+
+**Category:** Reliability & Fault Tolerance
+
+**Specific Sub-Category:** Redundancy & Failover
+
+**Explanation:** This requirement directly addresses a critical aspect of system reliability – the ability to maintain service continuity in the event of a system failure. The “replacement page” signifies a failover mechanism, ensuring users continue to access the system even when the primary components are unavailable. 
+
+Would you like me to classify another requirement?
+
+
+Functional
+
+
+
+**Functional Requirement**
+
+This requirement clearly dictates *what* data is displayed – MSEL Summary data. It’s a specific piece of information the system *must* present. 
+
+Here’s why it’s classified as functional:
+
+*   **Actionable:** It describes a specific output of the system.
+*   **Measurable:** The system’s performance can be evaluated based on whether it correctly displays the MSEL Summary data.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional**
+
+This requirement describes a specific action the system *must* perform – sending a message indicating an invalid bank code. It’s about a defined behavior and outcome, making it a functional requirement.
+
+
+Functional
+
+
+Functional
+
+
+
+Functional
+
+
+
+Non-functional
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific *capability* the user should be able to achieve – creating and manipulating videos with various elements. It’s about what the user *can do* with the system, not just a general quality or experience.  It’s a feature request, and therefore falls under the functional category.
+
+
+
+Functional
+
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+**Functional Requirement** – Specifically, this falls under the category of **Search Functionality**. 
+
+Here’s why:
+
+*   **Actionable:** It describes a clear action a user can take (searching for blogs).
+*   **Result-Oriented:** It specifies the desired outcome (displaying matching results).
+
+It’s a core feature related to content discovery within the system.
+
+
+Non-functional
+
+
+**Non-Functional Requirement** – Specifically, it falls under **Reliability & Availability**.
+
+Here’s why:
+
+*   **Focus on System Behavior:** This requirement describes *how* the system *must* behave – maintaining a connection – rather than a specific feature or functionality.
+*   **Impact on User Experience:**  The ability to maintain a connection is crucial for the system to function correctly and provide a usable experience for users interacting with the Members systems.  Loss of connection would directly impact usability.
+*   **Technical Complexity:**  It acknowledges the potential for diverse technical environments and technologies, indicating a need for robust connection management.
+
+**Categorization:**
+
+*   **Priority:** High – Critical for overall system operation.
+*   **Type:**  Connectivity, Resilience, Interoperability
+
+Would you like me to elaborate on any aspect of this classification, or perhaps explore how this requirement might relate to other requirements in the system?
+
+
+Functional
+
+
+**Functional**
+
+**Reasoning:** This requirement describes a specific action a user needs to take to initiate a car rental process. It’s about data input – a core function of the system. It directly relates to how the user interacts with the system to trigger a booking.
+
+
+Functional
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific action the operator can take within the system – overriding a validation fault. This directly relates to how the system *behaves* and the user’s ability to interact with it. It’s not simply a characteristic of the system’s design (like “robustness”) but a defined capability.
+
+
+Functional
+
+
+Functional
+
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+
+Functional
+
+
+Functional
+
+
+
+**Non-Functional Requirement (Infrastructure/Environment)**
+
+**Reasoning:**
+
+This requirement directly relates to the server's environment and configuration. It’s not about *what* the system does (functional requirement) but *how* it’s set up and runs. Setting the `$HOME` environment variable is a foundational aspect of server operation, impacting how processes and scripts behave. It falls under the category of infrastructure and environment requirements.
+
+
+Non-functional
+
+
+Functional
+
+
+**Non-Functional Requirement**
+
+**Reasoning:**
+
+This requirement describes a *technical capability* of the system – the ability to accept input through different methods. It’s not a core feature or behavior, but rather a design choice regarding user input.  It’s about *how* the system works, not *what* it does.  It’s a characteristic of the system’s design.
+
+
+Functional
+
+
+Functional
+
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+**Non-Functional Requirement – Performance/Scalability**
+
+Here’s why:
+
+*   **Focus on Capacity:** This requirement directly addresses the system’s ability to process and manage large datasets – specifically, the size of a “lag set.” Lag sets are fundamental to data processing in scientific applications (like astronomy).
+*   **Performance Metric:** The “maximum size of 262,144 values” establishes a quantifiable performance target. It’s a measure of the system’s capacity.
+*   **Scalability Implication:**  It suggests a need for the system to scale effectively to handle increasingly large datasets.
+
+**Therefore, it falls squarely within the category of performance or scalability requirements.**
+
+Would you like me to elaborate on why other classifications might *not* be appropriate?
+
+
+Functional
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific, actionable behavior within the game – displaying an emote when a button is touched. It’s a core interaction mechanic. It’s not about usability, performance, or a general design principle; it’s about *what* the system does when a user interacts with a specific element.
+
+
+**Functional Requirement**
+
+**Reasoning:**
+
+This requirement directly describes a specific action that the system must perform – approving or rejecting applications. It’s about a core process within the system’s functionality.  It’s not a constraint on the system’s behavior (like performance) or a quality attribute (like security). 
+
+Would you like me to classify another requirement?
+
+
+Non-functional
+
+
+**Classification:** Feature Request / Functional Requirement
+
+**Reasoning:**
+
+This requirement clearly describes a specific functionality – searching for restaurants based on price range – and specifies the desired output format (list view). It’s a core feature related to restaurant discovery.  It’s not a non-functional requirement (like performance or usability) but rather a concrete thing the system *must do*.
+
+
+
+Functional
+
+
+Functional
+
+
+**Non-Functional Requirement** 
+
+**Specifically, it’s a Performance Requirement.** 
+
+Here’s why: 
+
+*   **Focus on Capacity:** It’s not about *what* the system does (functional requirement), but *how many* users it can handle simultaneously. 
+*   **Time-Based:** The “within 2 years” adds a performance target that needs to be met. 
+
+Let me know if you’d like me to classify another requirement!
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+
+Functional
+
+
+Functional
+
+
+
+**Non-Functional**
+
+**Reasoning:**
+
+This requirement describes a performance characteristic – the speed at which a specific task (working with a document) is completed. Performance characteristics are inherently non-functional because they relate to *how* the system performs, rather than *what* it does.  They are typically measured (e.g., response time, throughput) and are crucial for user experience and system efficiency.
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific action the system *must* perform – tracking work/class hours. It’s about a defined behavior and data collection, aligning with the core function of a system. It’s not a constraint on performance, availability, or a general quality attribute.
+
+
+Functional
+
+
+
+**Non-Functional**
+
+**Reasoning:**
+
+This requirement describes a characteristic of the system – its ability to adapt and maintain accuracy – rather than a specific function it performs.  “Configurable to meet specific state requirements” and “keep data elements and rules up-to-date” are about *how* the system operates, not *what* it does.  It’s a quality attribute related to adaptability and maintainability.
+
+
+Functional
+
+
+
+Functional
+
+
+
+**Functional Requirement:** This requirement directly relates to the core functionality of the system – managing the restaurant’s offerings. It specifies a key action users (likely restaurant staff) can perform.
+
+**Priority:** High – This is a fundamental requirement for a restaurant management system.
+
+**Category:** Data Management / Menu Management
+
+---
+
+Would you like me to classify another requirement?
+
+
+**Non-Functional**
+
+**Reasoning:**
+
+This requirement describes a feature related to data privacy and user control. It’s about *how* the system behaves (hiding contact information) rather than *what* the system does (e.g., storing contact information). Non-functional requirements typically deal with qualities like performance, security, usability, and reliability – all of which are relevant here.  Hiding contact information directly relates to security and user privacy, making it a non-functional requirement.
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+**Functional Requirement**
+
+This requirement directly describes *what* the system should do – it specifies the ability to pause gameplay and access title screen fields. It’s a core game mechanic.
+
+Here’s why it’s classified as functional:
+
+*   **Actionable:** It dictates a specific behavior within the game.
+*   **Measurable:** We can verify if the pause functionality and access to the fields are working correctly.
+
+**Further Breakdown (for more detail):**
+
+*   **Priority:** Likely High – This is a fundamental feature for a playable game.
+*   **Category:** User Interface / Gameplay Controls
+
+
+Non-functional
+
+
+**Shall** 
+
+This requirement specifies a concrete, measurable capability – the server’s ability to handle a specific number of simultaneous connections.  Therefore, it’s a “shall” statement.
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+**Non-Functional Requirement** – Specifically, a **Performance Requirement** or **Reliability Requirement**.
+
+Here’s why:
+
+*   **Focus on System Behavior:** This requirement describes *how* Adobe Photoshop should behave (rapid restart) rather than *what* it should do (e.g., edit images).
+*   **Performance Metric:** “Rapid operational restart” establishes a measurable goal – speed.
+*   **Impact on User Experience:** It directly addresses a potential user frustration (downtime) and aims to mitigate it.
+
+Let me know if you’d like me to classify another requirement!
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+**Non-Functional Requirement (Performance/Capacity)**
+
+**Justification:**
+
+This requirement directly relates to the system’s ability to handle a specific level of user activity (calls). It’s a constraint on the system’s capacity and performance under normal usage.  It’s not a feature or a user interface element, but rather a limit on what a user can do. 
+
+Here's a breakdown of why it fits this category:
+
+*   **Capacity:** It defines a limit on the number of calls a user can make.
+*   **Performance:**  It impacts the system’s ability to handle a certain volume of requests.
+*   **Constraint:** It’s a restriction on user behavior.
+
+Would you like me to classify another requirement?
+
+
+Non-functional
+
+
+Functional
+
+
+
+Functional
+
+
+Functional
+
+
+**Functional Requirement**
+
+This requirement directly describes a specific action the system *must* perform – displaying seating arrangements and enabling seat booking. It’s a core function of the service. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies what the system *does* (shows seating, allows booking).
+*   **Measurable:** The success of the requirement can be verified – does the system correctly display the seating and allow bookings?
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional Requirement**
+
+This requirement clearly defines a specific action a user *must* take within the system – obtaining approval from a designated group (the university group). This directly impacts the system’s workflow and security. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It describes a specific process – requesting approval.
+*   **System Impact:** It dictates a system component (the approval process) must be implemented and utilized.
+
+Would you like me to elaborate on why this classification is appropriate, or perhaps suggest any related classifications (e.g., security requirement)?
+
+
+Functional
+
+
+Functional
+
+
+**Non-Functional**
+
+**Reasoning:**
+
+This requirement describes a physical component (the power supply) and its specific characteristics (voltage options, manual switch). It’s about *how* the system works – the physical attributes of a component – rather than *what* the system does or its behavior.  It’s a technical detail related to hardware implementation, not a functional requirement like “the system must dispense cash” or “the system must verify the user’s password.”
+
+
+**Functional Requirement**
+
+This requirement directly dictates a specific functionality – the ability to select between two distinct processing options (“tatkaal” and “normal”). It’s a core feature impacting the system’s operation. 
+
+**Reasoning:**
+
+*   **Defines a Feature:** It clearly describes a selectable option within the system.
+*   **Impacts System Behavior:** The choice between “tatkaal” and “normal” will likely trigger different processing workflows and potentially affect timelines.
+
+Would you like me to elaborate on why this is a functional requirement, or perhaps suggest a more detailed way to phrase it for clarity?
+
+
+**Non-Functional Requirement**
+
+Here’s why:
+
+*   **Focus on Technical Constraint:** This requirement dictates a specific technical rule – the acceptable characters for a field. It’s not about *what* the user does, but *how* the system handles input.
+*   **Data Integrity:** It’s directly related to ensuring data quality and preventing errors by enforcing a specific format.
+*   **System Behavior:** It describes a system behavior – the validation process itself.
+
+**Therefore, it falls squarely into the category of a Non-Functional Requirement.**
+
+Would you like me to classify another requirement?
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+
+Non-functional
+
+
+**Non-Functional Requirement** 
+
+**Reasoning:**
+
+This requirement describes a *quality* of the system – its ability to function correctly across various platforms. It’s not a specific feature or behavior, but rather a characteristic that impacts the user experience and system reliability.  It’s about *how* the website performs, not *what* it does.
+
+
+**Non-Functional Requirement** – Specifically, this falls under **Performance & Usability**.
+
+Here’s why:
+
+*   **Focus on Functionality:** It’s not about *what* the system does (like data processing), but *how* it’s accessible – across different platforms.
+*   **Usability Aspect:**  The requirement emphasizes accessibility across multiple platforms, directly impacting the user’s experience.
+*   **Performance Implication:** Achieving this requires the system to be adaptable and efficient across diverse environments.
+
+**Categorization:**  Platform Compatibility / Cross-Platform Support
+
+
+Functional
+
+
+Functional
+
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+
+Functional
+
+
+Functional
+
+
+**Non-Functional Requirement (Performance)**
+
+**Reasoning:**
+
+This requirement directly addresses the *performance* of the system. It specifies a measurable target – page loading time – and a key factor influencing that performance – internet connection speed.  It’s a clear expectation about how quickly the system should respond under a defined condition.
+
+
+Functional
+
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+**Functional:** This requirement clearly describes an action the system *must* perform – allowing faculty to upload specific types of learning materials. It’s a core feature of the system.
+
+**Category:** Content Management / Learning Resources
+
+---
+
+Would you like me to classify another requirement, or perhaps generate some questions based on these requirements?
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement directly describes a specific action a user can take within the system – selecting transactions and initiating disputes based on their age. This clearly falls under the category of functional requirements, outlining a core system capability. 
+
+Here's why it's not another classification:
+
+*   **Non-Functional:** It doesn’t describe a quality of the system (e.g., performance, security).
+*   **Data:** It’s not about data storage or retrieval.
+*   **UI/UX:** While it impacts the user interface, the core requirement is about the *functionality* of initiating a dispute.
+
+
+Functional
+
+
+Functional
+
+
+
+Functional
+
+
+
+Non-functional
+
+
+**Non-Functional**
+
+**Reasoning:**
+
+This requirement dictates a specific technical characteristic of the product – the absence of audio and visual effects. This falls squarely into the category of non-functional requirements, which define *how* a system should behave rather than *what* it should do. It’s a constraint on the system’s design and implementation.
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+
+**Non-Functional Requirement** – Specifically, a **Performance Requirement**.
+
+Here’s why:
+
+*   **Focus on Performance:** This requirement directly addresses how the system *performs* – “optimally with a fast connection.” It’s not about a feature or functionality, but about the system’s efficiency and speed under ideal conditions.
+*   **Dependency:** It establishes a dependency – the system’s performance is linked to the speed of the internet connection.
+*   **Measurable (Potentially):** While “optimally” is subjective, it implies a target performance level that could be defined (e.g., load times, response times).
+
+Let me know if you’d like me to classify another requirement!
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Non-functional
+
+
+**Functional:** This requirement describes a core feature of the system – social interaction and content consumption. It outlines specific actions users can take.
+
+**Category:** Social Networking / Content Sharing
+
+
+
+Non-functional
+
+
+Functional
+
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+**Non-Functional Requirement** – Specifically, a **Reliability** requirement.
+
+Here’s why:
+
+*   **Focus on Outcome:** This requirement focuses on the *outcome* – ensuring videos are stored reliably and without data loss. It’s not about a specific process or algorithm.
+*   **Prioritization:** The explicit mention of “High availability takes priority over strict data consistency” clearly indicates a trade-off being made – prioritizing uptime and accessibility over absolute data accuracy in all cases. This is a hallmark of a non-functional requirement.
+*   **Measurable (Potentially):** While “reliably” is somewhat subjective, it could be tied to metrics like data durability, redundancy levels, and recovery time objectives (RTOs) – all common measures of reliability.
+
+**Categories it falls under:**
+
+*   **Availability**
+*   **Durability**
+*   **Data Integrity** (though indirectly)
+
+Would you like me to elaborate on any aspect of this classification?
+
+
+**Shall**
+
+
+Functional
+
+
+
+Functional
+
+
+
+Non-functional
+
+
+**Functional Requirement:** This requirement directly dictates *what* the system *does*. It specifies an action – purging data – based on a defined criteria (cases closed for over 6 months).
+
+**Classification:**  This falls squarely into the category of **Data Management** or **Data Lifecycle Management**. It’s about controlling the data within the system.
+
+**Priority:** High – Data integrity and efficient system performance are crucial. Purging old, inactive data is a standard practice.
+
+---
+
+Would you like me to classify another requirement, or perhaps analyze a specific type of requirement (e.g., performance, security, usability)?
+
+
+Functional
+
+
+Non-functional
+
+
+**Non-Functional Requirement** – Specifically, this falls under **Usability & Personalization**.
+
+Here’s why:
+
+*   **Focus on User Experience:** It’s about how the system *behaves* when a user is logged in – displaying personalized information is a core usability element.
+*   **Automation:** The “automatically add certain details” part indicates an automated process, which is a technical requirement.
+*   **Not Core Functionality:** It’s not about *what* the system does (e.g., booking a tour) but *how* it presents information to the user after they’ve authenticated.
+
+Would you like me to classify another requirement?
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific action the system *must* perform – it translates temperature data into a command to control a heating or cooling unit. This directly relates to the system’s core functionality and how it interacts with its environment. It’s not a quality attribute (like performance or security) but rather a description of what the system *does*.
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement directly relates to a core game mechanic – adjusting the difficulty or skill level of the CO. It’s a feature that impacts gameplay and is a fundamental aspect of how the game is played. It’s not about the user interface, performance, or scalability – it’s about the game’s core functionality. 
+
+Would you like me to classify another requirement?
+
+
+**Non-Functional Requirement** – Specifically, it falls under **Reliability** and **Quality**.
+
+Here’s why:
+
+*   **Stability & Accuracy:** These directly relate to the *performance* and *correctness* of the system.  It’s not about *what* the system does, but *how well* it does it.
+*   **Acceptance Tests:** The context of “acceptance tests” highlights that this requirement is about ensuring the system meets defined criteria for quality.
+
+Let me know if you’d like me to classify another requirement!
+
+
+Functional
+
+
+
+**Non-Functional Requirement (Performance)**
+
+**Reasoning:**
+
+This requirement directly addresses the *performance* aspect of the application – specifically, its storage footprint. Storage requirements are a key performance metric, impacting things like app size, installation speed, and potentially device storage limitations. It’s not a feature or a user interface element, but rather a constraint on how the application utilizes resources. 
+
+Here's a breakdown of why other classifications wouldn't fit:
+
+*   **Functional:** It doesn't describe *what* the application does, but *how* it does it (in terms of storage).
+*   **Usability:** It’s not about the user experience.
+*   **Security:** It doesn’t relate to data protection.
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a core function of the system – facilitating communication and potentially delivery requests between members. It’s about a specific action the system *must* be able to perform.  It’s not a technical constraint (like performance) or a design guideline (like UI consistency). It’s about enabling a specific interaction.
+
+
+
+Non-functional
+
+
+**Non-Functional Requirement**
+
+Here’s why:
+
+*   **Focus on User Experience:** This requirement centers on how a user *interacts* with the system – the ability to browse and explore information without immediate commitment.
+*   **Not Core Functionality:** It’s not about the core functionality of account creation or data management. It’s a feature designed to encourage exploration.
+*   **Privacy Implication:** The “anonymous view” aspect directly relates to data privacy and user experience.
+
+**Classification:**  UX/Privacy Requirement
+
+
+**Non-Functional Requirement (Reliability/Availability)**
+
+Here’s why:
+
+*   **Focus on System Behavior:** This requirement directly addresses how the system *behaves* under normal operation – specifically, ensuring the tablets remain connected and responsive.
+*   **Impacts Uptime:** Keep-alive messages are a standard technique for detecting and handling tablet disconnections, which directly impacts the system’s availability and reliability.
+*   **Not Core Functionality:** It’s not about *what* the system does (e.g., data processing) but *how* it maintains a stable connection.
+
+**Classification:**  This would typically fall under categories like:
+
+*   **Availability**
+*   **Reliability**
+*   **Connectivity**
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+
+**Functional Requirement**
+
+This requirement directly relates to how the system *does* something – specifically, combining data from multiple sources into a unified view. This falls squarely within the realm of data integration and presentation. 
+
+Here’s why:
+
+*   **Action-Oriented:** It describes a specific action the system needs to perform (combining data).
+*   **Data-Related:** It’s fundamentally about manipulating and presenting data.
+
+**Classification:** Data Integration / Data Presentation
+
+
+**Non-Functional Requirement** – Specifically, a technical requirement related to *implementation detail* and *performance*.
+
+**Reasoning:**
+
+This requirement describes *how* the system should achieve a specific functionality (removing shortlisted properties). It’s not about the *what* (the functionality itself), but rather the *how* – the technology and approach (AJAX, jQuery) used to implement it.  These are technical specifications that dictate the system’s architecture and potentially impact performance, scalability, and development effort.  It’s not a business requirement or a user-facing feature.
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+
+Non-functional
+
+
+Non-functional
+
+
+**Functional Requirement**
+
+**Reasoning:**
+
+This requirement directly dictates *what* the system *does*. It defines a specific action a user can take – controlling how expenses are distributed. It’s not just a characteristic of the system, but a core function it must perform. 
+
+Here's a breakdown of why it’s not other classifications:
+
+*   **Non-Functional:** It doesn’t describe a quality like performance, security, or usability.
+*   **Data Requirement:** It’s not simply about *storing* data; it’s about *processing* it to determine how an expense is split.
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+
+Functional
+
+
+Functional
+
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific action the user can take within the system – saving their changes. It dictates a clear user interaction (clicking a button) and the resulting system behavior (presenting a window for file/database selection). This directly relates to how the system processes and stores data, making it a core functional requirement. 
+
+Here's why it's *not* purely Non-Functional: While the *implementation* might involve technical details (like file paths or database connections), the requirement itself focuses on the user's ability to save their modifications, which is a fundamental function of the system.
+
+
+Functional
+
+
+
+Functional
+
+
+**Functional Requirement**
+
+**Reasoning:**
+
+This requirement directly describes *what* the system *does* – it dictates the system’s core function of controlling heating and cooling units. It’s a specific action the system must perform.  It’s not a constraint on *how* it does it (e.g., performance, security) but rather a core operational capability.
+
+
+
+Functional
+
+
+Non-functional
+
+
+**Category:** Reliability & Availability
+
+**Specific Classification:** This requirement falls squarely under **High Availability** and **Disaster Recovery**. It’s a core characteristic of a system designed to minimize downtime and ensure continued operation despite failures.
+
+**Further Breakdown:**
+
+*   **Non-Functional Requirement (NFR):**  It’s a key NFR, specifically focusing on *availability*.
+*   **Priority:**  Very High – Failure to meet this requirement would severely impact the system’s usefulness.
+
+Do you want me to classify another requirement?
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific action a user can perform – modifying asset data. The inclusion of “bulk entry files” further specifies a supported method for this action.
+
+**Here’s a breakdown of why it’s classified as functional:**
+
+*   **Actionable:** It dictates *what* a user can do (modify assets).
+*   **Specific:** It details *how* the modification can be done (through a specific method – bulk entry files).
+*   **Measurable:**  The system’s behavior can be tested to ensure the user can successfully modify the specified fields and utilize bulk entry files.
+
+**Would you like me to categorize it further, perhaps by priority or type (e.g., data modification, bulk import)?**
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a process – the system *doing* something (improving the database) based on data (learning from the prior month). It’s a core function of the system.  It’s not a constraint, performance metric, or user interface element. It’s about the system’s operation and learning.
+
+
+
+**Category:** Availability & Reliability
+
+**Specific Sub-Category:** Fault Tolerance / Redundancy
+
+**Explanation:** This requirement directly addresses the system’s ability to remain operational despite potential hardware or software failures. It’s a core aspect of ensuring the system’s overall availability and reliability. 
+
+Would you like me to classify another requirement?
+
+
+**Non-Functional Requirement** – Specifically, a UI/UX requirement.
+
+**Reasoning:**
+
+This requirement describes *how* the GUI will function – namely, accepting keyboard input. It’s not a functional requirement (what the system *does*) but rather a characteristic of the user interface. It’s about the interaction between the user and the system’s graphical elements.
+
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific action a user (the customer) must perform within the system – entering personal details during the checkout process. It’s directly tied to a system function (checkout) and specifies the data required. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It describes *what* the user needs to do.
+*   **System Impact:** It dictates a specific data input that the system must handle.
+
+Would you like me to classify another requirement?
+
+
+**Non-Functional Requirement**
+
+Here’s why:
+
+*   **Focus on User Experience:** The requirement explicitly states a focus on “user experience” – usability, clarity, and a visually-appealing design. These are core aspects of a non-functional requirement.
+*   **Quality Attribute:** This falls under the quality attribute of *Usability*. It’s about how easy and pleasant the system is to use.
+*   **Not a Specific Functionality:** It doesn’t describe *what* the system *does* (e.g., processing payments). It describes *how* it should be presented and experienced.
+
+**Therefore, classifying it as a Non-Functional Requirement is the most accurate assessment.**
+
+
+Non-functional
+
+
+**Non-Functional Requirement** – Specifically, it falls under **Usability** and **Reliability**.
+
+Here’s why:
+
+*   **Usability:**  Error handling directly impacts the user’s ability to effectively use the system.  Smooth error handling contributes to a positive user experience.
+*   **Reliability:** Robust error handling is a key component of a reliable system – it prevents crashes, unexpected behavior, and data loss.
+
+It’s not a functional requirement (which describes *what* the system does) but rather a characteristic of *how* it performs.
+
+
+**Functional Requirement**
+
+This requirement directly relates to a specific function of the system – allowing users to define a time range for the historical data displayed in the diagnostic history window. It’s a core feature impacting how the system presents and displays information. 
+
+Here’s why it’s classified as functional:
+
+*   **Actionable:** It describes what the user *can do* within the system (select a time range).
+*   **Impacts System Behavior:** It dictates how the diagnostic history window will filter and display data.
+
+Would you like me to elaborate on any aspect of this classification?
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific action a user can perform within the Disputes System – searching for cases. It outlines the search criteria (fields to search by) and filtering options. Therefore, it falls squarely into the category of a functional requirement.
+
+**Specifically, it’s a Search Requirement.**
+
+Would you like me to elaborate on why it’s classified this way, or perhaps suggest a more detailed breakdown of its components?
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+**Non-Functional Requirement (Performance)**
+
+Here’s why:
+
+*   **Focus on Performance:** This requirement directly addresses the *performance* of the system – specifically, the speed and capacity of the connection between the client and server.
+*   **Measurable:** “At least 20 Mbps” is a quantifiable metric, making it a performance requirement.
+*   **Impacts User Experience:** Bandwidth directly affects the responsiveness and usability of the application.
+
+Let's look at why other classifications wouldn't fit:
+
+*   **Functional:** It doesn't describe *what* the system does, but *how* it performs.
+*   **Security:** It’s not related to security aspects like authentication or encryption.
+*   **Usability:** While performance impacts usability, this requirement is about the technical capacity of the connection, not the user experience.
+
+
+Functional
+
+
+**Non-Functional**
+
+**Reasoning:**
+
+This requirement describes a design principle – optimizing for a streamlined, easy-to-navigate user interface. It focuses on *how* the system should be designed to achieve a specific user experience goal (reducing scrolling).  It’s not a feature itself, but a constraint or guideline for development.  Non-functional requirements (NFRs) typically address qualities like performance, usability, reliability, and security – all of which this requirement falls under.
+
+
+Functional
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific action the system *must* perform – linking events to other applications. This directly relates to the system’s core functionality and how it interacts with other components. It’s not a performance characteristic (like speed) or a user interface element, but rather a defined process the system needs to execute.
+
+
+Non-functional
+
+
+**Non-Functional Requirement (NFR) - Performance**
+
+Specifically, it falls under **Response Time**. 
+
+Here’s why:
+
+*   **Focus on Speed:** The requirement directly addresses the speed at which the server responds to requests.
+*   **Measurable:** “Less than or equal to 2 seconds” provides a quantifiable target.
+*   **Impacts User Experience:** Response time is a critical factor in user satisfaction and overall system usability.
+
+Would you like me to classify any of the other requirements you provided?
+
+
+Non-functional
+
+
+Non-functional
+
+
+**Non-Functional Requirement** – Specifically, a **Performance Requirement** or **Reliability Requirement**.
+
+Here’s why:
+
+*   **Focus on Time Limits:** The requirement explicitly states “within defined time limits,” which is a core aspect of performance.
+*   **Critical Processes:** It highlights the importance of these processes, indicating a need for the system to operate reliably and efficiently under pressure.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional Requirement**
+
+This requirement directly relates to a specific feature – displaying the TU/e Facebook page – and is essential for the app’s core functionality. It’s not a design or aesthetic choice, but a core piece of what the app *does*. 
+
+Here’s why it’s classified as functional:
+
+*   **Actionable:** It describes a specific action the app must perform (displaying a Facebook page).
+*   **Measurable:** You can verify if the requirement is met by checking if the TU/e Facebook page appears on the title screen.
+
+Would you like me to elaborate on why this classification is appropriate?
+
+
+**Functional Requirement**
+
+This requirement directly describes a specific component and its interaction with the THEMAS system – a thermostat in each floor quadrant. It dictates a necessary element for the system to function correctly. 
+
+Here’s why it’s classified as functional:
+
+*   **Actionable:** It specifies what needs to be *done* – install thermostats in each floor quadrant.
+*   **System Impact:** It’s a core component of the THEMAS system’s operation, providing temperature data.
+
+Would you like me to classify another requirement?
+
+
+**Functional Requirement**
+
+This requirement describes a specific capability the system must provide – the ability to access help content regardless of network connectivity. It’s directly related to how the user can interact with the system. 
+
+Here’s why it’s classified as functional:
+
+*   **Actionable:** It specifies what the user *can do* (access help).
+*   **Measurable:** The system’s success is determined by whether the user can access help content.
+
+Would you like me to classify another requirement?
+
+
+Functional
+
+
+Functional
+
+
+
+**Non-Functional**
+
+**Reasoning:**
+
+This requirement describes a *behavior* of the client application – its ability to handle and interpret the response from the server (which is likely JSON). It’s not about *what* the system does, but *how* it handles the data it receives.  Non-functional requirements (NFRs) typically focus on qualities like performance, reliability, usability, or security – all of which are relevant here in terms of how the client *deals* with the data.  It’s a characteristic of the client’s implementation, not a core feature of the system itself.
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+
+Functional
+
+
+
+Non-functional
+
+
+**Functional**
+
+**Reasoning:**
+
+This requirement describes a specific action the system *must* be able to perform – sending a bulk request to a group of users. It’s a defined capability of the system, not a constraint on its performance or behavior.  It’s about what the system *does*.
+
+Here’s why it’s not other classifications:
+
+*   **Non-Functional:** It doesn’t relate to performance, security, usability, or any other characteristic of the system.
+*   **Data:** It’s not about the *type* of data, but the *action* performed with data.
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+**Non-Functional**
+
+**Reasoning:**
+
+This requirement focuses on the *process* of testing – the need for well-defined test environments. It’s about *how* the application is tested, not about what the application *does* or its features.  Testing environments are a crucial aspect of ensuring quality (a non-functional requirement), but the requirement itself describes the *method* of achieving that quality. 
+
+Here's why the other classifications don't fit:
+
+*   **Functional:** This describes a specific feature or behavior of the application.
+*   **Usability:** While testing contributes to usability, this requirement is broader than just ease of use.
+
+
+Non-functional
+
+
+Functional
+
+
+Functional
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+
+Non-functional
+
+
+Functional
+
+
+Non-functional
+
+
+**Functional Requirement**
+
+This requirement directly describes a specific action a user (the customer) can take within the system – requesting a replacement or cancellation due to an unavailable order. This clearly outlines a system function.
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It describes *what* the system must do.
+*   **Specific Function:** It details a particular process – handling order issues.
+
+Would you like me to elaborate on why it’s classified this way, or perhaps suggest how it could be further refined for clarity?
+
+
+Non-functional
+
+
+Non-functional
+
+
+Non-functional
+
+
+Functional
+
+
+**Non-Functional Requirement**
+
+Here’s why:
+
+*   **Addresses System Behavior:** This requirement describes a specific *response* the system should take when it encounters a problem (difficult data extraction). It’s not about *what* the system does in a normal scenario, but how it handles an exceptional situation.
+*   **Impacts Performance/Reliability:**  Manual intervention directly impacts the system’s ability to operate efficiently and reliably. It introduces a potential bottleneck and a deviation from the intended automated process.
+*   **Error Handling/Fallback:** This is a fallback mechanism – a way to ensure data is still added to the database even if the automated extraction fails.
+
+**Therefore, it’s classified as a Non-Functional Requirement (specifically, an Error Handling or Fallback Requirement).**
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific action the system must perform – retrieving and presenting a ranked list of sites. It dictates the number of results, the sorting criteria, and the inclusion of links.  Therefore, it falls squarely within the realm of functional requirements. 
+
+**Priority:** High – This is a core feature expected in a site directory or search application.
+
+
+**Functional Requirement**
+
+This requirement directly describes a specific action the system *must* perform – allowing publishers to restore deleted data packages via a command-line interface. It’s a core function of the system.
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies a defined action (restoring data packages).
+*   **System Behavior:** It dictates how the system responds to a specific user request.
+
+Would you like me to elaborate on why it’s classified this way, or perhaps provide a more detailed breakdown of its characteristics?
+
+
+Functional
+
+
+Functional

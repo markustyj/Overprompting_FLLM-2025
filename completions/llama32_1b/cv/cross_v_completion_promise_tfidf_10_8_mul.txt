@@ -1,0 +1,250 @@
+Functional
+
+
+Look and Feel
+
+
+Usability
+
+
+Here is the classification:
+
+Performance
+
+
+Availability
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product shall operate in offline mode whenever internet connection is unavailable.' 
+   - Availability
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product shall be installed by an untrained realtor without recourse to separately-printed instructions.'
+   - Usability
+
+
+Functional
+
+
+Here are the classifications for the given requirements:
+
+1. 'The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.': 
+   Portability
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.': Functional
+2. 'For each class within a sequence for a cohort Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.': Functional
+3. 'A customer can only stream a movie if they purchased it and are within the 2 day viewing period.': Security
+4. 'A cohort shall be associated to one Program of Study offered by the department.': Functional
+5. 'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts including cohort identifier program of study preferred sequence of classes and quarters that a cohort will be taking specific classes.': Functional
+6. 'Students added to a cohort shall be eligible for the cohort’s Program of Study.': Functional
+7. 'The system will notify affected parties for routine communication purposes including but not limited to informing students of upcoming offered classes (timeline) and what their schedule will be/shall be.': Functional
+8. 'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes': Functional
+9. 'The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members’ planning purposes.': Functional
+10. 'The system shall be able to display a printable summary for individual nursing students which will include (but not be limited to) student name student ID admission date classes credits GPA and the cohort that the student is enrolled in.': Functional
+11. 'Classes for a given cohort shall not conflict with regards to the time and day that they are offered.': Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Operational
+
+
+Security
+
+
+Here are the classifications for the given requirements:
+
+1. 'The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.': 
+   - Functional
+   - Security
+
+
+Based on the given requirement, I would classify it under: **Functional**
+
+
+Here are the classifications for the given requirements:
+
+1. 'The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time.': 
+   - Functional
+
+
+Here are the classifications:
+
+1. 'The product must support Internet Explorer 5.5 and above.' - Operational
+
+
+Here are the classifications:
+
+- Functional: 'The product shall increase productivity of Collision Estimators.'
+- Usability: '80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.'
+
+
+Operational
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Here is the classification of the given requirement:
+
+**Availability**
+
+The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.
+
+
+Functional
+
+
+The given requirement 'The audit report shall be available to other adjusters at later points in time.' can be classified under the category: **Availability**
+
+
+Security
+
+
+Here are the classifications:
+
+1. 'The response shall be fast enough to avoid interrupting the user’s flow of thought. 90% of tasks shall complete within 5 seconds. 98% of tasks shall complete within 8 seconds.': 
+   - Performance
+   - Usability
+
+
+Here are the classifications:
+
+1. 'The product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.': 
+   - Security (as it involves transmission of data to the company for analysis and resolution)
+
+
+Here are the classifications:
+
+1. 'Each time a conference room is reserved the conference room schedule shall be updated to reflect the time and date of the reservation.'
+   - Functional
+
+
+Here are the classifications:
+
+- 'The System shall not require additional third party licenses resulting in royalty fees.': 
+  - Legal
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Usability
+
+
+Availability
+
+
+Performance
+
+
+Functional
+
+
+Operational
+
+
+Look and Feel
+
+
+Functional
+
+
+Look and Feel
+
+
+Usability
+
+
+Maintainability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Usability
+
+
+Availability
+
+
+Here are the classifications:
+
+1. 'The product shall be robust.The product shall have fault avoidance based on standards adoption.'
+   - Fault Tolerance
+
+
+Here is the classification of the given requirement:
+
+Security
+
+
+Look and Feel
+
+
+Here are the classifications:
+
+1. 'The Brio portion of the WCS system must be able to export files in spreadsheet form (Microsoft Excel and Lotus 1-2-3 formats). Brio will provide buttons in the user interface that produce/export reports in.xls or.123 file formats.' 
+   - Performance
+
+
+Here are the classifications:
+
+1. 'All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation': Maintainability
+
+
+Operational
+
+
+Here are the classifications:
+
+1. '98% of the user workstations shall meet the minimum software requirements prior to implementation: Microsoft Internet Explorer 5.0. Microsoft.NET Framework 1.1. Microsoft Internet Explorer Web Controls.'
+ 
+- Portability

@@ -1,0 +1,224 @@
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Availability
+
+
+Maintainability
+
+
+Availability
+
+
+Availability
+
+
+Operational
+
+
+Operational
+
+
+Operational
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The Disputes System shall allow the user to create or initiate a chargeback request. The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.' 
+   - Functional
+
+
+The given requirement: 'The search radius shall be between 1 and 30 miles' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Functional
+
+
+Here are the classifications for the given requirements:
+
+- Scalability
+- Performance
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.': 
+   - Functional
+   - Security
+
+
+Here are the classifications:
+
+- Functional: 'The website should have an African feel but should not alienate non-Africans.'
+- Look and Feel: 'The website should use animation on pages which are describing the services to grab the users attention and encourage them to sign up.'
+- Usability: 'The website should have an African feel but should not alienate non-Africans.'
+
+
+Usability
+
+
+Functional
+
+
+Operational
+
+
+Operational
+
+
+Security
+
+
+Functional
+
+
+The given requirement 'The owner shall have free access to all of the streaming movies.' can be classified under the category of **Functional**.
+
+
+Functional
+
+
+Security
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Performance
+
+
+Look and Feel
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications'
+   - Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Look and Feel
+
+
+Here are the classifications:
+
+1. 'The product shall be able to process all transactions.' - Functional
+2. 'The product shall process minimum of 1 million transactions per year.' - Scalability
+
+
+Here are the classifications:
+
+- Functional
+- Operational
+- Security
+
+
+Here are the classifications:
+
+1. 'The product shall operate with every platform.The product shall accommodate any new technology without any change in its architecture.'
+   - Operational
+   - Portability
+
+
+Based on the given requirement, I would classify it under the following categories:
+
+- Usability
+- Look and Feel
+
+
+Usability
+
+
+Here are the classifications:
+
+1. 'The users should be able to easily use the system to successfully complete their budgets within the stipulated time for completion.' - Usability
+2. 'With a week of training prior to product implementation 98% of the users shall complete their budgets within the stipulated time.' - Usability

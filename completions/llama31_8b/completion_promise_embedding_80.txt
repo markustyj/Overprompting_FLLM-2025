@@ -1,0 +1,381 @@
+Functional
+
+
+Look and Feel
+
+
+Operational
+
+
+Look and Feel
+
+
+Operational
+
+
+Usability
+
+
+Functional
+
+
+Scalability
+
+
+Operational
+
+
+Functional
+
+
+Look and Feel
+
+
+Performance
+
+
+Look and Feel
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+The requirement 'The user shall easily locate instructions while using the product. User help can be found within 90% of the system.' falls under the category of Usability.
+
+
+Usability
+
+
+Usability
+
+
+The requirement "All customer information will be stored on a secure database accessible only to authorized personnel" falls under the category of: Security
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Usability
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Operational
+
+
+I would classify the requirement "The system shall offer the ability to pause and resume the refresh of data." as: Maintainability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+I would classify this requirement as "Operational".
+
+
+Based on the given requirement, I would classify it as "Maintainability". The requirement states that the product must be highly configurable for use with various database management systems, and 80% of end users are able to integrate new database management systems with the product without changing the product's software code, which indicates that the product is designed to be easily maintained and modified by end users without requiring significant changes to the software code.
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+The given requirement: 'The product shall respond fast to keep up-to-date data in the display.'
+
+Classification: Performance
+
+
+The given requirement is: 'All screens created as part of the Disputes application must comply with corporate standards for interface creation.'
+
+This requirement falls under the category: Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+I would classify the requirement "The adjuster shall review the collision estimate." as Functional.
+
+
+Functional
+
+
+The requirement "Each page shall contain a similar format with action items in one location and navigation buttons in a different location." falls under the category of "Look and Feel".
+
+
+The given requirement is: 'The Disputes System must be accessible by both internal and external users.'
+
+I would classify this requirement as: Operational
+
+
+Functional
+
+
+Operational
+
+
+I would classify this requirement as: Security
+
+
+Look and Feel
+
+
+I would classify this requirement as "Functional".
+
+
+Functional
+
+
+I would classify this requirement as "Performance".
+
+
+Performance
+
+
+The given requirement: 'The website shall prevent its data from being corrupted when incorrect data is entered in.'
+
+Classification: Security
+
+
+The given requirement is classified as: Fault Tolerance
+
+
+Functional
+
+
+Performance
+
+
+Usability
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+The requirement is classified as: Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Functional
+
+
+The given requirement is classified as: Usability
+
+
+Scalability
+
+
+Functional
+
+
+Scalability
+
+
+I would classify the given requirement as: Functional
+
+
+Performance
+
+
+The given requirement is: 'The search for recycled parts shall take no longer than 15 seconds. The search results shall be returned in under 15 seconds.'
+
+This requirement falls under the category: **Performance**
+
+
+The given requirement is classified as: Operational
+
+
+The given requirement: 'The system shall notify customers of changes to its information policy.'
+
+Category: Security
+
+
+The requirement is classified as: Maintainability
+
+
+Usability
+
+
+Scalability
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Availability
+
+
+The given requirement is classified as: Security
+
+
+Functional
+
+
+The given requirement is classified under the category: Operational
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+The given requirement: 'The System shall be able to automatically backup business data and restore them on demand.'
+
+Classification: Fault Tolerance
+
+
+Functional
+
+
+I would classify the given requirement as: Security
+
+
+The requirement "All streaming movie sales will be logged in the database and accessible by the administrator" falls under the category of **Functional**.
+
+
+The requirement "The system shall cater to 10 simultaneous users from 9am to 5pm" falls under the category of **Scalability**.
+
+
+The given requirement "Every user of the system shall be authenticated and authorized." falls under the category of **Security**.
+
+
+Usability
+
+
+Operational
+
+
+Performance
+
+
+Operational
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+The requirement is classified as: Performance
+
+
+Performance
+
+
+Functional
+
+
+Usability

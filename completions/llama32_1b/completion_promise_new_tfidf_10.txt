@@ -1,0 +1,502 @@
+Functional Suitability
+
+
+Reliability
+
+
+Here are the classifications:
+
+1. 'The system shall interface with the student master server.' 
+   - Compatibility
+
+
+Functional Suitability
+
+
+Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Reliability
+
+
+Here are the classifications:
+
+1. 'The product must be able to interface with various email servers.' - Compatibility
+2. 'The product shall be able to send email.' - Functional Suitability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+- Functional Suitability: 'The product must comply with the intranet page standards and requirements of ENET Securities.'
+- Usability: '95% of the product look & feel will be approved by the Architecture group prior to implementation. The remaining 5% will be corrected and approved within one month of product release.'
+- Performance Efficiency: 'The product shall be able to process 10 000 transactions per hour within two years of its launch. This number will increase to 20 000 by Release 2.'
+- Compatibility: 'The product must comply with the intranet page standards and requirements of ENET Securities.'
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The product shall be able to display calendar dates and times according to the user’s locale.' - Functional Suitability
+2. '90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.' - Performance Efficiency
+
+
+Based on the given requirement, I would classify it under: **Reliability**
+
+This requirement focuses on the ability of the system to perform tasks in a timely manner, which is related to the system's reliability.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The product shall give users feedback when necessary.' - Usability
+2. '80% of the users surveyed report that the product accurately confirms their actions.' - Functional Suitability
+
+
+Here are the classifications for the given requirement:
+
+- 'The search for recycled parts shall take no longer than 15 seconds.' : Performance Efficiency
+- 'The search results shall be returned in under 15 seconds.' : Performance Efficiency
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'If projected the data must be readable. On a 10x10 projection screen 90% of viewers must be able to read Event / Activity data from a viewing distance of 30': 
+   - Usability
+
+
+Security
+
+
+Functional Suitability
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Based on the given requirement, I would classify it under: **Performance Efficiency**
+
+
+Reliability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Usability
+
+
+Here are the classifications for the given requirements:
+
+1. 'The recycled parts audit report shall be returned to the user within 10 seconds.' - Performance Efficiency
+2. 'The audit report shall be returned within 10 seconds.' - Performance Efficiency
+
+
+Functional Suitability
+
+
+Usability
+
+
+Here are the classifications:
+
+1. 'When a shot is marked as a miss the product shall simulate the sound of a shot missing its target.' 
+   - Functional Suitability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.': 
+   Compatibility
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.'
+   - Performance Efficiency
+
+
+Functional Suitability
+
+
+Based on the given requirement, I would classify it under: **Usability**
+
+This is because the requirement focuses on the ease of use of the product for novice users, making it a usability requirement.
+
+
+Here are the classifications:
+
+1. 'The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications': 
+   - Functional Suitability
+
+
+Here are the classifications:
+
+1. 'Maintenance releases will be offered to customers once a year. The releases shall take no longer than 5 minutes for 80% of the customer base to install.': 
+   - Compatibility
+
+
+Functional Suitability
+
+
+Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The product shall respond fast to keep up-to-date data in the display.' 
+   - Performance Efficiency
+
+
+Functional Suitability
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Here are the classifications:
+
+1. 'The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.' 
+   - Reliability
+
+
+Here are the classifications:
+
+1. 'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes': Functional Suitability
+2. 'The system shall be intuitive to the Program Administrators/Nursing Staff Members.': Usability
+3. 'For each class within a sequence for a cohort Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.': Functional Suitability
+4. 'For each class within a sequence for a cohort Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.': Functional Suitability
+5. 'Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.': Functional Suitability
+6. 'The system shall be easy to use by the Program Administrators/Nursing Staff Members.': Usability
+7. '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.': Usability
+8. 'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts including cohort identifier program of study preferred sequence of classes and quarters that a cohort will be taking specific classes.': Functional Suitability
+9. 'Program Administrators and Nursing Staff Members shall be able to add a listing of students to a cohort.': Functional Suitability
+10. 'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Program of Study within the Nursing Department including the Program of study name and required classes for that Program of Study.': Functional Suitability
+11. 'The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members’ planning purposes.': Performance Efficiency
+
+
+Security
+
+
+Security
+
+
+Usability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The system shall contain contact information (e-mail and phone number) for all people relevant to the system including (but not be limited to) staff members students lecture instructors clinical lab instructors and clinical site administrators.': 
+   - Compatibility: The requirement mentions people relevant to the system, which implies that the system should be compatible with different types of users.
+
+However, if we strictly follow the given categories, the best fit would be Compatibility.
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The product shall poll the system for messages every second.' - Performance Efficiency
+2. 'The product shall poll the system for new messages at a maximum of every 1 second.' - Performance Efficiency
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Here are the classifications:
+
+1. 'The product shall retain the customer’s buying preferences and information.': 
+   - Functional Suitability
+   - Reliability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The product shall be translated into foreign languages other than the target market countries’ languages in future releases. For each emerging target market it shall take no more than 5 days to configure the product for that market’s language.': 
+   - Functional Suitability
+
+
+Reliability
+
+
+Here is the classification of the given requirement:
+
+**Security**
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The product is expected to integrate with multiple database management systems. The product will operate with Oracle SQL Server DB2 MySQL HSQL and MS Access.'
+   - Compatibility
+
+
+Here are the classifications:
+
+1. 'The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.': 
+   Compatibility
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The streaming server will support a maximum of 700 movies; new servers can be added to support more movies.': 
+   - Performance Efficiency
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The preferred repair facility ratings shall be saved within 5 seconds.' - Performance Efficiency
+2. 'The save shall occur within 5 seconds.' - Performance Efficiency
+
+
+Here are the classifications:
+
+1. 'The search for the preferred repair facility shall take no longer than 8 seconds.' - Performance Efficiency
+2. 'The preferred repair facility is returned within 8 seconds' - Performance Efficiency
+
+
+Compatibility
+
+
+Security
+
+
+Here are the classifications:
+
+- Functional Suitability: 'Every registered user will have access to the product’s support site via the Internet.'
+- Usability: '70% of registered users shall find a solution to their problem within 5 minutes of using the support site.'
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'System shall let customers cancel their account process shall take no longer than 2 minutes. Database will mark the account as inactive and user will not be able to log into the website.'
+   - Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number. In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.': 
+Functional Suitability
+
+
+Functional Suitability
+
+
+Reliability
+
+
+Here's the classification:
+
+Reliability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The RFS system should be able to easily interface with the BDW environment in order to load the data.' - Compatibility
+2. '7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year.' - Functional Suitability
+3. 'The data will be as of October month-end.' - Functional Suitability
+4. 'Test files (7) shall be loaded up to 5 times throughout the year from the BDW.' - Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.': 
+   - Security
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'If a user account is revoked it can only be re-instantiated by the System Administrator.'
+   - Security
+
+
+Reliability
+
+
+Here are the classifications:
+
+1. 'The website shall be capable of supporting 100 000 customers.': Performance Efficiency
+2. 'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes': Functional Suitability
+3. 'The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.': Performance Efficiency
+4. 'The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.': Usability
+5. 'The product shall be capable of handling the existing 1000 users. This number is expected to grow 5 times within the next year.': Performance Efficiency
+6. 'The product shall be able to handle 10 000 concurrent users within 2 years of the initial launch.': Performance Efficiency
+7. 'A staff member shall have the ability to manage the progress of a part time student which includes modifying their sequence of classes and timeline of classes.': Functional Suitability
+8. 'Program Administrators and Nursing Staff Members shall be able to add a listing of students to a cohort.': Functional Suitability
+9. '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.': Usability
+10. 'The system will notify affected parties for routine communication purposes including but not limited to informing students of upcoming offered classes (timeline) and what their schedule will be/shall be.': Functional Suitability
+11. 'The system shall be capable of processing 100% of nursing students and their classes for the next 10 years.': Performance Efficiency
+
+
+Security
+
+
+Usability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Here are the classifications:
+
+1. 'Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.': 
+   - Reliability (Availability of the system during a specific time frame)
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The product shall provide Dynamic Change Support and Transparent resource addition.The product shall support Transparent Resource addition and Dynamic Change support to provide scalability and avoid service interruptions of more than 1 day.'
+   - Maintainability
+
+
+Functional Suitability
+
+
+Usability

@@ -1,0 +1,411 @@
+Functional
+
+
+Look and Feel
+
+
+Operational
+
+
+Functional
+
+
+Operational
+
+
+Usability
+
+
+Functional
+
+
+Scalability
+
+
+Operational
+
+
+Functional
+
+
+Here are the classifications:
+
+- Functional
+- Look and Feel
+- Maintainability
+
+
+Here are the classifications:
+
+- Functional
+- Performance
+- Availability
+
+
+Look and Feel
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Usability
+
+
+Usability
+
+
+Security
+
+
+Functional
+
+
+Security
+
+
+Here is the classification of the given requirement:
+
+Performance
+
+
+Functional
+
+
+Usability
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Usability
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Functional
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Security
+
+
+Operational
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Look and Feel
+- Performance
+
+
+Here are the classifications:
+
+- Functional
+- Maintainability
+
+
+Functional
+
+
+Based on the given requirement, I would classify it under: **Usability**
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+The given requirement 'The Disputes System must be accessible by both internal and external users.' can be classified under the category: **Availability**
+
+
+Functional
+
+
+Operational
+
+
+Security
+
+
+Look and Feel
+
+
+The given requirement 'The search radius shall be between 1 and 30 miles' can be classified under the category: Functional.
+
+
+Functional
+
+
+Operational
+
+
+Performance
+
+
+Security
+
+
+Based on the given requirement, I would classify it under: **Usability**
+
+
+Functional
+
+
+Performance
+
+
+Usability
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Here are the classifications:
+
+- Functional
+- Maintainability
+
+
+Here is the classification of the given requirement:
+
+Performance
+
+
+Security
+
+
+Functional
+
+
+Here are the classifications:
+
+- Functional
+- Operational
+- Usability
+
+
+Operational
+
+
+Functional
+
+
+Scalability
+
+
+Functional
+
+
+Both requirements: 'The recycled parts audit report shall be returned to the user within 10 seconds.' and 'The audit report shall be returned no later 10 seconds after the user has entered the CMA report criteria.' can be classified under the category: **Performance**
+
+
+Here are the classifications for the given requirements:
+
+1. 'The search for recycled parts shall take no longer than 15 seconds.' - Performance
+2. 'The search results shall be returned in under 15 seconds.' - Performance
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Usability
+
+
+Scalability
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Availability
+
+
+Maintainability
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The RFS system should be able to easily interface with the BDW environment in order to load the data.' - Operational
+2. '7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year.' - Operational
+3. 'The data will be as of October month-end.' - Operational
+4. 'Test files (7) shall be loaded up to 5 times throughout the year from the BDW.' - Operational
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+The given requirement 'The System shall be able to automatically backup business data and restore them on demand.' can be classified into the following categories:
+
+- Availability
+- Performance
+- Security
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Availability
+
+
+Security
+
+
+Usability
+
+
+Look and Feel
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Availability
+
+
+Here are the classifications:
+
+- 'The product shall poll the system for messages every second.' : Performance
+- 'The product shall poll the system for new messages at a maximum of every 1 second.' : Performance
+
+
+Functional
+
+
+Availability

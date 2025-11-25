@@ -1,0 +1,383 @@
+This requirement can be classified into several categories: Functional, Maintainability, Operational, Usability, Scalability, Security. 
+
+1. Functional: This requirement falls under the functional category as it concerns displaying information about individual cohorts, which includes students enlisted in the cohort, program of study, sequence of classes, and progress through the program. The system's ability to display this kind of data is a core functionality of the software.
+
+2. Maintainability: This requirement pertains to maintainability because maintaining a comprehensive record of cohort information would be essential for ensuring accurate tracking of students' progression in their studies. A detailed summary for each cohort should be easily modifiable and adaptable as new cohorts or courses are added, without disrupting other features of the system.
+
+3. Operational: This requirement belongs to the operational category because it specifies how users will access information about cohorts (printable summaries). The printing feature is a fundamental aspect of an operable software solution that enables stakeholders like Program Administrators and Nursing Staff Members to print important cohort data when needed. 
+
+4. Usability: User-friendliness comes into play as this requirement emphasizes the need for a comprehensive, yet easily navigable report on individual cohorts. The summary should be designed in such a way that it is readily understood by its intended audience.
+
+5. Scalability: This criterion applies because tracking cohort progress accurately and comprehensively over an extended period requires a system capable of accommodating numerous students and classes across various programs, courses, and timeframes. 
+
+6. Security: Given the nature of sensitive information (such as personal details of students and program-related data), this requirement falls under security to ensure that appropriate controls are in place to protect the privacy and confidentiality of user data.
+
+
+Performance
+
+
+Operational
+
+
+This software requirement can be classified under the 'Look and Feel' category.
+
+
+Operational
+
+
+Usability
+
+
+Usability
+
+
+Scalability
+
+
+Operational
+
+
+This software requirement can be classified into the 'Legal' category as it involves payment methods (pre-paid cards) that are subject to regulations and compliance requirements.
+
+
+This requirement falls into the 'Look and Feel' category.
+
+
+Performance
+
+
+Look and Feel
+
+
+This software requirement can be classified under the 'Functional' category.
+
+
+Usability
+
+
+Classify the given requirement as 'Usability'.
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Usability
+
+
+The given software requirement can be classified into the "Maintainability" category.
+
+
+Security
+
+
+This requirement falls under the 'Functional' category.
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+This software requirement can be classified into the Usability category.
+
+
+Performance
+
+
+This software requirement can be classified into the 'Functional' category.
+
+
+Classification: Functional
+
+
+Functional
+
+
+Performance
+
+
+Performance
+
+
+This software requirement can be classified under the "Functional" category.
+
+
+This software requirement falls under the Functional category.
+
+
+Sound
+
+
+This software requirement can be classified under 'Functional'.
+
+
+Operational
+
+
+Performance
+
+
+Operational
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Operational
+
+
+Functional
+
+
+This software requirement can be classified under the "Usability" category.
+
+
+This software requirement can be classified into the 'Functional' category.
+
+
+Functional
+
+
+Performance
+
+
+This software requirement can be classified under 'Look and Feel'. The requirement states that all screens created within the Disputes application must adhere to corporate standards for interface creation, which falls under the umbrella of visual presentation and user interaction design.
+
+
+The category for this requirement would be 'Functional'.
+
+
+The given requirement can be classified under the 'Functional' category as it pertains to the functionality of the system, specifically regarding the structure of a Program of Study.
+
+
+Operational
+
+
+This software requirement can be classified under the "Functional" category.
+
+
+This software requirement can be classified under 'Look and Feel'.
+
+
+Operational
+
+
+Functional
+
+
+Usability
+
+
+This software requirement can be classified into several categories such as Operational, Security, and Usability. From an operational standpoint, allowing both internal and external users to access the system could imply that different levels of access controls or permissions might need to be put in place for security purposes. Additionally, it could have implications on usability since these two groups of users may have different requirements or expectations from the software. Furthermore, this requirement could also fall under a Legal category as it relates to user agreements and data privacy concerns between internal versus external users.
+
+
+This requirement falls under the 'Functional' category.
+
+
+Operational
+
+
+Security
+
+
+Functional
+
+
+This software requirement falls under the 'Functional' category.
+
+
+Operational
+
+
+The given software requirement can be classified into the "Performance" category.
+
+
+This software requirement can be classified into the "Performance" category.
+
+
+Security
+
+
+This software requirement can be classified into two categories: Fault Tolerance and Operational. 
+
+Fault Tolerance: The requirement states that the product should help System Administrators and DBAs to resolve transaction errors, which indicates a need for fault-tolerant design in order to recover from errors efficiently. So, this falls under the category of Fault Tolerance.
+
+Operational: Error tracking services are an essential part of maintaining system performance, so it's also relevant to the operational aspect of the software product as well. The System Administrators and DBAs need to be able to track and resolve errors in a timely manner for smooth operations, which is why this requirement falls under Operational as well.
+
+
+This software requirement falls under the 'Functional' category.
+
+
+Performance
+
+
+Performance
+
+
+Functional
+
+
+This software requirement can be classified under 'Look and Feel'. The focus on appealing to all African audiences and avoiding alienation of non-Africans falls within the realm of visual and aesthetic aspects that influence user experience.
+
+
+This requirement falls under 'Operational', 'Performance', and 'Portability'. It is operational because it describes how the website will function, allowing customers to purchase pre-paid cards of various values. It's performance because it sets a time constraint for completing the transaction, under 5 minutes in this case. And it's portable because it doesn't require any specific hardware or software setup and can be used on multiple platforms with just a browser.
+
+
+Operational
+
+
+Performance
+
+
+Security
+
+
+Operational
+
+
+Operational
+
+
+Scalability
+
+
+This software requirement can be classified into the 'Functional' category.
+
+
+This software requirement falls under the 'Scalability' category as it deals with the ability of the system to handle a large number of users or connections simultaneously.
+
+
+Functional
+
+
+Performance
+
+
+Performance
+
+
+This requirement falls into the 'Performance' category. The main focus of this requirement is on managing the performance and capacity of the online disputes database, by automatically purging closed disputes cases that have been in the system for more than six months. This helps to keep the database organized, efficient, and reduces the risk of data overflow or storage issues.
+
+
+This software requirement falls under the 'Legal' category.
+
+
+The classification for the given requirement is 'Operational'.
+
+
+Performance
+
+
+Scalability
+
+
+This requirement falls under the 'Functional' category.
+
+
+Performance
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Operational
+
+
+The given requirement falls under the 'Functional' category.
+
+
+Availability
+
+
+Operational
+
+
+This software requirement can be classified under 'Functional'.
+
+
+Functional
+
+
+Operational
+
+
+Performance
+
+
+Operational
+
+
+This software requirement can be classified under 'Maintainability'.
+
+
+Operational
+
+
+The classification for the given requirement 'All additions of new users and modifications to user’s access shall be recorded on the User Report.' would be Operational.
+
+
+Operational
+
+
+This software requirement can be classified into two categories: Operational and Scalability. The category "Operational" because it focuses on the time period when the system should be available for use by a certain number of users, which is between 9 am to 5 pm. And the category "Scalability" because it mentions that the system should cater to 10 simultaneous users, indicating the need for scalability in handling user load during specific hours.
+
+
+Security
+
+
+Usability
+
+
+This requirement falls under the 'Functional' category.
+
+
+Performance
+
+
+The classification for this requirement is 'Operational'. The given information suggests that application updates will be scheduled to minimize disruption to users. This scheduling choice aligns with operational considerations, specifically the chosen window of time when updates can occur without affecting user experience.
+
+
+Security
+
+
+The given requirement falls under the 'Functional' category.
+
+
+Operational
+
+
+Performance
+
+
+Performance
+
+
+This requirement falls under the 'Functional' category.
+
+
+Performance

@@ -1,0 +1,406 @@
+This requirement falls under the functional category of "Reporting" as it describes a need for generating a printable summary report for individual cohorts within the system. The report should contain information such as enrolled students, program of study, sequence of classes, cohort progress, and timeline of completion. This will be used by Program Administrators or Nursing Staff Members to monitor student progress and track the overall cohort's performance in the program.
+
+
+This requirement is related to the 'sound effects' category under Look and Feel. The classification would be: "Look and Feel".
+
+
+This requirement falls under the category of "Interfacing with other systems." The system needs to be able to interact with the faculty central server, likely for exchanging information or data related to faculty members.
+
+
+This requirement falls under the category of 'Displaying Information'. The product needs to display each type of ship in a grid using an image of the specific type of ship. (Classification Code: I-_DISPLAY)
+
+
+This requirement is about the integration of a database management system (DBMS) with the product. It specifically mentions Oracle DB2, MySQL, or HSQL as possible DBMS options that should be integrated with the product. The main purpose of this integration is to manage and store data related to disputes, cases, users, and other aspects of the application.
+
+
+This requirement falls under "Functional" in the categories classification.
+
+
+This requirement falls under the 'Functional' category.
+
+
+This requirement is related to the scalability of the product, as it pertains to the system's ability to handle a large volume of transactions (10,000 per hour) within a specific timeframe (two years). It also mentions that this capacity will increase to 20,000 transactions per hour by Release 2. This falls under the "Scalability" category in terms of product capabilities.
+
+
+This requirement falls under the category of "Operational" as it discusses the ability of the product to interface and communicate effectively with a specific type of system (various Database Management Systems) on a certain percentage of all transactions (100%).
+
+
+This requirement can be classified as a payment mechanism since it describes a specific way in which customers can pay for streaming movies using a pre-paid card.
+
+
+This requirement is a combination of several different aspects related to the product's compliance with intranet page standards, architecture group approval, and post-release corrections. Let me break it down into individual components for easier understanding:
+
+1. The product must comply with the intranet page standards and requirements of ENET Securities. This means that the product's interface and design needs to adhere to the specific guidelines and requirements set by ENET Securities for their internal network pages. This includes aspects such as layout, styling, navigation, functionality, and content organization.
+
+2. 95% of the product look & feel will be approved by the Architecture group prior to implementation. In other words, a significant portion (95%) of the final product's design and appearance must receive approval from the Architecture group before the development process begins. This is to ensure that the end result aligns with ENET Securities' expectations and standards.
+
+3. The remaining 5% of the product look & feel will be corrected and amended within one month after release, which means that any changes or adjustments needed to bring the final design into compliance with the approved standard can be made within a month after the initial launch of the software. This ensures that the developers have enough time to implement these modifications without causing significant delays in product development.
+
+
+This requirement is about the lead cycle time for a system or application. It states that 90% of the total lead volume should be processed within 5 minutes during the business hours of 8AM to 8PM, and 99% of the lead volume should be processed within 3 minutes during off business hours. This implies that most leads will be handled quickly (within a few minutes) during regular business hours, while a smaller percentage might take slightly longer during off-hours.
+
+
+This requirement falls under the 'Look and Feel' category. It focuses on the simplicity of the interface design to ensure that a high percentage of beta testers (90%) find it sufficiently easy to use, as indicated by their feedback in an interface and usability survey.
+
+
+This requirement pertains to displaying data from two specific applications within the system: Sync Matrix 1.0 and Exercise Management Tool 1.0. These applications need to integrate their data with the main system, allowing users to access and view the information displayed by these applications. The integration of this data is crucial for efficient decision-making processes and user experience.
+
+
+This requirement can be classified as a "User Interface/Experience" (UI/UX) requirement. It focuses on the language support in the product, ensuring that it accommodates all target market countries and is acceptable by 90% of survey respondents from each country.
+
+
+This requirement is related to the 'Usability' fit criterion as it concerns the clarity and accessibility of the language used in the system. It focuses on ensuring that the wording within the system aligns with standard English language conventions and terms commonly understood within the nursing community, making it easy for users to interact with the software without confusion or difficulty.
+
+
+This requirement pertains to the functionality of adding new classes to a sequence of classes. It can be classified under the 'Course Management' or 'Class Scheduling' functionalities.
+
+
+Functional
+
+
+This requirement can be classified as a usability requirement. It states that the product should be easy to use, with 90% of users being able to successfully reserve a conference room within 5 minutes of using the product.
+
+
+This requirement is classified as Performance because it relates to how quickly the user can find help within the system.
+
+
+This requirement is classified as a usability requirement as it focuses on the ease of use of the software for novice users who may not have extensive experience with similar systems or technologies.
+
+
+This requirement is related to the visual presentation of the data in the system, specifically focusing on its readability when projected onto a 10x10 screen from a certain distance. It involves ensuring that at least 90% of viewers can read the Event/Activity data. This falls under the category of User Interface (UI) and Usability.
+
+
+This requirement falls under Security category as it deals with storing customer information securely and making it accessible only to authorized personnel.
+
+
+This requirement pertains to the "Enrollment and Eligibility" domain. It states that when students are added to a specific cohort, they automatically become eligible for that cohort's program of study. (Classification: Informational - Describes a characteristic or attribute of an entity.)
+
+
+This requirement falls under the category of "Functional" as it describes a specific action (advertising empty time slots) that is restricted to a particular role (supervisors). It outlines a constraint on the system's functionality, stating who can perform a certain task within the application.
+
+
+This requirement falls under the category of 'Reporting and Analysis'. The system needs to generate a report showing the required classes (courses) for each cohort in all programs for Program Administrators/Nursing Staff Members' planning purposes for a specific quarter.
+
+
+This requirement falls under the category of 'Adjuster Capabilities'. It describes a functionality that allows adjusters to manually override the system-assigned preferred repair facilities for estimate assignments.
+
+
+This requirement is a subjective satisfaction criterion related to the product's design and user experience. It pertains to how engaging and enjoyable the product is for its users, which can influence their ongoing usage.
+
+
+The given requirement is classified as "Performance" as it pertains to the frequency at which the system displays updated information.
+
+
+This requirement falls under the 'Availability' category as it discusses the accessibility of streaming movies on demand at any time of the day.
+
+
+The functional category for this requirement would be 'Display'. This is because it describes a specific action that the system should be able to perform, which is displaying events or activities on its interface.
+
+
+The given requirement falls under the "Look and Feel" category. It focuses on the visual aspects of the software product, including the use of colors, font styles, and overall consistency in design elements.
+
+
+This requirement falls under the 'Usability' category. The classification indicates that the product should be designed in such a way that it is easy for customers with novice skills on the internet to purchase and watch streaming movies, with a maximum of 3 minutes being the target time frame to accomplish this task.
+
+
+This requirement can be classified as a performance criterion with a maximum threshold of 8 seconds for the search for the preferred repair facility to be completed.
+
+
+This requirement falls under the category of "Display and Output" as it describes how events will be displayed on the system, specifically through a graph by time.
+
+
+This requirement falls under the category of Maintainability. It pertains to the management of player participation in the game by allowing users to remove themselves from the list of active players once a game has been concluded.
+
+
+This requirement can be classified as a "Look and Feel" feature. It pertains to the visual and auditory presentation of the game environment in which the user interacts. In this case, the sound effect of shooting a shot simulates the sound of a ship at sea.
+
+
+This requirement falls under the functional category of "Notification". The system must notify users when a game ends, and the reason for the game ending should be included in the notification (e.g., a player has won the game or a player has ended the game).
+
+
+This requirement is related to Operational. It focuses on the system's ability to function in a specific type of business office environment, such as the Nursing Department at DePaul University.
+
+
+This requirement pertains to the functionality of the system allowing it to pause and resume refreshing data. It falls under the category of 'Performance'.
+
+
+Functional
+
+
+Classifying the given requirement:
+- Functional: This requirement pertains to the functionality of the Disputes System. It describes how disputes should be entered into the system through an intuitive user interface, with real-time responses for users.
+
+
+This requirement falls under the category of 'Maintainability'. The product should retain the customer's buying preferences and information to provide an enhanced user experience and personalize recommendations or suggestions based on previous purchases.
+
+
+The given requirement falls under the "Functional" classification category.
+
+
+This requirement can be classified as a "Performance" criteria since it focuses on the ability of the product to work seamlessly with different database management systems, and how easily end-users can configure it with new DBMS.
+
+
+This requirement falls under the following categories: Functional, Security, Maintainability, and Operational.
+
+1. Functional: The requirement pertains to a functional aspect of the Disputes System as it describes a specific action that users can perform within the system - creating or initiating a chargeback request. It also outlines what information the user needs to provide in order for this process to be successful.
+
+2. Security: This requirement touches on security aspects, such as how the system should prompt the user when initiating a chargeback request and ensure that appropriate notifications are sent to merchants regarding potential account charges if proof of validity is not provided. It also implies that the system needs to maintain consistent security measures in order to protect against fraudulent transactions.
+
+3. Maintainability: The requirement discusses the need for the system to be designed using design patterns and coding best practices, which would make it easier for maintenance software developers to integrate new functionalities without affecting other aspects of the product. Therefore, this aspect falls under maintainability.
+
+4. Operational: This requirement touches on how the Disputes System needs to interface with external systems (in this case, a payment processor) and handle chargeback requests when disputes arise. It also implies that prompt action is needed in order to ensure merchants are notified of potential account charges if proof of validity isn't provided. Thus, it falls under operational aspects as well.
+
+
+This requirement can be classified as a "Learning" requirement. It focuses on the ease of learning for adjusters and collision estimators, specifying that they should be able to learn the product with two days of onsite training.
+
+
+This requirement falls under the 'Functional' category as it describes a specific functionality of the system - generating an inventory quantity adjustment document based on product sales data and predefined formulas.
+
+
+The given requirement falls under the category of "Game Dynamics" or "Turn-Based Functionality". This means that the product should continuously assign turns to players until the game is ended.
+
+
+This requirement is related to the performance category and can be classified as a "Must Have" feature. A responsive product is essential for an efficient user experience, ensuring that updates are made quickly and accurately in the displayed data.
+
+
+This requirement falls under the "Operational" category. It focuses on the consistency and adherence to established design standards within the Disputes application. The requirement emphasizes that all screens (user interfaces) developed for the Disputes application should follow the set guidelines or standards for creating interfaces within the organization.
+
+
+This requirement falls under the Functional category.
+
+
+This requirement can be classified as follows:
+
+* Functional: The system should have the ability to manage a Program of Study, which includes storing information about the program name and a list of required classes that need to be completed.
+
+
+This requirement falls under the 'Functional' category as it describes a specific action that the product should be able to perform. It involves displaying information related to room equipment based on certain search parameters, which indicates that the product needs to have a feature for searching and showing room equipment based on certain criteria.
+
+
+This requirement falls under the 'Functional' category as it describes a specific feature that the system should have, which is the ability for users to search for their preferred repair facility using vehicle location and radius within a certain distance.
+
+
+This requirement refers to the inclusion of a sound effect in the game when a shot misses its target. From the given list of requirements, it can be classified under 'Sound and Media Support' or 'Gameplay Features'.
+
+
+This requirement pertains to the functional area of dispute resolution within the Disputes System. It describes a task that an adjuster (i.e., a user role with access rights) needs to perform - namely, reviewing a collision estimate. The adjustment of disputed claims is one of the main purposes of this system.
+
+
+This requirement belongs to the "Functional" category as it describes a specific functionality of the system - allowing users to view and consider their preferred repair facility ratings when selecting a repair facility for their vehicle.
+
+
+This requirement is asking for a specific layout or design for each page of the product. It requires that there be a distinct area for "action items" (likely buttons or links users can interact with) and another area for navigational elements. This can be classified as a Design Requirement.
+
+
+This requirement can be classified as a "Performance" criterion as it outlines the accessibility of the Disputes System for both internal (i.e., employees) and external (i.e., customers or partners) users.
+
+
+This requirement pertains to the "Classes" subsystem of the WCS system. The classification is as follows:
+
+- System Level: Functional
+- Subsystem: Classes
+- Class Level: Low
+- Impact: High
+- Complexity: High
+- Stability: High
+
+
+This requirement can be classified under the "Operational" category. The reason for this classification is that it focuses on the ability of the system to interact and be accessed by different web browsers that have an HTML rendering capability, which falls under the operational aspect of ensuring the system's functionality and accessibility.
+
+
+This requirement pertains to the classification of "Security". It discusses a need for protecting sensitive information by ensuring that one insurance company cannot view the claims data of another insurance company. This falls under security as it relates to data access and privacy.
+
+
+Functional
+
+
+This requirement falls under the "Search" category as it pertains to the functionality of searching for properties within a specified distance or radius. The "maximum and minimum radius values" are considered constraints that define the range in which the system should search for properties. In this case, the radius is set between 1 and 30 miles, indicating the maximum and minimum values allowed for the search radius.
+
+
+Functional
+
+
+Classify this as a 'Performance' requirement.
+
+
+This requirement is related to the performance of the product - specifically, it mentions that messages should be processed within 2 seconds. This falls under the category of "Response Time" or "Performance".
+
+
+This requirement falls under the category of Operational. The system needs to ensure that its data is protected from corruption caused by incorrect inputs. This could be done through validation checks and error handling mechanisms in the software design.
+
+
+This requirement falls under the category of 'Performance'. It pertains to the error tracking capabilities of the product, stating that it should be able to help system administrators and database administrators (DBAs) resolve transactional errors 99% of the time.
+
+
+This requirement falls under the 'Functional' classification as it describes a specific behavior that the system should have in order to fulfill its purpose. It specifies how the system will process and react to user interactions related to shots in the game, including examining the defensive grid of the opposing player to determine if the shot was a hit or miss.
+
+
+This requirement is classified as a Performance Requirement. It specifies the desired performance for the product interface, including the maximum response time and the maximum percentage of time when the response time should not exceed a specific threshold.
+
+
+This requirement is related to the usability aspect of the product as it pertains to customer satisfaction and comfort level with the system. It involves collecting feedback through an anonymous survey, specifically focusing on the usage and purchase experience with pre-paid cards within a month of using the system.
+
+
+Functional
+
+
+This requirement is related to the "Usability" category as it pertains to the website's design and how easily it can be used by a diverse audience, including Africans from different countries. The goal is to create a website that appeals to users from Nigeria and other African nations in terms of its visual appearance, language, and overall user experience.
+
+
+This requirement falls under the category of "Functional". It describes a specific feature of the website where customers can purchase pre-paid cards with different values using either a credit card or a mail-in payment option.
+
+
+Classifying the given requirement:
+
+* Operational
+* Maintainability
+
+
+This requirement is about scalability and system capacity. The application should be able to handle a peak load of 350 concurrent users without any significant decrease in performance. (S0689)
+
+
+This requirement can be classified as a security-related constraint. It outlines a user access control mechanism where each level in the PCG hierarchy (e.g., supervisor, manager) will be assigned specific roles with corresponding permissions or privileges. This ensures that only authorized users have access to certain functionalities within the RFS system based on their role(s).
+
+
+Functional
+
+
+This requirement falls under the category of 'Translation and Localization'. It states that the product will be translated into foreign languages other than the target market countries' languages in future releases. For each emerging target market, it will take no more than 5 days to configure the product for that particular market's language.
+
+
+This requirement falls under the 'Functional' category as it describes a specific functionality that the system should have - managing the nursing program curriculum and class/clinical scheduling. It also specifies the duration for which this functionality is expected to work, i.e., at least 5 years.
+
+
+This requirement falls under the functional category of "Notification System". The system should have a notification mechanism that alerts affected parties, such as students or faculty members, about any changes related to classes, such as class cancellations, changes in class sections, or modifications to class offerings. This would ensure timely communication and prevent confusion among stakeholders.
+
+
+This requirement can be classified as a "Performance" criterion. It specifies that the streaming server should be able to handle a maximum of 50 simultaneous streaming connections.
+
+
+This requirement is related to displaying information on the user interface of the system. Specifically, it talks about the system showing a blank set of ratings if there are no ratings defined for a particular item or category. This falls under the "Display" and "User Interface" category in the GEQIP classification.
+
+
+This requirement can be classified as a Performance Requirement since it pertains to the speed at which the Recycled Parts Audit Report is returned to the user.
+
+
+This requirement can be classified as a Performance requirement as it focuses on the time taken by the system to perform a specific task, in this case, searching for recycled parts. (RFC2497)
+
+
+Classification: Security
+
+This requirement falls under the category of Security as it deals with purging data from the online disputes database after a certain period of time. The system needs to ensure the protection of sensitive information by removing outdated disputes cases to prevent unauthorized access or manipulation.
+
+
+This requirement falls under the category of "Security". The classification is due to the need for the system to notify users about changes to its information policy, which could potentially involve updates or modifications to the system's privacy policies or data handling procedures. This is relevant to user trust and confidence in the system's ability to protect their personal information.
+
+
+This requirement is related to the "Scalability" fit criterion. It states that maintenance releases for the product will be offered to customers once a year, and it should take no more than 5 minutes for at least 80% of the customer base to install the release.
+
+
+This requirement is a Performance Requirement as it talks about the customer satisfaction level with the product after using it for two weeks. It measures the percentage of customers who feel comfortable with purchasing streaming movies after using the website for two weeks.
+
+
+Scalability
+
+
+This requirement falls under the "Functional" category.
+
+
+This requirement falls under the Performance category as it specifies a time frame for users to log into the website using their email address and password.
+
+
+Classify this given requirement as a 'Display' feature, under the category of "Reporting and Display".
+
+
+This requirement can be classified as a performance requirement related to user competence. It states that 100% of merchant services representatives (likely customer service agents) should be able to successfully perform a specific task (follow-up action on a dispute case) after completing a training course. (Note: The term "product" is not applicable in this context, as it refers to the system or application being discussed.)
+
+
+This requirement pertains to the 'Clinical Sites' functionality of the system. The classification for this requirement would be under 'Data Manipulation'.
+
+
+This requirement falls under the category of 'Functional'. It describes a specific functionality that the Disputes System should have, which is the ability to view existing dispute cases.
+
+
+This requirement is related to the "Lead Management" functionality within the system. The leads washing functionality would be used to determine the qualification status of potential sales leads based on their contact and academic scoring information. This requirement is asking about the ability of this functionality to compile both types of scores into a single, total score that can be used for lead qualification.
+
+
+Functional
+
+
+This requirement pertains to the 'Maintenance and Management' category as it deals with storing and maintaining customer information even after they have canceled their account.
+
+
+This requirement falls under the 'Functional' category.
+
+
+This requirement is classified as a "Operational" and a "Performance" requirement.
+
+It falls under the category of "Operational" because it deals with the functionality that the RFS system must possess in order to interface with the BDW environment and load data. Specifically, it states that the RFS system should be able to easily interface with the BDW environment, indicating a necessary feature for the system to function properly.
+
+It also falls under the category of "Performance" because it provides a specific performance metric: within 3 hours, 7 data files from the BDW must be loaded into the RFS system. This requirement is focused on how quickly and efficiently the RFS system can process and load the received data from the BDW environment.
+
+
+Operational
+
+
+This requirement is asking for a fast response time in the range of 2 seconds for at least 95% of responses, with a maximum of 4% of responses taking longer than 4 seconds.
+
+
+This requirement is related to the "Functional" category. The task here is about maintaining the data parameters of leads within a specific interface of the system.
+
+
+Functional
+
+
+This requirement pertains to the "Leads Washing" functionality of a system. It states that this particular feature is responsible for inserting all leads (i.e., potential sales opportunities) captured by the web service (likely an integration with another system or platform). The goal of this functionality is to process and manage incoming leads in order to facilitate better lead tracking, qualification, and conversion into sales.
+
+
+The given requirement refers to the recording of user additions and modifications in a system. This falls under the category of 'Security' as it involves tracking user activity within the system. Therefore, this can be classified as a Security requirement.
+
+
+This requirement falls under the category of "Data Storage and Access" as it describes a functionality that involves logging streaming movie sales in the database, which can be accessed by the administrator.
+
+
+ scalability
+
+
+The given requirement can be classified under Security. It pertains to the authentication and authorization of users within the system, ensuring that only authorized individuals have access to its features and functionalities.
+
+
+This requirement can be classified as a usability criterion. It focuses on how easily a user can learn to navigate and use the system after a short amount of time, indicating a low learning curve for the users.
+
+
+This requirement falls under the category of "Functional". It specifies a specific action that the system should perform - formatting letter requests according to predefined guidelines.
+
+
+This requirement can be classified as a performance requirement. It specifies that the system's response time on a 56k connection should be no more than 6 seconds for 90% of the operations.
+
+
+This requirement can be classified as a "Maintenance" requirement because it specifies a window for application updates to happen. The window indicates that the updates should take place during specific hours (3AM - 6 AM CST) on a particular day of the week (Wednesday) during a certain period (middle of the NFL season).
+
+
+This requirement falls under the category of 'Access Control' in the context of system security. It states that Program Administrators and Nursing Staff Members are the only individuals granted access to view and manipulate clinical site details within the system. This means that other users, such as regular employees or external parties, will not have access to this information.
+
+
+This requirement falls under the Functional category.
+
+
+This requirement pertains to the "Cohort Management" functionality of the system. It states that Program Administrators (such as Program Directors or Academic Advisors) and Nursing Staff Members have the ability to add a new cohort to the system, specifying the cohort's start month and year. This could be related to a specific class schedule, a group of students in a particular course, or an entire program/degree. The addition of a new cohort would likely impact other aspects of the system such as registration, financial aid, and academic advising.
+
+
+This requirement falls under the 'User Account Management' category and belongs to the 'Performance' subcategory. It states that the system should allow administrators to deactivate a customer account within one minute, after which the customer will lose access to the website. This is related to functionality that allows for user management and controls over user access in the system.
+
+
+The requirements classification for the statement "The product shall poll the system for messages every second. The product shall poll the system for new messages at a maximum of every 1 second." falls under the following user needs and concerns:
+
+* Performance (Efficiency): This requirement emphasizes the need for the product to perform message polling with high frequency, indicating that it should be responsive and handle updates in real-time or near-real time. The system's response time for new messages should not exceed a maximum of every 1 second, which implies quick notification of any changes in the system. This is essential for maintaining an efficient user experience where timely notifications are crucial.
+* Availability: In some scenarios, polling at high frequency may be necessary to ensure that users have access to real-time data or alerts from the system. For example, a stock trading platform would need frequent updates to display current market prices accurately. This requirement ensures that the product is available and functional when needed, providing reliable performance in critical situations.
+* Scalability: The ability of the product to perform message polling at high frequency may indicate its scalability in handling larger loads or more significant amounts of data. High-frequency polling allows for efficient processing and quicker response times for users, which can be essential in many applications where real-time information is crucial. This requirement ensures that the product remains capable of handling increased user demands without compromising performance.
+
+
+This requirement refers to the automatic entry of substitute ingredients for a product formulation in a recipe management system. The "PFE" subsystem is likely referring to a process or function related to product development and engineering, which would handle tasks such as ingredient substitutions based on factors like availability, cost, or nutritional content. 
+
+In simpler terms: When someone adds a new recipe in the system, it will automatically find alternative ingredients for the ones that are hard to get or too expensive to use.
+
+
+This requirement can be classified as a performance requirement. It states that within a group of Program Administrators/Nursing Staff Members, at least two out of three should be able to successfully use the system to manage scheduling of classes and clinicals.

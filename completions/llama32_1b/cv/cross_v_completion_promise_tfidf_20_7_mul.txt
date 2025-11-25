@@ -1,0 +1,206 @@
+Operational
+
+
+Security
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Usability
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+The given requirement: 'The product shall comply with corporate User Interface Guidelines' can be classified into the following categories:
+
+- Look and Feel
+- Operational
+
+
+Maintainability
+
+
+Operational
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Operational
+
+
+Usability
+
+
+Operational
+
+
+Operational
+
+
+Here are the classifications:
+
+1. 'Only managers are able to perform search queries for reservations by user. 100% of all search queries for reservations by user shall be from logons of only management logons.': 
+   - Security
+   - Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The System shall allow for a minimum of 6 users to work at the same time.' can be classified under the category: Scalability.
+
+
+Functional
+
+
+Performance
+
+
+Here is the classification of the given requirement:
+
+Performance
+
+
+Operational
+
+
+Operational
+
+
+Operational
+
+
+Performance
+
+
+Operational
+
+
+Maintainability
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+I would classify the given requirement as: **Availability**
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Availability
+
+
+Functional
+
+
+Here are the classifications for the given requirements:
+
+1. 'The system shall have high availability every day of the year.': Availability
+2. 'The system must be available for use between 12:00AM and 6:00PM all days of the year.': Availability
+
+
+Security
+
+
+Here are the classifications:
+
+1. 'The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods.'
+   - Availability
+2. 'The product shall be available 99.99% of the time for regular business days.'
+   - Availability
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product shall be robust with fault tolerance.The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.'
+   - Fault Tolerance
+
+
+Fault Tolerance
+
+
+Here are the classifications:
+
+- Functional
+- Operational
+- Availability
+- Performance
+
+
+Functional
+
+
+Availability

@@ -1,0 +1,247 @@
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+The given requirement 'The system shall display clear property images in the search results' can be classified under the category: Functional.
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The system shall be intuitive to the Program Administrators/Nursing Staff Members' can be classified into the following categories:
+
+- Usability
+- Look and Feel
+
+
+The given requirement '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.' can be classified under the category of **Usability**.
+
+
+The given requirement 'Staff members shall be able to complete a set of tasks in a timely manner.' can be classified under the category of **Performance**.
+
+
+Availability
+
+
+Availability
+
+
+Scalability
+
+
+Operational
+
+
+Operational
+
+
+Functional
+
+
+Based on the given requirement, I would classify it under the category of: **Functional**
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Operational
+- Performance
+
+
+Functional
+
+
+The given requirement: 'The system will notify affected parties when changes occur affecting classes including but not limited to class cancellations class section detail changes and changes to class offerings for a given quarter.'
+
+Category: Functional
+
+
+Functional
+
+
+Security
+
+
+Here are the classifications for the given requirement:
+
+- Functional
+- Security (to ensure that only authorized users can initiate dispute requests)
+- Usability (to ensure that the system is user-friendly and provides clear options for users to select the type of ticket retrieval request)
+
+
+Here are the classifications for the given requirements:
+
+1. 'The Disputes System shall allow the user to create or initiate a chargeback request. The system must prompt the user to enter the required information to initiate a chargeback request.' 
+   - Functional
+
+2. 'The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.'
+   - Functional
+
+
+The given requirement 'The search radius shall be between 1 and 30 miles' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Functional
+
+
+Based on the given requirement, I would classify it under: **Scalability**
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Maintainability: The requirement mentions the time it takes for the system to cancel an account process, which is related to the system's performance and functionality.
+- Performance: The requirement mentions the time it takes for the system to cancel an account process, which is related to the system's response time.
+- Security: The requirement mentions the database marking the account as inactive and user not being able to log into the website, which is related to the system's security features.
+- Usability: Although not directly mentioned, the requirement implies that the system should provide a user-friendly experience for customers to cancel their accounts.
+
+However, the most concise and direct classification would be:
+
+- Performance
+
+
+Functional
+
+
+Based on the given requirement, I would classify it under the following categories:
+
+- Look and Feel
+- Usability
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Availability
+
+
+Security
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+The given requirement 'When a shot is marked as a miss the product shall simulate the sound of a shot missing its target.' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Performance
+
+
+Look and Feel
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Scalability
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Look and Feel
+
+
+The given requirement can be classified into the following categories:
+
+- Scalability
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Operational
+- Performance
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product shall operate with every platform.The product shall accommodate any new technology without any change in its architecture.'
+   - Operational
+   - Portability
+
+
+Based on the given requirement, I would classify it under the following categories:
+
+1. Usability
+2. Look and Feel (as it mentions adherence to IBM usability standards)
+
+
+Usability
+
+
+Based on the given requirement, I would classify it under the following categories:
+
+- Usability
+- Performance
+- Availability 
+
+These categories are related to the requirement as it involves the user's ability to complete their budgets within a stipulated time, the ease of use of the system, and the availability of the system for users to complete their tasks.

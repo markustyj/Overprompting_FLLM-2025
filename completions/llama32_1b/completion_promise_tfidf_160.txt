@@ -1,0 +1,1032 @@
+Based on the given requirement, I would classify it under the following categories:
+
+1. Functional
+2. Look and Feel
+3. Usability
+
+However, the most relevant categories would be:
+
+1. Functional (as it describes a specific system functionality)
+2. Usability (as it implies that the system should be easy to use and understand)
+
+The requirement also touches on the Look and Feel aspect, as it mentions a "printable summary", which implies a visual representation of the data. However, the primary focus is on the system's functionality and usability.
+
+
+The given requirement 'When a ship is sunk the product shall simulate the sound of a sinking ship.' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+The given requirement 'The system shall interface with the faculty central server' can be classified into the following categories:
+
+- Operational
+- Availability
+- Security
+
+
+The given requirement 'The product shall display each type of ship in a grid using an image of the specific type of ship.' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+The given requirement 'A database management system such as Oracle DB2 MySql or HSQL will need to be integrated with the product.' can be classified into the following categories:
+
+- Operational
+- Security
+- Performance 
+
+However, the most suitable category for this requirement would be Operational, as it involves integrating a database management system with the product, which is a functional requirement related to the product's operation.
+
+
+The given requirement 'The product shall use a standard navigation menu familiar to most web users.' can be classified into the following categories:
+
+- Look and Feel
+- Usability
+
+
+The given requirement 'The product shall allow a user to identify himself or herself as a player' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement can be classified into the following categories:
+
+- Scalability
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Operational
+- Security 
+
+The reason for this classification is that the requirement is related to the product's ability to interface with various database management systems, which is an operational aspect. However, the requirement also mentions that the product shall communicate successfully with the database management system on 100% of all transactions, which implies that the product must ensure data integrity and security, which is a security aspect.
+
+
+The given requirement 'System will allow customers to pay for a streaming movie with a pre-paid card.' can be classified into the following categories:
+
+- Functional: The system allows customers to pay for a streaming movie with a pre-paid card.
+- Security: All credit card information will be encrypted in the database.
+- Availability: The system will be available for use between 7:00AM and 11:59PM all days of the year.
+- Performance: System shall let customers register on the website as a “pay as you go” user in under 5 minutes.
+- Operational: Website must interface with the CyberSource API to process credit card transactions.
+
+
+The given requirement can be classified into the following categories:
+
+- Look and Feel
+- Maintainability
+- Operational
+- Security
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Availability
+
+
+The given requirement can be classified into the following categories:
+
+- Look and Feel
+- Usability
+
+
+The given requirement 'The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications' can be classified into the following categories:
+
+- Functional
+- Security 
+
+However, the most suitable category for this requirement would be Functional, as it describes a system functionality.
+
+
+The given requirement 'The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.' can be classified into the following categories:
+
+- Usability
+- Availability
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Look and Feel
+- Usability
+- Security 
+
+However, the most suitable category for this requirement would be 'Usability' as it deals with the consistency of language used within the system, which affects the user's experience and understanding of the system.
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+- Maintainability 
+
+However, the most relevant categories would be Functional and Maintainability.
+
+
+The given requirement 'The product shall update existing conference rooms' can be classified into the following categories:
+
+1. Functional
+2. Security
+
+
+The given requirement 'The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.' can be classified into the following categories:
+
+- Usability
+- Performance
+
+
+The given requirement 'The user shall easily locate instructions while using the product. User help can be found within 90% of the system.' can be classified into the following categories:
+
+- Usability
+- Look and Feel
+
+
+The given requirement 'The product should be able to be used by 90% of novice users on the Internet' can be classified under the category of 'Usability'.
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Look and Feel
+
+
+The given requirement 'All customer information will be stored on a secure database accessible only to authorized personnel.' can be classified into the following categories:
+
+- Security
+- Availability
+- Look and Feel
+- Maintainability
+- Performance
+
+However, the most suitable category for this requirement would be:
+
+- Security
+
+
+The given requirement 'Students added to a cohort shall be eligible for the cohort’s Program of Study' can be classified under the category of 'Functional'.
+
+
+The given requirement can be classified into the following categories:
+
+- Security
+- Functional
+
+
+Based on the given requirement, I would classify it under the following categories:
+
+- Functional
+- Operational
+- Performance 
+
+However, the most suitable category for this requirement would be 'Functional' as it describes a specific functionality of the system. 
+
+Additionally, it can also be classified under 'Operational' as it pertains to the system's ability to perform a specific task for Program Administrators/Nursing Staff Members. 
+
+Lastly, it can also be classified under 'Performance' as it pertains to the system's ability to display a report of needed classes in a timely manner.
+
+
+The given requirement 'The adjuster shall be able to override the preferred repair facility on the estimate assignment' can be classified into the following categories:
+
+- Functional
+- Security
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Availability
+
+
+The given requirement 'The system shall refresh the display every 60 seconds.' can be classified into the following categories:
+
+- Performance
+- Look and Feel
+
+
+The given requirement 'All movies shall be streamed on demand at any time of the day' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+The given requirement 'The system shall display Events or Activities' can be classified into the following categories:
+
+- Functional
+- Look and Feel 
+
+However, the most relevant category for this requirement is Functional, as it describes a specific functionality of the system.
+
+
+The given requirement 'The product shall have a consistent color scheme and fonts.' can be classified into the following categories:
+
+- Look and Feel
+- Usability
+
+
+Based on the given requirement, I would classify it under the following categories:
+
+- Usability
+- Performance
+
+The reason for this classification is that the requirement focuses on the ease of use of the product for customers with novice skills on the Internet, which falls under Usability. Additionally, the requirement specifies a time limit for purchasing and watching a movie, which falls under Performance.
+
+
+The given requirement 'The search for the preferred repair facility shall take no longer than 8 seconds. The preferred repair facility is returned within 8 seconds' can be classified into the following categories:
+
+- Performance
+- Functional
+
+
+The given requirement 'The system shall display the Events in a graph by time.' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+- Performance
+
+
+The given requirement 'When a game is ended the product shall allow each player to remove himself or herself from the list of players' can be classified into the following categories:
+
+- Functional
+- Availability
+- Security
+
+
+The given requirement 'When the offensive player takes a shot the product shall simulate the sound of a ship at sea.' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Usability 
+
+The reason is that the requirement describes a specific functionality of the system (notification of the game ending) and also implies that the system should be intuitive and easy to use (Usability).
+
+
+The given requirement 'The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.' can be classified into the following categories:
+
+- Operational
+- Availability
+- Look and Feel
+
+
+The given requirement 'The system shall offer the ability to pause and resume the refresh of data.' can be classified under the category of **Operational**. This is because the requirement is related to the system's functionality and how it handles data refresh, which is an operational aspect of the system.
+
+
+The given requirement 'The owner shall have free access to all of the streaming movies.' can be classified into the following categories:
+
+- Functional: The requirement describes a specific functionality that the system should provide to the owner.
+- Usability: The requirement implies that the system should be easy to use and provide a seamless experience for the owner.
+- Security: Although not explicitly stated, the requirement implies that the owner should have access to the streaming movies, which may involve authentication and authorization mechanisms to ensure that only authorized owners have access.
+
+However, considering the primary focus of the requirement, I would categorize it as:
+
+- Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Performance
+- Operational
+
+
+The given requirement 'The product shall retain the customer’s buying preferences and information.' can be classified into the following categories:
+
+- Functional: The product shall retain the customer’s buying preferences and information.
+- Security: The product shall retain the customer’s buying preferences and information.
+- Usability: The product shall retain the customer’s buying preferences and information.
+- Maintainability: The product shall retain the customer’s buying preferences and information.
+- Performance: The product shall retain the customer’s buying preferences and information.
+- Availability: The product shall retain the customer’s buying preferences and information.
+- Fault Tolerance: The product shall retain the customer’s buying preferences and information.
+
+However, the most suitable categories for this requirement would be Functional, Security, and Maintainability.
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The product shall provide Portals.
+- Performance: The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators)
+- Operational: The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators)
+
+
+The given requirement can be classified into the following categories:
+
+- Operational
+- Maintainability
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The Disputes System shall allow the user to create or initiate a chargeback request. The system must prompt the user to enter the required information to initiate a chargeback request.
+- Operational: The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.
+- Security: (Implicit) The system must prompt the user to enter the required information to initiate a chargeback request, implying that the system must validate the user's input to prevent malicious activity.
+- Performance: (Implicit) The system must prompt the user to enter the required information to initiate a chargeback request, implying that the system must respond quickly to user input.
+- Usability: The system must prompt the user to enter the required information to initiate a chargeback request, implying that the system must provide clear and intuitive instructions to the user.
+
+
+Based on the given requirement, I would classify it under the category of 'Usability'.
+
+
+The given requirement 'The System shall generate Inventory Quantity Adjustment document based on product daily sales data and product formulas.' can be classified into the following categories:
+
+- Functional
+- Performance
+- Security
+
+
+The given requirement 'The product shall continue to assign turns until the game is ended.' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+The given requirement 'The product shall respond fast to keep up-to-date data in the display' can be classified into the following categories:
+
+- Performance
+- Usability
+
+
+The given requirement 'All screens created as part of the Disputes application must comply with corporate standards for interface creation' can be classified into the following categories:
+
+- Look and Feel
+- Maintainability
+
+
+The given requirement 'Once a game is initiated the product shall display an offensive grid to each player' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Scalability
+
+
+The given requirement 'The product shall display room equipment according to search parameters' can be classified into the following categories:
+
+- Functional
+- Availability
+- Performance
+
+
+The given requirement 'The user shall search for the preferred repair facility using vehicle vehicle location and radius in miles' can be classified into the following categories:
+
+- Functional
+- Availability
+- Performance
+
+
+The given requirement 'When a shot is marked as a miss the product shall simulate the sound of a shot missing its target.' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+The given requirement 'The adjuster shall review the collision estimate' can be classified under the category of 'Functional'.
+
+
+The given requirement 'The user shall select to view the preferred repair facility ratings.' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement 'Each page shall contain a similar format with action items in one location and navigation buttons in a different location' can be classified under the category of 'Look and Feel'.
+
+
+The given requirement 'The Disputes System must be accessible by both internal and external users' can be classified under the category of **Security**.
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+- Maintainability 
+
+However, the most suitable category for this requirement would be 'Functional' as it describes a specific functionality that the system should provide.
+
+
+The given requirement 'We must be able to interface with any HTML browser' can be classified under the category of 'Operational'.
+
+
+Security
+
+
+The given requirement 'The product shall comply with corporate color scheme' can be classified under the category: Look and Feel.
+
+
+The given requirement 'The search radius shall be between 1 and 30 miles' can be classified into the following categories:
+
+- Functional
+- Performance 
+
+The reason for this classification is that the requirement is related to the functionality of the system (Functional) and also implies a constraint on the system's performance (Performance), as it affects the speed and efficiency of the search process.
+
+
+The given requirement 'The system shall be able to display a printable summary of the system log.' can be classified under the category of 'Security'.
+
+
+The given requirement 'Promotional updates to the website should take a day to update' can be classified under the category of **Maintainability**. This is because it deals with the process of updating the website, which is a maintenance task.
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Security
+
+
+The given requirement 'The website shall prevent its data from being corrupted when incorrect data is entered in.' can be classified under the category of **Security**.
+
+
+The given requirement 'The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.' can be classified into the following categories:
+
+- Functional
+- Performance
+- Fault Tolerance
+
+
+The given requirement 'For each shot the product shall examine the defensive grid of the defensive player to determine whether the shot was a hit or miss.' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Availability 
+
+Explanation: 
+- The requirement talks about the response time of the product interface, which is a performance characteristic.
+- The requirement also mentions that the product interface should be available 90% of the time and not more than 10 seconds for 10% of the time, which is related to availability.
+
+
+The given requirement can be classified under the category of 'Usability'.
+
+
+The given requirement 'The current repair facility ratings shall be displayed to the user' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement 'The website should appeal to all Africans not only Nigerians.' can be classified under the category of 'Look and Feel'.
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Availability
+- Security
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Maintainability
+- Operational
+- Performance
+- Scalability 
+
+However, the most suitable category for this requirement would be 'Maintainability' as it involves the integration of new building maps with the product, which is a maintenance-related activity.
+
+
+The given requirement 'The Disputes application shall support 350 concurrent users without any degradation of performance in the application.' can be classified into the following categories:
+
+- Scalability
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Security
+- Maintainability 
+
+However, the most relevant category for this requirement is Security, as it deals with user access control and permission management.
+
+
+The given requirement 'The product shall be able to store new room equipment.' can be classified into the following categories:
+
+- Functional
+- Operational
+- Maintainability
+
+
+Based on the given requirement, I would classify it under the category of "Maintainability". This is because the requirement focuses on the ease of updating and adapting the product for new languages, which is a maintenance-related aspect.
+
+
+The given requirement 'The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.' can be classified into the following categories:
+
+- Scalability
+- Operational
+- Availability
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Availability
+- Performance 
+
+The reason for this classification is as follows:
+
+- Functional: The requirement describes the functionality of the system, specifically the notification of affected parties when changes occur affecting classes.
+- Availability: The requirement mentions that the system will notify affected parties, implying that the system must be available and operational to fulfill this requirement.
+- Performance: Although not explicitly stated, the requirement implies that the system should be able to process and respond to changes in a timely manner, which is a performance-related aspect.
+
+
+The given requirement 'The streaming server will support 50 simultaneous streaming connections.' can be classified into the following categories:
+
+- Scalability
+- Performance
+
+
+The given requirement 'The system will display a blank set of ratings if there are not ratings yet defined.' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+The given requirement can be classified into the following categories:
+
+- Performance: The requirement specifies the time limit for the audit report to be returned to the user.
+- Functional: The requirement describes the functionality of the system, specifically the return of the audit report to the user.
+- Availability: Although not explicitly mentioned, the requirement implies that the system should be available to return the audit report within the specified time limit.
+
+However, considering the primary focus of the requirement, I would categorize it under:
+
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Functional
+
+
+The given requirement 'Any disputes cases that have been closed for over 6 months must be purged from the online disputes database' can be classified under the category of 'Security'.
+
+
+The given requirement 'The system shall notify customers of changes to its information policy.' can be classified under the category of 'Security'.
+
+
+The given requirement 'Maintenance releases will be offered to customers once a year. The releases shall take no longer than 5 minutes for 80% of the customer base to install.' can be classified into the following categories:
+
+- Maintainability
+- Performance
+
+
+The given requirement 'An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.' can be classified under the category of 'Usability'.
+
+
+The given requirement 'The product shall be able to support 1000 simultaneous users.' can be classified into the following categories:
+
+- Scalability
+- Availability
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Availability
+- Performance 
+
+However, the most suitable category for this requirement would be 'Functional' as it describes the system's functionality and what it should be able to do.
+
+
+The given requirement 'System shall let existing customers log into the website with their email address and password in under 5 seconds.' can be classified into the following categories:
+
+- Performance
+- Usability
+
+
+The given requirement 'The audit report shall be displayed to the user' can be classified under the following categories:
+
+- Functional
+- Look and Feel
+
+
+The given requirement '100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The requirement describes a specific functionality that the system should have, which is modifying information relating to a Clinical Site.
+- Security: Although not explicitly mentioned, the requirement implies that only authorized users (Program Administrators/Nursing Staff Members) should have access to modify Clinical Site information, which relates to Security.
+
+
+The given requirement 'The Disputes System must provide the ability to view existing dispute cases.' can be classified under the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement 'The leads washing functionality will compile both contact and academic scoring information for a total score' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+The given requirement 'The system shall be available for use between the hours of 8am and 6pm' can be classified into the following categories:
+
+- Availability
+- Operational
+- Performance
+
+
+The given requirement 'All registered customer information shall be stored and maintained in the database even after the customer cancels their account' can be classified into the following categories:
+
+- Security: The requirement ensures that customer information is stored and maintained even after cancellation, which implies that the system is designed to protect sensitive information.
+- Availability: Although not directly related, the requirement implies that the system should be available to retrieve customer information even after cancellation, which is a form of availability.
+- Maintainability: The requirement ensures that the system is designed to handle customer information even after cancellation, which implies that the system is maintainable.
+
+However, the most suitable category for this requirement would be Security, as it directly relates to the protection and maintenance of sensitive customer information.
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+- Maintainability 
+
+However, the most suitable category for this requirement would be 'Functional' as it describes a specific action that the system should be able to perform.
+
+
+Here is the classification of the given requirement:
+
+**Operational**
+
+This requirement deals with the operational aspects of the system, specifically the interface with the BDW environment and the loading of data into the RFS system.
+
+
+The given requirement 'Product formula ingredients shall allow defining substitutionary ingredients' can be classified into the following categories:
+
+- Functional
+- Maintainability
+- Security 
+
+However, the most suitable category for this requirement would be 'Functional' as it describes a specific functionality that the product should have.
+
+
+The given requirement 'The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4 seconds for the remaining responses.' can be classified into the following categories:
+
+- Performance
+- Availability
+
+
+The given requirement 'The leads washing functionality will have an interface in which lead data parameters can be maintained.' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+The given requirement 'The System shall be able to automatically backup business data and restore them on demand.' can be classified into the following categories:
+
+- Availability: The system must be available for use between 12:00AM and 6:00PM all days of the year.
+- Performance: The system response time for all operations must be no more than 3 seconds 90% of the time.
+- Operational: The system shall be able to interface with various email servers. The product shall be able to send email.
+- Security: All credit card information will be secured on the server and only accessible by authorized Izogn administrators. Information will be encrypted in the database.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Scalability: The product shall be able to handle up to 1500 simultaneous users. The system shall perform with 1500 users as a time.
+- Performance: The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network.
+- Operational: The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: On a 112k connection or faster the system response time for all operations must be no more than 3 seconds 90% of the time.
+- Operational: The WCS system shall be run in a Windows environment. The WCS shall be accessed by users through the Internet on an IBM computer running a Windows 2000 or above operating system.
+- Maintainability: All updates to data files or database must be initiated from the Disputes System.
+- Fault Tolerance: The product shall be able to interface with various email servers. The product shall be able to send email.
+- Operational: The WCS system shall be able to interface with the Choice Parts System. This provides the feed of recycled parts data.
+- Performance: The product shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the Cardmember Posting and Billing System. This will allow the Disputes application to request adjustments to cardmember and merchant’s accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.
+- Availability: The system shall be available during normal business hours.
+- Performance: The system shall be responsive. At the DePaul TeleServices Center when a supervisor uses the system to view a callers schedule the system response time must be no more than 2 seconds 90% of the time.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to process all transactions. The system shall process minimum of 1 million transactions per year.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based on standards adoption.
+- Performance: The system shall be able to delete room equipment.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Availability: Defect reports will be available to technical units on a 24x7 basis.
+- Performance: The system shall be able to stream purchased movie via Windows Media Player for up to 2 days aftere purchase date.
+- Operational: The WCS system shall be able to interface with the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
+- Maintainability: All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation.
+- Fault Tolerance: The product shall be robust. The product shall have fault avoidance based
+
+
+The given requirement 'The leads washing functionality will insert all leads captured by the web service' can be classified into the following categories:
+
+- Functional
+- Operational 
+
+The reason for this classification is that the requirement is describing a specific functionality of the system (Functional), and it also implies that this functionality will be executed within the established physical web service structure (Operational).
+
+
+The given requirement 'All additions of new users and modifications to user’s access shall be recorded on the User Report' can be classified under the category of 'Security'.
+
+
+The given requirement 'All streaming movie sales will be logged in the database and accessible by the administrator' can be classified into the following categories:
+
+- Functional
+- Security
+- Performance
+
+
+The given requirement 'The system shall cater to 10 simultaneous users from 9am to 5pm.' can be classified into the following categories:
+
+- Availability: The system shall be available during the specified time period (9am to 5pm).
+- Scalability: The system shall be able to cater to 10 simultaneous users.
+- Performance: The system shall be able to handle the specified number of users during the specified time period.
+
+
+The given requirement 'Every user of the system shall be authenticated and authorized' can be classified into the following categories:
+
+- Security
+- Availability
+- Fault Tolerance 
+
+However, the most suitable category for this requirement would be Security, as it deals with the authentication and authorization of users, which is a critical aspect of ensuring the security and integrity of the system.
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Maintainability 
+
+The requirement focuses on the ease of use of the system, which is a key aspect of usability. Additionally, the requirement mentions that the system should be able to retain user knowledge after a short period of use, which is related to maintainability.
+
+
+The given requirement 'All letter requests must be formatted according to guidelines specified by the Print Letter Utility system.' can be classified under the category of 'Look and Feel'.
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Operational
+- Security
+
+
+The given requirement 'Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.' can be classified into the following categories:
+
+- Availability: The application is available for updates during a specific time frame.
+- Operational: The application updates are a part of the operational process.
+- Maintainability: The application updates are a part of the maintenance process.
+- Performance: The application updates may impact the performance of the system.
+- Security: The application updates may impact the security of the system.
+- Look and Feel: The application updates may impact the look and feel of the system.
+
+However, the most suitable category for this requirement would be 'Operational' as it deals with the operational process of updating the application.
+
+
+The given requirement 'Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.' can be classified into the following categories:
+
+- Security
+- Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Look and Feel
+- Usability 
+
+However, the most relevant categories would be Functional and Usability, as the requirement describes a specific action that the system should perform (modify information relating to a Program of Study) and also mentions the user interface aspect (Program Administrators/Nursing Staff Members).
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall be able to add a new cohort to the system identified by start month and year' can be classified into the following categories:
+
+- Functional
+- Availability
+- Maintainability 
+
+However, the most suitable category for this requirement would be Functional, as it describes a specific action that the system should be able to perform.
+
+
+The given requirement can be classified into the following categories:
+
+- Performance: 'System shall let administrator de-activate a customer account in under 1 minute.'
+- Security: 'Customer will no longer be able to access the website.'
+- Functional: 'System shall let administrator de-activate a customer account in under 1 minute.'
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Operational
+- Security 
+
+However, the most suitable category for this requirement would be 'Performance' as it deals with the frequency of polling the system for messages.
+
+
+The given requirement 'Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem' can be classified into the following categories:
+
+- Functional
+- Maintainability
+
+
+The given requirement '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.' can be classified into the following categories:
+
+- Usability
+- Performance

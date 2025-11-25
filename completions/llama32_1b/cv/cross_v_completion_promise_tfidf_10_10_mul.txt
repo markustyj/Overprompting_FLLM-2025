@@ -1,0 +1,269 @@
+Look and Feel
+
+
+Here are the classifications:
+
+1. 'The system shall have a MDI form that allows for the viewing of the graph and the data table.': Functional
+2. 'The system shall display the Events in a graph by time.': Functional
+3. 'The website shall prevent its data from being corrupted when incorrect data is entered in.': Security
+4. 'The system shall display Events in a vertical table by time.': Functional
+5. 'The audit report shall be displayed to the user.': Functional
+6. 'The product shall prevent its data from incorrect data being introduced.': Security
+7. 'The interface must summarize the data in a fashion that’s appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface': Look and Feel
+8. 'The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.': Security
+9. 'The product shall ensure that the database’s data corresponds to the data entered by the user.': Security
+10. 'The product shall respond fast to keep up-to-date data in the display.': Performance
+11. 'The data displayed in both the nodes within the graph and the rows in the table are MSEL Summary data': Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The system shall offer a display of all the Events in the exercise.': 
+   - Functional
+   - Usability
+
+
+Usability
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The number of mistakes noted by the students shall be decreased by 50% in the first year.' 
+   - Usability
+
+
+Based on the given requirement, I would classify it under: **Availability**
+
+
+Operational
+
+
+Security
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The Disputes application shall interface with the Letters application. This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application.'
+   - Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number. In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.': 
+   - Functional
+   - Usability
+   - Performance
+
+
+Functional
+
+
+Usability
+
+
+Here are the classifications:
+
+1. 'The product shall adhere to the corporate online availability schedule. The application is brought down only within 98% of the scheduled outages per the availability schedule.'
+   - Availability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The product must make use of web/application server technology.' - Operational
+2. 'Open source examples include Apache web server Tomcat and the JBoss application server.' - Operational
+
+
+Look and Feel
+
+
+Usability
+
+
+Security
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product must be developed with the J2SE/J2EE programming language libraries' 
+   - Portability
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The product shall have an intuitive user interface.' can be classified into the following categories:
+
+- Usability
+- Look and Feel
+
+
+Here are the classifications:
+
+1. 'The System shall utilize currently owned computer equipment.' 
+   - Operational
+
+
+Security
+
+
+Functional
+
+
+Here is the classification:
+
+Availability
+
+
+The given requirement: 'The website will use standard Internet conventions when interacting with the user.' 
+
+Can be classified under: Usability
+
+
+Performance
+
+
+Performance
+
+
+Here are the classifications:
+
+1. 'Velkat staff will be available for phone support between 7am-7pm M-F to provide technical support to the Izogn administrators.': 
+   Availability
+
+
+Security
+
+
+Here are the classifications for the given requirements:
+
+1. 'Website shall request and authorize credit card payment before allowing a user to stream a movie.'
+   - Functional
+   - Security
+
+
+Performance
+
+
+Here are the classifications:
+
+1. 'The washing process must use a non binding neutral data format such as xml when receiving and processing lead data.'
+   - Portability
+
+
+Here are the classifications:
+
+- 'Defect reports will be available to technical units on a 24x7 basis.': Availability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Availability
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+- Functional: 'The product shall be updated on a regular basis.'
+- Maintainability: 'The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.'
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product shall have security.'
+   - Security
+
+2. 'The product shall provide authentication and authorization.'
+   - Security
+
+
+Here are the classifications:
+
+1. 'The product shall have audit capabilities.' - Functional
+2. 'The product shall store messages for a minimum of one year for audit and transaction tracking purposes.' - Availability
+
+
+Here is the classification of the given requirement:
+
+Maintainability
+
+
+Here are the classifications:
+
+- Functional: No
+- Availability: No
+- Fault Tolerance: No
+- Legal: No
+- Look and Feel: Yes
+- Maintainability: No
+- Operational: No
+- Performance: No
+- Portability: No
+- Scalability: No
+- Security: No
+- Usability: Yes
+
+
+Operational
+
+
+Here are the classifications:
+
+1. 'Only authorized user shall access the RFS system.' - Security
+2. 'ONLY users that exist in the UAS system with the RFS system assigned to their role(s) shall access the RFS system and use it.' - Security

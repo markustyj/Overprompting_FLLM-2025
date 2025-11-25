@@ -1,0 +1,399 @@
+Functional Suitability
+
+
+Reliability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Reliability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Classification: Usability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+The given software requirement can be classified into the "Performance Efficiency" category. The reason is that it focuses on the ease and speed of creating an account on the website, which relates to the performance of the system in terms of navigation and page loads.
+
+
+Functional Suitability
+
+
+The given software requirement is classified into the category of Security. This classification refers to the measure taken by the system to protect sensitive data such as credit card information. Encrypting the data in the database ensures that any unauthorized individuals accessing the data cannot read or understand its contents, thus maintaining security and privacy.
+
+
+Functional Suitability
+
+
+This requirement falls into the categories of Security and Usability. It involves ensuring that only supervisors have access to enter a caller's schedule and view empty time slots for advertising purposes, thus maintaining access control and user accessibility within the system.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Classification: Usability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+The given software requirement can be classified into two categories: Functional Suitability and Performance Efficiency.
+
+Functional Suitability: The requirement pertains to the functionality of displaying events on a graph by time. This implies that the system should have an intuitive graphical representation of data, allowing users to visually understand and analyze event occurrences over different periods of time. Therefore, this category focuses on how well the software will perform its intended function.
+
+Performance Efficiency: The requirement also highlights the need for efficient performance in terms of displaying events on a graph. This implies that the system should be able to process and present the data in an acceptable timeframe. A slow or sluggish display could lead to poor user experience, hence impacting the overall efficiency of the software. Therefore, this category deals with how well the software will perform under different loads and time constraints.
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Classification: Performance Efficiency and Reliability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+The given software requirement can be classified into two categories: Usability and Performance Efficiency. 
+
+Usability category: This refers to how easily users can learn, use, and interact with the system or its components. In this case, it's about providing a consistent layout for navigation and actions items across all pages, making it easy for users to find what they need without getting confused.
+
+Performance Efficiency category: It's related to how quickly the software performs tasks. By placing action items in one location and navigation buttons in another, it helps reduce clutter on the page, thus improving performance efficiency by minimizing the time needed for users to access information or perform actions.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+This requirement falls under the category of Security.
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+This requirement can be classified into Performance Efficiency. It focuses on the speed at which the product's interface responds, with a target response time and buffer for occasional slower times.
+
+
+Functional Suitability
+
+
+This requirement falls into the 'Functional Suitability' category.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+The given requirement can be classified into two categories: Reliability and Compatibility.
+
+Reliability: The requirement highlights the need for the Disputes application to be available 24x7x365, with just two scheduled maintenance windows mentioned during specific hours on weekdays and Sundays. This shows that the system needs to maintain high levels of availability and should have a good uptime in order to meet this requirement. Therefore, it falls under the Reliability category.
+
+Compatibility: The mention of the application being available across different platforms without any specified restrictions or limitations implies that the Disputes application is compatible with various systems. So, it can run seamlessly on multiple machines within the same computer network or a separate machine residing on the same computer network, as per the Compatibility requirement.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+This requirement falls into the 'Functional Suitability' category as it concerns the capacity of the streaming service to handle a specific number of movies.
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+This requirement falls into the categories of Functional Suitability and Maintainability. 
+
+Functional Suitability: This category refers to how well the software meets the requirements of its function or purpose. In this case, it's about enabling Program Administrators/Nursing Staff Members to modify information related to a Clinical Lab Section. The requirement states that they can change various details such as lab site name, department/section, class instructor, day and time of lab, and contact info.
+
+Maintainability: This category refers to how easily the software can be modified, updated or maintained by its support team. It's about providing an interface for administrators to modify data related to a Clinical Lab Section, including updating information like instructors, locations, schedules etc. 
+
+So this requirement is classified under both Functional Suitability and Maintainability as it outlines how users (Program Administrators/Nursing Staff Members) can manipulate or 'modify' the system data - in this case clinical lab section details.
+
+
+The given requirement can be classified into the following categories:
+
+* Functional Suitability
+* Usability (specifically, the ability to limit search results by various criteria)
+* Performance Efficiency (as searching through a large database efficiently is important)
+* Security (given that certain information needs to be accessed and limited searches can help control access)
+* Compatibility (since it involves interfacing with other databases)
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+The given software requirement can be classified into the 'Performance Efficiency' category. The reason is that this requirement focuses on logging and accessibility of daily usage statistics, which is about monitoring system performance and tracking how it's being used.
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+The given software requirement can be classified into the Functional Suitability category.
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+The given requirement can be classified into two categories: Functional Suitability and Usability. 
+
+Functional Suitability: This requirement pertains to the functioning of the system, specifically how it handles leads scoring in the "high average" range. Therefore, it falls under the Functional Suitability category.
+
+Usability: The requirement also touches upon how user-friendly or intuitive the system is expected to be - if users are able to distinguish between high and low lead scores accurately, this implies that the system's interface design is effective in guiding users through its features. Thus, it falls under Usability as well.
+
+
+Reliability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Security
+
+
+Performance Efficiency
+
+
+The given software requirement can be classified into two categories: Functional Suitability and Security.
+
+Category: Functional Suitibility - The requirement concerns the management of disputes case data in the system, specifically dealing with cases that have been closed for more than 6 months. This falls under functional requirements as it pertains to how the system should handle and maintain dispute case data over time.
+
+Category: Security - By purging closed disputes cases that are older than 6 months from the online database, the system is ensuring the security of sensitive information by not retaining outdated or unnecessary data. This can help protect against unauthorized access to old data and maintain compliance with data retention policies.
+
+
+Performance Efficiency
+
+
+Reliability
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability

@@ -1,0 +1,371 @@
+Functional Suitability
+
+
+Reliability
+
+
+Compatibility
+
+
+Usability
+
+
+Usability
+
+
+Usability
+
+
+Functional Suitability
+
+
+Reliability
+
+
+I would classify this requirement as "Compatibility".
+
+
+I would classify this requirement as "Usability".
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Compatibility
+
+
+Usability
+
+
+I would classify this requirement as "Performance Efficiency".
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Performance Efficiency
+
+
+I would classify this requirement as "Usability".
+
+
+Usability
+
+
+The given requirement: 'All credit card information will be encrypted in the database.'
+
+Category: Security
+
+
+Functional Suitability
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Usability
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+Reliability
+
+
+Functional Suitability
+
+
+Usability
+
+
+I would classify this requirement as "Usability".
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+I would classify this requirement as "Compatibility".
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+Performance Efficiency
+
+
+Security
+
+
+Usability
+
+
+I would classify this requirement as "Performance Efficiency".
+
+
+I would classify this requirement as "Maintainability".
+
+
+Functional Suitability
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as: Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Usability
+
+
+I would classify this requirement as: Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+I would classify this requirement as "Usability".
+
+
+Security
+
+
+Functional Suitability
+
+
+Security
+
+
+Security
+
+
+Usability
+
+
+Functional Suitability
+
+
+I would classify this requirement as "Usability".
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Security
+
+
+I would classify this requirement as "Usability".
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+I would classify this requirement as "Usability".
+
+
+I would classify this requirement as: Usability
+
+
+Usability
+
+
+I would classify this requirement as "Performance Efficiency".
+
+
+I would classify this requirement as "Maintainability".
+
+
+Reliability
+
+
+Security
+
+
+I would classify this requirement as "Reliability".
+
+
+Compatibility
+
+
+I would classify this requirement as "Compatibility".
+
+
+Functional Suitability
+
+
+Based on the requirement, I would classify it as: Performance Efficiency
+
+
+I would classify this requirement as: Maintainability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+Compatibility
+
+
+Security
+
+
+Usability
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+I would classify this requirement as "Reliability".
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+I would classify this requirement as "Functional Suitability".
+
+
+Reliability
+
+
+I would classify this requirement as: Reliability
+
+
+Functional Suitability
+
+
+I would classify this requirement as "Compatibility".
+
+
+I would classify this requirement as: Maintainability
+
+
+Security
+
+
+Security
+
+
+The given requirement: 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.'
+
+Category: Security
+
+
+I would classify this requirement as: Functional Suitability
+
+
+I would classify this requirement as: Security
+
+
+I would classify this requirement as "Security".
+
+
+I would classify this requirement as "Reliability".
+
+
+I would classify this requirement as: Security
+
+
+Usability
+
+
+I would classify this requirement as: Reliability
+
+
+Performance Efficiency
+
+
+I would classify this requirement as "Reliability".
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+Reliability
+
+
+I would classify the requirement "Formula substitutionary ingredients shall be kept in persisted order" as Functional Suitability.
+
+
+I would classify this requirement as "Usability".

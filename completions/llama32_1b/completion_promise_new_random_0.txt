@@ -1,0 +1,551 @@
+**Functional**
+
+This requirement focuses on the system's ability to perform a specific task (displaying a printable summary) and includes details about the data to be displayed, indicating a functional requirement.
+
+
+Reliability
+
+
+**Classification:** Compatibility
+
+
+**Usability**: The requirement is related to the user experience, specifically the audio feedback when taking a shot.
+
+
+Usability
+
+
+**Usability**
+
+
+**Functional**
+
+
+Reliability
+
+
+Here are the classifications:
+
+- Functional: The product must be able to interface with various email servers. The product shall be able to send email.
+- Usability: None
+- Performance Efficiency: None
+- Security: None
+- Compatibility: None
+- Reliability: None
+- Maintainability: None
+
+
+Here's the classification:
+
+- Functional: 
+  - Website shall allow customers to purchase pre-paid cards of $5 $10 or $20 value either by credit card or mail-in payment option.
+
+- Usability: 
+  (Implicit, as it's about the functionality of the website)
+
+- Performance Efficiency: 
+  (Implicit, as it's about the functionality of the website)
+
+- Security: 
+  (Implicit, as it's about the functionality of the website)
+
+- Compatibility: 
+  (Implicit, as it's about the functionality of the website)
+
+- Reliability: 
+  (Implicit, as it's about the functionality of the website)
+
+- Maintainability: 
+  (Implicit, as it's about the functionality of the website)
+
+
+Here are the classifications:
+
+- Functional: None
+- Usability: None
+- Performance Efficiency: None
+- Security: Compliance with ENET Securities standards
+- Compatibility: Compliance with ENET Securities standards
+- Reliability: None
+- Maintainability: None
+
+
+**Performance Efficiency**
+
+
+**Usability**
+
+
+**Functional**
+
+
+Here are the classifications:
+
+- Functional: The product shall be able to display calendar dates and times according to the user’s locale.
+- Usability: 90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.
+
+
+**Functional**: The requirement is related to the core functionality of the system, specifically task completion.
+
+
+**Functional**
+
+
+Functional
+
+
+**Usability**
+
+This requirement focuses on the user experience and interaction with the product, indicating that the system should provide feedback to users when necessary.
+
+
+**Performance Efficiency**
+
+
+**Usability**
+
+
+**Usability**
+
+
+**Security**
+
+
+**Functional**
+
+This requirement focuses on the functionality of the system, specifically the ability to specify a sequence of classes for a cohort.
+
+
+Here are the classifications:
+
+1. Functional: The product shall ensure that only supervisors can enter a caller’s schedule.
+2. Usability: The product must ensure that supervisors are allowed to access advertise empty time slots.
+
+
+**Functional**
+
+This requirement focuses on the content and structure of the report, which is a functional aspect of the system.
+
+
+Reliability
+
+
+**Usability**
+
+This requirement focuses on the ease of use of the product, specifically the user experience and the ability to complete a task (reserving a conference room) within a certain timeframe.
+
+
+**Category: Performance Efficiency**
+
+This requirement focuses on the system's ability to perform tasks efficiently, in this case, refreshing the display at a specified interval.
+
+
+Reliability
+
+
+**Classification:** Functional
+
+
+Usability
+
+
+Usability
+
+
+**Performance Efficiency**
+
+Both requirements focus on the speed of returning the audit report to the user.
+
+
+**Category: Usability**
+
+This requirement focuses on the user interface and how the system presents information to the user, making it a usability requirement.
+
+
+**Usability**
+
+
+**Functional**:
+
+
+**Functional**
+
+
+Compatibility
+
+
+**Category: Usability**
+
+This requirement focuses on the user's experience and interaction with the system, making it a usability requirement.
+
+
+**Category: Performance Efficiency**
+
+This requirement focuses on the system's ability to complete tasks within a specific time frame, indicating a performance efficiency requirement.
+
+
+**Category: Usability**
+
+This requirement focuses on the user interface and experience, specifically the different levels of access for users to initiate and follow up on disputes cases.
+
+
+Here are the classifications:
+
+- Functional: The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies.
+- Usability: Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.
+
+
+**Classification:** Performance Efficiency
+
+
+Here's the classification:
+
+- Reliability: The requirement is related to the frequency and speed of maintenance releases, indicating a focus on the system's ability to function correctly and consistently.
+
+
+**Functional**
+
+This requirement focuses on the system's functionality, specifically the creation of a chargeback request and the confirmation provided to the user.
+
+
+Usability
+
+
+**Functional**
+
+This requirement focuses on the system's functionality, specifically the generation of a document based on a specific event (daily Product Sales data).
+
+
+Functional
+
+
+**Performance Efficiency**
+
+
+**Usability**
+
+
+I would classify the given software requirement as: **Security**
+
+
+**Functional**
+
+This requirement deals with the functionality of the system, specifically the ability to specify classes for a Program of Study.
+
+
+**Functional**
+
+This requirement focuses on the product's functionality, specifically the display of conference rooms based on search parameters.
+
+
+**Classification:** Functional
+
+This requirement specifies a specific data element that the system must include, indicating a functional requirement.
+
+
+**Functional**:
+
+
+I would classify the given software requirement as: **Functional**
+
+This requirement specifies a specific action that the software should perform (requesting a recycled parts audit), indicating a functional requirement.
+
+
+**Functional**
+
+This requirement focuses on the system's functionality, specifically displaying data to the user.
+
+
+**Usability**
+
+
+**Category: Security**
+
+This requirement focuses on preventing unauthorized access to dispute cases, indicating a security concern.
+
+
+**Functional**
+
+This requirement focuses on the system's ability to perform a specific task (displaying a report) and is related to the system's functionality.
+
+
+I would classify the given software requirement as: **Security**
+
+
+Security
+
+
+Usability
+
+
+**Functional**
+
+The system shall locate the preferred repair facility with the highest ratings for the input criteria.
+
+
+**Category: Functional**
+
+This requirement specifies the system's content, which is a functional aspect.
+
+
+**Category: Performance Efficiency**
+
+This requirement focuses on the speed at which the administrator can update category listings, indicating a need for efficient system performance.
+
+
+Here are the classifications:
+
+- Functional: The product shall poll the system for messages every second/The product shall poll the system for new messages at a maximum of every 1 second.
+- Performance Efficiency: The product shall poll the system for messages every second/The product shall poll the system for new messages at a maximum of every 1 second.
+
+
+Security
+
+
+Here are the classifications:
+
+1. Functional: 
+   - The product shall provide Portals.
+   - The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs.
+
+2. Usability: 
+   - The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs.
+
+3. Performance Efficiency: 
+   - None
+
+4. Security: 
+   - None
+
+5. Compatibility: 
+   - None
+
+6. Reliability: 
+   - None
+
+7. Maintainability: 
+   - None
+
+
+Functional
+
+
+**Performance Efficiency**
+
+This requirement focuses on the speed and responsiveness of the product interface, indicating a need for efficient performance.
+
+
+**Category: Usability**
+
+This requirement focuses on the user experience and how the product interacts with the customer, making it a usability requirement.
+
+
+**Functional**
+
+This requirement deals with the system's behavior and functionality, specifically how it handles the absence of ratings.
+
+
+**Category: Usability**
+
+Reason: Flash is an outdated technology that can be distracting and may not be accessible to all users, affecting the overall user experience.
+
+
+**Functional**
+
+This requirement specifies a specific action (automatic update) and a specific output (latest movies), indicating a functional requirement.
+
+
+I would classify the given software requirement as: **Usability**
+
+Reason: The requirement focuses on the user experience and accessibility of the product for users in different languages, which is a usability concern.
+
+
+Reliability
+
+
+**Functional**
+
+This requirement focuses on the system's functionality, specifically how access is granted based on user roles.
+
+
+**Functional**:
+
+
+**Compatibility**
+
+This requirement focuses on the product's ability to work with multiple database management systems, indicating compatibility.
+
+
+Compatibility
+
+
+I would classify the given software requirement as: **Usability**
+
+Reason: The requirement focuses on the system's ability to notify users (affected parties) about changes, which is a usability concern.
+
+
+Here's the classification:
+
+- Functional: The streaming server will support a maximum of 700 movies; new servers can be added to support more movies.
+
+
+**Functional**
+
+This requirement focuses on the functionality of the system, specifically the action of entering new ratings.
+
+
+**Time Constraint**
+
+* Category: Performance Efficiency
+
+
+**Performance Efficiency**
+
+
+Compatibility
+
+
+Security
+
+
+Here are the classifications:
+
+- Functional: 'Every registered user will have access to the product’s support site via the Internet.'
+- Usability: '70% of registered users shall find a solution to their problem within 5 minutes of using the support site.'
+
+
+Usability
+
+
+**Category: Performance Efficiency**
+
+
+**Functional**
+
+This requirement focuses on the system's ability to perform a specific task (displaying a printable summary) and includes a detailed list of required data, indicating a functional requirement.
+
+
+**Functional**
+
+This requirement focuses on the system's functionality, specifically the account cancellation process, and its outcome (account marked as inactive).
+
+
+Reliability
+
+
+**Category: Performance Efficiency**
+
+This requirement focuses on the application's responsiveness and speed, ensuring a smooth user experience.
+
+
+**Functional**
+
+This requirement focuses on the functionality of the system, specifically the ability to modify information related to a Clinical Lab Section.
+
+
+Here are the classifications:
+
+- Functional: The search functionality must provide Search functionality, allow searching by various criteria, and limit the results.
+- Usability: The search functionality must further allow the user to limit the results of the search by a date range, the type of dispute, the case status, and the dispute reason code.
+
+
+**Functional**
+
+This requirement focuses on the functionality of the system, specifically the "leads washing" functionality and its interaction with external parameters.
+
+
+Reliability
+
+
+**Category: Reliability**
+
+This requirement ensures that the system can function as intended and provide the required functionality, which is a key aspect of reliability.
+
+
+**Functional**
+
+This requirement focuses on the system's functionality, specifically the ability to add a new cohort, and does not address other aspects such as usability, performance, security, or compatibility.
+
+
+Here are the classifications:
+
+- Functional: 'The RFS system should be able to easily interface with the BDW environment in order to load the data.'
+- Reliability: '7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year.'
+- Compatibility: 'Test files (7) shall be loaded up to 5 times throughout the year from the BDW.'
+
+
+**Functional**
+
+This requirement focuses on the core functionality of the system, specifically the substitution of ingredients in a product formula.
+
+
+**Security**
+
+
+**Functional**
+
+This requirement focuses on the core functionality of the system, specifically the lead washing process and its interaction with user authentication and rights.
+
+
+Security
+
+
+**Functional**
+
+This requirement specifies a specific action (processing by ARA functionality) based on a condition (lead score falls within the high average score), indicating a functional requirement.
+
+
+**Security**
+
+
+I would classify the given software requirement as: **Security**
+
+
+**Reliability**
+
+
+**Classification:** Security
+
+
+Usability
+
+
+**Category: Reliability**
+
+This requirement ensures the database remains up-to-date and accurate, maintaining its reliability.
+
+
+**Performance Efficiency**
+
+
+I would classify the given software requirement as: **Security**
+
+Reason: The requirement is related to scheduling a specific time for application updates, which implies a need to prevent unauthorized access or disruptions during that time, aligning with security concerns.
+
+
+I would classify the given software requirement as: **Security**
+
+
+**Functional**
+
+This requirement focuses on the functionality of the system, specifically the ability to modify data related to a clinical site.
+
+
+**Functional**
+
+This requirement focuses on the system's ability to perform a specific task, in this case, adding new classes for the nursing department.
+
+
+**Functional**
+
+
+Here are the classifications:
+
+- Functional: Dynamic Change Support, Transparent Resource addition
+- Reliability: Avoid service interruptions of more than 1 day
+
+
+**Classification:** Reliability
+
+
+Usability

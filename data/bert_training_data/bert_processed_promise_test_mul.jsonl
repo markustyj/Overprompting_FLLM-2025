@@ -1,0 +1,123 @@
+{"text": "'The system shall be able to display a printable summary for individual cohorts which will include the students enlisted the Program of study sequence of classes cohort progress through the program and timeline of completion.'", "label": 0}
+{"text": "'When a ship is sunk the product shall simulate the sound of a sinking ship.'", "label": 1}
+{"text": "'The system shall interface with the faculty central server.'", "label": 2}
+{"text": "'The product shall display each type of ship in a grid using an image of the specific type of ship.'", "label": 1}
+{"text": "'A database management system such as Oracle DB2 MySql or HSQL will need to be integrated with the product.'", "label": 2}
+{"text": "'The product shall use a standard navigation menu familiar to most web users.'", "label": 3}
+{"text": "'The product shall allow a user to identify himself or herself as a player.'", "label": 0}
+{"text": "'The product shall be able to process 10 000 transactions per hour within two years of its launch. This number will increase to 20 000 by Release 2.'", "label": 4}
+{"text": "'The product must be able to interface with various database management systems. The product shall communicate successfully with the database management system on 100% of all transactions.'", "label": 2}
+{"text": "'System will allow customers to pay for a streaming movie with a pre-paid card.'", "label": 0}
+{"text": "'The product must comply with the intranet page standards and requirements of ENET Securities. 95% of the product look & feel will be approved by the Architecture group prior to implementation. The remaining 5% will be corrected and approved within one month of product release.'", "label": 1}
+{"text": "'Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.'", "label": 5}
+{"text": "The interface shall have a simple look. In the interface and usability survey 90% of beta testers must report that the interface is adequately simple.'", "label": 1}
+{"text": "'The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications'", "label": 0}
+{"text": "'The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.'", "label": 4}
+{"text": "'The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.'", "label": 3}
+{"text": "'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes'", "label": 0}
+{"text": "'The product shall update existing conference rooms.'", "label": 0}
+{"text": "'The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.'", "label": 3}
+{"text": "'The user shall easily locate instructions while using the product. User help can be found within 90% of the system.'", "label": 3}
+{"text": "'The product should be able to be used by 90% of novice users on the Internet.'", "label": 3}
+{"text": "'If projected the data must be readable. On a 10x10 projection screen 90% of viewers must be able to read Event / Activity data from a viewing distance of 30'", "label": 3}
+{"text": "'All customer information will be stored on a secure database accessible only to authorized personnel.'", "label": 6}
+{"text": "'Students added to a cohort shall be eligible for the cohort\u2019s Program of Study.'", "label": 0}
+{"text": "The product shall ensure that only supervisors can advertise empty time slots.The product must ensure that supervisors are allowed to access advertise empty time slots.'", "label": 6}
+{"text": "'The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members\u2019 planning purposes.'", "label": 0}
+{"text": "'The adjuster shall be able to override the preferred repair facitlity on the estimate assignment.'", "label": 0}
+{"text": "'The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.'", "label": 3}
+{"text": "'The system shall refresh the display every 60 seconds.'", "label": 5}
+{"text": "'All movies shall be streamed on demand at any time of the day.'", "label": 7}
+{"text": "'The system shall display Events or Activities.'", "label": 0}
+{"text": "'The product shall have a consistent color scheme and fonts.'", "label": 1}
+{"text": "'The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies. Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.'", "label": 3}
+{"text": "'The search for the preferred repair facility shall take no longer than 8 seconds. The preferred repair facility is returned within 8 seconds'", "label": 5}
+{"text": "'The system shall display the Events in a graph by time.'", "label": 0}
+{"text": "'When a game is ended the product shall allow each player to remove himself or herself from the list of players.'", "label": 0}
+{"text": "'When the offensive player takes a shot the product shall simulate the sound of a ship at sea.'", "label": 1}
+{"text": "'The notification of the game ending will include the reason the game is ended (i.e. a player has won the game or a player has ended the game).'", "label": 0}
+{"text": "'The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.'", "label": 2}
+{"text": "'The system shall offer the ability to pause and resume the refresh of data.'", "label": 0}
+{"text": "'The owner shall have free access to all of the streaming movies.'", "label": 0}
+{"text": "'The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.'", "label": 0}
+{"text": "'The product shall retain the customer\u2019s buying preferences and information.'", "label": 3}
+{"text": "'The product shall provide Portals.The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators)'", "label": 3}
+{"text": "'The product must be highly configurable for use with various database management systems for the end users. 80% of end users are able to integrate new database management systems with the product without changing the product\u2019s software code.'", "label": 8}
+{"text": "'The Disputes System shall allow the user to create or initiate a chargeback request. The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.'", "label": 0}
+{"text": "'The product shall be easy to learn by Adjusters and Collision Estimators. The product shall be learned with two days onsite training'", "label": 3}
+{"text": "'The System shall generate Inventory Quantity Adjustment document based on product daily sales data and product formulas.'", "label": 0}
+{"text": "'The product shall continue to assign turns until the game is ended.'", "label": 0}
+{"text": "'The product shall respond fast to keep up-to-date data in the display.'", "label": 5}
+{"text": "'All screens created as part of the Disputes application must comply with corporate standards for interface creation.'", "label": 1}
+{"text": "'Once a game is initiated the product shall display an offensive grid to each player.'", "label": 0}
+{"text": "'A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.'", "label": 0}
+{"text": "'The product shall display room equipment according to search parameters.'", "label": 0}
+{"text": "'The user shall search for the preferred repair facility using vehicle vehicle location and radius in miles'", "label": 0}
+{"text": "'When a shot is marked as a miss the product shall simulate the sound of a shot missing its target.'", "label": 1}
+{"text": "'The adjuster shall review the collision estimate.'", "label": 0}
+{"text": "'The user shall select to view the preferred repair facility ratings.'", "label": 0}
+{"text": "'Each page shall contain a similar format with action items in one location and navigation buttons in a different location.'", "label": 1}
+{"text": "'The Disputes System must be accessible by both internal and external users.'", "label": 0}
+{"text": "'Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study'", "label": 0}
+{"text": "'We must be able to interface with any HTML browser.'", "label": 2}
+{"text": "'One insurance company shall not be able to view another insurance companys claim data.'", "label": 6}
+{"text": "'The product shall comply with corporate color scheme'", "label": 1}
+{"text": "'The search radius shall be between 1 and 30 miles'", "label": 0}
+{"text": "'The system shall be able to display a printable summary of the system log.'", "label": 0}
+{"text": "'Promotional updates to the website should take a day to update.'", "label": 8}
+{"text": "'The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds'", "label": 5}
+{"text": "'The website shall prevent its data from being corrupted when incorrect data is entered in.'", "label": 6}
+{"text": "'The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.'", "label": 3}
+{"text": "'For each shot the product shall examine the defensive grid of the defensive player to determine whether the shot was a hit or miss.'", "label": 0}
+{"text": "'The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time the response time should not be more than 10 seconds.not be more than 10 seconds.'", "label": 5}
+{"text": "'An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.'", "label": 3}
+{"text": "'The current repair facility ratings shall be displayed to the user.'", "label": 0}
+{"text": "'The website should appeal to all Africans not only Nigerians.'", "label": 1}
+{"text": "'Website shall allow customers to purchase pre-paid cards of $5 $10 or $20 value either by credit card or mail-in payment option.'", "label": 0}
+{"text": "'The customer shall be able to easily integrate new building maps with the product throughout the product\u2019s lifecycle. Integration of new maps with the product shall be possible with little to no support from product support staff.'", "label": 8}
+{"text": "'The Disputes application shall support 350 concurrent users without any degradation of performance in the application.'", "label": 5}
+{"text": "'User access should be limited to the permissions granted to their role(s) Each level in the PCG hierarchy will be assigned a role and users will be assigned to these roles. Access to functionality within RFS system is dependent on the privileges/permission assigned to the role..'", "label": 6}
+{"text": "'The product shall be able to store new room equipment.'", "label": 0}
+{"text": "'The product shall be translated into foreign languages other than the target market countries\u2019 languages in future releases. For each emerging target market it shall take no more than 5 days to configure the product for that market\u2019s language.'", "label": 3}
+{"text": "'The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.'", "label": 4}
+{"text": "'The system will notify affected parties when changes occur affecting classes including but not limited to class cancellations class section detail changes and changes to class offerings for a given quarter.'", "label": 0}
+{"text": "'The streaming server will support 50 simultaneous streaming connections.'", "label": 4}
+{"text": "'The system will display a blank set of ratings if there are not ratings yet defined.'", "label": 0}
+{"text": "'The recycled parts audit report shall be returned to the user within 10 seconds. The audit report shall be returned within 10 seconds.'", "label": 5}
+{"text": "'The search for recycled parts shall take no longer than 15 seconds. The search results shall be returned in under 15 seconds.'", "label": 5}
+{"text": "'Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.'", "label": 0}
+{"text": "'The system shall notify customers of changes to its information policy.'", "label": 6}
+{"text": "'Maintenance releases will be offered to customers once a year. The releases shall take no longer than 5 minutes for 80% of the customer base to install.'", "label": 8}
+{"text": "'An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.'", "label": 3}
+{"text": "'The product shall be able support 1000 simultaneous users.'", "label": 4}
+{"text": "'The system shall be able to display a printable summary for individual clinical sites which will include information on labs being held at that site for the given quarter (Clinical site general information on labs held at that location dates and times of all labs held there).'", "label": 0}
+{"text": "'System shall let existing customers log into the website with their email address and password in under 5 seconds.'", "label": 5}
+{"text": "'The audit report shall be displayed to the user.'", "label": 0}
+{"text": "'100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.'", "label": 3}
+{"text": "'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Site including the clinical site name site contact person contact information and address.'", "label": 0}
+{"text": "'The Disputes System must provide the ability to view existing dispute cases.'", "label": 0}
+{"text": "'The leads washing functionality will compile both contact and academic scoring information for a total score.'", "label": 0}
+{"text": "'The system shall be available for use between the hours of 8am and 6pm.'", "label": 7}
+{"text": "'All registered customer information shall be stored and maintained in the database even after the customer cancels their account.'", "label": 0}
+{"text": "'Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes'", "label": 0}
+{"text": "'The RFS system should be able to easily interface with the BDW environment in order to load the data. \u2022 7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year. The data will be as of October month-end. Test files (7) shall be loaded up to 5 times throughout the year from the BDW.'", "label": 2}
+{"text": "'Product formula ingredients shall allow defining substitutionary ingredients.'", "label": 0}
+{"text": "'The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.'", "label": 5}
+{"text": "'The leads washing functionality will have an interface in which lead data parameters can be maintained.'", "label": 0}
+{"text": "'The System shall be able to automatically backup business data and restore them on demand.'", "label": 2}
+{"text": "'The leads washing functionality will insert all leads captured by the web service.'", "label": 0}
+{"text": "'All additions of new users and modifications to user\u2019s access shall be recorded on the User Report.'", "label": 6}
+{"text": "'All streaming movie sales will be logged in the database and accessible by the administrator.'", "label": 0}
+{"text": "'The system shall cater to 10 simultaneous users from 9am to 5pm.'", "label": 4}
+{"text": "'Every user of the system shall be authenticated and authorized.'", "label": 6}
+{"text": "'A user shall be able to use the system without instruction after a short amount of time. After one use a user should understand and remember 90% of the system usage and navigation.'", "label": 3}
+{"text": "'All letter requests must be formatted according to guidelines specified by the Print Letter Utility system.'", "label": 0}
+{"text": "On a 56k connection the system response time for all operations must be no more than 6 seconds 90% of the time.'", "label": 5}
+{"text": "'Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.'", "label": 8}
+{"text": "'Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.'", "label": 6}
+{"text": "'Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Program of Study within the Nursing Department including the Program of study name and required classes for that Program of Study.'", "label": 0}
+{"text": "'Program Administrators and Nursing Staff Members shall be able to add a new cohort to the system identified by start month and year.'", "label": 0}
+{"text": "'System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.'", "label": 5}
+{"text": "'The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second.'", "label": 5}
+{"text": "'Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem.'", "label": 0}
+{"text": "'2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'", "label": 3}

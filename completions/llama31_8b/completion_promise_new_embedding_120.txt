@@ -1,0 +1,381 @@
+Functional Suitability
+
+
+Reliability
+
+
+Compatibility
+
+
+Usability
+
+
+Usability
+
+
+Usability
+
+
+Functional Suitability
+
+
+The given requirement: 'The product shall be expected to operate for at least 5 years for each customer installation.'
+
+Category: Maintainability
+
+
+I would classify this requirement as: Compatibility
+
+
+Functional Suitability
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Functional Suitability
+
+
+Usability
+
+
+I would classify this requirement as "Performance Efficiency".
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Usability
+
+
+Security
+
+
+Functional Suitability
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Usability
+
+
+I would classify the requirement "The system shall refresh the display every 60 seconds." as: Performance Efficiency
+
+
+Reliability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Usability
+
+
+Usability
+
+
+Functional Suitability
+
+
+I would classify this requirement as "Compatibility".
+
+
+I would classify this requirement as "Maintainability".
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Usability
+
+
+Performance Efficiency
+
+
+The requirement is classified under: Maintainability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+Functional Suitability
+
+
+The requirement is: 'The product shall prevent a player from viewing the offensive or defensive grids of the other player.'
+
+Category: Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Security
+
+
+Functional Suitability
+
+
+The given requirement is: 'Only authorized users shall have access to clinical site information.'
+
+This requirement falls under the category of: **Security**
+
+
+Security
+
+
+Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+The requirement "The website shall protect itself from intentional abuse and notify the administrator at all occurrences." falls under the category of **Security**.
+
+
+Usability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+The given requirement "The product shall retain the customer’s buying preferences and information." falls under the category of **Reliability**.
+
+
+I would classify this requirement as: Usability
+
+
+Usability
+
+
+The requirement is: 'System shall automatically update the main page of the website every Friday and show the 4 latest movies that have been added to the website.'
+
+Category: Maintainability
+
+
+I would classify this requirement as "Maintainability".
+
+
+Reliability
+
+
+Security
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+Compatibility
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Performance Efficiency
+
+
+The given requirement is: 'The product must support Internet Explorer 5.5 and above.'
+
+This requirement falls under the category of: **Compatibility**
+
+
+Security
+
+
+Usability
+
+
+Usability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Reliability
+
+
+I would classify this requirement as: Functional Suitability
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+Functional Suitability
+
+
+The given requirement is: 'The product shall protect the identity of the players. The product shall provide players no access to information that might reveal the identity of another player.'
+
+This requirement falls under the category of: **Security**
+
+
+Security
+
+
+The given requirement: 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.'
+
+Category: Security
+
+
+Functional Suitability
+
+
+Security
+
+
+I would classify this requirement as: Reliability
+
+
+I would classify this requirement as "Performance Efficiency".
+
+
+I would classify this requirement as: **Security**
+
+
+Usability
+
+
+I would classify this requirement as "Security".
+
+
+Performance Efficiency
+
+
+I would classify this requirement as "Reliability".
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Performance Efficiency
+
+
+The requirement is classified under: Maintainability
+
+
+Functional Suitability
+
+
+Usability

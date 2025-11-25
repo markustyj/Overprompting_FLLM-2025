@@ -1,0 +1,439 @@
+I would classify this requirement as: Functional
+
+
+Look and Feel
+
+
+The given requirement is: 'The system shall interface with the faculty central server.'
+
+I would classify this requirement as: Operational
+
+
+The given requirement is: 'The product shall display each type of ship in a grid using an image of the specific type of ship.'
+
+This requirement falls under the category: **Look and Feel**
+
+
+The given requirement is: 'A database management system such as Oracle DB2 MySql or HSQL will need to be integrated with the product.'
+
+This requirement falls under the category: **Operational**
+
+
+The given requirement: 'The product shall use a standard navigation menu familiar to most web users.'
+
+Category: Usability
+
+
+Functional
+
+
+Scalability
+
+
+The given requirement is classified as: Operational
+
+
+I would classify this requirement as: Functional
+
+
+The given requirement is classified under: Look and Feel
+
+
+The given requirement is classified under the category: Performance
+
+
+The given requirement is classified as: Look and Feel
+
+
+I would classify this requirement as: Functional
+
+
+Usability
+
+
+I would classify this requirement as: Usability
+
+
+Functional
+
+
+The given requirement is: 'The product shall update existing conference rooms.'
+
+This requirement falls under the category: **Functional**
+
+
+The given requirement is classified as: Usability
+
+
+The given requirement is: 'The user shall easily locate instructions while using the product. User help can be found within 90% of the system.'
+
+This requirement falls under the category of Usability.
+
+
+The given requirement: 'The product should be able to be used by 90% of novice users on the Internet.'
+
+Classification: Usability
+
+
+Usability
+
+
+The given requirement: 'All customer information will be stored on a secure database accessible only to authorized personnel.'
+
+Category: Security
+
+
+The given requirement is classified as: Functional
+
+
+Security
+
+
+Functional
+
+
+I would classify this requirement as: Functional
+
+
+The given requirement is: 'The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.'
+
+This requirement falls under the category of Usability.
+
+
+The requirement "The system shall refresh the display every 60 seconds." belongs to the category: Performance.
+
+
+I would classify this requirement as: Availability
+
+
+Functional
+
+
+The given requirement: 'The product shall have a consistent color scheme and fonts.'
+
+Category: Look and Feel
+
+
+I would classify this requirement as: Usability
+
+
+The given requirement is: 'The search for the preferred repair facility shall take no longer than 8 seconds. The preferred repair facility is returned within 8 seconds'
+
+This requirement falls under the category: **Performance**
+
+
+Functional
+
+
+The given requirement is: 'When a game is ended the product shall allow each player to remove himself or herself from the list of players.'
+
+This requirement falls under the category: **Functional**
+
+
+I would classify this requirement as: Look and Feel
+
+
+I would classify this requirement as: Functional
+
+
+The given requirement: 'The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.'
+
+Category: Operational
+
+
+I would classify this requirement as "Performance".
+
+
+Functional
+
+
+I would classify this requirement as: Functional
+
+
+The requirement "The product shall retain the customer’s buying preferences and information." falls under the category of **Usability**.
+
+
+I would classify this requirement as: Operational
+
+
+The given requirement is classified under the category: Maintainability
+
+
+Functional
+
+
+The given requirement is: 'The product shall be easy to learn by Adjusters and Collision Estimators. The product shall be learned with two days onsite training'
+
+Classification: Usability
+
+
+Functional
+
+
+Functional
+
+
+The given requirement: 'The product shall respond fast to keep up-to-date data in the display.'
+
+Category: Performance
+
+
+The given requirement is: 'All screens created as part of the Disputes application must comply with corporate standards for interface creation.'
+
+This requirement falls under the category: **Look and Feel**
+
+
+Functional
+
+
+I would classify this requirement as: Functional
+
+
+Functional
+
+
+I would classify this requirement as: Functional
+
+
+Look and Feel
+
+
+I would classify this requirement as: Functional
+
+
+Functional
+
+
+The given requirement is classified as: Look and Feel
+
+
+The given requirement is: 'The Disputes System must be accessible by both internal and external users.'
+
+This requirement falls under the category: **Security**
+
+
+Functional
+
+
+Operational
+
+
+I would classify this requirement as: Security
+
+
+Look and Feel
+
+
+I would classify this requirement as: Functional
+
+
+I would classify this requirement as: Functional
+
+
+I would classify this requirement as "Maintainability".
+
+
+The given requirement is: 'The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds'
+
+This requirement falls under the category: **Performance**
+
+
+The given requirement is: 'The website shall prevent its data from being corrupted when incorrect data is entered in.'
+
+This requirement falls under the category of: **Security**
+
+
+The given requirement is classified under the category: **Fault Tolerance**
+
+
+I would classify this requirement as: Functional
+
+
+The given requirement is classified under the category: Performance
+
+
+The given requirement: 'An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.'
+
+Category: Usability
+
+
+Functional
+
+
+Look and Feel
+
+
+I would classify this requirement as: Functional
+
+
+The given requirement is classified under the category: Maintainability
+
+
+The given requirement is: 'The Disputes application shall support 350 concurrent users without any degradation of performance in the application.'
+
+This requirement falls under the category: **Scalability**
+
+
+I would classify this requirement as: **Security**
+
+
+Functional
+
+
+The given requirement is classified under the category: Usability
+
+
+The given requirement is: 'The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.'
+
+This requirement falls under the category of: Maintainability
+
+
+The given requirement is classified as: Functional
+
+
+Scalability
+
+
+I would classify this requirement as: Look and Feel
+
+
+The given requirement is: 'The recycled parts audit report shall be returned to the user within 10 seconds. The audit report shall be returned within 10 seconds.'
+
+This requirement falls under the category: **Performance**
+
+
+The given requirement is: 'The search for recycled parts shall take no longer than 15 seconds. The search results shall be returned in under 15 seconds.'
+
+This requirement falls under the category: **Performance**
+
+
+I would classify this requirement as: Security
+
+
+I would classify this requirement as: Security
+
+
+The given requirement is classified as: Maintainability
+
+
+Usability
+
+
+Scalability
+
+
+I would classify this requirement as: Functional
+
+
+The given requirement is: 'System shall let existing customers log into the website with their email address and password in under 5 seconds.'
+
+This requirement falls under the category: **Performance**
+
+
+I would classify this requirement as: Functional
+
+
+The given requirement is: '100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.'
+
+This requirement falls under the category of: Usability
+
+
+Functional
+
+
+Functional
+
+
+I would classify this requirement as: Functional
+
+
+The given requirement: 'The system shall be available for use between the hours of 8am and 6pm.'
+
+Category: Availability
+
+
+I would classify this requirement as: Maintainability
+
+
+Functional
+
+
+I would classify this requirement as "Operational".
+
+
+The given requirement is: 'Product formula ingredients shall allow defining substitutionary ingredients.'
+
+This requirement falls under the category: **Functional**
+
+
+The given requirement is classified under the category: **Performance**
+
+
+I would classify this requirement as: Look and Feel
+
+
+The given requirement: 'The System shall be able to automatically backup business data and restore them on demand.'
+
+This requirement falls under the category of: **Fault Tolerance**
+
+
+The given requirement is: 'The leads washing functionality will insert all leads captured by the web service.'
+
+This requirement falls under the category: **Functional**
+
+
+I would classify this requirement as: Functional
+
+
+The given requirement is: 'All streaming movie sales will be logged in the database and accessible by the administrator.'
+
+This requirement falls under the category of: **Operational**
+
+
+The given requirement is: 'The system shall cater to 10 simultaneous users from 9am to 5pm.'
+
+This requirement falls under the category of: **Scalability**
+
+
+The given requirement: 'Every user of the system shall be authenticated and authorized.'
+
+Classification: Security
+
+
+The given requirement is classified under: Usability
+
+
+I would classify this requirement as "Operational".
+
+
+Performance
+
+
+I would classify this requirement as: Operational
+
+
+Security
+
+
+Functional
+
+
+I would classify this requirement as: Functional
+
+
+The given requirement is: 'System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.'
+
+This requirement falls under the category: **Security**
+
+
+The given requirement is: 'The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second.'
+
+This requirement falls under the category of: **Performance**
+
+
+The given requirement is classified as: Functional
+
+
+The given requirement is: '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
+
+This requirement falls under the category of Usability.

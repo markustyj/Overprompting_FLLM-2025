@@ -1,0 +1,395 @@
+I would classify this requirement as: Functional Suitability
+
+
+Reliability
+
+
+The given requirement is: 'The system shall interface with the student master server.'
+
+This requirement falls under the category of: **Compatibility**
+
+
+I would classify this requirement as: Usability
+
+
+The given requirement: 'The product’s Look and Feel shall be able to incorporate aspects of the customer’s organization such as logo branding and identity'
+
+Category: Usability
+
+
+The requirement "The product shall allow for intuitive searching of available conference rooms." falls under the category of Usability.
+
+
+I would classify this requirement as: Functional Suitability
+
+
+The requirement 'The product shall be expected to operate for at least 5 years for each customer installation.' falls under the category of **Reliability**.
+
+
+I would classify this requirement as "Compatibility".
+
+
+I would classify this requirement as: Functional Suitability
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+Usability
+
+
+I would classify this requirement as: Functional Suitability
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as "Performance Efficiency".
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+The given requirement is classified under the category of Usability.
+
+
+The given requirement is: 'The search for recycled parts shall take no longer than 15 seconds. The search results shall be returned in under 15 seconds.'
+
+This requirement falls under the category: **Performance Efficiency**
+
+
+I would classify this requirement as: Usability
+
+
+Usability
+
+
+Security
+
+
+I would classify this requirement as: Functional Suitability
+
+
+The given requirement: "The product shall ensure that only supervisors can enter a caller’s schedule. The product must ensure that supervisors are allowed to access advertise empty time slots."
+
+This requirement falls under the category of **Security**.
+
+
+I would classify this requirement as: Functional Suitability
+
+
+Functional Suitability
+
+
+The given requirement is classified under: Usability
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+Reliability
+
+
+Functional Suitability
+
+
+The requirement "The product shall have a consistent color scheme and fonts." falls under the category of Usability.
+
+
+Usability
+
+
+The requirement is: 'The recycled parts audit report shall be returned to the user within 10 seconds. The audit report shall be returned within 10 seconds.'
+
+Category: Performance Efficiency
+
+
+I would classify this requirement as: Functional Suitability
+
+
+The given requirement is classified under: Usability
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as: Functional Suitability
+
+
+I would classify this requirement as "Compatibility".
+
+
+I would classify this requirement as "Maintainability".
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+I would classify this requirement as: Security
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+I would classify this requirement as: Maintainability
+
+
+Functional Suitability
+
+
+I would classify this requirement as: Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as: Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+I would classify this requirement as: Functional Suitability
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as: Functional Suitability
+
+
+Functional Suitability
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as: Security
+
+
+I would classify this requirement as: Functional Suitability
+
+
+The given requirement is: 'Only authorized users shall have access to clinical site information.'
+
+This requirement falls under the category of: **Security**
+
+
+The given requirement "The product shall free of computer viruses." falls under the category of **Security**.
+
+
+Usability
+
+
+I would classify this requirement as: Functional Suitability
+
+
+I would classify this requirement as: Usability
+
+
+Performance Efficiency
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+I would classify this requirement as: **Security**
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as: Functional Suitability
+
+
+The given requirement is classified under: Performance Efficiency
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as "Maintainability".
+
+
+I would classify this requirement as "Maintainability". The requirement mentions that the product will be translated into foreign languages in future releases, and that it will take no more than 5 days to configure the product for each emerging target market's language. This suggests that the product will need to be easily adaptable and maintainable to accommodate changes and updates, which is a key aspect of maintainability.
+
+
+The given requirement is classified under the category: Reliability
+
+
+I would classify this requirement as: **Security**
+
+
+Functional Suitability
+
+
+The given requirement is: 'The product is expected to integrate with multiple database management systems. The product will operate with Oracle SQL Server DB2 MySQL HSQL and MS Access.'
+
+This requirement falls under the category: **Compatibility**
+
+
+I would classify this requirement as "Compatibility".
+
+
+I would classify this requirement as: Functional Suitability
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+I would classify this requirement as: Functional Suitability
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+The given requirement is: 'The search for the preferred repair facility shall take no longer than 8 seconds. The preferred repair facility is returned within 8 seconds'
+
+This requirement falls under the category: **Performance Efficiency**
+
+
+The given requirement "The product must support Internet Explorer 5.5 and above" falls under the category of **Compatibility**.
+
+
+The given requirement: 'The system shall reveal private information only in compliance with the organization’s information policy.'
+
+Category: Security
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as: Usability
+
+
+Performance Efficiency
+
+
+I would classify this requirement as: Functional Suitability
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+I would classify this requirement as: Reliability
+
+
+The given requirement is: 'The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.'
+
+This requirement falls under the category of: **Performance Efficiency**
+
+
+I would classify this requirement as: Functional Suitability
+
+
+I would classify this requirement as: Functional Suitability
+
+
+I would classify this requirement as: Functional Suitability
+
+
+Reliability
+
+
+I would classify this requirement as: Reliability
+
+
+I would classify this requirement as: Functional Suitability
+
+
+I would classify this requirement as "Compatibility".
+
+
+I would classify this requirement as: Functional Suitability
+
+
+The given requirement is: 'The product shall protect the identity of the players. The product shall provide players no access to information that might reveal the identity of another player.'
+
+This requirement falls under the category of: **Security**
+
+
+I would classify this requirement as: **Security**
+
+
+The given requirement: 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take affect in all parts of the System.'
+
+This requirement falls under the category: **Security**
+
+
+I would classify this requirement as: Functional Suitability
+
+
+I would classify this requirement as: Security
+
+
+I would classify this requirement as: Security
+
+
+I would classify this requirement as "Performance Efficiency".
+
+
+I would classify this requirement as: Security
+
+
+I would classify this requirement as: Usability
+
+
+I would classify this requirement as: Security
+
+
+Performance Efficiency
+
+
+I would classify this requirement as "Reliability". The requirement specifies a specific time window for application updates, which ensures that the system is available and functioning correctly during the middle of the NFL season, when it is likely to be heavily used.
+
+
+The given requirement is: 'Only authorized users shall have access to students’ personal information.'
+
+This requirement falls under the category of: **Security**
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+I would classify this requirement as: Performance Efficiency
+
+
+I would classify this requirement as: Maintainability
+
+
+I would classify this requirement as: Functional Suitability
+
+
+The given requirement: 'The system shall use symbols and words that are naturally understandable by the user community.'
+
+Classification: Usability

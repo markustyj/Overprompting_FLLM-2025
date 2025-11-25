@@ -1,0 +1,207 @@
+The given requirement 'The system shall refresh the display every 60 seconds.' can be classified under the category: **Performance**.
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Usability
+
+
+Operational
+
+
+Operational
+
+
+Operational
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Operational
+
+
+The given requirement 'All additions of new users and modifications to user’s access shall be recorded on the User Report.' can be classified under the category: **Security**
+
+
+Functional
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The product shall interface with the Choice Parts System. This provides the feed of recycled parts data.': Operational
+
+
+Usability
+
+
+The given requirement can be classified into the following categories:
+
+- Performance (The recycled parts audit report shall be returned to the user within 10 seconds.)
+- Performance (The audit report shall be returned within 10 seconds.)
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Scalability
+
+
+Here are the classifications:
+
+- 'A new user must be able to be added to the system within 10 minutes.' : Usability
+- '90% of new users are able to log into the system within 10 minutes.' : Usability
+
+
+Here are the classifications:
+
+1. 'The customer shall be able to easily integrate new building maps with the product throughout the product’s lifecycle. Integration of new maps with the product shall be possible with little to no support from product support staff.'
+   - Maintainability
+
+
+Here are the classifications:
+
+- Functional
+- Scalability
+
+
+Operational
+
+
+Here is the classification of the given requirement:
+
+**Security**
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Scalability
+
+
+Usability
+
+
+Security
+
+
+Security
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The product shall poll the system for messages every second.' - Performance
+2. 'The product shall poll the system for new messages at a maximum of every 1 second.' - Performance
+
+
+Look and Feel
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Performance
+
+
+Availability
+
+
+Security
+
+
+Look and Feel
+
+
+Availability
+
+
+Here are the classifications:
+
+- Functional
+- Operational
+- Maintainability
+
+
+Operational

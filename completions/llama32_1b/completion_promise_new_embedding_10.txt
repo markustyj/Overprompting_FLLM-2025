@@ -1,0 +1,511 @@
+Functional Suitability
+
+
+Reliability
+
+
+Compatibility
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The product’s Look and Feel shall be able to incorporate aspects of the customer’s organization such as logo branding and identity': Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+- Reliability
+- Maintainability
+
+
+Here are the classifications:
+
+- Functional Suitability: The product must be able to interface with various email servers. The product shall be able to send email.
+- Compatibility: The product must be able to interface with various email servers.
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The product must comply with the intranet page standards and requirements of ENET Securities.' - Compatibility
+2. '95% of the product look & feel will be approved by the Architecture group prior to implementation. The remaining 5% will be corrected and approved within one month of product release.' - Functional Suitability
+
+
+Performance Efficiency
+
+
+Usability
+
+
+Functional Suitability
+
+
+Usability
+
+
+I would classify the given requirement: 'Staff members shall be able to complete a set of tasks in a timely manner.' as Performance Efficiency.
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+- Functional Suitability: The product shall give users feedback when necessary.
+- Usability: The product shall give users feedback when necessary.
+- Reliability: 80% of the users surveyed report that the product accurately confirms their actions.
+
+
+Here are the classifications for the given requirements:
+
+1. 'The search for recycled parts shall take no longer than 15 seconds.' - Performance Efficiency
+2. 'The search results shall be returned in under 15 seconds.' - Performance Efficiency
+
+
+I would classify the given requirement as: Usability
+
+
+Usability
+
+
+Security
+
+
+Functional Suitability
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Here are the classifications:
+
+- Functional Suitability: The system shall display Events in a vertical table by time.
+- Performance Efficiency: On a 56k connection the system response time for all operations must be no more than 6 seconds 90% of the time.
+- Usability: The product shall be intuitive and self-explanatory.
+- Reliability: The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods.
+- Maintainability: The product shall be updated on a regular basis.
+- Compatibility: The system interface shall be formatted to display at 800 by 600 pixel resolution.
+- Security: None
+- Performance Efficiency: The system shall refresh the display every 60 seconds.
+
+
+Reliability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Usability
+
+
+Here are the classifications for the given requirements:
+
+1. 'The recycled parts audit report shall be returned to the user within 10 seconds.' - Performance Efficiency
+2. 'The audit report shall be returned within 10 seconds.' - Performance Efficiency
+
+
+Functional Suitability
+
+
+Usability
+
+
+Here are the classifications:
+
+1. 'When a shot is marked as a miss the product shall simulate the sound of a shot missing its target.' 
+   - Usability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.': 
+   Compatibility
+
+
+Here are the classifications:
+
+- Functional Suitability
+- Performance Efficiency
+
+
+Based on the given requirement, I would classify it under: **Performance Efficiency**
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+- Functional Suitability: 'Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.'
+- Usability: 'The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies.'
+
+
+Here are the classifications:
+
+1. 'The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications'
+   - Performance Efficiency
+
+
+Here are the classifications:
+
+- Performance Efficiency
+- Usability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Based on the given requirement, I would classify it under: **Performance Efficiency**
+
+This requirement focuses on the product's ability to respond quickly and efficiently to keep up-to-date data in the display, which is a key aspect of performance efficiency.
+
+
+Functional Suitability
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The vehicle data shall include vehicle year make and model' 
+   - Functional Suitability
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Usability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Security
+
+
+Security
+
+
+The given requirement 'The appearance of the product shall appear professional' can be classified under: **Usability**
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The product shall poll the system for messages every second.' - Performance Efficiency
+2. 'The product shall poll the system for new messages at a maximum of every 1 second.' - Performance Efficiency
+
+
+Security
+
+
+Here are the classifications:
+
+1. 'The product shall provide Portals.' - Functional Suitability
+2. 'The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators)' - Functional Suitability
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'Any interface between a user and the automated system shall have a maximum response time of 5 seconds unless noted by an exception below.': Performance Efficiency
+2. 'The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.': Performance Efficiency
+3. 'The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.': Performance Efficiency
+4. 'On a 56k connection the system response time for all operations must be no more than 6 seconds 90% of the time.': Performance Efficiency
+5. 'The system shall be responsive. At the DePaul TeleServices Center when a supervisor uses the system to view a callers schedule the system response time must be no more than 2 seconds 90% of the time and no more than 5 seconds the rest of the time.': Performance Efficiency
+6. 'The interface shall be easy to use. 90% of users should be able to successfully use the system to generate a report on their first use. The interface should adhere to IBM usability standards.': Usability
+7. 'The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.': Reliability
+8. 'The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.': Reliability
+9. 'The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.': Performance Efficiency
+10. 'The product shall be intuitive and self-explanatory. : 90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.': Usability
+11. 'The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time the response time should not be more than 10 seconds.': Performance Efficiency
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+- 'The system will display a blank set of ratings if there are not ratings yet defined.': Functional Suitability
+
+
+Incompatibility with the specified categories, but closest to 'Compatibility' as it involves the use of a specific technology (Flash).
+
+
+Here are the classifications:
+
+- Functional Suitability: System shall automatically update the main page of the website every Friday and show the 4 latest movies that have been added to the website.
+- Performance Efficiency: System shall automatically update the main page of the website every Friday and show the 4 latest movies that have been added to the website.
+
+
+Here are the classifications:
+
+1. 'The product shall be translated into foreign languages other than the target market countries’ languages in future releases. For each emerging target market it shall take no more than 5 days to configure the product for that market’s language.'
+   - Reliability
+
+
+Reliability
+
+
+I would classify the given requirement as: **Security**
+
+
+Functional Suitability
+
+
+Compatibility
+
+
+Here are the classifications:
+
+1. 'The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.': 
+   - Compatibility
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+- Functional Suitability
+- Performance Efficiency
+
+
+Functional Suitability
+
+
+Based on the given requirement, I would classify it under: **Performance Efficiency**
+
+This is because the requirement focuses on the system's response time and the speed at which the preferred repair facility ratings are saved.
+
+
+Here are the classifications:
+
+1. 'The search for the preferred repair facility shall take no longer than 8 seconds.' - Performance Efficiency
+2. 'The preferred repair facility is returned within 8 seconds' - Performance Efficiency
+
+
+Compatibility
+
+
+Security
+
+
+Usability
+
+
+Usability
+
+
+The given requirement: 'The product shall be able support 1000 simultaneous users.' 
+
+Category: Performance Efficiency
+
+
+Functional Suitability
+
+
+I would classify the given requirement as: Performance Efficiency
+
+This is because the requirement focuses on the time it takes for a specific process (account cancellation) to be completed, which is a key aspect of performance efficiency.
+
+
+Functional Suitability
+
+
+The given requirement 'The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.' can be classified under: 
+
+Performance Efficiency
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'A list of all disputes cases that meet the entered search criteria must be provided to the user. The list of cases must differentiate the type and/or status of the case by color-coding the line item in the list. For example all open cases will be yellow and all closed cases will be gray.': 
+   - Functional Suitability
+
+2. 'The Disputes System must allow the users to select disputable transactions (based on the age of the transaction) from a user interface and initiate a dispute (ticket retrieval request or chargeback notification) on the selected transaction.': 
+   - Functional Suitability
+
+3. 'The Disputes System will provide the user the ability to create or initiate a ticket retrieval request. As part of ticket retrieval creation process the system must prompt the user to enter all the required information to create the ticket retrieval request. The ticket retrieval request is a document that is sent to merchant inquiring the validity of a transaction.': 
+   - Functional Suitability
+
+4. 'The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system. A detailed history of the actions taken on the case including the date and the user that performed the action must be maintained for auditing purposes.': 
+   - Functional Suitability
+
+5. 'The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information; the dispute case number the type of retrieval requested (copy original or portfolio) and the date that the merchant response is due.': 
+   - Functional Suitability
+
+6. 'The Dispute System shall provide the users with the ability to follow up on a dispute case via follow-up actions. The list of available follow up actions for a given dispute case must be filtered by the status of the case and the access level of the user.': 
+   - Functional Suitability
+
+7. 'The Disputes System shall allow the user to create or initiate a chargeback request. The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.': 
+   - Functional Suitability
+
+8. 'The Disputes System shall accurately provide a list of possible reason codes for a given transaction. The list of possible reason codes must be derived based on the type of transaction and the industry that the merchant belongs to according to the business rules defined for the Disputes System.': 
+   - Functional Suitability
+
+9. 'The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant.': 
+   - Functional Suitability
+
+10. 'The Disputes System must allow the user to create three unique types of ticket retrieval requests. The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio. A portfolio consists of documentation that would provide proof of a purchase such as the documentation that is received from a car rental agency that is more than a sales receipt.': 
+    - Functional Suitability
+
+11. 'The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number. In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.': 
+    - Usability
+
+
+Functional Suitability
+
+
+Reliability
+
+
+I would classify the given requirement as: **Performance Efficiency**
+
+This is because the requirement focuses on the system's ability to handle and provide data (daily usage statistics) to the administrator, implying that the system's performance and efficiency are crucial in meeting this requirement.
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The RFS system should be able to easily interface with the BDW environment in order to load the data.' - Compatibility
+2. '7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year.' - Performance Efficiency
+3. 'The data will be as of October month-end.' - Functional Suitability
+
+
+Functional Suitability
+
+
+Security
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'The System shall maintain consistent security. Any changes in user passwords and/or permissions should take effect in all parts of the System.' 
+   - Security
+
+
+Functional Suitability
+
+
+Here are the classifications:
+
+1. 'If a user account is revoked it can only be re-instantiated by the System Administrator.' 
+   - Security
+
+
+Reliability
+
+
+Here are the classifications:
+
+1. 'The system shall be capable of processing 100% of nursing students and their classes for the next 10 years.': 
+   - Performance Efficiency
+
+
+Security
+
+
+Usability
+
+
+Reliability
+
+
+Performance Efficiency
+
+
+Reliability
+
+
+Security
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+Functional Suitability
+
+
+The given requirement can be classified under: **Performance Efficiency**
+
+
+Functional Suitability
+
+
+Usability

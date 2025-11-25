@@ -1,0 +1,369 @@
+ Functional Suitability
+
+
+ Reliability
+
+
+ Functional Suitability
+
+
+ Performance Efficiency (The requirement is about simulating a sound, which can impact the system's performance)
+
+
+ Usability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Reliability
+
+
+ Performance Efficiency (for the ability to interface with various email servers) and Functional Suitability (for the ability to send email)
+
+
+ Performance Efficiency (for handling transactions)
+Usability (for providing multiple payment options)
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Usability
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Security
+
+
+ Functional Suitability
+
+
+ Performance Efficiency (for ensuring smooth access to empty time slots)
+Security (for restricting schedule entry to supervisors)
+
+
+ Functional Suitability
+
+
+ Reliability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Reliability
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency (or Functional Suitability, depending on the specific implementation details)
+
+
+ Compatibility
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Reliability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Functional Suitability
+
+
+ Performance Efficiency (The requirement is about the end condition of a game, which implies the game's progress and efficiency)
+
+
+ Performance Efficiency
+
+
+ Usability
+
+
+ Security
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Security
+
+
+ Functional Suitability
+
+
+ Security
+
+
+ Security
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Security
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency (or Functional Suitability, depending on the specifics of the product and the nature of the "hit" or "miss" notifications)
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency (specifically, the requirement about taking no more than 5 days to configure the product for a new language implies an efficiency aspect)
+
+
+ Reliability
+
+
+ Reliability (Access control and authorization are essential for maintaining system reliability)
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency (since the requirement is about the product's ability to integrate with multiple database management systems)
+
+
+ Reliability
+
+
+ Reliability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Compatibility
+
+
+ Security
+
+
+ Usability
+
+
+ Usability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency (or Reliability, depending on the specifics of how the report is stored and accessed)
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Performance Efficiency (for the search functionality) and Functional Suitability (for the search criteria and options)
+
+
+ Functional Suitability
+
+
+ Reliability
+
+
+ Performance Efficiency
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Security
+
+
+ Security
+
+
+ Security
+
+
+ Performance Efficiency
+
+
+ Reliability
+
+
+ Reliability
+
+
+ Functional Suitability
+
+
+ Security
+
+
+ Usability
+
+
+ Reliability
+
+
+ Performance Efficiency
+
+
+ Reliability
+
+
+ Security
+
+
+ Functional Suitability
+
+
+ Functional Suitability
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Performance Efficiency
+
+
+ Usability

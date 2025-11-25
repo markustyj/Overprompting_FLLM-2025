@@ -1,0 +1,219 @@
+The given requirement 'The product shall respond fast to keep up-to-date data in the display.' can be classified under the category: **Performance**.
+
+
+Functional
+
+
+The given requirement 'The system shall offer the ability to pause and resume the refresh of data.' can be classified under the category: **Performance**
+
+
+Look and Feel
+
+
+The given requirement: 'The product shall retain user preferences in the event of a failure.' 
+
+Category: Fault Tolerance
+
+
+Scalability
+
+
+Security
+
+
+Security
+
+
+Usability
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Security
+
+
+Functional
+
+
+Look and Feel
+
+
+Based on the given requirement, I would classify it under: **Usability**
+
+
+Operational
+
+
+Here are the classifications:
+
+- Functional
+- Look and Feel
+
+
+Operational
+
+
+Look and Feel
+
+
+Usability
+
+
+Availability
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product must be highly configurable for use with various database management systems for the end users. 80% of end users are able to integrate new database management systems with the product without changing the product’s software code.'
+   - Maintainability
+
+
+Functional
+
+
+The given requirement 'The System shall be able to automatically backup business data and restore them on demand.' can be classified under the category: **Availability**
+
+
+Functional
+
+
+Functional
+
+
+Based on the given requirement, I would classify it as: 
+
+Look and Feel
+
+
+Look and Feel
+
+
+Availability
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'All streaming movie sales will be logged in the database and accessible by the administrator.' can be classified under the category: **Functional**
+
+
+Here are the classifications for the given requirements:
+
+1. 'Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.'
+   - Performance
+   - Availability
+
+
+Operational
+
+
+The given requirement 'The lead washing process will operate within the established physical web service structure.' can be classified under the category: Operational.
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The product shall able to handle a large number of games simultaneously.' can be classified under the category: **Scalability**
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Security
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product shall provide Monitoring Services.' - Functional
+2. 'The product shall be easy for System Administrators and DBAs to use after two weeks of usage.' - Maintainability
+
+
+The given requirement 'The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+Here are the classifications:
+
+- Functional
+- Operational
+- Portability
+- Scalability
+
+
+Here are the classifications for the given requirement:
+
+- Security
+- Scalability
+
+
+Here are the classifications for the given requirement:
+
+- Operational
+- Portability
+- Availability
+- Security
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The RFS system should be able to easily interface with the BDW environment in order to load the data.' - Operational
+2. '7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year.' - Operational
+3. 'The data will be as of October month-end.' - Operational
+4. 'Test files (7) shall be loaded up to 5 times throughout the year from the BDW.' - Operational
+
+
+Performance

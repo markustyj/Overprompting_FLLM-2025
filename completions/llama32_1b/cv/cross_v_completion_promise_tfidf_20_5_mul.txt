@@ -1,0 +1,210 @@
+Here are the classifications:
+
+1. 'The product shall be available during normal business hours.' - Availability
+2. 'As long as the user has access to the client PC the system will be available 99% of the time during the first six months of operation.' - Availability
+
+
+Here are the classifications:
+
+- Security
+- Availability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Availability
+
+
+Functional
+
+
+The given requirement: 'The product shall be able to support multiple remote users' can be classified under the category of **Scalability**.
+
+
+Scalability
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.' can be classified under the category: Performance
+
+
+Operational
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+- Functional
+- Usability
+
+
+Here are the classifications:
+
+1. 'For any systematic (non-user initiated) action that occurs on a case such as the disputes aging process a case activity will be generated. Upon the next logon the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case.'
+   - Functional
+
+
+Here are the classifications:
+
+- Availability
+- Operational
+
+
+Security
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+The given requirement 'The product shall be used in office environments' can be classified under the category: Operational.
+
+
+Here are the classifications:
+
+- Availability
+- Usability
+
+
+Security
+
+
+Here are the classifications:
+
+1. 'The product shall be able to display calendar dates and times according to the user’s locale.' - Scalability
+2. '90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.' - Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Based on the given requirement, I would classify it under the following categories:
+
+- Security
+- Look and Feel
+
+
+Scalability
+
+
+Functional
+
+
+Availability
+
+
+Security
+
+
+Security
+
+
+I would classify the given requirement as: **Availability**
+
+
+Security
+
+
+Security
+
+
+The given requirement 'Daily usage statistics should be logged and accessible by the administrator.' can be classified under the category: **Functional**
+
+
+Operational
+
+
+Security
+
+
+Security
+
+
+Functional
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product shall be internet browser independent.': Portability
+2. 'The product must run using Internet Explorer and Netscape Navigator.': Operational
+
+
+Here is the classification of the given requirement:
+
+Scalability
+
+
+Security
+
+
+Look and Feel
+
+
+Usability
+
+
+Operational
+
+
+Operational

@@ -1,0 +1,738 @@
+Here is the classification of the given requirement:
+
+Usability
+
+
+Here are the classifications:
+
+1. 'When a ship is sunk the product shall simulate the sound of a sinking ship.': 
+   - Functional
+
+
+Operational
+
+
+Functional
+
+
+Operational
+
+
+Usability
+
+
+The given requirement: 'The product shall allow a user to identify himself or herself as a player.' 
+
+Category: Functional
+
+
+Here are the classifications:
+
+1. 'The product shall be able to process 10 000 transactions per hour within two years of its launch. This number will increase to 20 000 by Release 2.': 
+   - Scalability
+
+
+Here are the classifications:
+
+- Functional
+- Operational
+- Performance
+
+
+The given requirement 'System will allow customers to pay for a streaming movie with a pre-paid card.' can be classified under the category: **Functional**
+
+
+Here are the classifications:
+
+- Functional
+- Look and Feel
+
+
+Here are the classifications:
+
+1. 'Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.': 
+   - Performance
+
+
+Here are the classifications:
+
+- Functional: 'Program Administrators and Nursing Staff Members shall be able to add a student who has registered for a clinical class to a clinical lab section for that class.'
+- Usability: 'The interface shall have a simple look. In the interface and usability survey 90% of beta testers must report that the interface is adequately simple.'
+- Look and Feel: 'The interface shall have a simple look. In the interface and usability survey 90% of beta testers must report that the interface is adequately simple.'
+- Usability: 'The product shall allow the user to save the property search results.'
+- Usability: 'The product shall allow for customization of start page and views preferences.'
+- Usability: 'The system shall use symbols and words that are naturally understandable by the user community.'
+- Look and Feel: 'The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Usability: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Look and Feel: 'The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Scalability: 'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.'
+- Usability: 'The WCS system
+
+
+Functional
+
+
+Here are the classifications:
+
+- Functional
+- Usability
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Usability
+
+
+Here are the classifications:
+
+1. 'If projected the data must be readable. On a 10x10 projection screen 90% of viewers must be able to read Event / Activity data from a viewing distance of 30'': Usability
+
+
+Security
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The product shall ensure that only supervisors can advertise empty time slots.': Functional
+2. 'The product must ensure that supervisors are allowed to access advertise empty time slots.': Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+The given requirement 'The system shall refresh the display every 60 seconds.' can be classified under the category: Performance.
+
+
+Performance
+
+
+Functional
+
+
+Look and Feel
+
+
+Usability
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Operational
+
+
+The given requirement: 'The system shall offer the ability to pause and resume the refresh of data.' 
+
+Category: Functional
+
+
+Usability
+
+
+Here is the classification of the given requirement:
+
+Usability
+
+
+Functional
+
+
+Based on the given requirement, I would classify it under: **Maintainability**
+
+This is because the requirement focuses on the ability to analyze transactions with ad-hoc reporting and KPIs, which implies that the system should be designed to support flexibility and customization, making it easier for System Administrators to maintain and manage the system.
+
+
+Here are the classifications:
+
+- Functional
+- Maintainability
+
+
+Here are the classifications:
+
+1. 'The Disputes System shall allow the user to create or initiate a chargeback request.' - Functional
+2. 'The system must prompt the user to enter the required information to initiate a chargeback request.' - Functional
+3. 'The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.' - Functional
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The product shall respond fast to keep up-to-date data in the display.' can be classified under the category: Performance.
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here is the classification of the given requirement:
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+The given requirement 'The Disputes System must be accessible by both internal and external users.' can be classified under the category: **Availability**
+
+
+Functional
+
+
+Usability
+
+
+Security
+
+
+Look and Feel
+
+
+The given requirement 'The search radius shall be between 1 and 30 miles' can be classified under the category: Functional.
+
+
+Here are the classifications:
+
+- Functional
+- Maintainability
+
+
+Operational
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Operational
+
+
+Here is the classification of the given requirement:
+
+**Availability**
+
+
+Here are the classifications:
+
+- Functional
+- Maintainability
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time the response time should not be more than 10 seconds.'
+   - Performance
+
+
+Usability
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Here are the classifications:
+
+- Functional
+- Maintainability
+
+
+The given requirement: 'The Disputes application shall support 350 concurrent users without any degradation of performance in the application.'
+
+Category: Scalability
+
+
+Here is the classification of the given requirement:
+
+Security
+
+
+Functional
+
+
+Here are the classifications:
+
+- Functional
+- Operational
+- Maintainability
+- Scalability
+- Performance
+
+
+Operational
+
+
+Here is the classification of the given requirement:
+
+**Operational**
+
+
+The given requirement 'The streaming server will support 50 simultaneous streaming connections.' can be classified into the following categories:
+
+- Scalability
+- Performance
+
+
+Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Performance: 'The recycled parts audit report shall be returned to the user within 10 seconds.'
+- Performance: 'The audit report shall be returned within 10 seconds.'
+
+
+Based on the given requirement, I would classify it under: **Performance**
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+- Functional
+- Availability
+
+
+Usability
+
+
+The given requirement 'The product shall be able to support 1000 simultaneous users.' can be classified into the following categories:
+
+- Scalability
+- Usability
+
+
+Here is the classification of the given requirement:
+
+Usability
+
+
+Performance
+
+
+Usability
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The system shall be available for use between the hours of 8am and 6pm.' can be classified under the category: Availability.
+
+
+Security
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The RFS system should be able to easily interface with the BDW environment in order to load the data.' - Operational
+2. '7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year.' - Operational
+3. 'The data will be as of October month-end.' - Operational
+4. 'Test files (7) shall be loaded up to 5 times throughout the year from the BDW.' - Operational
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.': 
+   Performance
+
+
+Functional
+
+
+The given requirement: 'The System shall be able to automatically backup business data and restore them on demand.' 
+
+Category: Maintainability
+
+
+Functional
+
+
+Here is the classification of the given requirement:
+
+Maintainability
+
+
+Here is the classification of the given requirement:
+
+Security
+
+
+Operational
+
+
+Security
+
+
+Usability
+
+
+Look and Feel
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Here is the classification of the given requirement:
+
+**Availability**
+
+
+Here are the classifications:
+
+- Functional
+- Performance
+
+
+Functional
+
+
+Usability

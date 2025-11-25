@@ -1,0 +1,367 @@
+ Functional
+
+
+ Look and Feel
+
+
+ Operational
+
+
+ Functional
+
+
+ Operational
+
+
+ Usability
+
+
+ Functional
+
+
+ Scalability
+
+
+ Operational
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Performance (during business hours), Scalability (during off business hours)
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Security
+
+
+ Functional
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Performance
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Usability, Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Operational
+
+
+ Performance (or Operational, depending on the specifics of how the pause/resume feature affects the system's operation)
+
+
+ Usability (or Functional, depending on the interpretation of "free access" as either a privilege or a feature)
+
+
+ Functional
+
+
+ Usability
+
+
+ Performance, Look and Feel (ad-hoc reporting and KPIs)
+
+
+ Maintainability
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ The given requirement 'The Disputes System must be accessible by both internal and external users.' falls under the category of Security, specifically in terms of user authentication and authorization.
+
+
+ Functional
+
+
+ Operational
+
+
+ Security
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Maintainability
+
+
+ Performance
+
+
+ Security
+
+
+ Performance, Security
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Usability, Maintainability
+
+
+ Scalability
+
+
+ Security
+
+
+ Functional
+
+
+ Usability (Future releases) & Operational (Configuring for each emerging target market)
+
+
+ Scalability
+
+
+ Functional
+
+
+ Scalability
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (or Maintainability, depending on the specific implementation details)
+
+
+ Security
+
+
+ Maintainability
+
+
+ Usability
+
+
+ Scalability
+
+
+ Functional
+
+
+ Performance
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Functional
+
+
+ Performance, Maintainability
+
+
+ Functional
+
+
+ Performance
+
+
+ Functional
+
+
+ Performance (Backup and restore operations are performance-related tasks)
+
+
+ Functional
+
+
+ Security
+
+
+ Functional
+
+
+ Scalability (during specified hours)
+
+
+ Security
+
+
+ Usability
+
+
+ Formatting: Look and Feel
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Performance

@@ -1,0 +1,212 @@
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Here are the classifications:
+
+- 'The number of mistakes noted by the students shall be decreased by 50% in the first year.': Performance
+
+
+The given requirement'system shall be able to handle all of the user requests/usage during business hours' can be classified under the category: **Availability**
+
+
+Operational
+
+
+Security
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here is the classification of the given requirement:
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number. In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.': 
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Here are the classifications:
+
+- Availability
+- Operational
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product must make use of web/application server technology. Open source examples include Apache web server Tomcat and the JBoss application server.'
+   - Operational
+
+
+Look and Feel
+
+
+Usability
+
+
+Security
+
+
+The given requirement 'The product must be developed with the J2SE/J2EE programming language libraries' can be classified into the category: **Maintainability**.
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Operational
+
+
+Security
+
+
+Performance
+
+
+Availability
+
+
+Usability
+
+
+Performance
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+The given requirement 'Website shall request and authorize credit card payment before allowing a user to stream a movie.' can be classified into the following categories:
+
+- Functional
+- Security
+
+
+Performance
+
+
+Security
+
+
+The given requirement 'Defect reports will be available to technical units on a 24x7 basis.' can be classified into the following categories:
+
+- Availability
+- Fault Tolerance
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Availability
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+- Functional
+- Maintainability
+
+
+Security
+
+
+Here are the classifications:
+
+- Functional
+- Availability
+- Performance
+- Security
+- Operational
+
+
+Maintainability
+
+
+Usability
+
+
+Maintability
+
+
+Here are the classifications for the given requirement:
+
+- Security
+- Availability

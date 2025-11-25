@@ -1,0 +1,367 @@
+ Functional
+
+
+ Functional
+
+
+ Operational
+
+
+ Functional (specifically, Look and Feel)
+
+
+ Operational
+
+
+ Usability
+
+
+ Functional
+
+
+ Scalability
+
+
+ Performance
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Performance (during business hours) and Availability (during off business hours)
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Usability
+
+
+ Security
+
+
+ Functional
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ On-demand streaming of movies at any time of the day falls under the Performance category.
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Usability, Performance
+
+
+ Performance
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Operational
+
+
+ Pausability/Resumability falls under the Operational category.
+
+
+ Usability (or Functional, depending on the context. If it's about the owner having special privileges, it could be Functional. But if it's about the owner being able to access all movies without any restrictions, it's more about Usability.)
+
+
+ Usability
+
+
+ Usability
+
+
+ Portability, Usability (ad-hoc reporting and KPIs for System Administrators)
+
+
+ Configurability (or Customizability)
+
+
+ Functional
+
+
+ Usability (with onsite training as a sub-aspect)
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ The given requirement 'The Disputes System must be accessible by both internal and external users.' falls under the category of 'Operational'.
+
+
+ Functional
+
+
+ Operational
+
+
+ Security
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Security
+
+
+ Error Tracking Services falls under the category of: **Usability** (since it helps system administrators and DBAs to resolve errors) and **Security** (since error tracking can provide insights into potential vulnerabilities). However, given the primary focus on helping administrators resolve errors, it's more accurately classified as **Usability**.
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Functional
+
+
+ Look and Feel
+
+
+ Functional
+
+
+ Usability
+
+
+ Performance
+
+
+ Security
+
+
+ Functional
+
+
+ Scalability
+
+
+ Scalability
+
+
+ Functional
+
+
+ Scalability
+
+
+ Functional
+
+
+ Performance
+
+
+ Performance
+
+
+ Performance (or possibly Operational, depending on the specifics of the purging process)
+
+
+ Security
+
+
+ Maintainability
+
+
+ Usability (or possibly Performance, depending on how the survey affects the website's speed or responsiveness)
+
+
+ Scalability
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ Usability
+
+
+ Functional
+
+
+ Functional
+
+
+ Functional
+
+
+ Availability
+
+
+ Maintainability
+
+
+ Functional
+
+
+ Portability
+
+
+ Functional
+
+
+ Performance
+
+
+ Usability
+
+
+ Backup and Restore: Maintainability
+
+
+ Functional
+
+
+ Security
+
+
+ Functional
+
+
+ Scalability (during specified hours)
+
+
+ Security
+
+
+ Usability
+
+
+ Formatting: Look and Feel
+
+
+ Performance
+
+
+ Maintainability
+
+
+ Security
+
+
+ Functional
+
+
+ Functional
+
+
+ Performance
+
+
+ Polling frequency: Operational
+
+
+ Functional
+
+
+ Operational

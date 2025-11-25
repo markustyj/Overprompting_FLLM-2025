@@ -1,0 +1,211 @@
+Usability
+
+
+Functional
+
+
+The given requirement: 'The system shall provide a history report of changes made to the Activity or Event data' can be classified under the category: **Functional**
+
+
+Usability
+
+
+The given requirement: 'The product shall synchronize contacts and appointments in an acceptable time.' 
+
+Category: Performance
+
+
+Availability
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Security
+
+
+Security
+
+
+Availability
+
+
+Functional
+
+
+Functional
+
+
+Availability
+
+
+Operational
+
+
+Security
+
+
+Functional
+
+
+Operational
+
+
+The given requirement 'The product shall adhere to the corporate Architecture guidelines' can be classified under the category: Maintainability.
+
+
+Based on the given requirement, I would classify it as: **Performance**
+
+
+Here are the classifications:
+
+1. 'The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.' 
+   - Availability
+
+
+The given requirement can be classified into the following categories:
+
+- Scalability
+- Performance
+
+
+Performance
+
+
+Here are the classifications:
+
+1. 'Only collision estimators shall search for recycled parts. Users without the collision estimator role shall not have access to the search for recycled parts.' 
+   - Security
+
+
+Security
+
+
+Here are the classifications:
+
+- Functional
+- Performance
+
+
+Functional
+
+
+Functional
+
+
+Operational
+
+
+Operational
+
+
+Security
+
+
+Operational
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Availability
+
+
+Here are the classifications:
+
+- Scalability
+- Performance
+
+
+Operational
+
+
+Functional
+
+
+Security
+
+
+Look and Feel
+
+
+Functional
+
+
+The given requirement 'For leads that process longer than 25 seconds the system will record the event and duration' can be classified under: **Performance**
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+- Functional
+- Usability
+- Availability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Usability
+
+
+The given requirement can be classified into the following categories:
+
+- Maintainability
+- Portability
+
+
+Here is the classification of the given requirement:
+
+Usability
+
+
+Security
+
+
+Operational
+
+
+Here are the classifications:
+
+- Look and Feel
+- Availability
+- Usability

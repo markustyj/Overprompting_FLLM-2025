@@ -1,0 +1,254 @@
+Operational
+
+
+Security
+
+
+Security
+
+
+Here are the classifications for the given requirements:
+
+1. 'A class shall be either a non-clinical class or a clinical class.' 
+   - Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The system shall contain contact information (e-mail and phone number) for all people relevant to the system including (but not be limited to) staff members students lecture instructors clinical lab instructors and clinical site administrators.': 
+   - Availability
+
+
+Functional
+
+
+Usability
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Here are the classifications:
+
+- Functional
+- Usability
+
+
+Operational
+
+
+Functional
+
+
+Here are the classifications for the given requirements:
+
+1. 'The preferred repair facility shall be returned to the user.' - Functional
+
+
+Functional
+
+
+Operational
+
+
+Usability
+
+
+Operational
+
+
+Operational
+
+
+Here are the classifications:
+
+1. 'Only managers are able to perform search queries for reservations by user. 100% of all search queries for reservations by user shall be from logons of only management logons.': 
+   - Security
+   - Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Here is the classification:
+
+Performance
+
+
+Here are the classifications:
+
+- Functional: No
+- Availability: No
+- Fault Tolerance: No
+- Legal: No
+- Look and Feel: No
+- Maintainability: No
+- Operational: No
+- Performance: Yes
+- Portability: No
+- Scalability: No
+- Security: No
+- Usability: Yes
+
+
+Operational
+
+
+Operational
+
+
+Operational
+
+
+Performance
+
+
+Operational
+
+
+Maintainability
+
+
+Security
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'Website shall allow customers to browse movies by categories entered in by izogn administrator.': Functional
+2. 'Only registered customers can purchase streaming movies.': Security
+3. 'Only registered customers can purchase streaming movies.': Functional
+4. 'The website shall be capable of supporting 100 000 customers.': Scalability
+5. 'The system shall notify customers of changes to its information policy.': Security
+6. 'The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies. Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.': Usability
+7. 'An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.': Usability
+8. 'System will allow customers to pay for a streaming movie with a pre-paid card.': Functional
+9. 'Website shall allow customers to purchase pre-paid cards of $5 $10 or $20 value either by credit card or mail-in payment option.': Functional
+10. 'System shall let customers register on the website as a “unlimited movie subscriber” user in under 10 minutes.': Performance
+11. 'Website shall allow customers to view reviews of selected movies by other customers.': Usability
+
+
+Functional
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Here is the classification of the given requirement:
+
+Availability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Availability
+
+
+Here are the classifications:
+
+1. 'The product shall end a game when a hit by the offensive player results in sinking the last of the defensive player’s ships which had not been previously marked as sunk.': 
+   - Functional
+   - Operational
+
+
+Here are the classifications for the given requirements:
+
+1. The system shall have high availability every day of the year. - Availability
+2. The system must be available for use between 12:00AM and 6:00PM all days of the year. - Availability
+
+
+Here are the classifications:
+
+1. The product shall ensure that only supervisors can enter a caller’s schedule. - Security
+2. The product must ensure that supervisors are allowed to access advertise empty time slots. - Security
+
+
+Here are the classifications:
+
+1. 'The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods.'
+   - Availability
+2. 'The product shall be available 99.99% of the time for regular business days.'
+   - Availability
+
+
+Here are the classifications:
+
+1. 'The product shall be robust with fault tolerance.The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.'
+   - Fault Tolerance
+
+
+Here are the classifications:
+
+1. 'The product shall continue to operate during upgrade change or new resource addition.'
+   - Availability
+2. 'The product shall be able to continue to operate with no interruption in service due to new resource additions.'
+   - Availability
+
+
+Here are the classifications:
+
+1. 'The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users.' - Operational
+2. 'Queries must be made to external databases for data refresh once a week.' - Operational
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The application shall have a downtime of at most 10 minutes per year.' 
+   - Availability

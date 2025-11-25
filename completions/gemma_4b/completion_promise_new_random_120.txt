@@ -1,0 +1,1258 @@
+**Functional Requirement**
+
+This requirement clearly describes a specific function the system *must* perform – generating a printable summary of clinical site lab information. It’s about *what* the system does.
+
+Here’s a breakdown of why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies an action – “display a printable summary.”
+*   **Specific Output:** It defines the content of the output – details about labs held at a clinical site, including dates and times.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Reliability**
+
+**Reasoning:**
+
+This requirement directly addresses the system’s availability and operational uptime – core aspects of reliability.  It’s not about performance, security, or maintainability; it’s about ensuring the system is consistently accessible when needed.
+
+
+**Compatibility**
+
+**Reasoning:** This requirement directly relates to the system’s ability to work with other systems – specifically the “student master server.” Compatibility is the category that best describes this type of interaction.
+
+
+**Functional Requirement**
+
+This requirement directly relates to the core gameplay mechanics of the product – simulating the sound of a ship at sea. It’s a specific action within the game and contributes to the overall user experience. 
+
+**Reasoning:**
+
+*   **Action-Oriented:** It describes a specific action the system performs (simulating a sound).
+*   **Gameplay Element:** It’s a fundamental part of how the game feels and functions.
+*   **Not a Constraint:** It doesn't dictate a technical limitation or a non-functional aspect like performance or security.
+
+
+**Usability**
+
+Here’s why:
+
+*   **Focus on User Experience:** This requirement directly addresses how the product *looks* and *feels* to the user – the customer. It’s about creating a positive and familiar experience.
+*   **Brand Alignment:** Incorporating the customer’s branding is a key element of usability – making the product feel like a natural extension of their existing brand identity.
+
+Let's look at why other classifications aren't as suitable:
+
+*   **Security:** This doesn’t relate to protecting data or access.
+*   **Maintainability:** This is about how easy it is to update and change the system, not the visual presentation.
+*   **Performance:** This is about speed and responsiveness, not aesthetics.
+
+Would you like me to classify another requirement?
+
+
+**Functional Requirement**
+
+This requirement directly relates to a core function of the product – the ability to find and utilize conference rooms. It’s not about aesthetics or user experience (which would be a usability requirement), but about the fundamental capability of the system. 
+
+Here’s a breakdown of why it’s classified as functional:
+
+*   **What it does:** It specifies a specific action the product must perform – allowing users to search for conference rooms.
+*   **Measurable:** The “intuitive” aspect can be assessed through user testing and feedback, but the core functionality is measurable – does it allow searching?
+
+Would you like me to classify another requirement from the list?
+
+
+**Security**
+
+**Reasoning:**
+
+This requirement directly addresses access control and restricts who can participate in the game. Limiting player selection based on their role (in this case, being assigned to a game) is a fundamental security measure to prevent unauthorized access and manipulation of the system. It’s about controlling who *can* interact with the game.
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Longevity & Support:** This requirement directly relates to how long the product needs to function reliably and how long the vendor will likely provide support, updates, and maintenance. A 5-year lifespan implies ongoing maintenance and potential future enhancements.
+*   **Long-Term Considerations:** It’s not just about initial functionality; it’s about the product’s viability over a significant period.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Compatibility** 
+
+Here’s why:
+
+*   **Interfacing with external systems** (email servers) is a core aspect of system compatibility.
+*   The requirement explicitly states the ability to *send* email, further emphasizing the need for the product to function correctly within a broader technological environment.
+
+Would you like me to classify another requirement?
+
+
+**Functional Requirement**
+
+This requirement directly describes *what* the system needs to do – allowing customers to purchase specific card values using different payment methods. It’s a core function of the website.
+
+Here’s a breakdown of why it’s classified this way:
+
+*   **Actionable:** It specifies a clear action (purchase cards) and defines the parameters (values, payment methods).
+*   **Measurable:** The system’s success can be measured by whether customers can successfully complete the purchase.
+
+Would you like me to classify another requirement?
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Focus on Alignment:** This requirement centers on ensuring the product aligns with existing standards (ENET Securities intranet) and undergoes a review/approval process.
+*   **Change Management:** It addresses how changes or deviations from the standard will be handled – a key aspect of maintainability.
+*   **Governance:** It highlights the need for governance (Architecture group approval) to ensure consistency and quality.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Performance Efficiency** 
+
+**Reasoning:**
+
+This requirement directly addresses the speed and responsiveness of a system – specifically, the time it takes to process leads. This falls squarely within the definition of performance efficiency. 
+
+Here's why the other classifications wouldn't fit as well:
+
+*   **Security:** This focuses on data protection, not speed.
+*   **Usability:** This relates to ease of use, not processing time.
+*   **Maintainability:** This concerns how easy it is to update and modify the system.
+
+
+**Usability**
+
+Here’s the breakdown of why this requirement falls under usability:
+
+*   **Focus on User Experience:** The requirement directly addresses how a user (callers and supervisors) *perceives* and *interacts* with the interface. It’s not about functionality, but about the aesthetic and overall impression.
+*   **Measurable Criteria:** The inclusion of “80% of beta testers must report…” establishes a clear, quantifiable metric for evaluating the requirement. This is a key characteristic of usability requirements.
+
+Would you like me to classify another requirement?
+
+
+**Compatibility**
+
+Here’s why:
+
+*   **Integration:** This requirement explicitly states the system needs to *display data* from *other applications* (Sync Matrix 1.0 and Exercise Management Tool 1.0). This indicates a need for the system to interact with and present information from existing systems – a core aspect of compatibility.
+
+
+**Usability**
+
+Here’s why:
+
+*   **User Experience:** This requirement directly addresses how the product *feels* to use for users in different locations. Correct date and time formatting is fundamental to a good user experience.
+*   **Localization:** It’s a key aspect of localization – adapting the product to meet the specific needs and preferences of users in different regions.
+*   **Survey-Based Validation:** The inclusion of a survey to validate the formatting demonstrates a focus on user satisfaction and ensuring the product is usable across diverse markets.
+
+Let me know if you’d like to classify another requirement!
+
+
+**Usability**
+
+Here’s why:
+
+*   **Focus on User Experience:** This requirement directly relates to how easily and efficiently users (staff members) can perform their work.
+*   **Efficiency & Effectiveness:** It emphasizes the speed and effectiveness of task completion, which is a core aspect of usability.
+
+Let me know if you’d like to classify another requirement!
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific function the system must perform – adding clinical classes or sections to a sequence of classes. It’s about *what* the system does. 
+
+Here’s a breakdown of why it’s classified this way:
+
+*   **Actionable:** It specifies a clear action (adding)
+*   **Specific:** It identifies the object being acted upon (clinical classes/sections) and the context (sequence of classes).
+*   **Measurable:** While not explicitly stated, the ability to successfully perform this action could be tested and verified.
+
+Would you like me to classify another requirement?
+
+
+**Functional Requirement**
+
+This requirement – “The product will be able to delete conference rooms” – clearly describes a specific action the product *must* be able to perform. It’s about a core function of the system. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies a verb ("delete") and an object ("conference rooms").
+*   **Core Functionality:** Deleting conference rooms is a fundamental operation within a system managing resources.
+
+Would you like me to classify another requirement from the list?
+
+
+**Usability**
+
+Here’s why:
+
+*   **User Feedback:** The requirement explicitly mentions “feedback when necessary,” a core element of usability.
+*   **Accuracy & Confirmation:** The 80% survey result focusing on “accurately confirms their actions” directly relates to how easily users understand and trust the product’s responses.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Performance Efficiency** 
+
+**Reasoning:**
+
+This requirement directly addresses the speed and responsiveness of a system component (the search for recycled parts).  It’s focused on how quickly the system performs a specific task, which is a core characteristic of performance efficiency.
+
+
+**Usability**
+
+This requirement directly addresses the ease of use and efficiency of the website’s account creation process. It focuses on minimizing user effort and frustration, which are core aspects of usability. 
+
+Here’s why it fits best:
+
+*   **User Experience:** It’s about how easy it is for a user to accomplish a task (creating an account).
+*   **Efficiency:** Limiting the number of steps contributes to a more efficient process.
+
+Would you like me to classify any of the other requirements you provided?
+
+
+**Usability** 
+
+This requirement focuses on the user’s ability to perceive and understand the displayed information. It directly addresses the clarity and readability of the data presented, a core aspect of usability. 
+
+Here’s why it fits best:
+
+*   **User Experience:** It’s about how easily a user can interpret the data.
+*   **Readability:** The core of the requirement is about the data being “readable.”
+*   **Performance (indirectly):** While not a performance requirement in the traditional sense, the ability to read the data impacts the overall user experience.
+
+Let me know if you’d like to classify another requirement!
+
+
+**Security** 
+
+This requirement directly addresses the protection of sensitive data, a core principle of security. It’s about safeguarding information from unauthorized access and potential breaches.
+
+
+**Functional Requirement**
+
+This requirement directly relates to the core functionality of the system – managing cohorts and their associated study programs. It dictates *what* the system must do. 
+
+Here’s a breakdown of why it’s classified as functional:
+
+*   **Actionable:** It describes a specific action users (Program Administrators and Nursing Staff) can perform within the system.
+*   **Measurable:** The ability to “specify the preferred sequence” can be tested and verified.
+*   **Impacts System Behavior:**  This requirement directly influences how the system manages cohort programs.
+
+Would you like me to classify another requirement?
+
+
+**Security**
+
+**Reasoning:**
+
+This requirement directly addresses access control and data protection. Limiting access to a critical function (modifying a caller’s schedule) to a specific role (supervisors) is a fundamental security principle. It prevents unauthorized modifications and maintains data integrity.
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific output or function the system must perform – generating a report detailing class needs. It’s focused on *what* the system needs to do, rather than *how* it should do it. 
+
+Here’s why it’s classified as functional:
+
+*   **Describes a specific output:** The requirement specifies the content of the report.
+*   **Defines a system function:** It dictates a process the system must undertake to produce this report.
+
+Would you like me to classify another requirement?
+
+
+**Functional Requirement**
+
+This requirement directly relates to a specific action within the system – returning a repair facility. It’s a core function of the system, focusing on how it operates and what it does. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It describes a specific task the system needs to perform.
+*   **Core System Behavior:** It’s a fundamental part of how the system handles collision estimates and repair facilities.
+
+Would you like me to classify another requirement?
+
+
+**Usability** 
+
+Here’s why:
+
+*   **Focus on User Experience:** The requirement explicitly states “easy to use” and quantifies it with a success rate (90% of users).
+*   **Performance Metric:** The 5-minute timeframe is a key performance indicator for usability – how quickly a user can achieve a core task.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Automatic Updates:** Refreshing the display every 60 seconds implies a system that needs to be regularly updated to ensure the information presented is current.
+*   **Ongoing Process:** This isn’t a one-time fix; it’s a continuous requirement for the system to function correctly.
+*   **Maintenance Focus:** It directly relates to how the system is maintained and kept up-to-date.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Reliability** 
+
+**Reasoning:**
+
+This requirement directly addresses the system’s ability to function correctly under adverse conditions (a server failure). Reliability is the key quality attribute focused on ensuring the system consistently performs its intended function, even when faced with unexpected issues. 
+
+Let me know if you’d like to classify another requirement!
+
+
+**Functional Requirement**
+
+This requirement clearly describes a core function of the system – to display events and activities. It’s about *what* the system does, not *how* it does it. 
+
+Here’s why it’s classified as functional:
+
+*   **Describes a Capability:** It specifies a key feature – the display of events/activities.
+*   **Measurable:** While the specifics of *how* it’s displayed might be detailed elsewhere, this requirement establishes the basic functionality.
+
+Would you like me to classify another requirement from the list?
+
+
+**Usability**
+
+Here’s why:
+
+*   **Impact on User Experience:** A consistent color scheme and fonts directly impact how easy and pleasant it is for users to interact with the product.  It contributes to a professional, intuitive, and easily navigable interface.
+*   **Readability and Clarity:** Consistent design elements improve readability and reduce cognitive load, making the product easier to understand and use.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Usability** 
+
+This requirement directly relates to how easily users can understand and interact with the product. Using familiar website terminology and symbols is a key element of creating a user-friendly experience. 
+
+Here’s why it fits best:
+
+*   **Focus on User Experience:** It’s about making the product intuitive for its target audience.
+*   **Ease of Use:** Clear and familiar language reduces the learning curve and improves usability.
+
+Would you like me to classify another requirement?
+
+
+**Performance Efficiency**
+
+**Reasoning:**
+
+This requirement directly addresses the speed and responsiveness of a system component (the recycled parts audit report).  The focus is on how quickly the system delivers information, which is a core characteristic of performance efficiency. 
+
+Let me know if you’d like to classify another requirement!
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific function the system *must* perform – displaying events in a graph by time. It’s about the system’s output and how it presents information. 
+
+Here’s why it’s classified as functional:
+
+*   **Describes a Function:** It specifies *what* the system needs to do (display events in a graph).
+*   **Measurable:** The requirement can be verified – does the system actually display events in a graph by time?
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Usability**
+
+This requirement falls squarely under the category of **Usability**. It directly addresses the ease with which users (callers and supervisors) can interact with the system and complete tasks. The specific timeframe of “within 2 minutes” further emphasizes the focus on user-friendliness and efficiency.
+
+
+**Functional Requirement**
+
+This requirement directly relates to the core functionality of the game – simulating an action (a missed shot). It’s a specific behavior the system *must* perform. 
+
+Here’s why it’s classified as functional:
+
+*   **Describes a specific action:** It details what the system *does* when a particular event occurs (a miss).
+*   **Impacts User Experience:** It contributes to the overall feel and realism of the game.
+
+**Other potential classifications (less precise):**
+
+*   **Usability:** It contributes to a more engaging user experience.
+*   **Visual Requirement:** It’s a visual element of the game.
+
+However, “Functional Requirement” is the most accurate and specific classification.
+
+
+**Functional Requirement**
+
+This requirement describes a specific action the product *must* perform – allowing players to identify themselves as available after a game ends. This directly relates to the core gameplay functionality. 
+
+**Justification:**
+
+*   **Action-Oriented:** It specifies a clear action the system needs to take.
+*   **Gameplay Related:** It’s fundamental to the game’s mechanics – players need to be able to re-enter the game.
+
+Would you like me to classify another requirement?
+
+
+**Compatibility** 
+
+This requirement directly relates to ensuring the system functions correctly within the existing hardware and software environment. It’s about the system’s ability to operate effectively on the specific machines used by the target users.
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Flexibility & Adaptability:** The ability to pause and resume data refresh introduces a level of flexibility and control over the system’s operation.
+*   **Troubleshooting & Recovery:** It provides a mechanism for dealing with potential issues during data updates – allowing for a controlled stop and restart if something goes wrong.
+*   **Operational Control:** It gives administrators more control over the system’s ongoing processes.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Performance Efficiency**
+
+**Reasoning:**
+
+This requirement directly addresses the speed and efficiency of a process – specifically, the time it takes to complete a lead cycle. It sets a specific target (5 minutes and 3 minutes) and defines a success rate (90% and 99%). These are all key indicators of performance efficiency. 
+
+Here's why other classifications aren't as suitable:
+
+*   **Security:** This requirement doesn't relate to data protection or access control.
+*   **Maintainability:** It doesn't focus on how easy the system is to update or modify.
+*   **Usability:** It doesn't concern the ease of use for a user.
+*   **Reliability:** It doesn't address the system's stability or uptime.
+
+
+**Security**
+
+**Reasoning:**
+
+This requirement directly addresses access control and permissions – core aspects of security.  It dictates who can initiate actions (dispute cases) and who can follow up on them. This is a fundamental security principle: limiting access based on roles and responsibilities. 
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Usability** 
+
+Here’s why:
+
+*   **Focus on User Experience:** The requirement explicitly states “easy for customers with novice skills,” directly addressing the ease of use and user experience.
+*   **Performance Target:** The “under 3 minutes” time constraint is a key performance indicator related to usability – how quickly a user can complete a task.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Performance Efficiency** 
+
+**Reasoning:**
+
+Asynchronous messaging is fundamentally about optimizing system performance by allowing tasks to be processed without waiting for immediate responses. This directly addresses the goal of reducing overhead and improving the speed and efficiency of data exchange – a core aspect of performance optimization. 
+
+Here’s why the other classifications aren’t as suitable:
+
+*   **Security:** While asynchronous messaging *could* be used in a secure system, the requirement itself doesn’t focus on security.
+*   **Maintainability:** It’s a design choice, not a requirement for how the system is maintained.
+*   **Usability:** It’s a technical feature, not a user-facing aspect.
+*   **Reliability:** It’s a design choice, not a requirement for how the system is reliable.
+
+
+**Maintainability**
+
+**Reasoning:**
+
+This requirement directly addresses how the system is kept in good working order over time. It focuses on the process of updating and improving the system – a core aspect of maintainability. The timeframe (5 minutes for 80% of users) highlights the efficiency and speed of the maintenance process, which is a key factor in maintainability.
+
+
+**Usability**
+
+This requirement directly relates to how the user interacts with the system. It focuses on providing clear feedback and confirmation to the user after a key action (creating a chargeback request).  It’s about ensuring the user understands what’s happening and feels confident in their interaction with the Disputes System. 
+
+Here’s why it fits best:
+
+*   **User Experience:** The confirmation ensures a positive user experience by providing clarity and reassurance.
+*   **Feedback:** It’s a crucial feedback mechanism, letting the user know their request has been successfully processed.
+*   **Error Prevention:**  Clear confirmation can help prevent misunderstandings and potential errors.
+
+Would you like me to classify another requirement?
+
+
+**Usability**
+
+This requirement falls squarely under the category of usability. It directly addresses how easily a user can interact with the product and find the information they need to accomplish their tasks. The specific metric (90% of users finding help within 90 seconds) quantifies the usability expectation.
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Automation:** The requirement describes an automated process – the system *automatically* generates a document. This directly relates to how easily the system can be maintained and updated.
+*   **Data Dependency:** The process is triggered by data availability (daily Product Sales data). This highlights the need for ongoing monitoring and maintenance of the data feeds and the system’s ability to process them.
+*   **Process Management:** Maintaining this automated process – ensuring it runs correctly, handles errors, and adapts to changes – is a key aspect of maintainability.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional Requirement**
+
+This requirement clearly defines a core game mechanic – the termination condition of a game. It specifies *what* the system must do (end the game) and *when* (when a ship is sunk). This falls squarely into the category of defining the system’s functionality. 
+
+**Specifically, it’s a key part of the game’s rules and logic.**
+
+
+
+**Performance Efficiency** 
+
+**Reasoning:**
+
+This requirement directly addresses the speed and responsiveness of the system – a core aspect of performance efficiency.  It’s about ensuring the data displayed is current and the system doesn’t lag, which is crucial for a smooth and usable experience. 
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional Requirement**
+
+This requirement directly relates to how the Disputes application *functions* – specifically, how it presents information to the user. It dictates a specific visual presentation (color coding) to aid in understanding and navigating the data. 
+
+Here’s why it’s classified as functional:
+
+*   **Actionable:** It describes a specific behavior the system *must* exhibit.
+*   **Observable:** The color coding is something a user can directly observe and interact with.
+*   **Impacts User Experience:** It’s designed to improve the user’s ability to quickly understand and work with the data.
+
+**Other potential classifications (less precise):**
+
+*   **Usability Requirement:** It contributes to the overall usability of the Disputes application.
+*   **Information Presentation Requirement:** It’s a requirement about how information is displayed.
+
+Would you like me to classify another requirement from the list?
+
+
+**Security** 
+
+**Reasoning:** This requirement directly addresses data protection and restricts access to sensitive information. Preventing players from seeing the other player’s grid is a fundamental security measure to maintain fair play and prevent strategic advantage based on opponent’s positioning.
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific function the system must perform – allowing Program Administrators and Nursing Staff Members to define the courses needed for a Program of Study. It’s about *what* the system does. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It describes an action – specifying required classes.
+*   **System Behavior:** It dictates a specific behavior of the system.
+
+Would you like me to classify another requirement?
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific function the product *must* perform – displaying conference rooms based on search criteria. It’s about what the system *does*. 
+
+Here’s a breakdown of why it’s classified this way:
+
+*   **Action-Oriented:** It specifies an action – displaying.
+*   **Input/Output:** It involves taking input (search parameters) and producing an output (displaying conference rooms).
+*   **Measurable:** The functionality can be tested – does the system correctly display conference rooms based on the given parameters?
+
+Would you like me to classify another requirement from the list?
+
+
+**Functional Requirement**
+
+This requirement describes a specific data element needed within the system – the vehicle’s year, make, and model. This directly relates to the system’s core functionality of processing collision estimates, which necessitates knowing these details about the damaged vehicle. 
+
+**Reasoning:**
+
+*   **Core Functionality:** It’s a fundamental piece of information needed to perform the primary task of the system (estimating vehicle damage).
+*   **Data Integrity:** Accurate vehicle data is crucial for generating reliable estimates.
+
+Would you like me to classify another requirement from the list?
+
+
+**Functional Requirement**
+
+This requirement directly relates to the core functionality of the game – simulating an action (a shot hitting). It’s a specific behavior the system *must* perform. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It describes a specific action the system takes (simulating a sound).
+*   **Core Gameplay:** It’s integral to the gameplay experience.
+
+**Further Breakdown:**
+
+*   **User Interface (UI) / Experience:** It contributes to the overall user experience by adding an auditory element.
+*   **Detailed Behavior:** It specifies a precise action the system must perform when a particular event occurs.
+
+Would you like me to classify another requirement?
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific action an adjuster needs to perform within the system – requesting a recycled parts audit. It’s directly tied to a process within the system’s functionality. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies *what* the adjuster needs to do.
+*   **Process-Related:** It’s part of a defined workflow (collision estimate review).
+
+Would you like me to classify another requirement from the list?
+
+
+**Functional Requirement**
+
+This requirement describes what the system *must do* – it dictates the display of repair facility ratings. It’s directly related to the core functionality of the system. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-oriented:** It specifies a specific action the system needs to perform (displaying ratings).
+*   **User-focused:** It’s about what the user sees and interacts with.
+
+Would you like me to classify another requirement from the list?
+
+
+**Usability**
+
+This requirement directly relates to how users interact with the system. A consistent layout with clear distinctions between action items and navigation buttons is crucial for ease of use and efficient task completion. 
+
+Here’s why it falls under usability:
+
+*   **User Experience:** It’s about making the system intuitive and easy to navigate.
+*   **Efficiency:** A well-organized layout helps users quickly find what they need.
+*   **Learnability:** Consistent design reduces the time it takes for users to learn how to use the system.
+
+Would you like me to classify another requirement?
+
+
+**Security**
+
+**Reasoning:**
+
+This requirement directly addresses data access control and protection. Preventing users from accessing cases outside their cardholder base is a fundamental security measure to ensure data integrity, prevent fraud, and maintain compliance with regulations. It’s about restricting access to sensitive information based on user roles and permissions – a core security principle.
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific function the system must perform – generating a report of needed classes. It’s focused on what the system *does*. 
+
+Here’s a breakdown of why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies an action – generating a report.
+*   **Specific Output:** It defines the report’s content (needed classes for specific cohorts and programs).
+*   **Target User:** It identifies the intended user (Program Administrators/Nursing Staff Members).
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Security** 
+
+This requirement directly addresses data protection and access control, which are core principles of security. It dictates who can view sensitive information, preventing unauthorized access and potential data breaches.
+
+
+**Security** 
+
+This requirement falls squarely under security. Ensuring the product is free of viruses is a fundamental security measure, protecting the system and its users from potential harm and data breaches. 
+
+Would you like me to classify another requirement?
+
+
+**Usability** 
+
+Here’s why:
+
+*   **User Experience:** “Professional appearance” directly relates to how a user perceives the product – does it seem trustworthy, reliable, and well-designed? This falls squarely within the realm of usability.
+*   **First Impressions:** The initial visual impression is crucial for user engagement and satisfaction.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific function the system must perform – finding the best repair facility based on ratings. It’s about *what* the system does. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies an action – “locate.”
+*   **Measurable:** The “highest ratings” provide a quantifiable metric for success.
+
+Would you like me to elaborate on why this is a functional requirement, or perhaps suggest a related non-functional requirement (like performance)?
+
+
+**Functional Requirement**
+
+This requirement describes *what* the system *must do* – it dictates the data the system needs to store and make available. It’s about the system’s functionality and data content. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies a specific action – storing contact information.
+*   **Describes a Capability:** It defines a core capability of the system – providing contact details.
+
+Let me know if you’d like to classify another requirement!
+
+
+**Performance Efficiency**
+
+**Reasoning:**
+
+This requirement directly addresses the speed and efficiency with which a user can perform a task – updating website categories.  It’s focused on minimizing the time taken to complete a specific action, which is a core element of performance efficiency. 
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Performance Efficiency**
+
+**Reasoning:**
+
+This requirement directly relates to how quickly the system responds and processes information. Polling for messages at regular intervals is a key aspect of ensuring responsiveness and efficient data retrieval – a core concern of performance efficiency.
+
+
+**Security**
+
+**Reasoning:**
+
+This requirement directly addresses the protection of the system against malicious activity (abuse) and the monitoring of potential issues. This falls squarely within the definition of security requirements, which aim to safeguard the system’s integrity, confidentiality, and availability.
+
+
+**Usability** and **Maintainability**
+
+Here’s the breakdown:
+
+*   **Usability:** The requirement for “ad-hoc reporting and KPIs” directly relates to how easily users can interact with and understand the system.  The ability to analyze transactions through reporting is a core usability feature.
+*   **Maintainability:** The need for System Administrators to manage and analyze transactions suggests a system designed for ongoing updates, monitoring, and adjustments – a key aspect of maintainability.
+
+Would you like me to classify another requirement?
+
+
+**Functional Requirement**
+
+This requirement directly describes a core function of the product – tracking the outcome of a “shot” within the game. It’s about the system’s behavior and output, not a design or implementation detail. 
+
+Here’s why it’s classified as functional:
+
+*   **Describes a System Behavior:** It specifies what the product *does* – it records whether a shot was a hit or miss.
+*   **Measurable:** The outcome (hit or miss) is a quantifiable result.
+
+Would you like me to classify another requirement from the list?
+
+
+**Performance Efficiency** 
+
+**Reasoning:**
+
+This requirement directly addresses the speed and responsiveness of the product interface.  “Speed” and “response time” are key indicators of performance, which falls squarely within the category of performance efficiency. The specific targets (90% of the time under 2 seconds, 10% under 10 seconds) further solidify this classification.
+
+
+**Functional Requirement**
+
+This requirement directly relates to how the product *works* – specifically, its ability to remember and utilize customer data for a personalized experience. It’s not about design or aesthetics, but about core functionality. 
+
+Here’s why it’s classified as functional:
+
+*   **Core Functionality:** It’s a fundamental aspect of the product’s operation.
+*   **Impact on User Experience:** It directly affects how the user interacts with the product.
+
+Would you like me to classify another requirement from the list?
+
+
+**Functional Requirement**
+
+This requirement directly relates to the system’s core functionality – displaying data. It’s about how the system *behaves* when certain conditions are met (no ratings defined). 
+
+Here’s why it’s classified as functional:
+
+*   **Describes a specific behavior:** It dictates what the system *does* when there’s no data to display.
+*   **Impacts User Experience:** It affects how users perceive the system and what they see.
+
+Would you like me to classify another requirement?
+
+
+**Usability** 
+
+Here’s why:
+
+*   **User Experience:** Flash animation, while potentially visually appealing, can be problematic for users with slow internet connections, older browsers, or accessibility needs. It can negatively impact the user experience.
+*   **Compatibility:** Flash is increasingly outdated and unsupported. Relying on it creates compatibility issues across different devices and operating systems.
+*   **Maintainability:** Flash development is complex and requires specialized skills, making it harder to maintain and update.
+
+**Therefore, the primary classification is Usability, with implications for Compatibility and Maintainability.**
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Automation:** The requirement specifies an automated process (updating the website).
+*   **Regularity:** It defines a recurring schedule (every Friday).
+*   **Content Management:** It dictates what content is displayed (latest movies).
+
+This falls squarely into the category of maintainability – how easily the system can be kept up-to-date and functioning correctly over time.
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Future Changes:** This requirement directly addresses the need for ongoing modifications and updates to the product – specifically, adapting it for new markets.
+*   **Time Constraints:** The 5-day timeframe establishes a clear expectation for the speed and efficiency of these changes.
+*   **Process Definition:** It outlines a defined process (translation and configuration) for future releases.
+
+Let me know if you’d like to classify another requirement!
+
+
+**Reliability**
+
+**Reasoning:**
+
+This requirement directly addresses the availability and uptime of the Disputes application.  It’s a core aspect of reliability – ensuring the system is consistently accessible when needed.  The specified maintenance windows are a factor in reliability, but the primary focus is on continuous operation.
+
+
+**Security**
+
+**Reasoning:**
+
+This requirement directly addresses data protection and access control – core aspects of security. Limiting user access based on roles is a fundamental security practice to prevent unauthorized access, modification, or deletion of sensitive information. It’s a key component of a robust security strategy.
+
+
+**Functional Requirement**
+
+This requirement – “The product will update existing room equipment” – clearly describes a specific function the product must perform. It’s about modifying the state of existing data (room equipment) within the system. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies an action the system needs to take (update).
+*   **Defines a Capability:** It defines a capability of the system – the ability to modify room equipment records.
+
+Would you like me to classify another requirement from the list?
+
+
+**Compatibility** 
+
+This requirement falls squarely under the **Compatibility** category. It’s explicitly stating the system’s need to function with various database technologies. 
+
+Here’s why:
+
+*   **Compatibility** focuses on ensuring a system works correctly with different platforms, operating systems, and, in this case, database management systems. 
+
+Would you like me to classify another requirement?
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Operational Environment:** This requirement directly addresses the system’s ability to function correctly within a specific, real-world operational setting – a nursing department at a university.
+*   **Impact on Design:**  Knowing this environment (a business office) influences design decisions related to hardware compatibility, network requirements, user interface considerations, and potential integration with existing university systems.
+*   **Long-Term Support:**  Maintaining the system in this environment requires ongoing adjustments and updates, aligning with the goal of maintainability.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional Suitability** 
+
+**Reasoning:**
+
+This requirement describes a core function of the system – informing users about changes impacting their assigned cohorts and schedules. It’s about delivering information and ensuring users are aware of relevant updates. This aligns with the typical purpose of a system managing cohorts and schedules. 
+
+Let me know if you’d like to classify another requirement!
+
+
+**Performance Efficiency** 
+
+**Reasoning:** This requirement directly addresses the capacity and scalability of the streaming server, which is a key aspect of performance.  It’s about handling a certain number of requests and ensuring the system can handle increased demand (adding more servers). 
+
+Would you like me to classify another requirement?
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Updates & Changes:** This requirement describes a process that needs to be maintained and updated as part of the system’s ongoing operation. It’s not a core functional requirement but rather a process tied to data integrity and system upkeep.
+*   **Process-Oriented:** It focuses on how the system *should* be used to ensure data accuracy, aligning with maintainability considerations.
+
+Would you like me to classify another requirement?
+
+
+**Performance Efficiency**
+
+**Reasoning:**
+
+This requirement directly addresses the speed and responsiveness of a system – specifically, how quickly data is saved.  “Speed” is a core characteristic of performance efficiency.  It’s focused on minimizing the time taken to complete a task, which aligns perfectly with the definition of this classification.
+
+
+**Performance Efficiency**
+
+**Reasoning:**
+
+This requirement directly addresses the speed and responsiveness of a system component (the search for repair facilities).  “No longer than 8 seconds” is a clear performance metric.  It’s focused on how quickly the system responds to a user’s request, which falls squarely within the definition of performance efficiency.
+
+
+**Compatibility** 
+
+This requirement directly relates to the software’s ability to function correctly with existing systems and browsers.
+
+
+**Security** 
+
+This requirement falls squarely under the category of security. It’s directly concerned with protecting sensitive data and adhering to established policies, which are core tenets of security. 
+
+Would you like me to classify another requirement?
+
+
+**Usability**
+
+Here’s why:
+
+*   **Focus on User Experience:** This requirement directly addresses how easily a user can interact with the product and find solutions.
+*   **Performance Metric:** The “70% of registered users find a solution within 5 minutes” is a key performance indicator (KPI) for the support site’s effectiveness.
+*   **Accessibility:** It emphasizes that the support site must be readily available to all registered users.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Usability**
+
+Here’s why:
+
+*   **Focus on User Experience:** The requirement directly addresses how users (customers) perceive and interact with the system – their comfort level.
+*   **Feedback & Validation:** It’s seeking feedback to validate the system’s design and functionality.
+*   **Key Metric:** The “95% comfortable” represents a key usability metric.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Performance Efficiency**
+
+**Reasoning:**
+
+This requirement directly addresses the system’s ability to handle a specific load – 1000 simultaneous users. This falls squarely within the definition of performance efficiency, which focuses on how quickly and effectively a system responds under various conditions, particularly concerning user load.
+
+
+**Functional Suitability** 
+
+**Reasoning:**
+
+This requirement describes a specific output and data presentation – a printable summary. It’s about *what* the system *does* – generating a report with particular information. This aligns directly with the core function of a system: to produce and display data. 
+
+Let’s break down why other classifications aren’t as suitable:
+
+*   **Security:** While data accuracy is important, the requirement doesn’t focus on access control or data protection.
+*   **Maintainability:** This describes a feature, not how the system is built or updated.
+*   **Reliability:** This is about consistent operation, not the specific output.
+*   **Usability:** This is about ease of use, not the content of the output.
+
+Therefore, “Functional Suitability” is the most accurate classification.
+
+
+**Performance Efficiency** 
+
+**Reasoning:**
+
+This requirement directly addresses the speed and efficiency with which a user can complete a task – canceling an account. It focuses on minimizing the time taken to perform an action, aligning with the core principles of performance efficiency. 
+
+Here's why the other classifications aren't as suitable:
+
+*   **Security:** While account cancellation *could* have security implications, the primary focus here is on the speed of the process.
+*   **Usability:** This is related to usability, but the requirement specifically quantifies the time taken, making performance efficiency the more precise category.
+*   **Maintainability:** This relates to how easy it is to update or modify the system, not the speed of a user action.
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Maintainability** focuses on the ease with which a system can be modified, adapted, or upgraded. Making audit reports available to other adjusters is a process that supports ongoing adjustments, analysis, and collaboration – key aspects of maintainability. 
+
+Let me know if you’d like to classify another requirement!
+
+
+**Performance Efficiency** 
+
+**Reasoning:**
+
+This requirement directly addresses the speed and responsiveness of the Disputes application. It’s focused on minimizing the time a user spends transitioning between screens, which is a core aspect of performance efficiency.
+
+
+**Functional Suitability** 
+
+**Reasoning:**
+
+This requirement directly describes *what* the system *does* – it dictates the actions a specific user role (Program Administrators/Nursing Staff Members) can perform within a specific component (Clinical Lab Sections). It’s about the functionality and data manipulation within the system, aligning with the core purpose of the system. 
+
+Let me know if you’d like to classify another requirement!
+
+
+**Functional Requirement**
+
+This requirement clearly describes *what* the Disputes System *must do*. It outlines the specific features and capabilities – the search functionality with its various criteria – that the system needs to provide. It’s focused on the system’s behavior and how it interacts with data.
+
+**Justification:**
+
+*   **Action-Oriented:** The language ("must provide," "allows the user to") describes an action the system needs to perform.
+*   **Detailed Specifications:** It specifies the exact search criteria and limitations, detailing the data fields and filters available.
+*   **Focus on Functionality:** It’s not about the system’s design or implementation, but about the features it must offer to the user.
+
+Would you like me to classify another requirement?
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific function the system needs to perform – scoring leads based on corporate and school-provided parameters. This falls squarely within the realm of what the system *does*. 
+
+Here’s a breakdown of why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies an action – “scoring.”
+*   **Input/Output:** It describes the input (parameters from corporate and schools) and the expected output (a score).
+*   **System Behavior:** It defines how the system should behave in a particular scenario.
+
+**Other potential classifications (less precise):**
+
+*   **Data Processing:** It’s a form of data processing, but “Functional Requirement” is a more specific and accurate categorization.
+
+
+**Reliability** 
+
+This requirement directly addresses the system’s ability to function consistently and without failure, which is a core aspect of reliability.
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Logging Data:** This requirement directly relates to how the system is maintained – tracking and recording data is a core aspect of ongoing maintenance.
+*   **Accessibility for Administrators:** The fact that the data is accessible to administrators further emphasizes the need for maintainability – it’s a key feature for monitoring and troubleshooting the system.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific action a user (Program Administrators and Nursing Staff Members) can perform within the system – adding a new cohort. It’s focused on a core system function.
+
+Here’s a breakdown of why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies *what* the user can do (add a cohort).
+*   **System Behavior:** It dictates how the system should respond to this action (creating a new cohort defined by start month and year).
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Maintainability**
+
+Here’s the breakdown of why:
+
+*   **Data Import & Integration:** The core of this requirement is about how the RFS system interacts with another system (BDW) to bring in data. This is a key aspect of maintainability – how easily the system can be updated, modified, and kept synchronized with other systems.
+*   **Scheduled Updates:** The stipulation of loading data “every year prior to the budgeting process” and “monthly-end” highlights a recurring maintenance task.
+*   **Testing & Validation:** The mention of “test files” and “5 times” during the year indicates a process for verifying the data integration, which is also a maintenance activity.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Automation:** The requirement emphasizes an automated process (entered *automatically* by the PFE subsystem). This directly relates to how easily the system can be updated, modified, or maintained.
+*   **System Integration:** It highlights the interaction between different subsystems (PFE and the Disputes System), which is a key aspect of maintainability.
+*   **Reduced Manual Effort:** Automating this process reduces the need for manual data entry, simplifying maintenance and minimizing errors.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Security** 
+
+This requirement falls squarely under the category of security. It’s about safeguarding user privacy and preventing unauthorized access to sensitive information – specifically, preventing players from revealing or discovering the identities of others within the game.
+
+
+**Security**
+
+**Reasoning:**
+
+This requirement directly addresses access control and data integrity – core aspects of security. It specifies that the system checks user identity and permissions before allowing changes to the “leads washing” functionality. This is a fundamental security measure to prevent unauthorized modifications and protect the system from potential vulnerabilities.
+
+
+**Security**
+
+This requirement directly addresses the core principle of security – ensuring data integrity and access control. Maintaining consistent security protocols, especially regarding user access, is a fundamental security requirement. 
+
+Here’s why it falls under Security:
+
+*   **Access Control:** It focuses on ensuring that only authorized users have access to the system and its data.
+*   **Data Integrity:** Consistent security measures help prevent unauthorized modifications or breaches of data.
+*   **Compliance:** It’s a common requirement for systems handling sensitive information.
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific *function* the system must perform – processing leads based on a score. It’s about *what* the system does, not *how* it does it. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies an action – processing leads.
+*   **Based on a Condition:** It’s triggered by a specific condition (high average score).
+
+Would you like me to classify another requirement?
+
+
+**Security** 
+
+**Reasoning:**
+
+This requirement directly addresses the protection of data and system integrity. Revoking and restoring user accounts is a fundamental security control. Allowing unauthorized users to reinstate accounts would create a significant vulnerability. 
+
+Here's why it fits best within the Security category:
+
+*   **Data Protection:** Controls access to sensitive information.
+*   **Access Control:** Limits who can perform critical actions (reinstating accounts).
+*   **System Integrity:** Prevents unauthorized access and potential misuse of the system.
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Long-Term Impact:** This requirement dictates how data is handled over the *lifetime* of a customer’s account, not just during active use.
+*   **Data Governance:** It speaks to data retention policies and compliance, which are core aspects of maintainability – ensuring the system remains usable and reliable over time.
+*   **Updates & Changes:**  Maintaining historical data is a fundamental part of system upkeep and future updates.
+
+Let’s look at why other classifications aren’t as suitable:
+
+*   **Security:** While data retention *can* have security implications, the primary focus here is on the system’s ability to be kept running and updated.
+*   **Usability:** This doesn’t directly relate to how easy the system is to use.
+*   **Performance:** It doesn’t impact speed or responsiveness.
+
+Would you like me to classify another requirement?
+
+
+**Strategic/Business Requirement**
+
+This requirement falls squarely into the category of strategic or business requirements. It’s not a technical detail about how a system *works*, but rather a statement about the *scope* and *future needs* of the system. It’s defining the scale and longevity of the system’s intended use – supporting a significant number of users (nursing students) over a considerable timeframe (10 years). 
+
+Here’s why it’s not a technical requirement:
+
+*   **Doesn’t specify *how* the system will achieve this:** It doesn’t talk about database size, server capacity, or software architecture.
+*   **Focuses on user population:** It’s about the *quantity* and *type* of users the system needs to support.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Security**
+
+**Reasoning:**
+
+This requirement directly addresses the integrity and accuracy of the data within the product. Preventing incorrect data from being introduced is a fundamental security concern – it protects the system from corruption and ensures reliable operation. 
+
+Let me know if you’d like to classify another requirement!
+
+
+**Usability**
+
+This requirement directly addresses the ease with which a user can learn and effectively use the system. The emphasis on “without instruction” and the specific metric of 90% understanding after one use clearly falls under the category of usability. 
+
+Here’s why it’s categorized as usability:
+
+*   **Learnability:** It focuses on how easily a new user can learn the system.
+*   **Efficiency:** It implies that the system should be intuitive enough for users to perform tasks quickly and effectively.
+*   **User Satisfaction:** A system that’s easy to learn and use will generally lead to higher user satisfaction.
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Regular Maintenance:** This requirement directly relates to the ongoing upkeep and management of the system. Purging old data is a core maintenance task.
+*   **Data Integrity:** It ensures the database remains clean, accurate, and relevant.
+*   **System Efficiency:** Removing outdated data can improve the system’s performance and reduce storage requirements.
+
+Let me know if you’d like to classify another requirement!
+
+
+**Performance Efficiency**
+
+**Reasoning:**
+
+This requirement directly addresses the speed and responsiveness of the system under specific network conditions (high bandwidth – 112k connection or faster). It’s a core aspect of performance efficiency – ensuring the system operates quickly and effectively to meet user needs.
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Specific Timing:** The requirement dictates a precise time window (3 AM - 6 AM CST) for updates. This is a key factor in how easily the system can be maintained and updated.
+*   **Scheduled Maintenance:** This falls squarely into the category of scheduled maintenance, which is a core aspect of maintainability. 
+
+Would you like me to classify another requirement?
+
+
+**Security** 
+
+This requirement directly addresses the protection of sensitive data and restricts access to it, which is a core principle of security.
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific function the system must perform – allowing authorized users to modify clinical site details. It’s about *what* the system does. 
+
+Here’s why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies an action (modify information) that a user can perform.
+*   **Specific Capability:** It defines a particular capability of the system.
+
+Would you like me to classify another requirement?
+
+
+**Functional Requirement**
+
+This requirement clearly describes a specific action users (Program Administrators and Nursing Staff) can perform within the system – adding new classes. It directly relates to the system’s core functionality of managing classes. 
+
+Here’s a breakdown of why it’s classified as functional:
+
+*   **Action-Oriented:** It specifies *what* users can do (add classes).
+*   **System Impact:** It describes a change within the system’s data and operations.
+
+Would you like me to classify another requirement?
+
+
+**Performance Efficiency**
+
+**Reasoning:**
+
+This requirement directly addresses the speed and efficiency with which a task can be completed – adding and removing movies within a specific timeframe (under 5 minutes). This aligns with the core definition of performance efficiency. 
+
+Here’s why other classifications are less suitable:
+
+*   **Security:** This requirement doesn’t relate to data protection or access control.
+*   **Maintainability:** While the update process contributes to maintainability, the primary focus is on the speed of the operation.
+*   **Usability:** This is about the ease of use, not the speed of the process.
+*   **Functional:** It describes a specific function, but the key aspect is the performance metric (under 5 minutes).
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Scalability & Resilience:** The requirement explicitly mentions “scalability and avoid service interruptions,” which are core aspects of maintainability.
+*   **Adaptability:** The need for “Dynamic Change Support” highlights the system’s ability to adapt to evolving needs, a key factor in maintainability.
+*   **Reduced Downtime:** The focus on minimizing service interruptions directly relates to reducing the effort and time required for maintenance.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Maintainability**
+
+Here’s why:
+
+*   **Persistence:** The requirement emphasizes that the order of these ingredients is *saved* (persisted). This directly relates to how the system is maintained and updated over time.
+*   **Data Integrity:** Maintaining the order is crucial for ensuring the system’s calculations remain consistent and reliable. Changes to the order could lead to incorrect results.
+
+Let me know if you’d like me to classify another requirement!
+
+
+**Usability**
+
+This requirement falls squarely under the category of usability. It directly addresses how easily a user can understand and interact with the system. Clear and understandable language (using symbols and words) is a fundamental aspect of creating a user-friendly and intuitive system. 
+
+Would you like me to classify another requirement from the list?

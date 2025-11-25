@@ -1,0 +1,700 @@
+Here are the classifications:
+
+- Functional: The system shall be able to display a printable summary for individual clinical sites...
+- Reliability: The system shall be able to display a printable summary for individual clinical sites...
+
+
+Reliability
+
+
+Here are the classifications:
+
+1. 'The system shall interface with the student master server.' 
+   - Reliability
+
+
+Here are the classifications:
+
+1. 'When the offensive player takes a shot the product shall simulate the sound of a ship at sea.' 
+   - Security: No, it's not related to security.
+   - Compatibility: No, it's not related to compatibility.
+   - Reliability: No, it's not related to reliability.
+   - Maintainability: No, it's not related to maintainability.
+   - Performance Efficiency: No, it's not related to performance efficiency.
+   - Usability: No, it's not related to usability.
+   - Functional: Yes, it's a functional requirement as it describes a specific action and its expected outcome.
+
+However, considering the context, it's more likely to be classified under Functional.
+
+
+Here are the classifications:
+
+- Functional: No
+- Usability: No
+- Performance Efficiency: No
+- Security: No
+- Compatibility: No
+- Reliability: No
+- Maintainability: No
+
+The classification is: None of the above (this requirement falls under 'Aesthetic' or 'Design' which is not listed, but it can be categorized under 'Usability' as it deals with the user interface and user experience.)
+
+
+Here are the classifications:
+
+1. 'The user interface shall have standard menus buttons for navigation': Usability
+2. 'All of the users shall be able to use the system after one day of training.': Usability
+3. 'When streaming a movie the buffering time should take no longer than 10 seconds (plus any latency on the user’s connection.)': Performance Efficiency
+4. 'The product shall be easy for a realtor to learn.': Usability
+5. 'Users shall be able to view at least 25 NFL player statistics and points on each page.': Usability
+6. 'The product shall allow for intuitive searching of available conference rooms.': Usability
+
+
+Here are the classifications:
+
+1. 'Once a game has been initiated the product shall make the players assigned to the game unavailable for selection from the list of players.' 
+   - Reliability
+
+
+Reliability
+
+
+Here are the classifications:
+
+1. 'The product must be able to interface with various email servers.' - Compatibility
+2. 'The product shall be able to send email.' - Functional
+
+
+Here are the classifications:
+
+- Functional: Website shall allow customers to purchase pre-paid cards of $5 $10 or $20 value either by credit card or mail-in payment option.
+- Usability: None (this requirement is more about the system's functionality rather than user experience)
+
+
+Here are the classifications:
+
+1. 'The product must comply with the intranet page standards and requirements of ENET Securities.' - Security
+2. '95% of the product look & feel will be approved by the Architecture group prior to implementation.' - Security
+3. 'The remaining 5% will be corrected and approved within one month of product release.' - Security
+
+
+Here are the classifications:
+
+1. 'No lead evaluation will complete in a time period longer than 25 seconds for 97% of all leads processed.' 
+   - Performance Efficiency
+
+
+Here are the classifications:
+
+1. 'The interface shall be appealing to callers and supervisors.' - Usability
+2. 'In the interface and usability survey 80% of beta testers must report that the interface is appealing.' - Usability
+
+
+Here are the classifications:
+
+1. 'The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications' 
+   - Functional
+
+
+Here are the classifications:
+
+1. 'The product shall be able to display calendar dates and times according to the user’s locale.' - Compatibility
+2. '90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.' - Usability
+
+
+Reliability
+
+
+Here are the classifications:
+
+- Functional: Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes
+
+
+The given requirement 'The product will be able to delete conference rooms.' can be classified under the category: **Functional**
+
+
+Here are the classifications:
+
+1. 'The product shall give users feedback when necessary.' - Usability
+2. '80% of the users surveyed report that the product accurately confirms their actions.' - Reliability
+
+
+Performance Efficiency
+
+
+Here are the classifications:
+
+- 'Users should only have to navigate through a maximum of 4 pages to create an account with the website.' 
+  - Usability
+
+
+Here are the classifications:
+
+1. 'If projected the data must be readable. On a 10x10 projection screen 90% of viewers must be able to read Event / Activity data from a viewing distance of 30'': 
+   - Reliability
+
+
+Security
+
+
+Here are the classifications:
+
+- Functional: Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.
+- Usability: None (This requirement focuses on functionality rather than user experience)
+
+
+Here are the classifications:
+
+1. 'The product shall ensure that only supervisors can enter a caller’s schedule.' - Security
+2. 'The product must ensure that supervisors are allowed to access advertise empty time slots.' - Security
+
+
+Here are the classifications:
+
+- 'The report of needed classes shall include (but not be limited to) classes to be offered number of sections needed number of labs needed and room types needed.': 
+  Functional
+
+
+Here are the classifications:
+
+1. 'The preferred repair facility shall be returned to the user.' 
+   - Reliability
+
+
+Here are the classifications:
+
+- Functional: None
+- Usability: Yes
+- Performance Efficiency: None
+- Security: None
+- Compatibility: None
+- Reliability: None
+- Maintainability: None
+
+
+Performance Efficiency
+
+
+Reliability
+
+
+Functional
+
+
+The given requirement: 'The product shall have a consistent color scheme and fonts.' 
+
+Category: Usability
+
+
+Here are the classifications:
+
+1. 'The product shall use symbols and words that are naturally understandable by users familiar with websites': Usability
+
+
+Here are the classifications:
+
+1. 'The recycled parts audit report shall be returned to the user within 10 seconds. The audit report shall be returned within 10 seconds.'
+   - Performance Efficiency
+
+
+Here are the classifications:
+
+1. 'The system shall display the Events in a graph by time.' 
+   - Functional
+
+
+The given requirement can be classified under: **Usability**
+
+
+Here are the classifications:
+
+1. 'When a shot is marked as a miss the product shall simulate the sound of a shot missing its target.' 
+   - Functional
+
+
+Here are the classifications:
+
+- Functional: 'When a game is ended the product shall allow each player to identify himself or herself as an available player in the list of players.'
+- Reliability: 'When a game is ended the product shall allow each player to identify himself or herself as an available player in the list of players.'
+
+
+Here are the classifications:
+
+1. 'The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.' 
+   - Compatibility
+
+
+Here are the classifications:
+
+1. 'The system shall offer the ability to pause and resume the refresh of data.' 
+   - Functional
+
+
+Here are the classifications:
+
+1. 'Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.'
+   - Performance Efficiency
+
+
+Here are the classifications:
+
+1. 'The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.' 
+   - Security
+
+
+Here are the classifications:
+
+- Functional: None
+- Usability: 
+  - The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies.
+  - Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.
+
+- Performance Efficiency: None
+
+
+Here are the classifications:
+
+1. 'The product shall provide Asynchronous Messaging.'
+   - Functional
+
+2. 'The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications'
+   - Functional
+
+
+Here are the classifications:
+
+- Functional: None
+- Usability: None
+- Performance Efficiency: None
+- Security: None
+- Compatibility: None
+- Reliability: None
+- Maintainability: Maintenance releases will be offered to customers once a year. The releases shall take no longer than 5 minutes for 80% of the customer base to install.
+
+
+Here are the classifications:
+
+1. 'The Disputes System must provide a confirmation to the user upon the creation of a chargeback request. The confirmation must contain the following information; the dispute case number the type of chargeback requested (pending or immediate) and the date that the merchant response is due.'
+   - Functional
+
+
+Here are the classifications:
+
+- 'The user shall easily locate instructions while using the product. User help can be found within 90% of the system.': Usability
+
+
+Here are the classifications:
+
+1. 'The System shall generate Inventory Quantity Adjustment document automatically when daily Product Sales data is available.'
+   - Functional
+
+
+Here are the classifications:
+
+1. 'The product shall end a game when a hit by the offensive player results in sinking the last of the defensive player’s ships which had not been previously marked as sunk.': 
+   - Functional
+
+
+Performance Efficiency
+
+
+Here are the classifications:
+
+- 'The list of dispute cases that are displayed after a search is performed must be color coded for easy identification of dispute cases based upon the dispute case status.' 
+  - Functional: This requirement is related to the functionality of the system, specifically how the system will display the list of dispute cases.
+
+
+Here are the classifications:
+
+1. 'The user interface shall have standard menus buttons for navigation': Usability
+2. 'All of the users shall be able to use the system after one day of training.': Usability
+3. 'When streaming a movie the buffering time should take no longer than 10 seconds (plus any latency on the user’s connection.)': Performance Efficiency
+4. 'The product shall be easy for a realtor to learn.': Usability
+5. 'Users shall be able to view at least 25 NFL player statistics and points on each page.': Usability
+6. 'The product shall prevent a player from viewing the offensive or defensive grids of the other player.': Security
+
+
+Here are the classifications:
+
+- Functional: Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study
+- Reliability: (This requirement is related to the system's ability to maintain data consistency and accuracy, but it's not explicitly mentioned in the given requirement. However, it can be inferred that the system should be able to handle the specification of classes correctly.)
+
+Note: The given requirement is more related to the functional aspect of the system, as it deals with the ability to specify classes for a Program of Study.
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'When a shot is marked as a hit the product shall simulate the sound of a shot hitting its target.' 
+   - Functional
+
+
+Here are the classifications:
+
+1. 'The user interface shall have standard menus buttons for navigation': Usability
+2. 'All of the users shall be able to use the system after one day of training.': Usability
+3. 'When streaming a movie the buffering time should take no longer than 10 seconds (plus any latency on the user’s connection.)': Performance Efficiency
+4. 'The product shall be easy for a realtor to learn.': Usability
+5. 'Users shall be able to view at least 25 NFL player statistics and points on each page.': Usability
+6. 'The adjuster shall request a recycled parts audit of the collision estimate.': Functional
+
+
+Here are the classifications:
+
+1. 'The current repair facility ratings shall be displayed to the user.' 
+   - Reliability
+
+
+Here are the classifications:
+
+1. 'Each page shall contain a similar format with action items in one location and navigation buttons in a different location.' 
+   - Functional
+
+
+Here are the classifications:
+
+1. 'The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.'
+   - Security
+
+
+Here are the classifications:
+
+- Functional: The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members’ planning purposes.
+- Reliability: The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members’ planning purposes.
+
+
+Here are the classifications:
+
+1. 'Only authorized users shall have access to clinical site information.'
+   - Security
+
+
+Security
+
+
+The given requirement 'The appearance of the product shall appear professional' can be classified under the category: **Usability**
+
+
+Here are the classifications:
+
+1. 'The system shall locate the preferred repair facility with the highest ratings for the input criteria' 
+   - Functional
+
+
+Here are the classifications:
+
+- Functional: The system shall contain contact information (e-mail and phone number) for all people relevant to the system including (but not limited to) staff members students lecture instructors clinical lab instructors and clinical site administrators.
+
+
+Performance Efficiency
+
+
+Here are the classifications:
+
+1. 'The product shall poll the system for messages every second.' - Performance Efficiency
+2. 'The product shall poll the system for new messages at a maximum of every 1 second.' - Performance Efficiency
+
+
+Security
+
+
+Here are the classifications:
+
+1. 'The product shall provide Portals.' - Functional
+2. 'The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators)' - Functional
+
+
+Here are the classifications:
+
+1. 'For each shot the product shall notify the players whether the shot was a hit or miss.'
+   - Functional
+
+
+Performance Efficiency
+
+
+Here are the classifications:
+
+1. 'The product shall retain the customer’s buying preferences and information.' 
+   - Reliability
+
+
+Here are the classifications:
+
+1. 'The system will display a blank set of ratings if there are not ratings yet defined.' 
+   - Reliability
+
+
+Performance Efficiency
+
+
+Here are the classifications:
+
+- Functional: 'System shall automatically update the main page of the website every Friday and show the 4 latest movies that have been added to the website.'
+- Performance Efficiency: None (this requirement is more about scheduling and data retrieval, not performance efficiency)
+- Reliability: None (this requirement is more about scheduling and data retrieval, not reliability)
+- Maintainability: None (this requirement is more about scheduling and data retrieval, not maintainability)
+
+However, if I had to choose one, I would say: Functional
+
+
+Here are the classifications:
+
+1. 'The product shall be translated into foreign languages other than the target market countries’ languages in future releases. For each emerging target market it shall take no more than 5 days to configure the product for that market’s language.'
+   - Reliability
+
+
+Reliability
+
+
+Here are the classifications:
+
+- Functional: None
+- Usability: None
+- Performance Efficiency: None
+- Security: User access should be limited to the permissions granted to their role(s)
+- Compatibility: None
+- Reliability: None
+- Maintainability: None
+
+
+Reliability
+
+
+Here are the classifications:
+
+1. 'The product is expected to integrate with multiple database management systems. The product will operate with Oracle SQL Server DB2 MySQL HSQL and MS Access.' 
+   - Compatibility
+
+
+Here are the classifications:
+
+1. 'The system shall be able to operate within a business office environment typical of the Nursing Department at DePaul University.' 
+   - Reliability
+
+
+Here are the classifications:
+
+1. 'The system will notify affected parties when changes occur affecting cohorts including but not limited to changes to the sequence for a cohort’s program of study and changes to a given week’s schedule (lab cancelled this week due to instructor illness).'
+   - Security
+
+
+Here are the classifications:
+
+1. 'The streaming server will support a maximum of 700 movies; new servers can be added to support more movies.' 
+   - Reliability
+
+
+Here are the classifications:
+
+- 'The user shall enter new ratings based on the audit report': Functional
+
+
+Here are the classifications:
+
+1. 'The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.'
+   - Performance Efficiency
+
+
+Performance Efficiency
+
+
+Here are the classifications:
+
+1. 'The product must support Internet Explorer 5.5 and above.' - Compatibility
+
+
+Security
+
+
+Here are the classifications:
+
+- Functional: None
+- Usability: None
+- Performance Efficiency: None
+- Security: None
+- Compatibility: None
+- Reliability: None
+- Maintainability: None
+
+However, upon re-evaluation, I would classify it as 'Usability' since it deals with the user experience and accessibility of the support site.
+
+
+Security
+
+
+Here are the classifications:
+
+1. 'The product shall be able support 1000 simultaneous users.' 
+   - Reliability
+
+
+Here are the classifications:
+
+1. 'The system shall be able to display a printable summary for individual clinical labs which will include (but not be limited to) class name class number lab section listing of students enrolled instructor day(s) time and location.'
+   - Functional: The requirement describes what the system should do (display a printable summary), indicating a functional requirement.
+
+
+Here are the classifications:
+
+- Functional: 'System shall let customers cancel their account process shall take no longer than 2 minutes.'
+- Performance Efficiency: 'Database will mark the account as inactive and user will not be able to log into the website.'
+
+
+Reliability
+
+
+Performance Efficiency
+
+
+Here are the classifications:
+
+- Functional: Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Lab Section including the clinical site name the department/section for the lab the class instructor day and time of lab and contact information.
+- Usability: None (This requirement is more about functionality, but it doesn't directly impact the user experience. However, it can be argued that it indirectly affects usability by making it easier for staff members to perform their tasks.)
+
+
+Here are the classifications:
+
+1. 'The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number.' - Functional
+2. 'In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.' - Functional
+
+
+Here are the classifications:
+
+1. 'The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead.' 
+   - Functional
+
+
+Reliability
+
+
+Here are the classifications:
+
+- 'Daily usage statistics should be logged and accessible by the administrator': 
+  - Reliability
+
+
+Here are the classifications:
+
+- Functional: Program Administrators and Nursing Staff Members shall be able to add a new cohort to the system identified by start month and year.
+- Reliability: Program Administrators and Nursing Staff Members shall be able to add a new cohort to the system identified by start month and year.
+
+
+Here are the classifications:
+
+- Functional: 'The RFS system should be able to easily interface with the BDW environment in order to load the data.'
+- Performance Efficiency: '7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process every year.'
+- Reliability: 'Test files (7) shall be loaded up to 5 times throughout the year from the BDW.'
+
+
+Here are the classifications:
+
+1. 'Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem.'
+   - Reliability
+
+
+Security
+
+
+Security
+
+
+Security
+
+
+Here are the classifications:
+
+1. 'If the leads score falls within the high average score then it will be process by the ARA functionality.'
+   - Functional
+
+
+Here are the classifications:
+
+1. 'If a user account is revoked it can only be re-instantiated by the System Administrator.' 
+   - Security
+
+
+Here are the classifications:
+
+1. 'All registered customer information shall be stored and maintained in the database even after the customer cancels their account.' 
+   - Reliability
+
+
+Reliability
+
+
+Here are the classifications:
+
+1. 'The product shall prevent its data from incorrect data being introduced.' - Security
+
+
+Here are the classifications:
+
+- Functional: None
+- Usability: None
+- Performance Efficiency: None
+- Security: None
+- Compatibility: None
+- Reliability: None
+- Maintainability: None
+
+However, the requirement can be classified under 'Usability' as it deals with the ease of use and understanding of the system.
+
+
+Here are the classifications:
+
+1. 'Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.' 
+   - Reliability
+
+
+Performance Efficiency
+
+
+Security
+
+
+Here are the classifications:
+
+1. 'Only authorized users shall have access to students’ personal information.' 
+   - Security
+
+
+Here are the classifications:
+
+- Functional: Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Site including the clinical site name site contact person contact information and address.
+- Security: Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Site including the clinical site name site contact person contact information and address.
+
+
+Here are the classifications:
+
+- Functional: Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.
+- Usability: None (this requirement is more about the functionality of the system rather than user experience)
+
+
+Here are the classifications:
+
+- Functional: 'System shall let administrator add/remove movies on the website in under 5 minutes.'
+- Performance Efficiency: 'Entered movie information will be stored in the database and will now be available on the website.'
+
+
+Here are the classifications:
+
+1. 'The product shall provide Dynamic Change Support and Transparent resource addition.'
+   - Reliability
+
+2. 'The product shall support Transparent Resource addition and Dynamic Change support to provide scalability and avoid service interruptions of more than 1 day.'
+   - Reliability
+
+
+Reliability
+
+
+Here are the classifications:
+
+1. 'The system shall use symbols and words that are naturally understandable by the user community.' 
+   - Usability

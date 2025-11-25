@@ -1,0 +1,393 @@
+Functional
+
+
+This requirement can be classified as a 'Business Rule' or 'Functionality' related to the game being developed. It pertains to the behavior or effect that occurs when a ship is 'sunk' in the game.
+
+
+Functional
+
+
+This requirement can be classified as a functional one since it describes a specific behavior or capability of the product - how the different types of ships will be displayed in the game.
+
+
+This requirement is about integrating a database management system (DBMS) such as Oracle, DB2, MySQL, or HSQL with the product. It belongs to the Integration category.
+
+
+This requirement can be classified as Functional.
+
+
+Functional
+
+
+This requirement is a performance-based requirement that specifies the system's ability to handle a certain volume of transactions per hour over a specific period of time (two years). It can be classified as a scalability requirement. The system needs to process at least 10,000 transactions per hour within two years and increase to 20,000 by Release 2. This information can help in designing the system architecture and selecting appropriate hardware and software components to ensure the system's performance meets these requirements.
+
+
+This requirement falls under the functional category of "Data Management." It is non-functional because it focuses on the ability of the product to interact and communicate effectively with different types of database management systems, without any failures or errors in transaction processing.
+
+
+This requirement can be classified as a payment functionality of the system.
+
+
+This requirement can be classified as both functional and non-functional.
+
+From a non-functional perspective, it focuses on the product's compliance with specific intranet page standards and requirements of ENET Securities. This includes having 95% of the product's look & feel approved by the Architecture group before implementation, with any remaining issues addressed within one month of the product release.
+
+From a functional perspective, this requirement could refer to certain features or functionalities that need to be implemented according to the intranet page standards and requirements set forth by ENET Securities. For example, it might involve specific layouts, color schemes, font styles, or navigation options that must be incorporated into the product's design.
+
+
+This requirement is a performance-based requirement, which means it focuses on the expected behavior or outcome of the system. It specifies that 90% of leads should be processed within 5 minutes during business hours and 99% of leads should be processed within 3 minutes during off business hours. This can be classified as:
+
+Functional (both business hours and off-business hours)
+
+
+This requirement can be classified as a functional one, focusing on the user interface (UI) design and用户体验 (UX) of the system. It specifically addresses the ease of use and simplicity of the interface, with a target of achieving 90% satisfaction from beta testers.
+
+
+This requirement can be classified as a functional requirement as it outlines a specific feature of the system that needs to be implemented - displaying data from two external applications, Sync Matrix 1.0 and Exercise Management Tool 1.0. The system is expected to integrate with these external applications and display their data within itself.
+
+
+Non-functional
+
+
+This requirement is a functional one. It focuses on the language and terminology used within the system to ensure consistency with standard English and the terminology of the national nursing community. The goal is to create an interface that healthcare professionals can understand easily, which could impact user experience and acceptance of the system by the intended audience.
+
+
+Functional
+
+
+Functional
+
+
+This requirement is classified as a functional requirement. It focuses on the ease of use and efficiency of the system for the end-users, ensuring that a significant percentage of them can complete a specific task (reserving a conference room) within a reasonable timeframe (5 minutes).
+
+
+Functional
+
+
+This requirement can be classified as a performance requirement. It focuses on the ease of use of the product for novice users who may not have extensive experience with internet usage or specific software applications.
+
+
+Non-functional
+
+
+This requirement can be classified as a security-related functionality. It focuses on protecting customer information by storing it in a secure database that is accessible only to authorized personnel, ensuring data privacy and confidentiality.
+
+
+This requirement can be classified as a functional requirement. It outlines a specific behavior or capability that the system must possess in order to meet the needs of its users. In this case, the system is required to manage student cohorts and ensure that only students added to a specific cohort are eligible for the programs and courses within that cohort's program of study.
+
+
+Functional
+
+
+This requirement can be classified as a "Reporting" functionality. It involves generating a report that displays the list of needed classes for a given quarter for all cohorts of all programs, which will be useful for Program Administrators and Nursing Staff Members in their planning purposes.
+
+
+This requirement can be classified as a functional requirement. It specifies a specific behavior or feature that the product must have in order to meet the needs of its users or stakeholders (in this case, an adjuster).
+
+
+This requirement can be classified as a user acceptance criteria (UAC) - a statement that defines what the end users should be able to do or experience with the system. It focuses on the users' perception and behavior towards the system, in this case, whether they find it engaging enough to use regularly. This UAC measures the success of the product based on user adoption.
+
+
+This requirement can be classified as a 'Timing Requirement' as it specifies that the system should refresh the display every 60 seconds.
+
+
+This requirement can be classified as a functional requirement for a movie streaming service. It specifies that users should be able to access and stream all movies on demand at any time.
+
+
+This requirement pertains to a functional classification as it pertains to displaying events or activities within a system.
+
+
+This requirement is a design-related functional one, as it pertains to the user interface (UI) of the system. It states that the product should have a consistent color scheme and fonts throughout its UI to ensure an aesthetically pleasing and easy-to-use experience for users. This classification helps in understanding the importance of UI design in a software application.
+
+
+Functional
+
+
+This requirement can be classified as a functional requirement. It outlines a specific performance expectation for the search functionality in the system - that the search for the preferred repair facility should take no more than 8 seconds to complete.
+
+
+This requirement can be classified as a Functional Requirement because it describes a specific behavior of the system that the developers need to implement in order for the system to work properly. In this case, the system is expected to display events on a graph by time.
+
+
+This requirement pertains to the functionality of the game management within the product. It relates to the handling of player lists and removal upon game end. Therefore, it falls under the category of 'Game Management' for classification.
+
+
+Non-Functional Requirement
+
+
+This requirement can be classified as a Functional Requirement. It outlines a specific behavior that the system should exhibit, which is the inclusion of the reason for the game being ended in the notification when the game ends.
+
+
+This requirement can be classified as both functional and non-functional.
+
+From a functional perspective, it means that the system should be designed to run effectively in a typical business office setting commonly found in an academic department focused on nursing at a university such as DePaul University. This could include factors like availability of necessary hardware, software, internet connectivity, and other infrastructure needed for smooth functioning of the system.
+
+From a non-functional perspective, it implies that the system should be capable of operating within acceptable performance parameters in this type of environment. For example, the system should be able to handle normal office temperature fluctuations, power surges, and network congestion typical of an academic setting with minimal impact on its functionality or user experience.
+
+
+This requirement can be classified as a functional one. It talks about a specific behavior or feature of the system - the ability to pause and resume refreshing of data.
+
+
+This requirement can be classified as a functional requirement. It focuses on a specific functionality that the system should possess - the ability for the owner to access all streaming movies for free.
+
+
+This requirement can be classified as a functional requirement as it outlines a specific behavior or capability of the Disputes System - the ability to directly input dispute cases through a user-friendly interface.
+
+
+This requirement pertains to the functionality of storing and retaining customer data and purchasing preferences in the product. It can be classified as a Functional Requirement (FR) under the Customer Data Management category.
+
+
+This requirement can be classified as a functional requirement as it describes a specific functionality that the product should have, which is providing portals and supporting ad-hoc reporting and key performance indicators (KPIs) for system administrators.
+
+
+Functional
+
+
+This requirement can be classified as Functional.
+
+
+This requirement can be classified as a functional requirement. It focuses on the ease of learning for the target users (Adjusters and Collision Estimators) and the amount of time needed for onsite training (two days).
+
+
+This requirement refers to the generation of an inventory quantity adjustment document based on a product's daily sales data and specific formulas. It falls under the category of "Reporting and Documentation" in the functional domain. This functionality is essential for tracking and managing inventory levels, ensuring accurate accounting practices, and making informed business decisions.
+
+Classified as: Reporting and Documentation
+
+
+This requirement can be classified as a Functional Requirement because it describes a specific behavior or feature that the system should have in order to meet the needs of its users. In this case, the system should continue assigning turns until the game is ended, which implies that there's some sort of turn-based gameplay involved.
+
+
+This requirement can be classified as a functional requirement under the category of system behavior. It pertains to the speed at which the product should respond to update and display relevant data.
+
+
+This requirement can be classified as both a non-functional and a functional one.
+
+From a non-functional perspective, it falls under maintainability, performance, and usability. It emphasizes the need for the Disputes application to adhere to established guidelines and best practices in terms of user interface design. This ensures that the system remains consistent with the company's overall look and feel, making it easier for users to navigate and reducing the learning curve.
+
+From a functional perspective, this requirement is about ensuring usability. It implies that the Disputes application should be designed in such a way that users can easily understand how to interact with different screens without any confusion. This ensures efficient use of the system by employees who need to access and manage dispute cases accurately and quickly.
+
+
+Non-functional
+
+
+This requirement can be classified as a "System Requirement" since it talks about a specific component (Program of Study) within the system.
+
+
+Functional
+
+
+This requirement can be classified as a Functional Requirement as it describes a specific action that the system should perform for the users - searching for a preferred repair facility based on the vehicle's location and a specified radius.
+
+
+This requirement is a functionality related to the game being developed, specifically how the product (the game) reacts when a shot is marked as a miss. It involves both visual and auditory feedback. Therefore, it can be classified as a Non-functional Requirement under User Experience (UX), more precisely Gameplay.
+
+
+Functional
+
+
+This requirement can be classified as a "User Interface" (UI) feature since it involves how users interact with the system, specifically regarding selecting a particular option within the system.
+
+
+This requirement can be classified as a UI (User Interface) Design criterion since it deals with how the pages of the product should be formatted and organized for easy use. It specifies where to place specific elements like action items and navigation buttons to improve user experience.
+
+
+Functional
+
+
+Functional
+
+
+This requirement is a functional requirement related to the accessibility of the system. It states that the system should be able to handle requests from any HTML browser, which means it needs to be designed in such a way that it can work seamlessly on various browsers like Google Chrome, Mozilla Firefox, Safari, etc. This is a non-functional requirement as it deals with how the system will behave rather than what it does.
+
+
+This requirement can be classified as a security constraint. It specifies that one insurance company should not have access to the other company's claim data.
+
+
+Non-functional
+
+
+Functional
+
+
+This requirement can be classified as a Functional Requirement as it describes a specific behavior or feature that the system should possess - the ability to display a printable summary of the system log.
+
+
+Functional
+
+
+This requirement is a non-functional requirement and it classifies as follows:
+
+1. Type: Performance - It refers to how quickly the system should respond to certain actions or events, in this case, message processing.
+2. Level of Constraint: High - The product must be able to process messages within a maximum time of 2 seconds.
+3. Reason: To ensure that the system is responsive and does not hinder user experience by delaying message processing times.
+
+
+This requirement falls into the 'Performance' category as it pertains to how the system should behave when encountering incorrect data input. It is a Functional Requirement as it outlines a specific behavior that the system must exhibit. 
+
+Classified as: F (Functional)
+
+
+This requirement can be classified as a Functional requirement. It describes a specific feature or functionality of the product (Error Tracking Services) that needs to be implemented in order to meet the desired outcome (help System Administrators and DBAs resolve transaction errors 99% of the time).
+
+
+This requirement falls under the category of "Functional" as it describes a specific functionality that the product should have - analyzing the defensive grid of a defensive player to determine if a shot was a hit or miss.
+
+
+This requirement can be classified as a performance requirement. It specifies that the product interface should have a responsive design with a maximum acceptable response time of 2 seconds for 90% of the user interactions and a maximum of 10 seconds for the remaining 10% of the time.
+
+
+This requirement can be classified as a "Business Requirement" as it pertains to the customer satisfaction with the product or service.
+
+
+This requirement can be classified as a Functional Requirement as it specifies a specific behavior or feature that the system should have in order to meet the needs of its users. In this case, the system is expected to display the current repair facility ratings to the user, allowing them to easily access and view important information related to the repair facilities.
+
+
+This requirement can be classified as a diversity and inclusivity consideration in the design of the website. It indicates that the website should be designed to appeal to users from different African countries, not just Nigeria. This may involve considering cultural differences, language support, and adapting content and features to meet the needs of users from various African regions.
+
+
+This requirement can be classified as a functional requirement under the "Payment and Purchase Options" category. It states that the website should offer pre-paid cards with values of $5, $10, and $20 for purchase through both online (credit card) and offline (mail-in payment) options.
+
+
+This requirement can be classified as a "Installation and Configuration" requirement. It talks about the ease of integrating new building maps into the product during its entire lifecycle, implying that it should not require significant support from product experts.
+
+
+This requirement is a scalability requirement for the Disputes application. It states that the application should be able to handle a peak load of 350 concurrent users without experiencing any significant performance degradation. This means that the application should maintain an acceptable level of response time and functionality even under heavy usage. (Classified as: S)
+
+
+This requirement can be classified as a security-related functional requirement. It specifies that user access to the RFS system should be limited based on the roles assigned to each level in the PCG hierarchy, and the permissions or privileges associated with those roles. This ensures that users will only have access to the features and information they are authorized to view or manipulate.
+
+
+This requirement falls under the functional category of "Room Management". The product should have the ability to store and manage information about new room equipment, such as adding, updating, or deleting details about equipment in rooms.
+
+
+Functional
+
+
+This requirement can be classified as a functional requirement. It outlines a specific functionality that the system should have - managing the nursing program curriculum and class/clinical scheduling for at least 5 years.
+
+
+This requirement can be classified as a 'Notification System Feature'. It pertains to a system that alerts specific parties about alterations in classes, such as class cancellations, section details changes, or modifications to class offerings, within a specified time frame (a given quarter).
+
+
+Non-functional
+
+
+Functional
+
+
+This requirement can be classified as a functional requirement under the category of performance (response time). It states that the recycled parts audit report should be returned to the user within a maximum of 10 seconds.
+
+
+Functional
+
+
+Non-Functional
+
+
+This requirement can be classified as a Functional requirement.
+
+
+This requirement can be classified as a maintenance related functional requirement. It specifies that maintenance releases will be provided to customers once a year, and the installation process should take no more than 5 minutes for at least 80% of the customer base.
+
+
+This requirement is a satisfaction metric related to customer comfort with purchasing and streaming movies on a website after two weeks. It can be classified as a performance goal or measure for the e-commerce website, specifically focusing on user experience and satisfaction.
+
+
+This requirement can be classified as a performance requirement. It is asking about the system's ability to handle a specific number of concurrent users (in this case, 1000).
+
+
+Functional
+
+
+This requirement can be classified as a performance criterion. It specifies that existing customers should be able to login to the website using their email address and password within 5 seconds or less.
+
+
+Functional
+
+
+This requirement can be classified as functional because it relates to the ability of merchant services representatives to perform a specific task (performing a follow-up action on a dispute case) in their job role.
+
+
+Functional
+
+
+This requirement pertains to the functional aspect of the Disputes System. It states that the system should have a feature for viewing existing dispute cases. This can be classified as a "Must-Have" functionality as it is essential for managing disputes in the system.
+
+
+This requirement refers to the "leads washing" functionality of the system, which involves compiling contact and academic scoring information to generate a total score for each lead. The classification for this requirement would be "Functional".
+
+
+This requirement can be classified as a Constraint or Limitation as it specifies the hours during which the system is available for use.
+
+
+This requirement is about data storage and maintenance. It can be classified as a Functional Requirement.
+
+
+This requirement can be classified as a functional requirement. It outlines a specific behavior that the system should have in order to meet the needs of Program Administrators and Nursing Staff Members, who are responsible for adding clinical classes or sections to a sequence of classes.
+
+
+This requirement can be classified as a Functional Requirement (FR). It outlines a specific functionality that the RFS system should possess - the ability to easily interface with the BDW environment and load data. Additionally, it provides details on the expected behavior of the system, such as loading 7 data files from BDW within a certain timeframe for budgeting purposes.
+
+
+Functional
+
+
+Functional
+
+
+This requirement is functional as it describes a specific feature of the leads washing functionality, where users can maintain the data parameters of leads through an interface.
+
+
+This requirement falls under the category of 'Functional'.
+
+
+This requirement is functional as it describes a specific behavior or feature of the system - the ability to capture leads through a web service and have them processed for washing.
+
+
+This requirement falls under Functional category as it talks about recording the actions related to adding or modifying users in the system.
+
+
+This requirement can be classified as a Functional Requirement because it describes a specific behavior that the system should possess - logging all streaming movie sales in the database and making them accessible to the administrator.
+
+
+This requirement can be classified as a performance requirement as it pertains to the number of users that the system can handle concurrently. It states that the system should be able to cater to 10 simultaneous users from 9am to 5pm, which indicates the system's capacity during peak hours.
+
+
+This requirement can be classified as both functional and non-functional.
+
+From a functional perspective, it states that every user of the system must be authenticated, which means they must provide valid identification to access the system. This is essential for ensuring security, accountability, and maintaining data integrity within the system. Therefore, this requirement is crucial for the proper functioning of the system.
+
+From a non-functional perspective, this requirement relates to performance and operational aspects. It states that every user should be authorized or granted appropriate access rights according to their role in the system. This ensures that users only have access to the information they need to perform their tasks effectively while preventing unauthorized access to sensitive data or functionalities. Therefore, this non-functional requirement helps maintain the overall security and stability of the system.
+
+
+Functional
+
+
+This requirement pertains to a functional aspect of the system that involves generating letter requests with specific formatting according to pre-specified guidelines. This can be classified as a "Use Case" or "Functional Requirement".
+
+
+Functional
+
+
+Non-functional
+
+
+This requirement can be classified as a "Access Control" requirement. It specifies that only Program Administrators and Nursing Staff Members should have access to clinical site details, indicating a need for user authorization in the system.
+
+
+This requirement can be classified as a functional one. It outlines a specific feature that the program administrators and nursing staff members should possess, which is the ability to edit information related to a particular program of study in the nursing department. This includes changing the program's name and required classes for it.
+
+
+This requirement can be classified as a functional requirement under the scope of "Student Management System." It pertains to the functionality allowing program administrators and nursing staff members to add a new cohort to the system, with specific details such as the start month and year.
+
+
+Functional
+
+
+Functional
+
+
+This requirement can be classified as functional because it describes a specific feature of the product that needs to be implemented in order for the product to work properly. The PFE (proprietary formulation engine) subsystem is responsible for substituting certain ingredients automatically, which affects how the product functions.
+
+
+This requirement can be classified as a performance requirement as it specifies a target behavior that the system should achieve. It states that at least two out of every three program administrators or nursing staff members should be able to use the system effectively for managing class and clinical scheduling.

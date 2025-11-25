@@ -1,0 +1,210 @@
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Maintainability
+
+
+The given requirement'system shall be able to handle all of the user requests/usage during business hours' can be classified under the category: **Availability**
+
+
+Operational
+
+
+Security
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall be able to add a new clinical site into the system' can be classified under the category: **Functional**
+
+
+The given requirement: 'A staff member shall have the ability to manage the progress of a part time student which includes modifying their sequence of classes and timeline of classes.'
+
+Category: Functional
+
+
+Here is the classification of the given requirement:
+
+- Operational
+
+
+Functional
+
+
+Here are the classifications for the given requirement:
+
+- Functional
+- Performance
+- Usability
+- Security
+- Operational
+- Availability
+
+
+The given requirement: 'The Disputes System shall provide the users the ability to view the history of all activities that have occurred on the dispute case.'
+
+Category: Functional
+
+
+Usability
+
+
+The given requirement can be classified into the following categories:
+
+- Availability
+- Operational
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Operational
+
+
+Look and Feel
+
+
+Usability
+
+
+Security
+
+
+The given requirement 'The product must be developed with the J2SE/J2EE programming language libraries' can be classified under the category: **Maintainability**.
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Operational
+
+
+Security
+
+
+Performance
+
+
+Performance
+
+
+Usability
+
+
+The given requirement 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds' can be classified under the category: **Performance**.
+
+
+Performance
+
+
+Availability
+
+
+Security
+
+
+The given requirement 'Website shall request and authorize credit card payment before allowing a user to stream a movie.' can be classified into the following categories:
+
+- Functional
+- Security
+
+
+The given requirement 'No lead evaluation will complete in a time period longer than 25 seconds for 97% of all leads processed' can be classified under the category of **Performance**.
+
+
+The given requirement 'The washing process must use a non binding neutral data format such as xml when receiving and processing lead data.' can be classified into the category: **Functional**
+
+
+The given requirement 'Defect reports will be available to technical units on a 24x7 basis.' can be classified under the category of **Availability**.
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'Prior to submitting the lead to the enterprise system the leads washing functionality will assign the lead to an admissions rep.' can be classified under the category: **Functional**
+
+
+Availability
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Maintainability
+- Performance
+
+
+Security
+
+
+Based on the given requirement, I would classify it under the category: **Security**
+
+
+Operational
+
+
+Usability
+
+
+Operational
+
+
+Here are the classifications for the given requirement:
+
+- Security
+- Availability
+- Operational

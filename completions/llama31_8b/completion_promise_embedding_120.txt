@@ -1,0 +1,393 @@
+Functional
+
+
+Look and Feel
+
+
+Operational
+
+
+The requirement is: "The product shall display each type of ship in a grid using an image of the specific type of ship."
+
+Classification: Look and Feel
+
+
+The requirement is: 'A database management system such as Oracle DB2 MySql or HSQL will need to be integrated with the product.'
+
+Category: Operational
+
+
+The given requirement is: 'The product shall use a standard navigation menu familiar to most web users.'
+
+This requirement falls under the category of: Usability
+
+
+Functional
+
+
+Scalability
+
+
+The given requirement is classified as: Operational
+
+
+Functional
+
+
+Look and Feel
+
+
+Performance
+
+
+Look and Feel
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Usability
+
+
+The given requirement: 'The product should be able to be used by 90% of novice users on the Internet.'
+
+Category: Usability
+
+
+Usability
+
+
+The given requirement: 'All customer information will be stored on a secure database accessible only to authorized personnel.'
+
+Category: Security
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+The requirement "The system shall refresh the display every 60 seconds." falls under the category of **Performance**.
+
+
+Functional
+
+
+Functional
+
+
+The given requirement is: 'The product shall have a consistent color scheme and fonts.'
+
+Classification: Look and Feel
+
+
+Usability
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Operational
+
+
+The given requirement: 'The system shall offer the ability to pause and resume the refresh of data.'
+
+Category: Maintainability
+
+
+Functional
+
+
+Functional
+
+
+The given requirement "The product shall retain the customer’s buying preferences and information." falls under the category of **Security**.
+
+
+The requirement is classified under: Usability
+
+
+The given requirement is classified under the category: Maintainability
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+The given requirement: 'The product shall respond fast to keep up-to-date data in the display.'
+
+Category: Performance
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Security
+
+
+Functional
+
+
+The given requirement is: 'We must be able to interface with any HTML browser.'
+
+Classification: Operational
+
+
+Security
+
+
+The given requirement is: 'The product shall comply with corporate color scheme'
+
+Classification: Look and Feel
+
+
+Functional
+
+
+Functional
+
+
+The requirement "Promotional updates to the website should take a day to update" falls under the category of **Maintainability**.
+
+
+The given requirement is classified as: Performance
+
+
+Security
+
+
+The requirement is classified as: Maintainability
+
+
+Functional
+
+
+Performance
+
+
+Usability
+
+
+Functional
+
+
+Look and Feel
+
+
+Functional
+
+
+The requirement is classified as: Maintainability
+
+
+Scalability
+
+
+Security
+
+
+Functional
+
+
+The given requirement falls under the category of "Maintainability".
+
+
+Scalability
+
+
+Functional
+
+
+Scalability
+
+
+Functional
+
+
+Performance
+
+
+Performance
+
+
+The given requirement is classified as: Security
+
+
+The given requirement "The system shall notify customers of changes to its information policy" falls under the category of **Security**.
+
+
+The requirement is classified as: Maintainability
+
+
+Usability
+
+
+Scalability
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Availability
+
+
+The requirement 'All registered customer information shall be stored and maintained in the database even after the customer cancels their account.' falls under the category of **Security**.
+
+
+Functional
+
+
+The given requirement is classified under the category: Operational
+
+
+Functional
+
+
+Performance
+
+
+The given requirement is classified as: Look and Feel
+
+
+The given requirement: 'The System shall be able to automatically backup business data and restore them on demand.'
+
+Category: Fault Tolerance
+
+
+Functional
+
+
+The requirement "All additions of new users and modifications to user’s access shall be recorded on the User Report." falls under the category of **Security**.
+
+
+The given requirement is: 'All streaming movie sales will be logged in the database and accessible by the administrator.'
+
+This requirement falls under the category of: **Maintainability**
+
+
+The requirement is classified as: Scalability
+
+
+The given requirement: 'Every user of the system shall be authenticated and authorized.'
+
+Category: Security
+
+
+Usability
+
+
+Operational
+
+
+Performance
+
+
+Operational
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+The given requirement is classified under the category: Performance
+
+
+Functional
+
+
+Usability

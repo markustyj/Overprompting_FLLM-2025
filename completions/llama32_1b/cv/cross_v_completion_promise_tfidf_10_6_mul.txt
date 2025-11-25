@@ -1,0 +1,263 @@
+Here are the classifications:
+
+1. 'The system shall have a MDI form that allows for the viewing of the graph and the data table.' 
+   - Functional
+
+
+Performance
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Security
+
+
+Here are the classifications:
+
+1. 'If a user account is revoked it can only be re-instantiated by the System Administrator.' 
+   - Security
+
+
+Here are the classifications:
+
+1. 'The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system. A detailed history of the actions taken on the case including the date and the user that performed the action must be maintained for auditing purposes.'
+   - Operational
+
+
+Operational
+
+
+Usability
+
+
+Functional
+
+
+Here are the classifications:
+
+- Functional
+- Usability
+
+
+Here are the classifications:
+
+1. 'The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.': Performance
+2. 'The user shall select to view the preferred repair facility ratings.': Functional
+3. 'The user shall select to save the preferred repair facility ratings.': Functional
+4. 'The preferred repair facility shall be returned to the user.': Functional
+5. 'The current repair facility ratings shall be displayed to the user.': Functional
+6. 'The search for the preferred repair facility shall take no longer than 8 seconds. The preferred repair facility is returned within 8 seconds': Performance
+7. 'The system shall locate the preferred repair facility with the highest ratings for the input criteria': Functional
+8. 'Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.': Security
+9. 'The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.': Functional
+10. 'The adjuster shall enter the preferred repair facility on the estimate assignment.': Functional
+11. 'The preferred repair facility ratings shall be saved by the system.': Performance
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product must be designed using Design Patterns and coding best practices.' - Maintainability
+2. '90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.' - Maintainability
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product is expected to integrate with multiple database management systems. The product will operate with Oracle SQL Server DB2 MySQL HSQL and MS Access.'
+   - Operational
+
+
+Here are the classifications:
+
+1. 'Only valid data shall be entered into the system. No invalid data shall be entered into the system.': Security
+2. 'Each time a conference room is reserved the conference room schedule shall be updated to reflect the time and date of the reservation.': Functional
+3. 'The website shall prevent its data from being corrupted when incorrect data is entered in.': Security
+4. 'Website shall allow customers to browse movies by categories entered in by izogn administrator.': Functional
+5. 'System shall let administrator add/remove movies on the website in under 5 minutes. Entered movie information will be stored in the database and will now be available on the website.': Performance
+6. 'Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem.': Functional
+7. 'All credit card information will be secured on the server and only accessible by authorized Izogn administrators. Information will be encrypted in the database.': Security
+8. 'The product shall prevent its data from incorrect data being introduced.': Security
+9. 'The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.': Usability
+10. 'The product shall prevent the input of malicious data. The product and/or adjacent hardware/software systems’ data shall remain 100% uncorrupted each time malicious data is input into the product.': Security
+11. 'The product shall ensure that the database’s data corresponds to the data entered by the user. Each conference room reservation in the system will contain the same information as was entered by the user.': Functional
+
+
+Here are the classifications:
+
+1. 'The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data. The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.'
+   - Availability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+I would classify the given requirement as: **Performance**
+
+
+Here are the classifications:
+
+- Functional
+- Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds.': 
+   - Performance
+
+
+Here are the classifications:
+
+1. 'System shall let administrator de-activate a customer account in under 1 minute.' - Performance
+2. 'System shall let existing customers log into the website with their email address and password in under 5 seconds.' - Performance
+3. 'All registered customer information shall be stored and maintained in the database even after the customer cancels their account.' - Functional
+4. 'Users should be able to access their streaming movies in under 2 clicks after logging into the website.' - Usability
+5. 'The number of mistakes noted by the students shall be decreased by 50% in the first year.' - Usability
+6. 'The search for recycled parts shall take no longer than 15 seconds. The search results shall be returned in under 15 seconds.' - Performance
+7. 'All credit card information will be encrypted in the database.' - Security
+8. 'The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number. In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.' - Functional
+9. 'When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of 15 seconds.' - Performance
+10. 'The System shall allow entering storing and modifying product formulas.' - Functional
+11. 'Customer shall be able to check the status of their prepaid card by entering in the PIN number in under 5 seconds.' - Performance
+
+
+Functional
+
+
+Performance
+
+
+Scalability
+
+
+Operational
+
+
+Functional
+
+
+Security
+
+
+Security
+
+
+Performance
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'System shall automatically update the main page of the website every Friday and show the 4 latest movies that have been added to the website.'
+   - Performance
+
+
+Functional
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Availability
+
+
+Functional
+
+
+Security
+
+
+Look and Feel
+
+
+Here is the classification of the given requirement:
+
+Performance
+
+
+Here are the classifications:
+
+1. 'All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available)': Usability
+
+
+Here are the classifications:
+
+1. 'Users should only have to navigate through a maximum of 4 pages to create an account with the website.': Usability
+2. 'The Commissioner will be the only authorized user per league to adjust league settings.': Security
+3. 'Each team owner will need to use a username and password in order to be authenticated to reach the team owner’s page': Security
+4. 'The product shall allow for customization of start page and views preferences.': Usability
+5. 'A new user must be able to be added to the system within 10 minutes. 90% of new users are able to log into the system within 10 minutes.': Usability
+6. 'The product shall be intuitive and self-explanatory. : 90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.': Usability
+7. 'Program Administrators and Nursing Staff Members shall be able to add a new cohort to the system identified by start month and year.': Functional
+8. 'The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.': Performance
+9. 'The message board shall contain the 5 most recently posted messages on the league page. The messages will contain up to the first 150 characters of the message.': Look and Feel
+10. 'The search results shall be returned no later 30 seconds after the user has entered the search criteria': Performance
+11. 'A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page.': Usability
+
+
+Usability

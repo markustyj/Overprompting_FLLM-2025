@@ -1,0 +1,1538 @@
+Look and Feel
+
+
+Look and Feel
+
+
+Usability
+
+
+The given requirement 'The product shall synchronize with the office system every hour.' can be classified under the category: **Performance**
+
+
+Availability
+
+
+The given requirement: 'The product shall operate in offline mode whenever internet connection is unavailable.' 
+
+Category: Availability
+
+
+Usability
+
+
+Functional
+
+
+Performance
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Operational
+
+
+Security
+
+
+Here are the classifications:
+
+- Functional
+- Security
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The product must support Internet Explorer 5.5 and above.' can be classified into the following categories:
+
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+- Availability: No
+-
+
+
+Usability
+
+
+The given requirement 'The maintenance of the product will fall within the established corporate maintenance windows.' can be classified under the category: Maintainability
+
+
+Security
+
+
+Functional
+
+
+Here is the classification:
+
+**Functional**
+
+
+Functional
+
+
+Functional
+
+
+The given requirement 'The audit report shall be available to other adjusters at later points in time.' can be classified under the category of **Availability**.
+
+
+Security
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Usability
+
+
+Security
+
+
+Here are the classifications:
+
+- Functional
+- Performance
+
+
+Security
+
+
+Functional
+
+
+Functional
+
+
+Look and Feel
+
+
+Usability
+
+
+Availability
+
+
+Performance
+
+
+Functional
+
+
+Look and Feel
+
+
+Operational
+
+
+Functional
+
+
+Look and Feel
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Usability
+
+
+Availability
+
+
+Fault Tolerance
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.'
+   - Security
+
+
+Look and Feel
+
+
+Functional
+
+
+Here are the classifications:
+
+- Functional
+- Maintainability
+
+
+Operational
+
+
+Here are the classifications:
+
+- Maintainability
+- Operational
+- Performance
+- Security

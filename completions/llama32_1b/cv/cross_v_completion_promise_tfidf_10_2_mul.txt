@@ -1,0 +1,272 @@
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Performance
+
+
+Functional
+
+
+Functional
+
+
+Here is the classification:
+
+Operational
+
+
+Usability
+
+
+Here are the classifications:
+
+1. '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.'
+   - Availability
+
+
+Usability
+
+
+Availability
+
+
+Availability
+
+
+Here are the classifications:
+
+1. 'The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.': 
+   - Operational
+   - Scalability
+
+
+Here are the classifications for the given requirements:
+
+1. 'The system shall operate within the Windows XP Professional operating system.' 
+   - Operational
+
+
+Operational
+
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members’ planning purposes.': 
+   - Functional
+   - Performance
+
+
+Here are the classifications:
+
+1. 'The system shall be able to display a printable summary of the system log.' 
+   - Operational
+
+
+Functional
+
+
+Functional
+
+
+Security
+
+
+Here are the classifications:
+
+1. 'The Disputes System must allow the user to create three unique types of ticket retrieval requests. The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio. A portfolio consists of documentation that would provide proof of a purchase such as the documentation that is received from a car rental agency that is more than a sales receipt.': Functional
+2. 'The Disputes System shall record different meeting types.': Functional
+
+
+Here are the classifications:
+
+1. 'The Disputes System shall allow the user to create or initiate a chargeback request. The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.': 
+   - Functional
+   - Operational
+   - Security
+
+
+Here are the classifications:
+
+1. 'The estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers': Functional
+2. 'The user shall search for the preferred repair facility using vehicle vehicle location and radius in miles': Functional
+3. 'The search results shall be returned no later 30 seconds after the user has entered the search criteria': Performance
+4. 'The system must be available for use between 7:00AM and 11:59PM all days of the year.': Availability
+5. 'The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.': Functional
+6. 'The Disputes System must provide Search functionality. The search method must include the ability to search by (1) the dispute case number (2) the merchant account number (3) the cardmember account number and (4) the issuer number. In addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute (ticket retrieval request or chargeback notification) the case status (open closed or all) and the dispute reason code.': Functional
+7. 'A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page.': Usability
+8. 'The search for recycled parts shall take no longer than 15 seconds. The search results shall be returned in under 15 seconds.': Performance
+9. 'The system shall retain the available recycled parts and suppliers returned from the search.': Functional
+10. 'The product shall ensure that it can only be accessed by authorized users. The product will be able to distinguish between authorized and unauthorized users in all access attempts': Security
+
+11. 'The search radius shall be between 1 and 30 miles': Performance
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Based on the given requirement, I would classify it under: **Usability**
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The product shall be capable of handling up to 1 000 concurrent requests. This number will increase to 2 000 by Release 2. The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours.': 
+   - Scalability
+
+
+Usability
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Here are the classifications:
+
+1. 'System shall let customers cancel their account process shall take no longer than 2 minutes.' - Usability
+2. 'Database will mark the account as inactive and user will not be able to log into the website.' - Functional
+
+
+Here is the classification:
+
+Functional
+
+
+Here are the classifications:
+
+1. 'The website should have an African feel but should not alienate non-Africans.': Look and Feel
+2. 'The website should use animation on pages which are describing the services to grab the users attention and encourage them to sign up.': Look and Feel, Performance
+
+
+Usability
+
+
+Functional
+
+
+Here are the classifications for the given requirements:
+
+1. 'Website must interface with the CyberSource API to process credit card transactions.': Operational
+
+
+Here is the classification:
+
+Operational
+
+
+Security
+
+
+Functional
+
+
+Here's the classification:
+
+Functional
+
+
+Functional
+
+
+Here are the classifications:
+
+1. 'When a shot is marked as a miss the product shall simulate the sound of a shot missing its target.' 
+   - Functional
+   - Security
+
+
+Here are the classifications:
+
+1. 'When a shot is marked as a hit the product shall simulate the sound of a shot hitting its target.' 
+   - Performance
+
+
+Functional
+
+
+Functional
+
+
+Functional
+
+
+Usability
+
+
+Performance
+
+
+Look and Feel
+
+
+Here are the classifications:
+
+1. 'The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications'
+   - Performance
+
+
+Performance
+
+
+Here are the classifications:
+
+1. 'The product shall be able to process all transactions.' - Functional
+2. 'The product shall process minimum of 1 million transactions per year.' - Performance
+
+
+Here are the classifications:
+
+- Functional
+- Operational
+- Security
+- Performance
+
+
+Here are the classifications for the given requirements:
+
+1. 'The product shall operate with every platform.The product shall accommodate any new technology without any change in its architecture.'
+   - Portability
+
+
+Here are the classifications for the given requirements:
+
+1. 'The interface shall be easy to use. 90% of users should be able to successfully use the system to generate a report on their first use.'
+   - Usability
+   - Look and Feel
+
+2. 'The interface should adhere to IBM usability standards.'
+   - Look and Feel
+
+
+Usability
+
+
+Here are the classifications:
+
+- Functional: 'The users should be able to easily use the system to successfully complete their budgets within the stipulated time for completion.'
+- Usability: 'With a week of training prior to product implementation 98% of the users shall complete their budgets within the stipulated time.'

@@ -1,0 +1,642 @@
+The given requirement can be classified into the following categories:
+
+1. Functional
+2. Usability
+3. Performance 
+
+However, the most suitable category for this requirement would be 'Functional' as it describes the system's capability to perform a specific task.
+
+
+The given requirement 'When a ship is sunk the product shall simulate the sound of a sinking ship.' can be classified under the category of 'Functional'.
+
+
+The given requirement 'The system shall interface with the faculty central server' can be classified into the following categories:
+
+- Operational
+- Security
+
+
+The given requirement 'The product shall display each type of ship in a grid using an image of the specific type of ship.' can be classified into the following categories:
+
+1. Functional
+2. Performance
+
+
+The given requirement 'A database management system such as Oracle DB2 MySql or HSQL will need to be integrated with the product' can be classified into the following categories:
+
+- Maintainability: The requirement involves integrating a database management system, which may require modifications to the existing codebase, indicating a need for maintenance.
+- Operational: The integration of a database management system is a technical requirement that needs to be implemented to ensure the product's functionality.
+- Performance: The integration of a database management system may impact the performance of the product, and the requirement may involve optimizing the system for better performance.
+- Scalability: The integration of a database management system may also impact the scalability of the product, and the requirement may involve designing the system to handle increased traffic or data.
+
+However, the most concise and direct classification would be:
+
+- Operational
+
+
+The given requirement 'The product shall use a standard navigation menu familiar to most web users.' can be classified under the category of 'Look and Feel'.
+
+
+The given requirement 'The product shall allow a user to identify himself or herself as a player' can be classified into the following categories:
+
+- Functional
+- Security
+
+
+The given requirement can be classified into the following categories:
+
+- Scalability
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Operational: The product must be able to interface with various database management systems.
+- Performance: The product shall communicate successfully with the database management system on 100% of all transactions.
+- Security: Although not explicitly mentioned, the requirement implies that the product must handle sensitive data from the database management system, which can be considered a security aspect.
+- Maintainability: The requirement implies that the product's ability to interface with various database management systems will be tested and validated, which can be considered a maintainability aspect.
+
+However, the most concise and direct classification would be:
+
+- Operational
+
+
+The given requirement 'System will allow customers to pay for a streaming movie with a pre-paid card' can be classified into the following categories:
+
+- Performance
+- Security
+
+
+The given requirement can be classified into the following categories:
+
+- Look and Feel (comply with intranet page standards and requirements of ENET Securities)
+- Maintainability (95% of the product look & feel will be approved by the Architecture group prior to implementation)
+- Operational (95% of the product look & feel will be corrected and approved within one month of product release)
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Availability
+
+
+The given requirement can be classified into the following categories:
+
+- Look and Feel
+- Usability
+
+
+The given requirement 'The system shall display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications' can be classified under the category of 'Functional'.
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Look and Feel
+- Portability 
+
+However, the most suitable category for this requirement would be 'Usability' as it deals with the acceptability of the product's language by the target market.
+
+
+The given requirement 'The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.' can be classified into the following categories:
+
+- Usability
+- Look and Feel
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall be able to add new classes to a sequence of classes' can be classified into the following categories:
+
+- Functional
+- Maintainability
+
+
+The given requirement 'The product shall update existing conference rooms' can be classified into the following categories:
+
+- Functional
+- Operational 
+
+Explanation: 
+- Functional because it describes a specific action that the product should perform.
+- Operational because it describes the operational aspect of the product, specifically how it should be updated.
+
+
+The given requirement 'The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.' can be classified into the following categories:
+
+- Usability
+- Performance
+
+
+The given requirement 'The user shall easily locate instructions while using the product. User help can be found within 90% of the system.' can be classified under the category of 'Usability'.
+
+
+The given requirement 'The product should be able to be used by 90% of novice users on the Internet' can be classified under the category of 'Usability'.
+
+
+The given requirement 'If projected the data must be readable. On a 10x10 projection screen 90% of viewers must be able to read Event / Activity data from a viewing distance of 30' can be classified under the category of 'Look and Feel'.
+
+
+The given requirement 'All customer information will be stored on a secure database accessible only to authorized personnel.' can be classified into the following categories:
+
+- Security
+- Maintainability
+
+
+The given requirement 'Students added to a cohort shall be eligible for the cohort’s Program of Study' can be classified under the category of 'Functional'.
+
+
+The given requirement can be classified into the following categories:
+
+- Security
+- Security
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members’ planning purposes.
+- Usability: The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members’ planning purposes.
+- Performance: The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.
+
+
+The given requirement 'The adjuster shall be able to override the preferred repair facility on the estimate assignment' can be classified into the following categories:
+
+- Security: Only authorized users (adjusters) shall have access to students' personal information.
+- Functional: The adjuster shall be able to override the preferred repair facility on the estimate assignment.
+- Performance: The response time shall be fast enough to maintain the flow of the game. The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.
+
+
+The given requirement 'The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.' can be classified under the category of **Usability**.
+
+
+The given requirement 'The system shall refresh the display every 60 seconds' can be classified under the category of **Performance**.
+
+
+The given requirement 'All movies shall be streamed on demand at any time of the day' can be classified under the category of **Performance**.
+
+
+The given requirement 'The system shall display Events or Activities' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement 'The product shall have a consistent color scheme and fonts' can be classified under the category of 'Look and Feel'.
+
+
+Based on the given requirement, I would classify it under the category of **Usability**.
+
+
+The given requirement 'The search for the preferred repair facility shall take no longer than 8 seconds. The preferred repair facility is returned within 8 seconds' can be classified into the category: Performance.
+
+
+The given requirement 'The system shall display the Events in a graph by time' can be classified under the category of 'Functional'.
+
+
+The given requirement 'When a game is ended the product shall allow each player to remove himself or herself from the list of players' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+The given requirement 'When the offensive player takes a shot the product shall simulate the sound of a ship at sea.' can be classified under the category of 'Functional'.
+
+
+The given requirement 'The notification of the game ending will include the reason the game is ended (i.e. a player has won the game or a player has ended the game)' can be classified under the category of **Functional**.
+
+
+The given requirement 'The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University' can be classified into the following categories:
+
+- Usability
+- Operational
+- Availability
+
+
+The given requirement 'The system shall offer the ability to pause and resume the refresh of data' can be classified under the category of **Performance**.
+
+
+The given requirement 'The owner shall have free access to all of the streaming movies' can be classified under the category of 'Usability'.
+
+
+The given requirement 'The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.' can be classified under the following categories:
+
+- Functional
+- Performance
+- Security
+
+
+The given requirement 'The product shall retain the customer’s buying preferences and information.' can be classified under the category of **Security**.
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The product shall provide Portals.
+- Functional: The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators).
+- Maintainability: The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators)
+
+
+The given requirement can be classified into the following categories:
+
+- Maintainability: The product must be highly configurable for use with various database management systems for the end users.
+- Usability: 80% of end users are able to integrate new database management systems with the product without changing the product’s software code.
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The Disputes System shall allow the user to create or initiate a chargeback request.
+- Security: The system must prompt the user to enter the required information to initiate a chargeback request.
+- Performance: The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.
+- Operational: The system must prompt the user to enter the required information to initiate a chargeback request.
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Maintainability
+
+
+The given requirement 'The System shall generate Inventory Quantity Adjustment document based on product daily sales data and product formulas.' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+The given requirement 'The product shall continue to assign turns until the game is ended.' can be classified under the category of 'Functional'.
+
+
+The given requirement 'The product shall respond fast to keep up-to-date data in the display' can be classified under the category of **Performance**.
+
+
+The given requirement 'All screens created as part of the Disputes application must comply with corporate standards for interface creation' can be classified into the following categories:
+
+- Look and Feel
+- Security
+
+
+The given requirement 'Once a game is initiated the product shall display an offensive grid to each player' can be classified under the category of 'Functional'.
+
+
+The given requirement 'A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed' can be classified under the category of 'Functional'.
+
+
+The given requirement 'The product shall display room equipment according to search parameters' can be classified into the following categories:
+
+- Functional
+- Look and Feel
+
+
+Based on the given requirement, I would classify it under the category of **Performance**. This is because the requirement is related to the speed and efficiency of the system, specifically the search functionality, which is a performance-related aspect.
+
+
+The given requirement 'When a shot is marked as a miss the product shall simulate the sound of a shot missing its target.' can be classified under the category of 'Functional'.
+
+
+The given requirement 'The adjuster shall review the collision estimate' can be classified into the category of 'Security'.
+
+
+The given requirement 'The user shall select to view the preferred repair facility ratings.' can be classified into the following categories:
+
+- Functional
+- Performance
+
+
+The given requirement 'Each page shall contain a similar format with action items in one location and navigation buttons in a different location' can be classified under the category of **Look and Feel**.
+
+
+The given requirement 'The Disputes System must be accessible by both internal and external users' can be classified under the category of **Security**.
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study' can be classified into the following categories:
+
+- Functional
+- Maintainability
+
+
+The given requirement 'We must be able to interface with any HTML browser.' can be classified under the category of Operational.
+
+
+The given requirement 'One insurance company shall not be able to view another insurance company's claim data' can be classified under the category of **Security**.
+
+
+The given requirement 'The product shall comply with corporate color scheme' can be classified under the category of 'Look and Feel'.
+
+
+The given requirement 'The search radius shall be between 1 and 30 miles' can be classified under the category of 'Functional'.
+
+
+The given requirement 'The system shall be able to display a printable summary of the system log' can be classified into the following categories:
+
+- Functional
+- Maintainability
+
+
+The given requirement 'Promotional updates to the website should take a day to update' can be classified under the category of 'Operational'.
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Fault Tolerance
+
+
+The given requirement 'The website shall prevent its data from being corrupted when incorrect data is entered in.' can be classified under the category of **Security**.
+
+
+The given requirement 'The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.' can be classified into the following categories:
+
+- Fault Tolerance
+- Security
+- Performance
+
+
+The given requirement 'For each shot the product shall examine the defensive grid of the defensive player to determine whether the shot was a hit or miss.' can be classified under the category of 'Functional'.
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Availability
+
+
+The given requirement 'An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.' can be classified under the category of 'Usability'.
+
+
+The given requirement 'The current repair facility ratings shall be displayed to the user' can be classified into the following categories:
+
+- Functional: The requirement describes a specific functionality of the system.
+- Performance: Although it's not directly related to performance, the requirement implies that the system should be able to display the ratings in a timely manner, which is a performance-related aspect.
+- Usability: The requirement implies that the user should be able to view the current repair facility ratings, which is a usability aspect.
+
+However, the most suitable category for this requirement would be Functional, as it describes a specific functionality of the system.
+
+
+The given requirement 'The website should appeal to all Africans not only Nigerians.' can be classified under the category of 'Look and Feel'.
+
+
+Based on the given requirement, I would classify it under the category of 'Functional'.
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Maintainability
+
+
+The given requirement 'The Disputes application shall support 350 concurrent users without any degradation of performance in the application' can be classified into the following categories:
+
+- Scalability
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Security
+- Usability
+- Functional 
+
+However, the most suitable category for this requirement would be Security, as it deals with user access and permissions.
+
+
+The given requirement 'The product shall be able to store new room equipment.' can be classified into the following categories:
+
+- Functional
+- Operational
+- Maintainability 
+
+These categories are related to the product's ability to store new room equipment, which involves its functionality, operational capabilities, and maintainability.
+
+
+The given requirement can be classified into the following categories:
+
+- Scalability
+- Security
+- Look and Feel
+
+
+The given requirement 'The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years' can be classified under the category of 'Maintainability'.
+
+
+The given requirement can be classified into the following categories:
+
+- Functional
+- Performance 
+
+Explanation: The requirement describes a system functionality (Functional) and also specifies a performance metric (response time), which is the time it takes for the system to notify affected parties when changes occur.
+
+
+The given requirement 'The streaming server will support 50 simultaneous streaming connections' can be classified under the category of **Performance**.
+
+
+The given requirement 'The system will display a blank set of ratings if there are not ratings yet defined.' can be classified into the following categories:
+
+- Functional
+- Usability
+
+
+The given requirement 'The recycled parts audit report shall be returned to the user within 10 seconds. The audit report shall be returned within 10 seconds.' can be classified into the category: Performance.
+
+
+The given requirement 'The search for recycled parts shall take no longer than 15 seconds. The search results shall be returned in under 15 seconds' can be classified into the category: Performance.
+
+
+The given requirement 'Any disputes cases that have been closed for over 6 months must be purged from the online disputes database' can be classified into the following categories:
+
+- Security: The requirement ensures that sensitive information (disputes cases) is properly managed and protected from unauthorized access.
+- Fault Tolerance: The requirement ensures that the system can handle and manage expired or inactive disputes cases, preventing potential security risks.
+- Performance: Although not directly related to performance, the requirement ensures that the system can efficiently purge expired disputes cases, maintaining the overall performance of the system.
+
+
+The given requirement 'The system shall notify customers of changes to its information policy' can be classified under the category of 'Security'.
+
+
+The given requirement 'Maintenance releases will be offered to customers once a year. The releases shall take no longer than 5 minutes for 80% of the customer base to install.' can be classified into the following categories:
+
+- Performance
+- Operational
+
+
+The given requirement 'An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.' can be classified under the category of 'Usability'.
+
+
+The given requirement 'The product shall be able support 1000 simultaneous users' can be classified into the following categories:
+
+- Scalability
+- Performance
+
+
+Based on the given requirement, I would classify it under the category of 'Functional'.
+
+
+The given requirement 'System shall let existing customers log into the website with their email address and password in under 5 seconds.' can be classified into the following categories:
+
+- Performance
+- Security
+
+
+The given requirement 'The audit report shall be displayed to the user' can be classified under the category of 'Usability'.
+
+
+The given requirement '100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.' can be classified under the category of 'Usability'.
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The requirement describes a specific functionality that the system should have.
+- Maintainability: The requirement implies that the system should be able to modify existing data, which is a maintenance-related task.
+
+However, considering the primary focus of the requirement, I would categorize it as:
+
+- Functional
+
+
+The given requirement 'The Disputes System must provide the ability to view existing dispute cases.' can be classified into the following categories:
+
+- Functional
+- Security
+
+
+The given requirement 'The leads washing functionality will compile both contact and academic scoring information for a total score' can be classified into the following categories:
+
+- Functional: The requirement describes a specific functionality of the system.
+- Usability: Although not directly mentioned, the requirement implies that the system should be able to provide a clear and understandable total score to the users, which is a usability aspect.
+- Performance: Although not directly mentioned, the requirement implies that the system should be able to compile and calculate the total score efficiently, which is a performance aspect.
+
+
+The given requirement 'The system shall be available for use between the hours of 8am and 6pm' can be classified under the category of 'Availability'.
+
+
+The given requirement 'All registered customer information shall be stored and maintained in the database even after the customer cancels their account' can be classified into the following categories:
+
+- Security
+- Maintainability
+
+
+The given requirement 'Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes' can be classified into the following categories:
+
+- Functional
+- Maintainability
+
+
+Here is the classification of the given requirement:
+
+**Operational**
+
+This requirement deals with the system's interaction with another system (BDW) and the process of loading data into the RFS system, which is related to the operational aspects of the system.
+
+
+The given requirement 'Product formula ingredients shall allow defining substitutionary ingredients.' can be classified into the following categories:
+
+- Functional
+- Maintainability
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Usability 
+
+Although the requirement is related to performance, it also implies that the system should be responsive and maintain the flow of the game, which is a usability aspect.
+
+
+The given requirement 'The leads washing functionality will have an interface in which lead data parameters can be maintained' can be classified into the following categories:
+
+- Functional
+- Maintainability
+
+
+The given requirement 'The System shall be able to automatically backup business data and restore them on demand' can be classified into the following categories:
+
+- Maintainability
+- Operational
+- Performance
+
+
+The given requirement 'The leads washing functionality will insert all leads captured by the web service' can be classified into the following categories:
+
+- Functional
+- Operational
+
+
+The given requirement 'All additions of new users and modifications to user’s access shall be recorded on the User Report' can be classified under the category of **Maintainability**.
+
+
+The given requirement 'All streaming movie sales will be logged in the database and accessible by the administrator.' can be classified into the following categories:
+
+- Security: The requirement ensures that the administrator has access to the database, implying that the data is secure and can be controlled.
+- Performance: Although not directly related, the requirement implies that the system should be able to log and store data efficiently, which is a performance-related aspect.
+- Functional: The requirement describes a specific functionality of the system, which is to log and store streaming movie sales in the database.
+
+However, if I had to choose one category that best fits this requirement, I would say it's Functional, as it describes a specific functionality of the system.
+
+
+The given requirement 'The system shall cater to 10 simultaneous users from 9am to 5pm' can be classified into the following categories:
+
+- Scalability
+- Availability
+
+
+The given requirement 'Every user of the system shall be authenticated and authorized' can be classified into the following categories:
+
+- Security
+- Usability
+
+
+The given requirement can be classified into the following categories:
+
+- Usability
+- Maintainability
+
+
+The given requirement 'All letter requests must be formatted according to guidelines specified by the Print Letter Utility system' can be classified under the category of 'Look and Feel'.
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Availability
+
+
+The given requirement 'Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.' can be classified under the category of 'Operational'.
+
+
+The given requirement 'Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details' can be classified into the following categories:
+
+- Security
+- Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The requirement describes a specific functionality that the system should have.
+- Maintainability: The requirement implies that the system should be able to modify existing data, which is a maintenance-related task.
+
+However, considering the primary focus of the requirement, I would categorize it as:
+
+- Functional
+
+
+The given requirement can be classified into the following categories:
+
+- Functional: The requirement describes a specific functionality that the system should have.
+- Maintainability: Although not explicitly mentioned, the requirement implies that the system should be able to handle new data (cohort) and that the system should be able to store this data in a structured manner, which is a requirement for maintainability.
+
+However, the most suitable category for this requirement would be Functional, as it describes a specific functionality that the system should have.
+
+
+The given requirement can be classified into the following categories:
+
+- Security
+- Performance
+
+
+The given requirement can be classified into the following categories:
+
+- Performance
+- Fault Tolerance
+
+
+The given requirement 'Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem' can be classified into the following categories:
+
+- Functional
+- Maintainability
+
+
+The given requirement '2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.' can be classified under the category of 'Usability'.
